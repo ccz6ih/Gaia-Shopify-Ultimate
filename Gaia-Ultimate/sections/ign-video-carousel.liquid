@@ -1,0 +1,738 @@
+{{ 'ign-video-carousel.css' | asset_url | stylesheet_tag }}
+
+<style>
+{%- liquid
+  assign videos = section.blocks | where: 'type', 'video'
+  assign section_id = section.id
+-%}
+
+#IGN-DP--{{ section_id }} {
+  --cell-align: "center";
+  {% if section.blocks.size > 4 %}
+  --wrap-around: true;
+  --draggable: ">1";
+  {% else %}
+  --wrap-around: false;
+  --draggable: false;
+  {% endif %}
+  --arrow-color: {{ section.settings.text_color }};
+  background: {{ section.settings.background_color }};
+  margin-top: {{ section.settings.outer_margin }}px;
+  margin-bottom: {{ section.settings.outer_margin }}px;
+  overflow-x: hidden;
+}
+
+#IGN-DP--{{ section_id }} .ign-wbs-pck__sizer {
+  padding-top: {{ section.settings.inner_padding }}px;
+  padding-bottom: {{ section.settings.inner_padding }}px;
+  width: {{ section.settings.base_width }}%;
+  max-width: {{ section.settings.max_width | default: '1400px' }};
+  margin: 0 auto;
+}
+
+#IGN-DP--{{ section_id }} .ign-wbs-pck__videos {
+  position: relative;
+}
+
+#IGN-DP--{{ section_id }} .ign-wbs-pck__video-slider {
+  margin: auto;
+  overflow: visible;
+}
+
+/* Slider Items */
+#IGN-DP--{{ section_id }} .ign-wbs-pck__item {
+  --slide-width: {{ section.settings.slide_width }}px;
+  --final-slide-width: calc(var(--slide-width) - {{ section.settings.gap }}px);
+  --image-ratio: {{ section.settings.aspect_ratio | default: '9:16' }};
+  --image-width: {{ section.settings.aspect_ratio | split: ':' | first | times: 1000 | default: 9000 }};
+  --image-height: {{ section.settings.aspect_ratio | split: ':' | last | times: 1000 | default: 16000 }};
+  --slide-height: calc(var(--final-slide-width) * (var(--image-height) / var(--image-width)) - 30px);
+  --selected-slide-height: calc(var(--final-slide-width) * (var(--image-height) / var(--image-width)));
+  
+  height: auto;
+  width: var(--final-slide-width);
+  margin: 0 {{ section.settings.gap | divided_by: 2.0 }}px;
+  display: inline-block;
+}
+
+#IGN-DP--{{ section_id }} .ign-wbs-pck__stretch-height .ign-wbs-pck__item {
+  height: 100%;
+}
+
+/* Video Wrapper */
+#IGN-DP--{{ section_id }} .ign-wbs-pck__video {
+  height: 100%;
+  display: flex;
+  text-align: center;
+  align-items: flex-start;
+  position: relative;
+  overflow: hidden;
+}
+
+#IGN-DP--{{ section_id }} .ign-wbs-pck__video-wrapper {
+  width: 100%;
+  padding-top: calc(var(--selected-slide-height) - var(--slide-height));
+  transition: all 0.5s ease;
+  position: relative;
+}
+
+#IGN-DP--{{ section_id }} .is-selected .ign-wbs-pck__video-wrapper {
+  padding-top: 0;
+}
+
+/* Hosted Video */
+#IGN-DP--{{ section_id }} .ign-wbs-pck__hosted-video {
+  width: 100%;
+  min-height: var(--slide-height);
+  display: block;
+  object-fit: cover;
+  border-radius: {{ section.settings.border_radius }}px;
+  transition: all 0.5s ease;
+}
+
+#IGN-DP--{{ section_id }} .is-selected .ign-wbs-pck__hosted-video {
+  min-height: var(--selected-slide-height);
+}
+
+/* Sound Button */
+#IGN-DP--{{ section_id }} .ign-wbs-pck__sound-button {
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 50%;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  width: 35px;
+  height: 35px;
+  padding: 5px;
+  background-image: url("data:image/svg+xml,%3Csvg width='24' height='24' xmlns='http://www.w3.org/2000/svg' fill-rule='evenodd' clip-rule='evenodd'%3E%3Cpath d='M18 23l-9.305-5.998.835-.651 7.47 4.815v-10.65l1-.781v13.265zm0-15.794l5.384-4.206.616.788-23.384 18.264-.616-.788 5.46-4.264h-2.46v-10h5.691l9.309-6v6.206zm-11.26 8.794l1.26-.984v-7.016h-4v8h2.74zm10.26-8.013v-5.153l-8 5.157v6.244l8-6.248z'/%3E%3C/svg%3E");
+  background-size: 60%;
+  background-position: center;
+  background-repeat: no-repeat;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#IGN-DP--{{ section_id }} .ign-wbs-pck__sound-button--on {
+  background-image: url("data:image/svg+xml,%3Csvg width='24' height='24' xmlns='http://www.w3.org/2000/svg' fill-rule='evenodd' clip-rule='evenodd'%3E%3Cpath d='M15 23l-9.309-6h-5.691v-10h5.691l9.309-6v22zm-9-15.009v8.018l8 5.157v-18.332l-8 5.157zm14.228-4.219c2.327 1.989 3.772 4.942 3.772 8.229 0 3.288-1.445 6.241-3.77 8.229l-.708-.708c2.136-1.791 3.478-4.501 3.478-7.522s-1.342-5.731-3.478-7.522l.706-.706zm-2.929 2.929c1.521 1.257 2.476 3.167 2.476 5.299 0 2.132-.955 4.042-2.476 5.299l-.706-.706c1.331-1.063 2.182-2.729 2.182-4.591 0-1.863-.851-3.529-2.184-4.593l.708-.708zm-12.299 1.299h-4v8h4v-8z'/%3E%3C/svg%3E");
+}
+
+/* Video Content Box */
+#IGN-DP--{{ section_id }} .ign-wbs-pck__video-content {
+  width: 100%;
+  margin: 10px auto;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  border-radius: {{ section.settings.border_radius }}px;
+  border: 1px solid {{ section.settings.border_color }};
+  padding: 15px;
+  position: relative;
+  transition: all 0.2s linear;
+  background: rgba(var(--color-background), 0.9);
+}
+
+#IGN-DP--{{ section_id }} .ign-wbs-pck__video-content:hover {
+  border-width: 2px;
+  background: rgb(var(--color-background));
+}
+
+/* Text Area */
+#IGN-DP--{{ section_id }} .ign-wbs-pck__text-area {
+  flex: 1;
+  text-align: {{ section.settings.text_alignment }};
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: {{ section.settings.text_alignment }};
+}
+
+#IGN-DP--{{ section_id }} .ign-wbs-pck__small-heading {
+  color: {{ section.settings.text_color }};
+  font-weight: 700;
+  font-size: {{ section.settings.text_size | times: 0.18 }}rem;
+  margin: 0 0 0.5rem 0;
+  line-height: 1.2;
+}
+
+#IGN-DP--{{ section_id }} .ign-wbs-pck__rte p,
+#IGN-DP--{{ section_id }} .ign-wbs-pck__rte ul {
+  color: {{ section.settings.text_color }};
+  font-size: {{ section.settings.text_size | times: 0.14 }}rem;
+  margin: 0;
+}
+
+/* Image */
+#IGN-DP--{{ section_id }} .ign-wbs-pck__image {
+  width: 30%;
+  overflow: hidden;
+  border-radius: {{ section.settings.border_radius }}px;
+}
+
+#IGN-DP--{{ section_id }} .ign-wbs-pck__image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Navigation */
+#IGN-DP--{{ section_id }} .ign-wbs-pck__videos-nav {
+  width: fit-content;
+  margin: 20px auto 0;
+  display: flex;
+  gap: 20px;
+}
+
+#IGN-DP--{{ section_id }} .ign-wbs-pck__nav-button {
+  cursor: pointer;
+  background: none;
+  border: 2px solid {{ section.settings.text_color }};
+  color: {{ section.settings.text_color }};
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  padding: 0;
+}
+
+#IGN-DP--{{ section_id }} .ign-wbs-pck__nav-button:hover {
+  background: {{ section.settings.text_color }};
+  color: {{ section.settings.background_color | default: '#ffffff' }};
+}
+
+/* Flickity Setup */
+#IGN-DP--{{ section_id }} .ign-wbs-pck__videos-wrapper:after {
+  content: 'flickity';
+  display: none;
+}
+
+#IGN-DP--{{ section_id }} .ign-wbs-pck__videos-wrapper:not(.flickity-enabled) {
+  display: flex;
+  gap: {{ section.settings.gap }}px;
+  overflow-x: auto;
+}
+
+#IGN-DP--{{ section_id }} .ign-wbs-pck__videos-wrapper:not(.flickity-enabled) .ign-wbs-pck__item:nth-child(n+4) {
+  display: none;
+}
+
+#IGN-DP--{{ section_id }} .flickity-slider {
+  top: 0;
+}
+
+#IGN-DP--{{ section_id }} .flickity-enabled {
+  position: relative;
+}
+
+{%- if section.settings.custom_css != blank -%}
+  {%- assign custom_section_declarations = section.settings.custom_css | split: '}' -%}
+  {%- for declaration in custom_section_declarations -%}
+    {%- if declaration contains '{' -%}
+      #IGN-DP--{{ section_id }} {{ declaration }} }
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
+/* Mobile Styles */
+@media (max-width: 749px) {
+  #IGN-DP--{{ section_id }} {
+    margin-top: {{ section.settings.outer_margin | divided_by: 2 }}px;
+    margin-bottom: {{ section.settings.outer_margin | divided_by: 2 }}px;
+    --draggable: ">1";
+    --wrap-around: true;
+  }
+
+  #IGN-DP--{{ section_id }} .ign-wbs-pck__sizer {
+    padding-top: {{ section.settings.inner_padding | divided_by: 2 }}px;
+    padding-bottom: {{ section.settings.inner_padding | divided_by: 2 }}px;
+  }
+
+  #IGN-DP--{{ section_id }} .ign-wbs-pck__item {
+    --slide-width: 280px;
+  }
+
+  #IGN-DP--{{ section_id }} .ign-wbs-pck__video-content {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  #IGN-DP--{{ section_id }} .ign-wbs-pck__image {
+    width: 100%;
+    max-height: 120px;
+  }
+
+  {%- if section.settings.mobile_custom_css != blank -%}
+    {%- assign mobile_custom_declarations = section.settings.mobile_custom_css | split: '}' -%}
+    {%- for declaration in mobile_custom_declarations -%}
+      {%- if declaration contains '{' -%}
+        #IGN-DP--{{ section_id }} {{ declaration }} }
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
+}
+</style>
+
+{%- if videos.size == 0 -%}
+  <div class="ign-wbs-pck__no-app-warning">
+    <div class="ign-wbs-pck__no-app-warning-background"></div>
+    <div class="ign-wbs-pck__no-app-warning-text">Please add video blocks to this section</div>
+  </div>
+{%- else -%}
+
+{%- comment -%} HTML {%- endcomment -%}
+<section id="IGN-DP--{{ section_id }}" class="ign-wbs-pck__videos-slider ign-wbs-pck__section">
+  {%- if section.settings.anchor_id != blank -%}
+    <div id="{{ section.settings.anchor_id | remove: '#' | handleize }}" class="ign-wbs-pck__anchor-id" style="position: absolute; top: -100px;"></div>
+  {%- endif -%}
+  
+  <div class="ign-wbs-pck__sizer">
+    <div class="ign-wbs-pck__videos">
+      <div id="ign-slider-{{ section_id }}" class="ign-wbs-pck__videos-wrapper ign-wbs-pck__video-slider">
+        {%- for block in videos -%}
+          <div class="ign-wbs-pck__item" {{ block.shopify_attributes }}>
+            <div class="ign-wbs-pck__video">
+              <div class="ign-wbs-pck__video-inner">
+                {%- if block.settings.hosted_video != blank -%}
+                  <div class="ign-wbs-pck__video-wrapper">
+                    <video 
+                      class="ign-wbs-pck__hosted-video" 
+                      playsinline 
+                      loop 
+                      muted
+                      {% if block.settings.poster_image != blank %}
+                        poster="{{ block.settings.poster_image | image_url: width: 1200 }}"
+                      {% endif %}
+                    >
+                      {%- for source in block.settings.hosted_video.sources -%}
+                        <source src="{{ source.url }}" type="{{ source.mime_type }}">
+                      {%- endfor -%}
+                      Your browser does not support the video tag.
+                    </video>
+                    <button type="button" class="ign-wbs-pck__sound-button" aria-label="Toggle sound"></button>
+                  </div>
+                {%- else -%}
+                  {%- comment -%} Video placeholder {%- endcomment -%}
+                  <div class="ign-wbs-pck__video-wrapper">
+                    <div style="width: 100%; height: 100%; background: #f0f0f0; display: flex; align-items: center; justify-content: center; border-radius: {{ section.settings.border_radius }}px;">
+                      <svg width="80" height="80" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z" fill="#999"/>
+                      </svg>
+                    </div>
+                  </div>
+                {%- endif -%}
+                
+                {%- if block.settings.small_heading != blank or block.settings.text != blank or block.settings.image != blank -%}
+                  <div class="ign-wbs-pck__video-content">
+                    <div class="ign-wbs-pck__text-area">
+                      <div class="ign-wbs-pck__text-area-inner">
+                        {%- if block.settings.small_heading != blank -%}
+                          <h3 class="ign-wbs-pck__small-heading">{{ block.settings.small_heading }}</h3>
+                        {%- endif -%}
+                        {%- if block.settings.text != blank -%}
+                          <div class="ign-wbs-pck__rte">{{ block.settings.text }}</div>
+                        {%- endif -%}
+                      </div>
+                    </div>
+                    {%- if block.settings.image != blank -%}
+                      <div class="ign-wbs-pck__image">
+                        <img 
+                          src="{{ block.settings.image | image_url: width: 400 }}" 
+                          alt="{{ block.settings.image.alt | escape }}" 
+                          loading="lazy"
+                          width="{{ block.settings.image.width }}"
+                          height="{{ block.settings.image.height }}"
+                        >
+                      </div>
+                    {%- endif -%}
+                  </div>
+                {%- endif -%}
+              </div>
+            </div>
+          </div>
+        {%- endfor -%}
+      </div>
+
+      {%- if section.settings.show_navigation -%}
+        <div class="ign-wbs-pck__videos-nav">
+          <button type="button" class="ign-wbs-pck__nav-button ign-wbs-pck__nav-button--prev" aria-label="Previous video">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="15 18 9 12 15 6"></polyline>
+            </svg>
+          </button>
+          <button type="button" class="ign-wbs-pck__nav-button ign-wbs-pck__nav-button--next" aria-label="Next video">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="9 18 15 12 9 6"></polyline>
+            </svg>
+          </button>
+        </div>
+      {%- endif -%}
+    </div>
+  </div>
+</section>
+{%- endif -%}
+
+{% schema %}
+{
+  "name": "IGN Video Carousel",
+  "tag": "section",
+  "class": "section",
+  "settings": [
+    {
+      "type": "header",
+      "content": "📹 Video Settings"
+    },
+    {
+      "type": "range",
+      "id": "slide_width",
+      "label": "Slide width",
+      "min": 200,
+      "max": 600,
+      "step": 10,
+      "default": 400,
+      "unit": "px"
+    },
+    {
+      "type": "text",
+      "id": "aspect_ratio",
+      "label": "Video aspect ratio",
+      "default": "9:16",
+      "info": "Format: 'width:height' (e.g., '16:9', '4:3', '1:1')"
+    },
+    {
+      "type": "range",
+      "id": "gap",
+      "min": 0,
+      "max": 40,
+      "label": "Spacing between slides",
+      "unit": "px",
+      "default": 20
+    },
+    {
+      "type": "checkbox",
+      "id": "show_navigation",
+      "label": "Show navigation arrows",
+      "default": true
+    },
+    {
+      "type": "range",
+      "id": "autoplay",
+      "label": "Autoplay",
+      "info": "Time between slides in seconds (0 to disable)",
+      "min": 0,
+      "max": 10,
+      "step": 1,
+      "default": 0,
+      "unit": "s"
+    },
+    {
+      "type": "header",
+      "content": "🎨 Design"
+    },
+    {
+      "type": "color",
+      "id": "text_color",
+      "label": "Text color",
+      "default": "#000000"
+    },
+    {
+      "type": "color",
+      "id": "border_color",
+      "label": "Border color",
+      "default": "#e5e5e5"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background color",
+      "default": "#ffffff"
+    },
+    {
+      "type": "range",
+      "id": "border_radius",
+      "label": "Rounded corners",
+      "min": 0,
+      "max": 40,
+      "step": 2,
+      "default": 12,
+      "unit": "px"
+    },
+    {
+      "type": "header",
+      "content": "📝 Typography"
+    },
+    {
+      "type": "range",
+      "id": "text_size",
+      "label": "Text size",
+      "min": 80,
+      "max": 150,
+      "step": 5,
+      "default": 100,
+      "unit": "%"
+    },
+    {
+      "type": "select",
+      "id": "text_alignment",
+      "label": "Text alignment",
+      "options": [
+        { "value": "left", "label": "Left" },
+        { "value": "center", "label": "Center" },
+        { "value": "right", "label": "Right" }
+      ],
+      "default": "center"
+    },
+    {
+      "type": "header",
+      "content": "📐 Layout"
+    },
+    {
+      "type": "range",
+      "id": "base_width",
+      "label": "Section width",
+      "min": 50,
+      "max": 100,
+      "step": 5,
+      "default": 95,
+      "unit": "%"
+    },
+    {
+      "type": "text",
+      "id": "max_width",
+      "label": "Maximum width",
+      "placeholder": "1400px",
+      "default": "1400px",
+      "info": "Sets maximum width in pixels"
+    },
+    {
+      "type": "range",
+      "id": "inner_padding",
+      "label": "Inner padding",
+      "min": 0,
+      "max": 100,
+      "step": 5,
+      "default": 40,
+      "unit": "px"
+    },
+    {
+      "type": "range",
+      "id": "outer_margin",
+      "label": "Outer margin",
+      "min": 0,
+      "max": 100,
+      "step": 5,
+      "default": 40,
+      "unit": "px"
+    },
+    {
+      "type": "header",
+      "content": "🔧 Advanced"
+    },
+    {
+      "type": "text",
+      "id": "anchor_id",
+      "label": "Anchor ID",
+      "info": "For linking to this section (e.g., #video-section)"
+    },
+    {
+      "type": "textarea",
+      "id": "custom_css",
+      "label": "Custom CSS"
+    },
+    {
+      "type": "textarea",
+      "id": "mobile_custom_css",
+      "label": "Mobile custom CSS"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "video",
+      "name": "Video",
+      "settings": [
+        {
+          "type": "video",
+          "id": "hosted_video",
+          "label": "Shopify-hosted video"
+        },
+        {
+          "type": "image_picker",
+          "id": "poster_image",
+          "label": "Poster image (optional)",
+          "info": "Shows before video loads"
+        },
+        {
+          "type": "text",
+          "id": "small_heading",
+          "label": "Heading",
+          "default": "Video Title"
+        },
+        {
+          "type": "richtext",
+          "id": "text",
+          "label": "Description",
+          "default": "<p>Describe your video content here</p>"
+        },
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Thumbnail image (optional)",
+          "info": "Shows alongside text"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "IGN Video Carousel",
+      "blocks": [
+        { "type": "video" },
+        { "type": "video" },
+        { "type": "video" }
+      ]
+    }
+  ]
+}
+{% endschema %}
+
+{%- comment -%} JSON Settings {%- endcomment -%}
+<script type="application/json" data-ign-wbs-pck="{{ section_id }}">
+  {
+    "id": {{ section_id | json }},
+    "autoplay": {{ section.settings.autoplay | times: 1000 | json }}
+  }
+</script>
+
+{%- comment -%} External scripts {%- endcomment -%}
+<script data-ign-wbs-pck-external-js="{{ section_id }}" src="https://cdn.jsdelivr.net/npm/flickity@2.3.0/dist/flickity.pkgd.min.js" defer></script>
+
+{%- comment -%} JavaScript {%- endcomment -%}
+<script data-ign-wbs-pck-js="{{ section_id }}" type="module" defer>
+(function(){
+  const ignWebsPack = {
+    settings: {},
+    flkty: null,
+    
+    load: function(section){
+      const elem = section.querySelector(`#ign-slider-${ignWebsPack.settings.id}`);
+      if (!elem) return;
+
+      // Initialize Flickity
+      ignWebsPack.flkty = new Flickity(elem, {
+        cellAlign: section.style.getPropertyValue('--cell-align') === '"center"' ? 'center' : 'left',
+        autoPlay: ignWebsPack.settings.autoplay,
+        draggable: true,
+        contain: false,
+        wrapAround: section.style.getPropertyValue('--wrap-around') === 'true',
+        adaptiveHeight: false,
+        watchCSS: true,
+        imagesLoaded: true,
+        prevNextButtons: false,
+        pageDots: false,
+        friction: 0.8,
+        selectedAttraction: 0.025,
+        on: {
+          staticClick: function(event, pointer, cellElement, cellIndex) {
+            if (typeof cellIndex === 'number') {
+              this.selectCell(cellIndex);
+              ignWebsPack.handleVideoChange(section, cellIndex);
+            }
+          },
+          change: function() {
+            ignWebsPack.handleVideoChange(section, this.selectedIndex);
+          },
+          ready: function() {
+            setTimeout(() => {
+              elem.classList.add('ign-wbs-pck__stretch-height');
+              ignWebsPack.handleVideoChange(section, 0);
+            }, 100);
+          }
+        }
+      });
+
+      // Navigation buttons
+      const prevButton = section.querySelector('.ign-wbs-pck__nav-button--prev');
+      const nextButton = section.querySelector('.ign-wbs-pck__nav-button--next');
+      
+      if (prevButton) {
+        prevButton.addEventListener('click', () => ignWebsPack.flkty.previous());
+      }
+      
+      if (nextButton) {
+        nextButton.addEventListener('click', () => ignWebsPack.flkty.next());
+      }
+
+      // Sound buttons
+      const soundButtons = section.querySelectorAll('.ign-wbs-pck__sound-button');
+      soundButtons.forEach((button, index) => {
+        button.addEventListener('click', (e) => {
+          e.stopPropagation();
+          const video = button.parentNode.querySelector('video');
+          if (video) {
+            if (button.classList.contains('ign-wbs-pck__sound-button--on')) {
+              video.muted = true;
+              button.classList.remove('ign-wbs-pck__sound-button--on');
+            } else {
+              // Mute all videos first
+              const allVideos = section.querySelectorAll('video');
+              const allButtons = section.querySelectorAll('.ign-wbs-pck__sound-button');
+              allVideos.forEach(v => v.muted = true);
+              allButtons.forEach(b => b.classList.remove('ign-wbs-pck__sound-button--on'));
+              
+              // Unmute this video
+              video.muted = false;
+              button.classList.add('ign-wbs-pck__sound-button--on');
+            }
+          }
+        });
+      });
+    },
+    
+    handleVideoChange: function(section, index) {
+      const videos = section.querySelectorAll('video');
+      videos.forEach((video, i) => {
+        if (i === index) {
+          video.play().catch(() => {});
+        } else {
+          video.pause();
+          video.currentTime = 0;
+        }
+      });
+    },
+    
+    unload: function(section){
+      if (ignWebsPack.flkty) {
+        ignWebsPack.flkty.destroy();
+        ignWebsPack.flkty = null;
+      }
+    }
+  };
+
+  // Event listeners
+  window.addEventListener('shopify:section:unload', function(e) {
+    const sectionId = e.detail.sectionId;
+    if (sectionId === ignWebsPack.settings.id) {
+      const section = document.querySelector(`#IGN-DP--${sectionId}`);
+      ignWebsPack.unload(section);
+    }
+  });
+
+  // Initialize
+  ignWebsPack.settings = JSON.parse(document.querySelector('[data-ign-wbs-pck="{{ section_id }}"]').innerHTML);
+  const section = document.querySelector(`#IGN-DP--{{ section_id }}`);
+  
+  if (section) {
+    // Wait for Flickity to load
+    const checkFlickity = setInterval(() => {
+      if (typeof Flickity !== 'undefined') {
+        clearInterval(checkFlickity);
+        ignWebsPack.load(section);
+      }
+    }, 100);
+  }
+})();
+</script>

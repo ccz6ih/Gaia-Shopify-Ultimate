@@ -1,0 +1,2536 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-1": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "<strong>Food Matters Clean Eating Program</strong>",
+            "h1_title": true,
+            "title_size": 70,
+            "subheading": "Take the Guesswork Out of Healthy Eating While Healing Your Gut, Shifting Stubborn Weight & Getting Your Time Back in the Kitchen.",
+            "enlarge_subheading": false,
+            "link": "#offer",
+            "link_text": "Join Now",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#01b4b4",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/cep_header-background.jpg",
+            "overlay_opacity": 22
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-1"
+      ],
+      "custom_css": [
+        "[class^=\"hero-natural--template-\"] {min-height: 400px;}",
+        "@media (min-width: 769px) {h1 {font-size: 40px; line-height: 1em; margin-top: 0; } .hero__subtitle {font-size: 1.1em; }}",
+        ".hero__subtitle {font-weight: bold;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": -30,
+        "mobile_size": 0,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "3124092b-a473-448b-b237-7c9b098cd472": {
+      "type": "columns-2",
+      "blocks": {
+        "template--20086275309889__3124092b-a473-448b-b237-7c9b098cd472-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<p>Here's a little-known secret about the quality of your health and life; in many ways, it begins in the kitchen. How you eat determines so much of your life; energy levels, ability to fight off disease, how you feel when you wake up, and the attitude you approach each situation with.</p><p>The Food Matters Clean Eating Program has been designed with you in mind. We'll teach you how to make nutritious meals from the comfort of your kitchen, help you to reset your body, and keep you motivated to ensure you complete this program.</p><p>Good nutrition is an intrinsic part of life, but it's often one of the first things to be overlooked when life gets busy. Having a defined roadmap, nutritional guide, and supportive community will supercharge your health journey to help you be the healthiest version of yourself.</p>"
+          }
+        },
+        "fa08757f-2101-435f-8705-4d0dca893254": {
+          "type": "video_mp4",
+          "settings": {
+            "parent_column": "right",
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/cacdd585d2a74c45bad1ea5e7677b3db.mp4",
+            "controls": true,
+            "loop": false,
+            "autoplay": false,
+            "video_width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__3124092b-a473-448b-b237-7c9b098cd472-text-1",
+        "fa08757f-2101-435f-8705-4d0dca893254"
+      ],
+      "custom_css": [
+        "h2 {margin-bottom: 4rem;}"
+      ],
+      "settings": {
+        "title": "Do You Want to Build a Lifetime of Healthy Habits, Give Your Body the Reset It Needs, & Be Motivated Along the Way?",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "Join Now",
+        "cta_button_url": "#offer",
+        "cta_button_entitled": "Enroll Now",
+        "cta_button_url_entitled": "#offer",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "2cf59009-8b04-4f41-ba20-7aab7e4fe761": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20086275309889__2cf59009-8b04-4f41-ba20-7aab7e4fe761-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "The Clean Eating Program Will Help You To:",
+            "heading_size": "h1"
+          }
+        },
+        "023d8f51-cf4f-4212-ac76-7f6b92b56be8": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Lose excess weight."
+          }
+        },
+        "b591ead6-6fc0-47fe-ab9b-d828621c8f4a": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Transform your eating habits."
+          }
+        },
+        "9e308ddc-343c-46b0-a8f1-d97289120114": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Boost your immune system."
+          }
+        },
+        "abd9e4af-efcb-41a6-a8c0-55aa610184a5": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Increase your energy (big time!)."
+          }
+        },
+        "9db1bbaf-d802-40ea-a687-133fb0999f73": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Regain your confidence in the kitchen."
+          }
+        },
+        "76675743-2276-42d3-8749-7a6c7a17552e": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Stop wasting your time counting calories."
+          }
+        },
+        "sales_point_Yx8xWL": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Sharpen your mind and remove the brain fog."
+          }
+        },
+        "sales_point_wGDU78": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Reset your metabolism and kick the cravings."
+          }
+        },
+        "sales_point_FtMebF": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Help to prevent chronic disease including; cancer, diabetes, heart disease, and more."
+          }
+        },
+        "c57ecc7c-c30f-4205-a51b-fdce9878fa85": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Join Now"
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__2cf59009-8b04-4f41-ba20-7aab7e4fe761-heading-1",
+        "023d8f51-cf4f-4212-ac76-7f6b92b56be8",
+        "b591ead6-6fc0-47fe-ab9b-d828621c8f4a",
+        "9e308ddc-343c-46b0-a8f1-d97289120114",
+        "abd9e4af-efcb-41a6-a8c0-55aa610184a5",
+        "9db1bbaf-d802-40ea-a687-133fb0999f73",
+        "76675743-2276-42d3-8749-7a6c7a17552e",
+        "sales_point_Yx8xWL",
+        "sales_point_wGDU78",
+        "sales_point_FtMebF",
+        "c57ecc7c-c30f-4205-a51b-fdce9878fa85"
+      ],
+      "custom_css": [
+        "h2 {margin-bottom: 4rem;}",
+        "p,.sales-points {max-width: 750px; margin-left: auto; margin-right: auto;}",
+        ".sales-points {text-align: left; margin-bottom: 1rem;}"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "color_scheme": "1",
+        "show_wave": true,
+        "divider": false
+      }
+    },
+    "9c2f86b0-f860-458d-92ac-934766786e09": {
+      "type": "icon-list-and-image",
+      "blocks": {
+        "template--20086275309889__9c2f86b0-f860-458d-92ac-934766786e09-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "What's Included in the Food Matters Clean Eating Program:",
+            "heading_size": "h1"
+          }
+        },
+        "template--20086275309889__9c2f86b0-f860-458d-92ac-934766786e09-sales_point-1": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Choose from 6 meal plans to suit your season and dietary preference."
+          }
+        },
+        "e30652cc-07c9-4164-b046-4482b7110f74": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Weekly shopping lists to take the stress out of shopping. Learn what to buy and when, saving you time and money."
+          }
+        },
+        "8a2c60cf-d11e-42af-8aa9-c04c84436248": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Be inspired and learn each day with guided audio lifestyle tips."
+          }
+        },
+        "388ed7e5-4b63-437c-b161-1f9733cf1519": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Join our private group of like-minded individuals on a transformational journey."
+          }
+        },
+        "fd6cf1bd-87b8-406d-9e2a-06b824e61e0a": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Lifetime access."
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__9c2f86b0-f860-458d-92ac-934766786e09-heading-1",
+        "template--20086275309889__9c2f86b0-f860-458d-92ac-934766786e09-sales_point-1",
+        "e30652cc-07c9-4164-b046-4482b7110f74",
+        "8a2c60cf-d11e-42af-8aa9-c04c84436248",
+        "388ed7e5-4b63-437c-b161-1f9733cf1519",
+        "fd6cf1bd-87b8-406d-9e2a-06b824e61e0a"
+      ],
+      "custom_css": [
+        "h2 {margin-bottom: 2rem;}",
+        ".feature-row__images {align-self: start;}",
+        ".sales-points {margin-bottom: 1rem;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/CEP_Offerblock_73a7d050-eeeb-4657-a448-0dedb5352627.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "image_width": "50",
+        "align_text": "left",
+        "layout": "right",
+        "color_scheme": "none",
+        "hide_image": false,
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_ChcEHq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kTpnzD": {
+          "type": "heading",
+          "settings": {
+            "title": "Some of the Delicious Clean Eats Coming…",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kTpnzD"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "47d760b9-34a9-420e-9c2c-078d97257025": {
+      "type": "slideshow",
+      "blocks": {
+        "hero_K6KGqr": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Food Matters 2 Ingredients Pancakes",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/cep-recipe-food-matters-2-ingredient-pancakes.jpg",
+            "overlay_opacity": 6
+          }
+        },
+        "91503565-4a52-43d8-9c34-60630d45a3ba": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Tom Kha Soup with Zucchini Noodles",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/cep-recipe-tom-kha-soup-with-zucchini-noodles.jpg",
+            "overlay_opacity": 6
+          }
+        },
+        "575faa7a-ea46-4e61-a974-7ab176c8d5a7": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Marinated Tempeh Skewers with Green Apple Slaw",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/cep-recipe-marinated-tempeh-skewers-with-green-apple-slaw.jpg",
+            "overlay_opacity": 6
+          }
+        },
+        "hero_UfPx7X": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Rice Paper Roll with Tamari Dipping Sauce",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/cep-recipe-rice-paper-rolls-with-tamari-dipping-sauce.jpg",
+            "overlay_opacity": 6
+          }
+        },
+        "c1db6928-6de7-42b2-aeb0-90e26885279b": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Chocolate Lovers Smoothie Bowl",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/cep-recipe-chocolate-lovers-smoothie-bowl.jpg",
+            "overlay_opacity": 6
+          }
+        }
+      },
+      "block_order": [
+        "hero_K6KGqr",
+        "91503565-4a52-43d8-9c34-60630d45a3ba",
+        "575faa7a-ea46-4e61-a974-7ab176c8d5a7",
+        "hero_UfPx7X",
+        "c1db6928-6de7-42b2-aeb0-90e26885279b"
+      ],
+      "custom_css": [
+        "p {max-width: 700px; font-size: 22px !important; line-height: 28px !important; font-weight: normal; margin-bottom: 1rem;}",
+        "h4 {letter-spacing: 1px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": -10,
+        "mobile_size": 0,
+        "style": "dots",
+        "autoplay": true,
+        "autoplay_speed": 10,
+        "lazyload_images": true
+      }
+    },
+    "3a932ba1-36cb-44c6-abcf-49cc382b9b3e": {
+      "type": "icon-list-and-image",
+      "blocks": {
+        "74639dea-c061-4239-9dcd-c23cbe256242": {
+          "type": "heading",
+          "settings": {
+            "title": "After Completing the Food Matters Nutrition Certification Program You Will:",
+            "heading_size": "h1"
+          }
+        },
+        "8d2cb095-136c-4a83-8f19-f388b6643486": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Be able to identify which <strong>foods to eat and which to avoid</strong> to help heal and nourish the body and improve gut issues, inflammation, hormonal issues, chronic disease, and more."
+          }
+        },
+        "89ba8538-8598-4a52-9e15-e336d32dcd6a": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Know how to <strong>fill your pantry and fridge with foods that will nourish</strong> your body and help to boost your immunity, longevity, energy, and regain your vitality."
+          }
+        },
+        "ecde982d-b265-4d9a-9d45-9930a23b5531": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Beﾠ<strong>qualified to use your Food Matters Nutrition Certification</strong>ﾠto not only improve your health using nutrition but also help others do the same, creating a positive impact in their lives."
+          }
+        },
+        "c0441649-f49d-4518-bd5a-91a8be8ac72d": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Understand theﾠ<strong>importance of bio individuality</strong>ﾠand that there is no one-size-fits-all approach when it comes to nutrition and health and how to apply this principle to your own life."
+          }
+        },
+        "126b4575-ab8b-4651-a00b-2606b6bb53ac": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Know how toﾠ<strong>utilize nutrition and natural healing methods</strong>ﾠto handle any future health issues that arise, ensuring you stay healthier for longer."
+          }
+        },
+        "a1bf180e-6d2e-47e5-b691-c948d3bcfcd8": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Be able to apply practical solutions in your everyday life that will help reinforce the importance of usingﾠ<strong>food as medicine</strong>."
+          }
+        }
+      },
+      "block_order": [
+        "74639dea-c061-4239-9dcd-c23cbe256242",
+        "8d2cb095-136c-4a83-8f19-f388b6643486",
+        "89ba8538-8598-4a52-9e15-e336d32dcd6a",
+        "ecde982d-b265-4d9a-9d45-9930a23b5531",
+        "c0441649-f49d-4518-bd5a-91a8be8ac72d",
+        "126b4575-ab8b-4651-a00b-2606b6bb53ac",
+        "a1bf180e-6d2e-47e5-b691-c948d3bcfcd8"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {margin-bottom: 2rem;}",
+        ".feature-row__images {align-self: start;}",
+        ".sales-points {margin-bottom: 1rem;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/cert-happy-woman-on-a-scooter-with-fresh-groceries.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "image_width": "50",
+        "align_text": "left",
+        "layout": "left",
+        "color_scheme": "1",
+        "hide_image": false,
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "ddf6a3fb-b88c-41ec-bee6-e9c9e57a998b": {
+      "type": "icon-list-and-image",
+      "blocks": {
+        "template--20086275309889__ddf6a3fb-b88c-41ec-bee6-e9c9e57a998b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "What's Included in the Food Matters Juice Detox?",
+            "heading_size": "h1"
+          }
+        },
+        "template--20086275309889__ddf6a3fb-b88c-41ec-bee6-e9c9e57a998b-sales_point-1": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "All inclusive 7 Day Transformation Program (Cool & Warm Climate Options)."
+          }
+        },
+        "318f9139-5efe-4c05-9719-bc59a3473cfc": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Detailed Shopping Lists of Everything You Need"
+          }
+        },
+        "25ccc8eb-c966-4ea4-af3c-7afde6d38733": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Daily Inspirational Health Tips to Keep You Inspired"
+          }
+        },
+        "sales_point_NNgfhH": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Guided Audio Meditations to Keep You Motivated"
+          }
+        },
+        "8f26a528-2e64-493b-88f4-8239a287deff": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Easy to Access PDFs to Print & Place on Your Fridge"
+          }
+        },
+        "613bc7c6-0d64-4135-9a97-5e529fd8be22": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Easy to Complete in Less than 6 Months."
+          }
+        },
+        "0a13a1e5-da54-4316-b098-10833ef32569": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Access to a Private Online Community for Support, Motivation, and Accountability"
+          }
+        },
+        "sales_point_VwGif3": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Health Questionnaire to Evaluate Your Progress"
+          }
+        },
+        "sales_point_7VhhgN": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Plus, you will have <strong>lifetime access</strong> to the Juice Detox program so that you can redo the detox as many times as you’d like throughout the year and beyond!"
+          }
+        },
+        "59b06d10-950f-4940-9851-c69faa496560": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Enroll Now"
+          }
+        },
+        "8d29f603-10cc-4f24-8447-2d5255e23981": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__ddf6a3fb-b88c-41ec-bee6-e9c9e57a998b-heading-1",
+        "template--20086275309889__ddf6a3fb-b88c-41ec-bee6-e9c9e57a998b-sales_point-1",
+        "318f9139-5efe-4c05-9719-bc59a3473cfc",
+        "25ccc8eb-c966-4ea4-af3c-7afde6d38733",
+        "sales_point_NNgfhH",
+        "8f26a528-2e64-493b-88f4-8239a287deff",
+        "613bc7c6-0d64-4135-9a97-5e529fd8be22",
+        "0a13a1e5-da54-4316-b098-10833ef32569",
+        "sales_point_VwGif3",
+        "sales_point_7VhhgN",
+        "59b06d10-950f-4940-9851-c69faa496560",
+        "8d29f603-10cc-4f24-8447-2d5255e23981"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {max-width: 500px; margin: 0 auto 2rem auto;}",
+        ".sales-points {text-align: left; max-width: 700px; margin: 0 auto 1rem auto;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/CEP_Offerblock.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "image_width": "66",
+        "align_text": "center",
+        "layout": "center_bottom",
+        "color_scheme": "none",
+        "hide_image": false,
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1c97dcc5-84af-4b74-9bf7-fc68e0f6db49": {
+      "type": "background-image-text",
+      "disabled": true,
+      "custom_css": [
+        ".background-media-text__image {object-position: top center;}",
+        "@media (min-width: 768px) {.background-media-text--left {position: relative; left: calc((100% - 500px) / 2); }}"
+      ],
+      "settings": {
+        "subtitle": "",
+        "title": "“You can't put a price on health, and there is nothing more empowering than having the knowledge to be able to help yourself and your loved ones if the need arises.”",
+        "heading_size": "h3",
+        "heading_position": "left",
+        "text": "<p><em>Michelle Pedula, Founder of Harvest & Wellness - Ontario, Canada.</em></p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify://shop_images/cert-testimonial-michelle-p.jpg",
+        "layout": "left",
+        "height": 550,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "fdf3075c-2fda-4f6c-a458-af79e325c614": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20086275309889__fdf3075c-2fda-4f6c-a458-af79e325c614-hero-1": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "“You can't put a price on health, and there is nothing more empowering than having the knowledge to be able to help yourself and your loved ones if the need arises.”",
+            "title": "",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "Michelle Pedula, Founder of Harvest & Wellness - Ontario, Canada.",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/cert-testimonial-michelle-p.jpg",
+            "image_mobile": "shopify://shop_images/michelle-p_a412e2c1-9d70-41b0-8bba-d81ab6ca15a0.jpg",
+            "overlay_opacity": 40
+          }
+        },
+        "91dc1c4c-d8b9-4111-b18a-fcba212f7af3": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "\"Understanding the fundamentals of wholesome nutrition, superfoods, gut health, hormones, detoxing, and how to heal with food has given me the confidence to support my clients on their journey to better wellbeing.\"",
+            "title": "",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "Bec Russell - Queensland, Australia\nWellbeing Mentor, Yoga Teacher & Writer",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/cert-testimonial-bec-r2.jpg",
+            "image_mobile": "shopify://shop_images/russel.jpg",
+            "overlay_opacity": 40
+          }
+        },
+        "5cbc15f8-6b8e-4663-a769-a638b4c37f4c": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "\"Not only do I now know what to eat, when to eat, and where to source the food from, but I also know how to eat with more flexibility.\"",
+            "title": "",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "Nancy Timmins - Ontario, Canada\nFounder of Follow the Jade Rabbit- Health & Fitness Coaching",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/cert-testimonial-nancy.jpg",
+            "image_mobile": "shopify://shop_images/nancy.jpg",
+            "overlay_opacity": 40
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__fdf3075c-2fda-4f6c-a458-af79e325c614-hero-1",
+        "91dc1c4c-d8b9-4111-b18a-fcba212f7af3",
+        "5cbc15f8-6b8e-4663-a769-a638b4c37f4c"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".slideshow__slide:first-child .hero__image {object-position: top center;}",
+        "@media (max-width: 768px) {.slideshow__slide .hero__image {object-position: center center !important; }}"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": -30,
+        "mobile_size": 40,
+        "style": "dots",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "2d08876f-ca1c-4c3c-aee2-80cedae8f271": {
+      "type": "columns-1",
+      "blocks": {
+        "template--20086275309889__2d08876f-ca1c-4c3c-aee2-80cedae8f271-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>We believe we’ve created the world’s best (and most beautiful), online nutrition certification program. But don’t just take our word for it, watch the video below to take a sneak peak inside the program with Kayla, our Student Advisor and Food Matters Institute Holistic Nutritionist to see how easy it is to navigate through the program.</p>"
+          }
+        },
+        "033d4f3e-e4f1-438c-a3e6-c6ce80f5062c": {
+          "type": "video_mp4",
+          "settings": {
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/ac0864640dcc4b69a27af458e5fc88c9.mp4",
+            "controls": true,
+            "loop": false,
+            "autoplay": false,
+            "video_width": "66"
+          }
+        },
+        "15ef83ff-fe30-4afe-9b77-1b9abe756e55": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Enroll Now",
+            "link_entitled": "#offer",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__2d08876f-ca1c-4c3c-aee2-80cedae8f271-text-1",
+        "033d4f3e-e4f1-438c-a3e6-c6ce80f5062c",
+        "15ef83ff-fe30-4afe-9b77-1b9abe756e55"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2,p {max-width: 800px; margin-left: auto; margin-right: auto;}"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "Take a Look Inside the Program",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "center",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "68576676-bc56-4008-8b23-98a52bb27939": {
+      "type": "columns-2",
+      "blocks": {
+        "template--20086275309889__68576676-bc56-4008-8b23-98a52bb27939-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": false,
+            "text": "<h5>7 Day Meal Plans (Cool & Warm Climate Options)</h5>"
+          }
+        },
+        "691c5257-17f7-4dea-bc73-bbf35a503c2a": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/cert-icon-chevron.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "5d09408f-a8e0-4038-91bf-dc217bca5187": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": false,
+            "text": "<h5>All Inclusive Shopping List to Match the Meal Plans</h5>"
+          }
+        },
+        "68a1d4b4-498e-42e2-9ba4-1c006e24da66": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/cert-icon-chevron.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "10c58d98-71ed-4e34-8d90-31ba423918f3": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": false,
+            "text": "<h5>Complete a multiple choice quiz at the end of each module (retake as many times as you need).</h5>"
+          }
+        },
+        "3a8a0d7d-1026-4450-84ef-6d231e94759c": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/cert-icon-chevron.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "7ac4f4cf-2199-4910-8f04-4176f46be004": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": false,
+            "text": "<h5>Additional support resources like a physical workbook, transcripts, and practicals.</h5>"
+          }
+        },
+        "0049011b-d159-4b46-8077-30af744c999b": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/cert-icon-chevron.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "090bfd03-93e4-4aa4-b7f7-4afcb7f3ddcc": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": false,
+            "text": "<h5>Instantly download your Nutrition Coach certificate upon completion. </h5>"
+          }
+        },
+        "444def10-a10b-43b5-85b4-71d0697155c8": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/cert-icon-chevron.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "b417f1c0-94e6-4890-a8d0-606301d34713": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": false,
+            "text": "<h5>Revisit the program with lifetime access & support - including access to new content & bonuses.</h5>"
+          }
+        },
+        "affc17ef-dba3-4879-8aa4-542e75a361b5": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/cert-icon-chevron.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "08d9e3c1-e674-4c66-9ee3-79939dade03e": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": false,
+            "text": "<h5>Join the Referral Program, and earn back your enrollment fees by sharing the program with others.</h5>"
+          }
+        },
+        "9e3201c0-007d-4308-9694-7bfbc0b6a47e": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/cert-icon-chevron.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "template--20086275309889__68576676-bc56-4008-8b23-98a52bb27939-image-1": {
+          "type": "image",
+          "settings": {
+            "parent_column": "left",
+            "image": "shopify://shop_images/juice-icon.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "e95769ee-361a-4500-a199-1d800c3f2a9f": {
+          "type": "image",
+          "settings": {
+            "parent_column": "left",
+            "image": "shopify://shop_images/7DJD_list.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "7200f7ba-f412-4f34-9c87-af87cd1a83ea": {
+          "type": "image",
+          "settings": {
+            "parent_column": "left",
+            "image": "shopify://shop_images/cert-icon-quizzes.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "7f381d0b-ebf6-4c0a-a636-a695157e8786": {
+          "type": "image",
+          "settings": {
+            "parent_column": "left",
+            "image": "shopify://shop_images/cert-icon-workbook.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "10e4a758-c2f0-411d-9de6-3bd90c9b3af8": {
+          "type": "image",
+          "settings": {
+            "parent_column": "left",
+            "image": "shopify://shop_images/cert-icon-certificate.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "1d4eec12-4114-4df8-b974-a1d90bd082b3": {
+          "type": "image",
+          "settings": {
+            "parent_column": "left",
+            "image": "shopify://shop_images/cert-icon-lifetime.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "5112b090-f345-4617-b945-ac5b7056c6e1": {
+          "type": "image",
+          "settings": {
+            "parent_column": "left",
+            "image": "shopify://shop_images/cert-icon-insurance.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__68576676-bc56-4008-8b23-98a52bb27939-text-1",
+        "691c5257-17f7-4dea-bc73-bbf35a503c2a",
+        "5d09408f-a8e0-4038-91bf-dc217bca5187",
+        "68a1d4b4-498e-42e2-9ba4-1c006e24da66",
+        "10c58d98-71ed-4e34-8d90-31ba423918f3",
+        "3a8a0d7d-1026-4450-84ef-6d231e94759c",
+        "7ac4f4cf-2199-4910-8f04-4176f46be004",
+        "0049011b-d159-4b46-8077-30af744c999b",
+        "090bfd03-93e4-4aa4-b7f7-4afcb7f3ddcc",
+        "444def10-a10b-43b5-85b4-71d0697155c8",
+        "b417f1c0-94e6-4890-a8d0-606301d34713",
+        "affc17ef-dba3-4879-8aa4-542e75a361b5",
+        "08d9e3c1-e674-4c66-9ee3-79939dade03e",
+        "9e3201c0-007d-4308-9694-7bfbc0b6a47e",
+        "template--20086275309889__68576676-bc56-4008-8b23-98a52bb27939-image-1",
+        "e95769ee-361a-4500-a199-1d800c3f2a9f",
+        "7200f7ba-f412-4f34-9c87-af87cd1a83ea",
+        "7f381d0b-ebf6-4c0a-a636-a695157e8786",
+        "10e4a758-c2f0-411d-9de6-3bd90c9b3af8",
+        "1d4eec12-4114-4df8-b974-a1d90bd082b3",
+        "5112b090-f345-4617-b945-ac5b7056c6e1"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "p,.image-wrap {max-width: 800px; margin: 0 auto; background: none;}",
+        "h5 {margin: 0;}",
+        ".grid {max-width: 700px; margin: auto;}",
+        ".image-wrap {max-width: 120px; padding-bottom: 120px !important; -webkit-filter: hue-rotate(35deg) saturate(1.5);}",
+        ".theme-block {margin-bottom: 10px;}",
+        ".text-block {min-height: 80px; display: flex; align-items: end;}",
+        ".grid__item:first-child {width: 33.3333%;}",
+        ".grid__item:last-child {width: 66.6667%;}",
+        ".grid__item:last-child .image-wrap {padding-bottom: 30px !important; position: relative; left: -30%; bottom: -25px;}"
+      ],
+      "settings": {
+        "title": "What's Included in the Food Matters Juice Detox?",
+        "heading_size": "h1",
+        "subheading": "Your success is our success! We’ve designed this online nutrition course to be easy to complete around your own schedule so that you can jump right in, and start seeing improvements in your health TODAY!",
+        "align_heading": "center",
+        "cta_button": "Enroll Now",
+        "cta_button_url": "#offer",
+        "cta_button_entitled": "Enroll Now",
+        "cta_button_url_entitled": "#offer",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "d2f3e665-9bf4-4aee-8b67-425b66d670c6": {
+      "type": "columns-1",
+      "blocks": {
+        "75f8a537-55ac-4222-9783-a4fd0477d5b9": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Module 1: Dietary Theory & Food Fundamentals",
+            "text": "<p>In this module, we will establish the foundational knowledge you'll use to understand fundamental nutrition principles while preparing you for the following coursework.</p>",
+            "image": "shopify://shop_images/cert-sales-module-1.jpg",
+            "dropdown_text": "<ul><li>Lesson 1. Understanding Nutrition & Biochemical-Individuality with <strong>Christa Orecchio</strong></li><li>Lesson 2. Using Food as Medicine with <strong>Dr. Mark Hyman</strong></li><li>Lesson 3. Nourishing Foods: Part 1 with <strong>Christa Orecchio</strong></li><li>Lesson 4. Nourishing Foods: Part 2 with <strong>Christa Orecchio</strong></li><li>Lesson 5. Nourishing Foods: Part 3 with <strong>Christa Orecchio</strong></li><li>Lesson 6. Eating to Suit Your Body’s Needs with <strong>McKel Hill</strong></li><li>Lesson 7. Living in Alignment with Your Biological Design with <strong>Daniel Vitalis</strong></li><li>Lesson 8. The Psychology of Eating: The Missing Ingredient with <strong>Marc David</strong></li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "4c239ee9-479d-4f81-b5b6-a7c9750699a5": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Module 2: Nutrition in the 21st Century",
+            "text": "<p>To understand the power of nutrition science, we first have to understand its role in our lives. By the end of this module, you will understand how to nourish your body according to your individual biochemistry. Get a deep dive into the food science behind our modern diet.</p>",
+            "image": "shopify://shop_images/cert-sales-module-2.jpg",
+            "dropdown_text": "<ul><li>Lesson 1. The Truth About the Food Industry with <strong>Vani Hari</strong></li><li>Lesson 2. The Modern Food System with <strong>Sarah Lantz</strong></li><li>Lesson 3. Foods to Avoid & What to Eat For Vibrant Health & Longevity with <strong>John Robbins</strong></li><li>Lesson 4. Herbicides & The Evolution of Wheat with <strong>Cyndi O’Meara</strong></li><li>Lesson 5. The Evolution of Wheat with <strong>Dr. William Davis</strong></li><li>Lesson 6. The Impact of Chemicals & Additives in Our Food System with <strong>Sarah Lantz</strong></li><li>Lesson 7. Diet Culture & Products to Avoid with <strong>Dr. Alejandro Junger</strong></li><li>Lesson 8. The Physiological Effect of Sugar & Diet Products with <strong>Dr. Christiane Northrup</strong></li><li>Lesson 9. How to Read a Food Label with <strong>Sarah Lantz</strong></li><li>Lesson 10. Decoding Food Labels with <strong>Mike Adams</strong></li><li>Lesson 11. You Are What You Eat with <strong>David Wolfe</strong></li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "0a6fb51b-ba50-461a-992b-45e0e72261a5": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Module 3: Understanding Nutrients & Superfoods",
+            "text": "<p>In this module, you will learn how to identify the signs and symptoms of nutrient deficiencies in the body and increase the absorption of micronutrients and macronutrients using superfoods, herbs, and natural supplements.</p>",
+            "image": "shopify://shop_images/cert-sales-module-3.jpg",
+            "dropdown_text": "<ul><li>Lesson 1. Nutrients 101: Part 1 with <strong>Christa Orecchio</strong></li><li>Lesson 2. Nutrients 101: Part 2 with <strong>Christa Orecchio</strong></li><li>Lesson 3. The Truth About Fat with <strong>Udo Erasmus</strong></li><li>Lesson 4. A Plant-Based Approach to Calcium, Protein & B12 with <strong>Elizabeth Rider</strong></li><li>Lesson 5. Know Your Vitamins & Minerals + Top Deficiencies with <strong>Christa Orecchio</strong></li><li>Lesson 6. Acid & Alkaline Foods with <strong>Christa Orecchio</strong></li><li>Lesson 7. Optimizing Health & Vitamin C Therapy with <strong>Dr. Ian Brighthope</strong></li><li>Lesson 8. Nutrient Therapy for Depression, Alcoholism & Heart Disease with <strong>Dr. Andrew Saul</strong></li><li>Lesson 9. The Powerful Benefits of Superfoods with <strong>David Wolfe</strong></li><li>Lesson 10. Choosing The Best Drinking Water with <strong>Daniel Vitalis</strong></li><li>Lesson 11. Hydration: Eating Your Water with <strong>Susan Teton</strong></li><li>Lesson 12. Graceful Aging: Building a Body to Last a Lifetime with <strong>Susan Teton</strong></li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "d5af11b3-e1d0-4ae7-aef9-b21af820cfff": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Module 4: The Power of Detoxification & Cleansing",
+            "text": "<p>Understand how your environment, lifestyle, and food choices can aid the body's natural detoxification pathways or burden them. And then, learn how to use the power of detoxification and cleansing to support the body through sickness and health.</p>",
+            "image": "shopify://shop_images/cert-sales-module-4.jpg",
+            "dropdown_text": "<ul><li>Lesson 1. The Problem of All Chronic Disease: Toxicity & Deficiency with <strong>Charlotte Gerson</strong></li><li>Lesson 2. Environmental & Lifestyle Toxicity with <strong>Dr. Alejandro Junger</strong></li><li>Lesson 3. Detoxing 101 with <strong>David Wolfe</strong></li><li>Lesson 4. The Chemical Burden with <strong>Sarah Lantz</strong></li><li>Lesson 5. The Power of Detoxification with <strong>Dr. Sandeep Gupta</strong></li><li>Lesson 6. The Impact of Heavy Metals with <strong>Dr. Sandeep Gupta</strong></li><li>Lesson 7. Toxins in the Dental Industry with <strong>Dr. Victor Zeines</strong></li><li>Lesson 8. Supporting Detoxification Naturally with <strong>Dr. Sandeep Gupta</strong></li><li>Lesson 9. The Benefits of Juicing with <strong>Jason Vale</strong></li><li>Lesson 10. Advanced Detoxification Strategies with <strong>David Wolfe</strong></li><li>Lesson 11. Natural Solutions for Getting Rid of Parasites with <strong>David Wolfe</strong></li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "d2c67790-d1b5-4bce-8784-42372bc6dc67": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Module 5: Healing Your Gut Naturally",
+            "text": "<p>This module will teach you how to maintain a healthy gut microbiome and heal common gut-related issues, including uncomfortable bloating, leaky gut, digestive complaints, and skin conditions such as eczema, psoriasis, rosacea, and more.</p>",
+            "image": "shopify://shop_images/cert-sales-module-5.jpg",
+            "dropdown_text": "<ul><li>Lesson 1. The Digestive System Overview with <strong>Christa Orecchio</strong></li><li>Lesson 2. The Impact of Wheat on Gut Health with <strong>Dr. Tom O'Bryan</strong></li><li>Lesson 3. Gut Healing Foods & Foods to Avoid with <strong>Sayer Ji</strong></li><li>Lesson 4. Constipation & Cleansing the Gut with <strong>David Wolfe</strong></li><li>Lesson 5. Ways to Optimize Digestion & The Microbiome with <strong>Christa Orecchio</strong></li><li>Lesson 6. Common Digestive Problems & How to Solve Them Naturally with <strong>Christa Orecchio</strong></li><li>Lesson 7. Leaky Gut & Autoimmune Conditions with <strong>Dr. Josh Axe</strong></li><li>Lesson 8. The Microbiome, Skin-Gut Connection & Gut Permeability with <strong>Sayer Ji</strong></li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "ef8142f1-11fe-4a33-8cb8-a2b7d594f364": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Module 6: Decoding Your Hormones & Imbalances",
+            "text": "<p>At the end of this module, you will understand how to avoid hormone disruptors and identify which foods to eat to support healthy hormones. Then begin the healing process from specific-hormone related conditions, including menopause symptoms, adrenal fatigue, skin issues, fatigue, low libido, digestive issues, premenstrual syndrome (PMS), and more.</p>",
+            "image": "shopify://shop_images/cert-sales-module-6.jpg",
+            "dropdown_text": "<ul><li>Lesson 1. What are Hormones? Their Function & The Impact of Poor Nutrition with <strong>Dr. Joseph Mercola</strong></li><li>Lesson 2. Biology of the Endocrine System with <strong>Vanessa Lamaro</strong></li><li>Lesson 3. Hormone Disruptors & How to Avoid Them with <strong>Vanessa Lamaro</strong></li><li>Lesson 4. Hormone Balance & Plant Remedies with <strong>David Wolfe</strong></li><li>Lesson 5. Using Lifestyle, Foods & Herbs to Optimize Hormones Naturally with <strong>Vanessa Lamaro</strong></li><li>Lesson 6. Common Hormonal Imbalances & How to Treat Naturally with <strong>Vanessa Lamaro</strong></li><li>Lesson 7. Managing Menopause Naturally with <strong>Dr. Tami Meraglia</strong></li><li>Lesson 8. Thyroid Health: Disorders & Natural Solutions with <strong>Dr. Tami Meraglia</strong></li><li>Lesson 9. Our Food Choices, Stress & The Art of Managing it All with <strong>Dr. Libby Weaver</strong></li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "46f581b5-473f-4fc6-855d-f6c5dfcf4d05": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Module 7: The Impact of Stress & Poor Sleep",
+            "text": "<p>In this critical module, learn how to critically evaluate stress levels and the influence that this is having on the sleep cycle. Plus, discover practical stress reduction and sleep-promoting techniques to enable deep healing, rest, and recovery.</p>",
+            "image": "shopify://shop_images/cert-sales-module-7.jpg",
+            "dropdown_text": "<ul><li>Lesson 1. Insights Into Emotional Eating with <strong>Marc David</strong></li><li>Lesson 2. The Power of the Mind to Heal with <strong>Bruce Lipton</strong></li><li>Lesson 3. The True Impact of Stress on Our Body with <strong>Joe Dispenza</strong></li><li>Lesson 4. Cortisol Balance & Sleep Cycle with <strong>Dr. Alan Christianson</strong></li><li>Lesson 5. EMF’s & Sleep Disruption with <strong>Dave Asprey</strong></li><li>Lesson 6. Mind-Body Techniques for Better Sleep with <strong>Shawn Stevenson</strong></li><li>Lesson 7. Essential Oils for Sleep & Stress with <strong>Dr. Eric Zielinski</strong></li><li>Lesson 8. Stress Relief Through Grounding with <strong>Clint Ober</strong></li><li>Lesson 9. The Link Between Sleep, Circadian Rhythm & Your Health with <strong>Jason Prall</strong></li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "2399d1db-ffac-4251-b8a0-e45ee73a103a": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Module 8: Boosting Immunity & Mastering Autoimmune Disease",
+            "text": "<p>In this module, you'll learn about how the immune system functions and its connection to gut health, how to support common autoimmune conditions naturally, and specific herbs and foods to support your immune system from life-threatening viruses to the common cold.</p>",
+            "image": "shopify://shop_images/cert-sales-module-8.jpg",
+            "dropdown_text": "<ul><li>Lesson 1. Immunity 101 with <strong>Dr. Amina Eastham-Hillier</strong></li><li>Lesson 2. Autoimmunity & Immune Dysfunction with <strong>Dr. Amina Eastham-Hillier</strong></li><li>Lesson 3. Allergies, Hormones & Gut Inflammation with <strong>Dr. Tom O'Bryan</strong></li><li>Lesson 4. Food Intolerances & Sugar Overload with <strong>JJ Virgin</strong></li><li>Lesson 5. Supporting Autoimmune Disease Naturally with <strong>Dr. Amina Eastham-Hillier</strong></li><li>Lesson 6. Immune-Boosting Medicine Cabinet: Foods & Herbs to Boost Immunity with <strong>Dr. Amina Eastham-Hillier</strong></li><li>Lesson 7. Aromatherapy for Reducing Inflammation & Boosting Immunity with <strong>Dr. Eric Zielinski</strong></li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "57cc7ab3-649a-4b55-8756-4247b7e85a6c": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Module 9: Understanding Chronic Disease & Cancer",
+            "text": "<p>Discover how chronic disease and cancer manifests in the body and the contributing factors. Learn about the powerful cancer-fighting foods available today, alternative treatment pathways, and important strategies on how to support a loved one in the process.</p>",
+            "image": "shopify://shop_images/cert-sales-module-9.jpg",
+            "dropdown_text": "<ul><li>Lesson 1. The War on Cancer with <strong>Dr. Andrew Saul</strong></li><li>Lesson 2. Vitamin C Therapy & Preventing Cancer with <strong>Dr. Andrew Saul</strong></li><li>Lesson 3. The Cancer & Pharmaceutical Industry with <strong>Charlotte Gerson</strong></li><li>Lesson 4. Common Chronic Diseases & How to Address with <strong>Cyrus Khambatta</strong></li><li>Lesson 5. Inflammation: The Root Cause of Dis-ease in the Body with <strong>Cyrus Khambatta</strong></li><li>Lesson 6. Healing the Gerson Way with <strong>Charlotte Gerson</strong></li><li>Lesson 7. Pharmaceuticals & Their Side Effects with <strong>Cyrus Khambatta</strong></li><li>Lesson 8. Gerson Therapy, Supplementation & Cancer with <strong>Dr. Dan Rogers</strong></li><li>Lesson 9. 15 Foods to Fight Cancer with <strong>Liana Werner-Gray</strong></li><li>Lesson 10. Food, Cholesterol & Inflammation with <strong>Udo Erasmus</strong></li><li>Lesson Bonus Presentation & Meditation: Discovering Mind-Body Techniques for Healing with <strong>Jon Gabriel</strong></li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "5be43cef-602d-4ee5-9290-d7a1f81cd707": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Module 10: Using Plants as Medicine",
+            "text": "<p>From whole foods and herbs to fungi and essential oils - discover plant compounds that help our bodies to thrive, heal, and perform at their peak. Learn about the herbal remedies that may be used in treatment programs and how to use nature to regain your health. This module is a testament to the power of food and nutrition.</p>",
+            "image": "shopify://shop_images/cert-sales-module-10.jpg",
+            "dropdown_text": "<ul><li>Lesson 1. Turning Back to Nature to Regain Health with <strong>Daniel Vitalis</strong></li><li>Lesson 2. Foods Promote Vibrant Health & Healing with <strong>Ocean Robbins</strong></li><li>Lesson 3. Top 10 Foods for Mood & Anxiety with <strong>Liana Werner-Gray</strong></li><li>Lesson 4. Using Plant Compounds for Health & Performance with <strong>Dave Asprey</strong></li><li>Lesson 5. Using Herbs, Mushrooms & Adaptogens to Thrive with <strong>Nick Polizzi</strong></li><li>Lesson 6. Healing with Essential Oils with <strong>Dr. Eric Zielinski</strong></li><li>Lesson 7. Introducing More Plants into Your Diet with <strong>Jason Wrobel</strong></li><li>Lesson 8. Peace, Love & Vegetables with <strong>Ryland Engelhart</strong></li><li>Lesson 9. Using Essential Oils For Self Care with <strong>Kim Morrison</strong></li><li>Lesson 10. Food Is Information: Lessons from the Blue Zones with <strong>Jason Prall</strong></li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "0d994665-23ef-4419-a4cc-14881133d12e": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Enroll Now",
+            "link_entitled": "",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "75f8a537-55ac-4222-9783-a4fd0477d5b9",
+        "4c239ee9-479d-4f81-b5b6-a7c9750699a5",
+        "0a6fb51b-ba50-461a-992b-45e0e72261a5",
+        "d5af11b3-e1d0-4ae7-aef9-b21af820cfff",
+        "d2c67790-d1b5-4bce-8784-42372bc6dc67",
+        "ef8142f1-11fe-4a33-8cb8-a2b7d594f364",
+        "46f581b5-473f-4fc6-855d-f6c5dfcf4d05",
+        "2399d1db-ffac-4251-b8a0-e45ee73a103a",
+        "57cc7ab3-649a-4b55-8756-4247b7e85a6c",
+        "5be43cef-602d-4ee5-9290-d7a1f81cd707",
+        "0d994665-23ef-4419-a4cc-14881133d12e"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "narrow_column": false,
+        "title": "Program Overview",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "91b3b63e-d420-4466-ac5e-aa8a0c97056f": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20086275309889__91b3b63e-d420-4466-ac5e-aa8a0c97056f-hero-1": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "<p>“The Food Matters Nutrition Certification Program does not stop giving. I loved the content… One of the best decisions I have ever made for myself and loved ones.”</p><h4>— Ian, Food Matters Nutrition Certification Program Graduate</h4>",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/cert-testimonial-overlay.jpg",
+            "overlay_opacity": 36
+          }
+        },
+        "99bb0154-bf07-40d5-8688-163627c34a68": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "<p>“I did the program last year and it absolutely changed my life. Not only can I help others but also help myself and my family live a fuller and happier life.”</p><h4>— Marli, Food Matters Nutrition Certification Program Graduate</h4>",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/cert-testimonial-overlay.jpg",
+            "overlay_opacity": 36
+          }
+        },
+        "15394cfe-0190-4e40-9176-56bb36175775": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "<p>“It helped me save my life, and my husband's life on more than one occasion and helped me instill seeds of knowledge into my children.</p><p>I can attest the information in this program is literally life saving and life-changing. The value I have gained in the arsenal of knowledge and practical experience is far beyond anything I could have ever imagined.”</p><h4>— Rashelle, Food Matters Nutrition Certification Program Graduate</h4>",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/cert-testimonial-overlay.jpg",
+            "overlay_opacity": 36
+          }
+        },
+        "7ef08c22-8613-4648-a981-d12da265484a": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "<p>“Throughout the duration of this program, I have felt so inspired and empowered learning the true definition of health.</p><p>I feel privileged to have gained all that I have from this program, and I now truly believe in nature’s ability to heal our bodies, allowing us to thrive and live to our fullest potential.”</p><h4>— Jade, Food Matters Nutrition Certification Program Graduate</h4>",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/cert-testimonial-overlay.jpg",
+            "overlay_opacity": 36
+          }
+        },
+        "5e7c82c1-6795-45e9-8b48-b79ebc69adb6": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "<p>“I can tell you, the program has changed my life. I encourage others to take this program because it gives us the power to choose food that brings us life and happiness.”</p><h4>— Caroline, Food Matters Nutrition Certification Program Graduate</h4>",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/cert-testimonial-overlay.jpg",
+            "overlay_opacity": 36
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__91b3b63e-d420-4466-ac5e-aa8a0c97056f-hero-1",
+        "99bb0154-bf07-40d5-8688-163627c34a68",
+        "15394cfe-0190-4e40-9176-56bb36175775",
+        "7ef08c22-8613-4648-a981-d12da265484a",
+        "5e7c82c1-6795-45e9-8b48-b79ebc69adb6"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "p {max-width: 700px; font-size: 22px !important; line-height: 28px !important; font-weight: normal; margin-bottom: 1rem;}",
+        "h4 {letter-spacing: 1px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": -10,
+        "mobile_size": 0,
+        "style": "dots",
+        "autoplay": true,
+        "autoplay_speed": 10,
+        "lazyload_images": true
+      }
+    },
+    "d47c4f90-b1c6-4c61-b423-ca2d0ff09475": {
+      "type": "columns-1",
+      "blocks": {
+        "f5938453-db6a-4623-a83b-d73529cf89af": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #1 WORKBOOK",
+            "text": "<h3><strong>FREE Hard Copy Program Workbook Shipped to Your Door</strong></h3><p>Receive a copy of the third edition printed workbook shipped to your door, no matter where you are in the world. This workbook is a guide to help you follow the self-paced lessons with ease and reinforce your learnings.</p><p><strong>Valued at: $159</strong> - Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-workbook-cover.jpg",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "46ac2460-c747-4067-823b-d062702f351e": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #2 FOOD MATTERS SIGNATURE PROGRAM",
+            "text": "<h3><strong>21 Days of Healthy Meal Plans, Shopping Lists, and Recipes</strong></h3><p>This practical program is designed to take the guesswork and expensive costs out of healthy eating while healing your gut, shifting stubborn weight, and getting your time back in the kitchen. You won't have to think about what to eat for the next 3 weeks!</p><p><strong>Valued at: $299</strong> - Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-bundle-clean-eating-landscape.jpg",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "6b7d24e3-8868-4464-9e76-e240561f2e17": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #3 FOOD MATTERS SIGNATURE PROGRAM",
+            "text": "<h3><strong>7 Days of Detoxification Focused Recipes & Shopping Lists</strong></h3><p>Reset your body, say goodbye to bloat, help support your body’s natural detoxification ability with specific recipes, shopping lists, and more designed to help you feel better and lighter instantly.</p><p><strong>Valued at: $199</strong> - Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-bundle-juice-detox-landscape.jpg",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "c44c4c41-f434-44a2-94de-5c5db501bf27": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #4 LIVE ONLINE Q&As",
+            "text": "<h3><strong>3x Live Q&As with Institute Founder & In-House Nutritionist</strong></h3><p>As you begin the program, it’s normal to have lots of questions and be seeking extra guidance. We’re providing that support in real-time with 3 intimate Q&A sessions with Food Matters Institute Co-Founder, Laurentine and our in-house nutritionist and student advisor, Kayla. (Recordings available if you’re unable to attend the sessions live.)</p><p><strong>Valued at: $498</strong> - Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-online-live-qa-lk.jpg",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "3005b079-faea-4841-8f59-d85174583940": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #4 DIGITAL ACCESS PACK",
+            "text": "<h3><strong>Guide to the Top Secrets for Longevity and Healthy Aging</strong></h3><p>Join Brian Vaszily as you learn the secrets to longevity and healthy aging from 21 of the world’s most renowned longevity and healthy aging doctors and health professionals. These natural solutions will teach you how to live long and live well. You’ll discover secrets to combat and avoid disease and experience peak brain power, energy, moods, skin, and more.</p><p><strong>Valued at: $197 </strong>- Yours Free</p>",
+            "image": "shopify://shop_images/cert23-bonus-art-of-anti-aging_1.png",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "2b19893f-34d3-4cc6-ad6b-4fe642097518": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #5 MEDITATION SERIES",
+            "text": "<h3><strong>Daily Meditations with Institute Co-Founder</strong></h3><p>Overcome limiting beliefs and self-acceptance with these short meditations designed by Laurentine ten Bosch to help you transform your mind.</p><p><strong>Valued at: $49 </strong>- Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-laurentine-meditation.jpg",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "1058864f-074b-4001-a3ab-9b7ebdddc762": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #6 COOKING SERIES",
+            "text": "<h3>Gut Healing & Immune Boosting Cooking Series for Beginners</h3><p>Join Chef Teton over five seasons of her popular series: Essential Cuisine. Through visual demonstrations, she’s going to teach you how to apply practical knowledge in the kitchen. Get ready to learn: raw food basics, how to cook a variety of dishes, how to use oils, and even about cultured vegetables and kefir. No matter your ability level, Chef Teton makes healthy cooking easy and fun!</p><p><strong>Valued at: $97 </strong>- Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-chef-teton.jpg",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "273959c3-5bb7-4f82-8330-669c9628a477": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #7 EXPERT HACKS",
+            "text": "<h3><strong>How to Turn Your Big Dreams Into Reality</strong></h3><p>What would you do for your health and wellbeing if you couldn’t fail? Hear from expert Kristina Karlsson on how she turned her dreams into a world-wide movement by focusing on her values and purpose.</p><p><strong>Valued at: $99 </strong>- Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-the-art-of-dreaming-big.jpg",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "c5fb8ede-a464-4fa0-892b-fa5bf0efeced": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #8 EXPERT HACKS",
+            "text": "<h3><strong>How to Create a Healthy Brain and Unlock Your Inner Power</strong></h3><p>Join Jim Kwik as he shares secrets of how he overcame some of the biggest challenges life gave him by learning how to optimize his brain.</p><p><strong>Valued at: $99 </strong>- Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-unlocking-the-power-of-your-mind.jpg",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "915071d1-8fc9-4ce6-884c-c4e1917de0e7": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #9 EXPERT HACKS",
+            "text": "<h3><strong>How to Start and Monetize a Successful Nutrition Blog Now!</strong></h3><p>Elizabeth Rider teaches you the practical steps to starting a blog, turning it into a business, and charting a career path with  all of the steps in between.</p><p><strong>Valued at: $199 </strong>- Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-how-to-start-a-successful-blog.jpg",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "e57e1e66-e636-4759-b6c6-34b7f76794be": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #10 HOW-TO GUIDE",
+            "text": "<h3>Understanding Inflammation to Heal More Effectively</h3><p>Join Dr. Christine Smith as she shares the essential components your body needs to heal from an injury and prevent the cascade of events that often follow.</p><p><strong>Valued at: $99 </strong>- Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-christine-webinar.jpg",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "61348ad9-5e77-4e47-9496-ba57e3203422": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #11 HOW-TO GUIDE",
+            "text": "<h3><strong>Create a Recipe eBook from Start to Finish with These Simple Steps</strong></h3><p>Use this practical guide to see how easy it is to turn your collection of recipes into an eBook to share with others.</p><p><strong>Valued at: $49 </strong>- Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-how-to-create-your-own-recipe-ebook.png",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "3261359c-4ce5-4be1-a908-1aa1f1e1bac5": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #12 BONUS MODULE",
+            "text": "<h3>Coaching Lessons & Wellness Business Training to Help Share Your Knowledge with Others</h3><p>This additional module was designed to help you apply your newfound nutrition knowledge to help others. If you’re interested in taking your nutrition education to the next level, you will learn the simple steps to turn your education into a coaching business or wellness business.</p><p><strong>Valued at: $426 </strong>- Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-free-masterclass.jpg",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "5b7d0526-baae-42b0-a697-96a56aa84144": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #13 HEALING TOOLS",
+            "text": "<h3>Expert Healing Toolbox</h3><p>Dive deeper into healing with Dr. David Jockers and Jason Prall, and use these recipes and protocols designed to help you incorporate foods that fight inflammation and rituals to help you sleep better than you have in years.</p><p><strong>Valued at: $29 </strong>- Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-healing-toolbox.jpg",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "6e89b521-888a-4706-adb0-58b3b1b29f5f": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #14 HEALTHY EATING TOOLS",
+            "text": "<h3><strong>Food Matters Healthy Eating Toolbox</strong></h3><p>We’ve taken the thinking and effort out of eating healthy with these eBooks, recipe books, checklists, and tools designed to make natural living and eating easy for you.</p><p><strong>Valued at: $59 </strong>- Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-ebooklibrary-600x400.png",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "2ced7736-48c9-4eb6-bdca-52c6ae54aff6": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #15 PRINT OUT",
+            "text": "<h3><strong>Healthy & Affordable Recipe eBook</strong></h3><p>Think eating healthy requires spending extra money? Think again! These are some of our favorite recipes to make for anybody who is looking to eat healthy diet on a budget. AND, they are equally as delicious.</p><p><strong>Valued at: $19 </strong>- Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-healthyrecipes-ebook-600x400.jpg",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "8e103c19-1a17-4d3d-a0d4-2a1db0007200": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #16 EXPERT HACKS",
+            "text": "<h3>Bonus Nutrition Masterclasses with Leading Experts</h3><p>Join some of the world’s leading experts on nutrition and natural healing as they dive into topics of expertise like hormones, gut health, inflammation, emotional eating, detoxification, and more.</p><p><strong>Valued at: $99 </strong>- Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-nutrition-masterclass.jpg",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "6bc6969e-e694-478d-b773-59e704216932": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #17 EXCLUSIVE ACCESS",
+            "text": "<h3><strong>Lifetime Access to the Program</strong></h3><p>You’ll get lifetime access to the program, meaning no strict timeframes or due dates. Plus, you can revisit the lessons as often as you’d like! Use the program as a reference tool in your everyday life and so you can help your family and friends.</p><p><strong>Valued at: $999 </strong>- Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-lifetimeaccess-450x350.jpg",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "570c0c73-cac1-469b-a62e-976388199fb1": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #18 STUDY HACK",
+            "text": "<h3><strong>Easy to Follow Lesson Transcripts</strong></h3><p>We’ve included word-for-word transcripts of every lesson to reinforce the concepts you are learning and provide an easy point of reference. These are especially great if you like to follow along and highlight key points you want to remember.</p><p><strong>Valued at: $129 </strong>- Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-lessontranscripts-450x350.jpg",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "9d9f367a-a477-4cee-8f5b-e9965a9c3d39": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #19 EXCLUSIVE ACCESS",
+            "text": "<h3><strong>Ongoing Live Chat, Email & Text Support</strong></h3><p>Get one-click support from our student advisors and in-house nutritionist to answer all your questions. The support doesn’t stop when you finish the program, it’s ongoing as you get lifetime access!</p><p><strong>Valued at: $299 </strong>- Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-livechat-450x350.jpg",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "9fe86c55-f3f6-4dfb-8f04-4e7558fcfb1c": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #20 EXCLUSIVE ACCESS",
+            "text": "<h3><strong>Free Program Upgrades</strong></h3><p>Our team is constantly working to keep the program up to date, relevant, and simply the best on the market. You’ll receive access to ALL new content, lessons, bonuses, and features added to the program in the future. FREE!</p><p><strong>Valued at: $499 </strong>- Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-programupdates-2-450x350.png",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "251044ce-2c3b-48f6-97cc-1483703df12a": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #21 FILMS",
+            "text": "<h3><strong>Food Matters Film Library</strong></h3><p>Gain access to the Food Matters film pack, including Food Matters, Hungry for Change, and Transcendence 1 & 2.</p><p><strong>Valued at: $99 </strong>- Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-films.png",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "45bf4021-7382-471c-9a37-9976e21e8147": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #22 GLOBAL COMMUNITY",
+            "text": "<h3><strong>Instant Access to the 2,800+ Institute Student Private Group</strong></h3><p>An exclusive space to connect with students who are working through the program and network with graduates who have completed it.</p><p><strong>Valued at: $379 </strong>-ﾠYours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-facebook-community.png",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "0442b548-f79b-4cfe-9141-bd40de0f04f3": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #23 EXCLUSIVE ACCESS",
+            "text": "<h3><strong>Membership to the Program’s Student Referral Program</strong></h3><p>Start earning back your tuition fees when you join our referral program. Once you've enrolled, you will be eligible to share the program with friends and family, and for anyone who purchases through your referral link, you will receive a referral commission payment (cash paid directly to your account).</p><p><strong>Valued at: $2,590 </strong>- Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-affiliate-program.jpg",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "c442c98f-14bb-45f7-9191-7bc4cbd0fd9e": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Enroll Now",
+            "link_entitled": "",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        },
+        "b2d73617-df00-4790-b2d9-74e6f1656a33": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2 style=\"text-align: center; margin-top: 3rem;\">Total Value of Exclusive Bonuses = $7,171</p>"
+          }
+        }
+      },
+      "block_order": [
+        "f5938453-db6a-4623-a83b-d73529cf89af",
+        "46ac2460-c747-4067-823b-d062702f351e",
+        "6b7d24e3-8868-4464-9e76-e240561f2e17",
+        "c44c4c41-f434-44a2-94de-5c5db501bf27",
+        "3005b079-faea-4841-8f59-d85174583940",
+        "2b19893f-34d3-4cc6-ad6b-4fe642097518",
+        "1058864f-074b-4001-a3ab-9b7ebdddc762",
+        "273959c3-5bb7-4f82-8330-669c9628a477",
+        "c5fb8ede-a464-4fa0-892b-fa5bf0efeced",
+        "915071d1-8fc9-4ce6-884c-c4e1917de0e7",
+        "e57e1e66-e636-4759-b6c6-34b7f76794be",
+        "61348ad9-5e77-4e47-9496-ba57e3203422",
+        "3261359c-4ce5-4be1-a908-1aa1f1e1bac5",
+        "5b7d0526-baae-42b0-a697-96a56aa84144",
+        "6e89b521-888a-4706-adb0-58b3b1b29f5f",
+        "2ced7736-48c9-4eb6-bdca-52c6ae54aff6",
+        "8e103c19-1a17-4d3d-a0d4-2a1db0007200",
+        "6bc6969e-e694-478d-b773-59e704216932",
+        "570c0c73-cac1-469b-a62e-976388199fb1",
+        "9d9f367a-a477-4cee-8f5b-e9965a9c3d39",
+        "9fe86c55-f3f6-4dfb-8f04-4e7558fcfb1c",
+        "251044ce-2c3b-48f6-97cc-1483703df12a",
+        "45bf4021-7382-471c-9a37-9976e21e8147",
+        "0442b548-f79b-4cfe-9141-bd40de0f04f3",
+        "c442c98f-14bb-45f7-9191-7bc4cbd0fd9e",
+        "b2d73617-df00-4790-b2d9-74e6f1656a33"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {max-width: 600px; margin: 0 auto 2rem auto;}",
+        ".collapsible-trigger__layout > span > span {font-size: smaller; font-weight: bold; color: #d85a5a;}",
+        "@media (min-width: 768px) {.grid {flex-direction: row-reverse; padding: var(--gridGutter) var(--gridGutter) var(--gridGutter) 0; } .dropdown-content-trigger {padding-left: 2.5rem; }}"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "Plus Unlock Over $7,100 Worth of Bonuses When You Enroll",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "center",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonials-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>I lost over 4 kilos and over 10cm at the waist! I learned a lot of ways to prepare a yummy, filling meal with easy ingredients and with a bit of effort.</p><p>I now enjoy my relationship with all these beautiful veggies.</p>",
+            "image": "shopify://shop_images/Dawn_Cunningham.jpg",
+            "author": "Dawn",
+            "author_info": ""
+          }
+        },
+        "eb8e6586-7771-45c1-868d-aef4fbc266eb": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Thank you to the team at Food Matters for a fantastic program! This Clean Eating Program is so easy to follow and stick to.</p><p>I loved the audio tips each day expanding our knowledge on healthy choices, and easy recipes to create. I feel vibrant, my energy and head is clear, and my skin looks alive. Your time and expertise are greatly appreciated.</p>",
+            "image": "shopify://shop_images/Maree_-_Option_A.jpg",
+            "author": "Maree",
+            "author_info": ""
+          }
+        },
+        "426eeede-fdfd-4b82-8eda-ba2d62d68ac6": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>I resisted an alternative approach for years. I trusted my doctors, and as I was prescribed more & more medication, I felt worse & worse. Watching the ‘Food Matters’ film helped me turn my life around & I’m forever grateful. With this information and community, I have gotten off 6 medications, lost 50 pounds, and cured my chronic fatigue, depression, and anxiety. Thank you for changing my life.</p>",
+            "image": "shopify://shop_images/testimonial-roy.jpg",
+            "author": "Roy",
+            "author_info": ""
+          }
+        },
+        "e12e6b0b-43b4-4723-987f-e7322d904069": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>I have really enjoyed the program. Love the simplicity, the meals are easy to prepare, very tasty and satisfying. I didn’t feel hungry between meals so didn’t make any of the snacks. It has been so easy to follow that I feel happy to simply continue eating this way. Thank you so much for putting such a program together. I would recommend it to anyone.</p>",
+            "author": "Monique D",
+            "author_info": ""
+          }
+        },
+        "testimonials-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>I feel lighter and healthier! The nutrition information is life changing! I am so grateful to be doing this program! By the way, I’m going for another 21 days! Thank you to all at Food Matters for making this possible!</p>",
+            "author": "Elisa C",
+            "author_info": ""
+          }
+        },
+        "testimonials-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>My husband and I have done several food matters programs. We always enjoy them immensely, delicious recipes! Thanks Food Matters for this one ! You are such an inspiration ! Greetings from the Netherlands.</p>",
+            "author": "Antoinette B",
+            "author_info": ""
+          }
+        },
+        "3aec4137-6587-4999-997b-89d7329189bd": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>I started this journey back in April, what a change this has had in my life! I have lost 40 lbs, my diabetes is under control, the latest A1C was down to 8.3 M/MOL from 10.8 (it was probably higher but I was too chicken to get my blood work done). My cholesterol good and bad are almost normal, and my liver enzymes are down as well.<br/>My doctor is blown away, he cannot get over how well I am doing.<br/>I cannot say this enough. Thank you, thank you, thank you, for all you amazing Suppport!!!</p>",
+            "author": "Edith P",
+            "author_info": ""
+          }
+        },
+        "8c3ae9ae-be5a-4f58-b63d-c1ea20ed1974": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>After losing my job during the pandemic, I took the Food Matters Nutrition Certification Program to transition to a new career by following my passion in helping mums create better health for their family. In your program, you not only provided your students with the education, but you’ve also provided us with the community and a way to get paid through your referral program. It feels amazing (yet surreal) to share what I love, make an impact and get paid. Thank you so much James, Laurentine and everyone at the Food Matters Team, you’ve changed my life. I love this program so much that I would share it with everyone I know.</p>",
+            "author": "Christy",
+            "author_info": ""
+          }
+        },
+        "5e453ca9-e30c-4596-bee7-fd2b9cab1bb9": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>Thanks so much for developing and offering this Certification Program. It has been one of the best learning experiences that I have ever had. I’m putting this information into practice on myself and will see where my journey takes me. The Food Matters team is committed to excellence and has developed the most fantastic natural healing program I’ve seen to date. Thank you, thank you, thank you! I look forward to more magnificence from Food Matters!</p>",
+            "author": "Kim",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonials-0",
+        "eb8e6586-7771-45c1-868d-aef4fbc266eb",
+        "426eeede-fdfd-4b82-8eda-ba2d62d68ac6",
+        "e12e6b0b-43b4-4723-987f-e7322d904069",
+        "testimonials-1",
+        "testimonials-2",
+        "3aec4137-6587-4999-997b-89d7329189bd",
+        "8c3ae9ae-be5a-4f58-b63d-c1ea20ed1974",
+        "5e453ca9-e30c-4596-bee7-fd2b9cab1bb9"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "Hear What Others Are Saying About the Program",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "2"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "custom_7hN83b": {
+          "type": "custom",
+          "settings": {
+            "code": "<a id=\"offer\" name=\"offer\" style=\"position: absolute;margin-top: -15rem;\"></a>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "custom_7hN83b",
+        "price",
+        "separator",
+        "variant_picker",
+        "inventory_status",
+        "buy_buttons",
+        "description",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "custom_css": [
+        ".variant__label {display: none !important;}",
+        ".product-block--header {margin: -60px 0 0;}"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": false,
+        "h1_title": false,
+        "hide_media": false,
+        "align_text": "center",
+        "image_position": "left",
+        "image_container_size": "medium",
+        "product_image_size": "natural",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "d7b9b845-3c83-4eeb-acdb-9b3200b376ca": {
+      "type": "columns-2",
+      "blocks": {
+        "template--20086275309889__d7b9b845-3c83-4eeb-acdb-9b3200b376ca-image-1": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/cert-accreditors-transparent.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "b8b95e44-d519-405e-8216-0dd94dc6e485": {
+          "type": "image",
+          "settings": {
+            "parent_column": "left",
+            "image": "shopify://shop_images/cert-accred-certificates-transparent.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "04803d3e-ddb5-47c9-839a-a70f12f05431": {
+          "type": "liquid",
+          "settings": {
+            "parent_column": "left",
+            "code": "<hr style=\"border: 5px solid white; position: absolute; left: 0; right: 0;\" />"
+          }
+        },
+        "ee34feef-9f44-4c85-9a63-6b4a6d215224": {
+          "type": "liquid",
+          "settings": {
+            "parent_column": "right",
+            "code": "<hr style=\"border: none; margin-bottom: 2rem;\" />"
+          }
+        },
+        "65b0f376-e122-48b5-a862-515100f3b099": {
+          "type": "image",
+          "settings": {
+            "parent_column": "left",
+            "image": "shopify://shop_images/cert-program-workbook-3rd-edition-1440x1280_1.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "b5751796-44a2-42b2-a652-1787907bb6d1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": false,
+            "text": "<h2>FREE Hard Copy Program Workbook Shipped to Your Door</h2><p>As a special bonus when you enroll in this intake, you will receive a copy of the printed program workbook shipped to your door, no matter where you are in the world!</p>"
+          }
+        },
+        "18a867a0-0003-4125-b921-3adf71c411f2": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "right",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "300+ page printed workbook"
+          }
+        },
+        "e5ee2aeb-131a-4cc9-9f00-8c6c74673a3b": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "right",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Additional information on topics to take you deeper"
+          }
+        },
+        "82e24ae9-8afa-4ebf-83e9-2ff898bb9e74": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "right",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Full color illustrations, charts, diagrams & lists"
+          }
+        },
+        "47b1a1b9-29f3-47e2-8452-8a3b862a70a7": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "right",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Helps reinforce your learning with easy to follow along format"
+          }
+        },
+        "1c12be23-c769-4c1c-97ad-27fb0d7fbc04": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "right",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Space for note-taking"
+          }
+        },
+        "d25113cc-2687-4a36-aac4-874afe117547": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "right",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "And more!"
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__d7b9b845-3c83-4eeb-acdb-9b3200b376ca-image-1",
+        "b8b95e44-d519-405e-8216-0dd94dc6e485",
+        "04803d3e-ddb5-47c9-839a-a70f12f05431",
+        "ee34feef-9f44-4c85-9a63-6b4a6d215224",
+        "65b0f376-e122-48b5-a862-515100f3b099",
+        "b5751796-44a2-42b2-a652-1787907bb6d1",
+        "18a867a0-0003-4125-b921-3adf71c411f2",
+        "e5ee2aeb-131a-4cc9-9f00-8c6c74673a3b",
+        "82e24ae9-8afa-4ebf-83e9-2ff898bb9e74",
+        "47b1a1b9-29f3-47e2-8452-8a3b862a70a7",
+        "1c12be23-c769-4c1c-97ad-27fb0d7fbc04",
+        "d25113cc-2687-4a36-aac4-874afe117547"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "p {max-width: 1200px; margin-left: auto; margin-right: auto;}",
+        ".image-wrap {background-color: inherit;}",
+        "@media (min-width: 1200px) {.text-block {margin-top: 7.5vw; margin-right: 5rem; }}",
+        "@media (max-width: 767px) {.grid__item.medium-up--one-half .image-block:nth-child(3), hr {display: none; }}"
+      ],
+      "settings": {
+        "title": "Program Accreditations",
+        "heading_size": "h1",
+        "subheading": "The Food Matters Nutrition Certification Program is certified by the International Institute for Complementary Therapists (IICT) for practice in 35+ countries (including the USA, Australia, Canada, and UK), plus the International Approval and Registration Centre (IARC). Successful graduates qualify for membership and insurance through IICT under the Nutrition Consultant modality.",
+        "align_heading": "center",
+        "cta_button": "Enroll Now",
+        "cta_button_url": "#offer",
+        "cta_button_entitled": "Enroll Now",
+        "cta_button_url_entitled": "#offer",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "2",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "34f5ba29-e1d8-4854-9a82-8e44d27ae782": {
+      "type": "columns-2",
+      "blocks": {
+        "template--20086275309889__34f5ba29-e1d8-4854-9a82-8e44d27ae782-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<p>More than ever before, <strong>millions of people world-wide are suffering from stress, anxiety, and poor health</strong>. And they’re desperately searching for answers.</p><p>This problem has opened up a massive opportunity for those who have studied nutrition and understand <strong>how to help educate others on taking the steps forward to transform their health and heal</strong>.</p><p>According to the Global Wellness Institute, the Health and Wellness industry is a $4.2 trillion dollar market, and it’s only expected to keep growing. As the shortage of primary caregivers continues to grow, the employment opportunities in the field of health and nutrition education is projected to grow by 17% between 2020 and 2023 (Labor Bureau of Stats).</p><p>After completing the Food Matters Nutrition Certification Program, there’s a good chance you won’t want to keep this life-saving message to yourself. And <strong>when you graduate, you’ll be qualified to share this message with the world</strong>. Whether you're inspired to write a recipe book, start a blog, consult one-on-one with clients, or even make films… the possibilities will be endless!</p><p><strong>This training will give you the knowledge and tools for your professional development, enabling you to transform the health and lives of others</strong>.</p>"
+          }
+        },
+        "template--20086275309889__34f5ba29-e1d8-4854-9a82-8e44d27ae782-image-1": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/cert-james-laurentine-in-office.jpg",
+            "link": "",
+            "image_mask": "landscape"
+          }
+        },
+        "357b980f-a618-4b6f-afd1-4566dc06cc82": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/cert-food-matters-james-live.jpg",
+            "link": "",
+            "image_mask": "landscape"
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__34f5ba29-e1d8-4854-9a82-8e44d27ae782-text-1",
+        "template--20086275309889__34f5ba29-e1d8-4854-9a82-8e44d27ae782-image-1",
+        "357b980f-a618-4b6f-afd1-4566dc06cc82"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {margin: 0 auto 4rem auto;}"
+      ],
+      "settings": {
+        "title": "Share Your Passion for Nutrition with Others",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "Enroll Now",
+        "cta_button_url": "#offer",
+        "cta_button_entitled": "Enroll Now",
+        "cta_button_url_entitled": "#offer",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "548def7a-daf0-41c4-98ce-d42e14d50867": {
+      "type": "columns-2",
+      "blocks": {
+        "template--20086275309889__548def7a-daf0-41c4-98ce-d42e14d50867-sales_point-1": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "right",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "<strong>Lifetime access to the Program</strong> means you can work through it at your own pace. The average course completion time is under 6 months, but you can choose how much time to dedicate to studying based on your own schedule. Meaning you can dive in and complete it in 3 months, or take it slower and complete it over 12."
+          }
+        },
+        "template--20086275309889__548def7a-daf0-41c4-98ce-d42e14d50867-sales_point-2": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "right",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "You receive <strong>ongoing access to support</strong> even after you complete the program. This includes Live Chat, WhatsApp, email, the Private Community, and the Institute’s Student Advisor."
+          }
+        },
+        "template--20086275309889__548def7a-daf0-41c4-98ce-d42e14d50867-sales_point-3": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "right",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "You will learn from <strong>over 50 health experts</strong> on a variety of nutrition approaches to gain a well-rounded understanding of human nutrition and health science nutrition so you can serve your clients more holistically (because there is no one-size-fits-all approach to nutrition and health)."
+          }
+        },
+        "4041e175-debc-4169-86ca-ab0906106c98": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "right",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "The program consists of short <strong>audio and video lessons</strong> that cater to different learning styles, allowing you to complete the program in a way that suits your schedule and lifestyle best. Plus, you will get a <strong>FREE program workbook</strong> shipped to your door to help you on your study journey."
+          }
+        },
+        "4fd359ba-bb61-41c9-bc70-379e6ad9a4a0": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "right",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "You’ll have access to <strong>global membership and insurance</strong> through the International Institute for Complementary Therapists (IICT) and International Approval and Registration Centre (IARC) if you’re inspired to turn your passion for nutrition into a career."
+          }
+        },
+        "template--20086275309889__548def7a-daf0-41c4-98ce-d42e14d50867-image-1": {
+          "type": "image",
+          "settings": {
+            "parent_column": "left",
+            "image": "shopify://shop_images/cert-business-accreditation-woman.jpg",
+            "link": "",
+            "image_mask": "square"
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__548def7a-daf0-41c4-98ce-d42e14d50867-sales_point-1",
+        "template--20086275309889__548def7a-daf0-41c4-98ce-d42e14d50867-sales_point-2",
+        "template--20086275309889__548def7a-daf0-41c4-98ce-d42e14d50867-sales_point-3",
+        "4041e175-debc-4169-86ca-ab0906106c98",
+        "4fd359ba-bb61-41c9-bc70-379e6ad9a4a0",
+        "template--20086275309889__548def7a-daf0-41c4-98ce-d42e14d50867-image-1"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {max-width: 700px; margin: 0 auto 4rem auto;}",
+        ".sales-point {margin-bottom: 2rem;}"
+      ],
+      "settings": {
+        "title": "What sets the Food Matters Nutrition Certification Program apart?",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "Enroll Now",
+        "cta_button_url": "#offer",
+        "cta_button_entitled": "Enroll Now",
+        "cta_button_url_entitled": "#offer",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "dfd2fdac-34fe-4fd3-a59c-5c5650e7a0bc": {
+      "type": "columns-2",
+      "blocks": {
+        "template--20086275309889__dfd2fdac-34fe-4fd3-a59c-5c5650e7a0bc-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<p>We created the Food Matters Nutrition Certification Program from the growing need for people to heal themselves (or a loved one) naturally.</p><p>We've spent the last 15 years studying nutrition and interviewing experts in food, natural medicine, and mind-body therapies to uncover what's transforming lives today. We helped my father heal from depression chronic fatigue and come off six prescription medicines with this information, and it's only becoming more powerful. The method of healing and good health hasn't changed.</p><p>We believe that everyone deserves the right to good health, prosperity, and happiness. We're just making it a little bit easier for you to access.</p><p>We can't wait to welcome you to the Food Matters Nutrition Certification Program.</p><p>In good health,<br/><br/><strong>James Colquhoun & Laurentine ten Bosch</strong><br/><em>Founders of Food Matters and The Food Matters Institute</em></p>"
+          }
+        },
+        "template--20086275309889__dfd2fdac-34fe-4fd3-a59c-5c5650e7a0bc-image-1": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/james-laurentine.jpg",
+            "link": "",
+            "image_mask": "rounded"
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__dfd2fdac-34fe-4fd3-a59c-5c5650e7a0bc-text-1",
+        "template--20086275309889__dfd2fdac-34fe-4fd3-a59c-5c5650e7a0bc-image-1"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 ~ p {max-width: 750px; margin-left: auto; margin-right: auto; font-weight: bold; margin-bottom: 2rem; text-transform: uppercase;}"
+      ],
+      "settings": {
+        "title": "We're committed to helping you help yourself.",
+        "heading_size": "h1",
+        "subheading": "We believe that your body is worthy of good care and that no one is more suitably qualified to care for it than yourself.",
+        "align_heading": "center",
+        "cta_button": "Enroll Now",
+        "cta_button_url": "#offer",
+        "cta_button_entitled": "Enroll Now",
+        "cta_button_url_entitled": "#offer",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "2",
+        "show_wave": true,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_QyX8nG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_mRgf36": {
+          "type": "heading",
+          "settings": {
+            "title": "Members Enjoy 10% Off!",
+            "heading_size": "h2"
+          }
+        },
+        "text_k8Cig4": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Not a member? Join to save on products, courses, events and retreats!</p>"
+          }
+        },
+        "button_E87kcm": {
+          "type": "button",
+          "settings": {
+            "link": "/account/login",
+            "link_text": "Log In or Sign Up"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mRgf36",
+        "text_k8Cig4",
+        "button_E87kcm"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "columns_2_kBjiCL": {
+      "type": "columns-2",
+      "blocks": {
+        "text_M6MxHw": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<p>Many people ask us, “What is the best way to eat, lose weight, and get more energy?”.</p><p>We’ve created this program to show you just how powerful nutrition can be, and how easy it is to prepare quick and healthy meals the whole family will love.</p><p>We’ve spent the last 15 years interviewing experts in nutrition, natural medicine, and mind body therapies. We've also managed to compile the greatest collection of clean eats; the most powerful foods to eat for energy, vitality, and fighting off disease. Over 15 years ago, we helped my dad heal from depression and chronic fatigue and get off six prescription medicines. The method to heal and get healthy hasn’t changed.</p><p>We believe you deserve the most out of your life. Getting healthy just got a lot easier. :)</p><p>In good health,<br/><br/><strong>James Colquhoun & Laurentine ten Bosch</strong><br/><em>Filmmakers & Founders of Food Matters, Hungry for Change, & Transcendence</em></p>"
+          }
+        },
+        "image_YA8C9j": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/your-hosts-take2.jpg",
+            "link": "",
+            "image_mask": "rounded"
+          }
+        }
+      },
+      "block_order": [
+        "text_M6MxHw",
+        "image_YA8C9j"
+      ],
+      "settings": {
+        "title": "Three Weeks From Now, You Will Be Thanking Yourself for Joining This Program.",
+        "heading_size": "h3",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": true,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0": {
+      "type": "columns-1",
+      "blocks": {
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "How long will the Clean Eating Program take me?",
+            "text": "",
+            "dropdown_text": "<p>They say it takes 21 days to form new habits, so we'll be cooking together for 3 weeks.</p>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Will I need any fancy kitchen equipment?",
+            "text": "",
+            "dropdown_text": "<p>We recommend a good blender and spiraliser for making 'spaghetti' from zucchini and carrot.</p>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Can I still do the program if I have a pre-existing health condition?",
+            "text": "",
+            "dropdown_text": "<p>Yes! This program is not focused on deprivation, but nourishing the mind and body with nutrient-dense whole foods. We do recommend checking in with your health care professional before making any drastic diet and health changes.</p>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "36d254e6-c118-4eb9-868e-c7838412525e": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "I'm vegan. Is there a vegan menu plan?",
+            "text": "",
+            "dropdown_text": "<p>Yes! We have created the Clean Eating Program to be 100% inclusive, so you can choose from our Classic (includes small amounts of fish), Vegetarian, and Vegan meal plan options.</p>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "64c54989-1338-47b7-bd63-ddfa422511b7": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "What do I have to give up?",
+            "text": "",
+            "dropdown_text": "<p>We're not about removing entire food groups, but this meal plan will help you to reduce some of those inflammatory foods containing dairy, wheat, gluten, and refined sugars.</p><h3></h3>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "19434ac0-1bc8-4fa7-9407-033dd509cb20": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Will I lose weight on the Clean Eating Program?",
+            "text": "",
+            "dropdown_text": "<p>While this program isn't a 'diet', removing inflammatory food groups and reducing your intake of any processed foods will help your body burn fat more effectively.</p>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "195adf6e-7d69-4458-9adb-eaa295bb77f4": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Can I have coffee and alcohol on the program?",
+            "text": "",
+            "dropdown_text": "<p>To reap the full benefits of the Clean Eating Program, we recommend abstaining from alcohol for 21 days. We strongly recommend reducing your daily coffee intake to no more than one (and drinking preferably black coffee).</p>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "78097ffe-c976-4945-a965-5f25431986b6": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "How long do the meals take to prepare?",
+            "text": "",
+            "dropdown_text": "<p>Each recipe can be made in less than 30 minutes (and some will take you less than 10 minutes). Many meals can be prepared the night before or at the start of the week to save time.</p>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "ba6c8e79-47b1-4fea-9b1b-6118ceaef2f2": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Do I need to buy organic produce?",
+            "text": "",
+            "dropdown_text": "<p>While organic isn't 100% necessary, we do encourage you to buy organic where possible. Our team of Nutritionists has carefully designed this program to include ingredients that can be sourced from your local farmers’ market, health food store, or supermarket.</p>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "2d640ced-1117-4913-99c0-156ddce29838": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Join Now",
+            "link_entitled": "#offer",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        },
+        "3d4d5aae-2223-42d0-8dc4-411d1eb43905": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong><br/><br/>Disclaimer:</strong> Gaia, its staff, affiliates, and content providers are not licensed medical care providers, and, as such, are not rendering medical advice or treatment, and have no expertise in advising on, diagnosing, examining, or treating medical conditions of any kind. You should never disregard medical advice or delay seeking it because of any statements/treatments made within any offering on the Gaia Marketplace. You must consult your doctor before beginning any product usage, medical or dietary treatment or exercise program. The views, opinions and results expressed in any products/programs offered here do not reflect the views or opinions of Gaia, its staff, content providers or any entities Gaia represents.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d",
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281",
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07",
+        "36d254e6-c118-4eb9-868e-c7838412525e",
+        "64c54989-1338-47b7-bd63-ddfa422511b7",
+        "19434ac0-1bc8-4fa7-9407-033dd509cb20",
+        "195adf6e-7d69-4458-9adb-eaa295bb77f4",
+        "78097ffe-c976-4945-a965-5f25431986b6",
+        "ba6c8e79-47b1-4fea-9b1b-6118ceaef2f2",
+        "2d640ced-1117-4913-99c0-156ddce29838",
+        "3d4d5aae-2223-42d0-8dc4-411d1eb43905"
+      ],
+      "custom_css": [
+        "h2 {margin-bottom: 4rem;}",
+        "p {text-align: left;}",
+        ".dropdown-with-image-block {box-shadow: none; max-width: 1200px; margin: 0 auto 0.5rem auto;}",
+        ".button-block {margin-top: 2rem;}"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "Frequently Asked Questions",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "center",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "3124092b-a473-448b-b237-7c9b098cd472",
+    "2cf59009-8b04-4f41-ba20-7aab7e4fe761",
+    "9c2f86b0-f860-458d-92ac-934766786e09",
+    "rich_text_ChcEHq",
+    "47d760b9-34a9-420e-9c2c-078d97257025",
+    "3a932ba1-36cb-44c6-abcf-49cc382b9b3e",
+    "ddf6a3fb-b88c-41ec-bee6-e9c9e57a998b",
+    "1c97dcc5-84af-4b74-9bf7-fc68e0f6db49",
+    "fdf3075c-2fda-4f6c-a458-af79e325c614",
+    "2d08876f-ca1c-4c3c-aee2-80cedae8f271",
+    "68576676-bc56-4008-8b23-98a52bb27939",
+    "d2f3e665-9bf4-4aee-8b67-425b66d670c6",
+    "91b3b63e-d420-4466-ac5e-aa8a0c97056f",
+    "d47c4f90-b1c6-4c61-b423-ca2d0ff09475",
+    "testimonials",
+    "main",
+    "d7b9b845-3c83-4eeb-acdb-9b3200b376ca",
+    "34f5ba29-e1d8-4854-9a82-8e44d27ae782",
+    "548def7a-daf0-41c4-98ce-d42e14d50867",
+    "dfd2fdac-34fe-4fd3-a59c-5c5650e7a0bc",
+    "rich_text_QyX8nG",
+    "columns_2_kBjiCL",
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0"
+  ]
+}

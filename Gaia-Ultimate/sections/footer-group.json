@@ -1,0 +1,151 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "footer",
+  "name": "t:sections.footer-group.name",
+  "sections": {
+    "207b7dd6-8f9c-49ef-a964-fb1195a410ca": {
+      "type": "rich-text",
+      "blocks": {
+        "sections--16136139276450__207b7dd6-8f9c-49ef-a964-fb1195a410ca-168072166768a52518-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Already an active Gaia member, but not seeing your discount?",
+            "heading_size": "h3"
+          }
+        },
+        "sections--16136139276450__207b7dd6-8f9c-49ef-a964-fb1195a410ca-168072166768a52518-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Click <a href=\"\/account\/login\" title=\"Login\">here<\/a> to log into your Gaia account and access your Marketplace discounts. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "sections--16136139276450__207b7dd6-8f9c-49ef-a964-fb1195a410ca-168072166768a52518-0",
+        "sections--16136139276450__207b7dd6-8f9c-49ef-a964-fb1195a410ca-168072166768a52518-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "color_scheme": "2",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "footer-promotions": {
+      "type": "footer-promotions",
+      "blocks": {
+        "footer-promotions-0": {
+          "type": "promotion",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": "100",
+            "title": "Site-wide promotion",
+            "heading_size": "h3",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+            "button_label": "Optional button",
+            "button_link": "",
+            "color_scheme": "1"
+          }
+        },
+        "footer-promotions-1": {
+          "type": "promotion",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": "100",
+            "title": "Site-wide promotion",
+            "heading_size": "h3",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+            "button_label": "Optional button",
+            "button_link": "",
+            "color_scheme": "3"
+          }
+        },
+        "footer-promotions-2": {
+          "type": "promotion",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": "100",
+            "title": "Site-wide promotion",
+            "heading_size": "h3",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+            "button_label": "Optional button",
+            "button_link": "",
+            "color_scheme": "2"
+          }
+        }
+      },
+      "block_order": [
+        "footer-promotions-0",
+        "footer-promotions-1",
+        "footer-promotions-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "hide_homepage": false
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "footer-0": {
+          "type": "menu",
+          "settings": {
+            "title": "",
+            "menu": "footer",
+            "enable_account_link": false
+          }
+        },
+        "footer-1": {
+          "type": "contact",
+          "settings": {
+            "phone": "",
+            "contact": "contact",
+            "chat": "",
+            "enable_social": false
+          }
+        },
+        "footer-2": {
+          "type": "payment",
+          "settings": {
+            "show_payment_icons": true,
+            "show_locale_selector": true,
+            "show_currency_selector": true,
+            "show_currency_flags": true
+          }
+        }
+      },
+      "block_order": [
+        "footer-0",
+        "footer-1",
+        "footer-2"
+      ],
+      "settings": {
+        "show_newsletter": true,
+        "newsletter_richtext": "<p>Get early access to new products by signing up for Gaia Marketplace emails.<\/p>",
+        "footer_main_menu": true,
+        "show_copyright": true,
+        "copyright_text": "",
+        "policies_menu": "",
+        "show_wave": false
+      }
+    }
+  },
+  "order": [
+    "207b7dd6-8f9c-49ef-a964-fb1195a410ca",
+    "footer-promotions",
+    "footer"
+  ]
+}

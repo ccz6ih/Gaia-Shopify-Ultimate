@@ -1,0 +1,1143 @@
+/* ============================================
+   IGN CLINICAL SCIENCE - University Research Showcase
+   For Gaia Theme - With Poppins & Quicksand Fonts
+   Prefixed with 'ign-' for theme isolation
+   ============================================ */
+
+/* Force Poppins & Quicksand fonts throughout section */
+.ign-clinical-science-section {
+  --ign-cs-heading-font: 'Poppins', sans-serif !important;
+  --ign-cs-body-font: 'Quicksand', sans-serif !important;
+}
+
+/* Section Container */
+.ign-clinical-science-section {
+  position: relative;
+  overflow: visible;
+}
+
+.ign-cs-container {
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Header Styles */
+.ign-cs-header {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.ign-cs-eyebrow {
+  margin-bottom: 1rem;
+}
+
+.ign-cs-badge {
+  display: inline-block;
+  padding: 0.5rem 1.5rem;
+  font-family: var(--ign-cs-body-font);
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  background: var(--ign-cs-badge-bg);
+  color: var(--ign-cs-primary);
+  border-radius: 2rem;
+}
+
+.ign-cs-headline {
+  font-family: var(--ign-cs-heading-font);
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  font-weight: 700;
+  line-height: 1.1;
+  margin: 0 0 1rem 0;
+  letter-spacing: -0.02em;
+  color: var(--ign-cs-primary);
+}
+
+.ign-cs-subheadline {
+  font-family: var(--ign-cs-body-font);
+  font-size: 1.25rem;
+  font-weight: 500;
+  opacity: 0.8;
+  max-width: 800px;
+  margin: 0 auto;
+  color: var(--ign-cs-text);
+}
+
+/* Study Cards Grid */
+.ign-cs-studies-grid {
+  display: grid;
+  gap: 2rem;
+  margin-bottom: 4rem;
+}
+
+.ign-cs-studies-grid--1 {
+  grid-template-columns: 1fr;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ign-cs-studies-grid--2 {
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+}
+
+.ign-cs-studies-grid--3 {
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+/* Study Card */
+.ign-cs-study-card {
+  position: relative;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.ign-cs-study-card:hover {
+  transform: translateY(-4px);
+}
+
+.ign-cs-card-inner {
+  background: var(--ign-cs-card-bg);
+  border: 1px solid rgba(var(--color-foreground), 0.1);
+  border-radius: 1rem;
+  padding: 2rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  transition: all 0.3s ease;
+}
+
+.ign-cs-study-card:hover .ign-cs-card-inner {
+  border-color: rgba(var(--color-foreground), 0.2);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.08);
+}
+
+/* Card Header */
+.ign-cs-card-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+  gap: 1rem;
+}
+
+.ign-cs-study-icon {
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  color: var(--ign-cs-primary);
+  opacity: 0.7;
+}
+
+.ign-cs-study-icon svg {
+  width: 100%;
+  height: 100%;
+}
+
+.ign-cs-study-type {
+  font-family: var(--ign-cs-body-font);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.25rem 0.75rem;
+  background: color-mix(in srgb, var(--ign-cs-accent) 10%, transparent);
+  color: var(--ign-cs-accent);
+  border-radius: 1rem;
+  white-space: nowrap;
+}
+
+/* Card Content */
+.ign-cs-card-title {
+  font-family: var(--ign-cs-heading-font);
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2;
+  margin: 0 0 1rem 0;
+  color: var(--ign-cs-primary);
+}
+
+.ign-cs-card-description {
+  font-family: var(--ign-cs-body-font);
+  font-size: 1rem;
+  line-height: 1.6;
+  opacity: 0.8;
+  margin-bottom: 1.5rem;
+  color: var(--ign-cs-text);
+}
+
+/* Meta Information */
+.ign-cs-meta-info {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(var(--color-foreground), 0.1);
+}
+
+.ign-cs-meta-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--ign-cs-body-font);
+  font-size: 0.875rem;
+  color: var(--ign-cs-text);
+  opacity: 0.7;
+}
+
+.ign-cs-meta-item svg {
+  width: 16px;
+  height: 16px;
+  opacity: 0.5;
+}
+
+/* Key Results */
+.ign-cs-key-results {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: color-mix(in srgb, var(--ign-cs-primary) 3%, transparent);
+  border-radius: 0.75rem;
+}
+
+.ign-cs-result-item {
+  text-align: center;
+  padding: 0.5rem;
+}
+
+.ign-cs-result-value {
+  display: block;
+  font-family: var(--ign-cs-heading-font);
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--ign-cs-primary);
+  margin-bottom: 0.25rem;
+}
+
+.ign-cs-result-label {
+  font-family: var(--ign-cs-body-font);
+  font-size: 0.875rem;
+  font-weight: 500;
+  opacity: 0.7;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ign-cs-text);
+}
+
+/* Card Footer */
+.ign-cs-card-footer {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: auto;
+  padding-top: 1.5rem;
+}
+
+.ign-cs-view-details {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.875rem 1.5rem;
+  font-family: var(--ign-cs-body-font);
+  font-size: 1rem;
+  font-weight: 600;
+  background: var(--ign-cs-primary);
+  color: white;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.ign-cs-view-details:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.ign-cs-view-details svg {
+  width: 20px;
+  height: 20px;
+}
+
+.ign-cs-download-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border: 1px solid rgba(var(--color-foreground), 0.2);
+  border-radius: 0.5rem;
+  color: var(--ign-cs-primary);
+  transition: all 0.2s ease;
+}
+
+.ign-cs-download-link:hover {
+  background: color-mix(in srgb, var(--ign-cs-primary) 5%, transparent);
+  border-color: var(--ign-cs-primary);
+}
+
+/* Trust Section */
+.ign-cs-trust-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 3rem;
+  padding: 2rem;
+  background: color-mix(in srgb, var(--ign-cs-primary) 3%, transparent);
+  border-radius: 1rem;
+  margin-top: 4rem;
+}
+
+.ign-cs-trust-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-family: var(--ign-cs-body-font);
+  font-weight: 500;
+  color: var(--ign-cs-text);
+}
+
+.ign-cs-trust-item svg {
+  width: 32px;
+  height: 32px;
+  color: var(--ign-cs-primary);
+  opacity: 0.7;
+}
+
+/* ============================================
+   POPUP STYLES - CONSOLIDATED
+   ============================================ */
+
+/* Popup Base */
+.ign-cs-popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 999999;
+  display: none;
+}
+
+.ign-cs-popup.active {
+  display: block;
+}
+
+.ign-cs-popup-wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+/* Popup Overlay */
+.ign-cs-popup-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  z-index: 1;
+  cursor: pointer;
+  transition: opacity 0.3s ease;
+}
+
+.ign-cs-popup-container {
+  position: relative;
+  z-index: 2;
+  max-width: 900px;
+  max-height: 90vh;
+  width: 100%;
+}
+
+.ign-cs-popup-content {
+  background: #ffffff;
+  background: var(--ign-cs-popup-bg, #ffffff);
+  border-radius: 1rem;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  max-height: 90vh;
+  position: relative;
+  z-index: 3;
+}
+
+/* Popup Close Button */
+.ign-cs-popup-close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  width: 40px;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+  z-index: 10;
+}
+
+.ign-cs-popup-close:hover {
+  background: rgba(255, 255, 255, 1);
+  border-color: rgba(0, 0, 0, 0.2);
+  transform: rotate(90deg);
+}
+
+/* Popup Header */
+.ign-cs-popup-header {
+  padding: 3rem 3rem 2rem;
+  text-align: center;
+  background: #f5f5f7;
+  background: color-mix(in srgb, var(--ign-cs-primary, #1a1a4e) 3%, white);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  position: relative;
+  z-index: 4;
+}
+
+.ign-cs-popup-badge {
+  display: inline-block;
+  font-family: var(--ign-cs-body-font);
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.5rem 1rem;
+  background: var(--ign-cs-badge-bg);
+  color: var(--ign-cs-primary);
+  border-radius: 2rem;
+  margin-bottom: 1rem;
+}
+
+.ign-cs-popup-title {
+  font-family: var(--ign-cs-heading-font);
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0 0 0.5rem 0;
+  color: var(--ign-cs-primary);
+}
+
+.ign-cs-popup-meta {
+  font-family: var(--ign-cs-body-font);
+  font-size: 1rem;
+  opacity: 0.7;
+  margin: 0;
+  color: var(--ign-cs-text);
+}
+
+/* Popup Tabs */
+.ign-cs-tabs {
+  display: flex;
+  gap: 0;
+  background: #f0f0f2;
+  background: color-mix(in srgb, var(--ign-cs-primary, #1a1a4e) 5%, white);
+  padding: 0.25rem;
+  margin: 0;
+  overflow-x: auto;
+  position: relative;
+  z-index: 4;
+}
+
+.ign-cs-tab {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  font-family: var(--ign-cs-body-font);
+  font-size: 0.875rem;
+  font-weight: 600;
+  background: transparent;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  color: var(--ign-cs-text);
+  opacity: 0.6;
+}
+
+.ign-cs-tab:hover {
+  opacity: 0.8;
+}
+
+.ign-cs-tab.active {
+  background: #ffffff;
+  opacity: 1;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.ign-cs-tab svg {
+  width: 20px;
+  height: 20px;
+}
+
+/* Popup Body */
+.ign-cs-popup-body {
+  flex: 1;
+  overflow-y: auto;
+  padding: 2rem;
+  background: #ffffff;
+  position: relative;
+  z-index: 4;
+}
+
+.ign-cs-tab-content {
+  display: none;
+  background: #ffffff;
+}
+
+.ign-cs-tab-content.active {
+  display: block;
+  animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Popup Sections */
+.ign-cs-section {
+  background: white;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.ign-cs-section:last-child {
+  margin-bottom: 0;
+}
+
+.ign-cs-section-title {
+  font-family: var(--ign-cs-heading-font);
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 0 0 1.5rem 0;
+  color: var(--ign-cs-primary);
+}
+
+/* Highlight Box */
+.ign-cs-highlight-box {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: 1.5rem;
+  background: rgba(255, 204, 0, 0.1);
+  border-left: 4px solid rgb(255, 204, 0);
+  border-radius: 0.5rem;
+  margin: 1.5rem 0;
+}
+
+.ign-cs-highlight-box svg {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  color: rgb(255, 204, 0);
+}
+
+.ign-cs-highlight-box div {
+  font-family: var(--ign-cs-body-font);
+  font-weight: 500;
+  line-height: 1.6;
+}
+
+/* Study Design Grid */
+.ign-cs-design-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+}
+
+.ign-cs-design-item {
+  padding: 1rem;
+  background: color-mix(in srgb, var(--ign-cs-primary) 3%, transparent);
+  border-radius: 0.5rem;
+}
+
+.ign-cs-design-label {
+  display: block;
+  font-family: var(--ign-cs-body-font);
+  font-size: 0.875rem;
+  font-weight: 500;
+  opacity: 0.7;
+  margin-bottom: 0.25rem;
+  color: var(--ign-cs-text);
+}
+
+.ign-cs-design-value {
+  font-family: var(--ign-cs-heading-font);
+  font-weight: 600;
+  font-size: 1.125rem;
+  color: var(--ign-cs-primary);
+}
+
+/* Results Table */
+.ign-cs-results-table {
+  background: white;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+}
+
+.ign-cs-table-header,
+.ign-cs-table-row {
+  display: grid;
+  grid-template-columns: 2fr repeat(3, 1fr);
+  gap: 1rem;
+  padding: 1rem;
+  min-width: 600px;
+}
+
+.ign-cs-table-header {
+  background: #f5f5f7;
+  background: color-mix(in srgb, var(--ign-cs-primary, #1a1a4e) 5%, white);
+  border-radius: 0.5rem 0.5rem 0 0;
+  font-family: var(--ign-cs-body-font);
+  font-weight: 600;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ign-cs-text, #333333);
+}
+
+.ign-cs-table-row {
+  border-bottom: 1px solid rgba(var(--color-foreground), 0.1);
+}
+
+.ign-cs-table-row:last-child {
+  border-bottom: none;
+}
+
+.ign-cs-table-cell {
+  display: flex;
+  align-items: center;
+  font-family: var(--ign-cs-body-font);
+  color: var(--ign-cs-text);
+}
+
+.ign-cs-table-cell strong {
+  font-weight: 600;
+}
+
+.ign-cs-winner {
+  position: relative;
+  color: var(--ign-cs-accent);
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.ign-cs-badge-win {
+  font-size: 0.75rem;
+  padding: 0.125rem 0.5rem;
+  background: color-mix(in srgb, var(--ign-cs-accent) 10%, transparent);
+  border-radius: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.ign-cs-table-note {
+  font-family: var(--ign-cs-body-font);
+  font-size: 0.875rem;
+  opacity: 0.7;
+  font-style: italic;
+  margin-top: 1rem;
+  color: var(--ign-cs-text);
+}
+
+/* Progress Bars */
+.ign-cs-progress-grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.ign-cs-progress-item {
+  width: 100%;
+}
+
+.ign-cs-progress-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.5rem;
+}
+
+.ign-cs-progress-label {
+  font-family: var(--ign-cs-body-font);
+  font-weight: 500;
+  color: var(--ign-cs-text);
+}
+
+.ign-cs-progress-value {
+  font-family: var(--ign-cs-heading-font);
+  font-weight: 700;
+  font-size: 1.125rem;
+  color: var(--ign-cs-accent);
+}
+
+.ign-cs-progress-bar {
+  width: 100%;
+  height: 8px;
+  background: rgba(var(--color-foreground), 0.1);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.ign-cs-progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--ign-cs-accent) 0%, color-mix(in srgb, var(--ign-cs-accent) 80%, transparent) 100%);
+  border-radius: 4px;
+  transition: width 1.2s cubic-bezier(0.4, 0, 0.2, 1);
+  width: 0;
+}
+
+/* Metrics Grid */
+.ign-cs-metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1.5rem;
+}
+
+.ign-cs-metric-card {
+  text-align: center;
+  padding: 1.5rem 1rem;
+  background: color-mix(in srgb, var(--ign-cs-primary) 3%, transparent);
+  border-radius: 0.75rem;
+  transition: all 0.2s ease;
+}
+
+.ign-cs-metric-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.ign-cs-metric-icon {
+  width: 40px;
+  height: 40px;
+  margin: 0 auto 0.75rem;
+  color: var(--ign-cs-primary);
+  opacity: 0.6;
+}
+
+.ign-cs-metric-icon svg {
+  width: 100%;
+  height: 100%;
+}
+
+.ign-cs-metric-value {
+  font-family: var(--ign-cs-heading-font);
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--ign-cs-primary);
+  margin-bottom: 0.25rem;
+}
+
+.ign-cs-metric-label {
+  font-family: var(--ign-cs-body-font);
+  font-size: 0.875rem;
+  font-weight: 500;
+  opacity: 0.7;
+  margin-bottom: 0.25rem;
+  color: var(--ign-cs-text);
+}
+
+.ign-cs-metric-note {
+  font-family: var(--ign-cs-body-font);
+  font-size: 0.75rem;
+  opacity: 0.5;
+  font-style: italic;
+  color: var(--ign-cs-text);
+}
+
+/* Benefits List */
+.ign-cs-benefits-list {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.ign-cs-benefit-item {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.ign-cs-benefit-item svg {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  margin-top: 0.125rem;
+  color: var(--ign-cs-accent);
+}
+
+.ign-cs-benefit-item .rte {
+  flex: 1;
+  font-family: var(--ign-cs-body-font);
+  line-height: 1.6;
+  color: var(--ign-cs-text);
+}
+
+.ign-cs-benefit-item .rte p {
+  margin: 0;
+}
+
+.ign-cs-benefit-item .rte strong {
+  font-family: var(--ign-cs-heading-font);
+  font-weight: 600;
+}
+
+/* Popup Footer */
+.ign-cs-popup-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1.5rem 2rem;
+  background: #f5f5f7;
+  background: color-mix(in srgb, var(--ign-cs-primary, #1a1a4e) 3%, white);
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  position: relative;
+  z-index: 4;
+}
+
+.ign-cs-popup-footer .rte {
+  flex: 1;
+  font-family: var(--ign-cs-body-font);
+  font-size: 0.875rem;
+  line-height: 1.5;
+  opacity: 0.8;
+  color: var(--ign-cs-text);
+}
+
+.ign-cs-popup-footer .rte p {
+  margin: 0;
+}
+
+.ign-cs-popup-download {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.25rem;
+  font-family: var(--ign-cs-body-font);
+  font-weight: 600;
+  background: var(--ign-cs-primary);
+  color: white;
+  border: none;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.ign-cs-popup-download:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* ============================================
+   MOBILE RESPONSIVE - CONSOLIDATED VERSION
+   ============================================ */
+@media (max-width: 749px) {
+  /* Container and spacing fixes */
+  .ign-clinical-science-section {
+    overflow-x: hidden;
+  }
+  
+  .ign-cs-container {
+    padding: 0 1rem;
+    max-width: 100vw;
+    overflow-x: hidden;
+  }
+  
+  .ign-cs-header {
+    margin-bottom: 3rem;
+  }
+  
+  /* Grid fixes - IMPORTANT: Force single column */
+  .ign-cs-studies-grid,
+  .ign-cs-studies-grid--1,
+  .ign-cs-studies-grid--2,
+  .ign-cs-studies-grid--3 {
+    grid-template-columns: 1fr !important;
+    gap: 1.5rem;
+  }
+  
+  .ign-cs-study-card {
+    max-width: 100vw;
+    margin: 0;
+  }
+  
+  .ign-cs-card-inner {
+    padding: 1rem;
+  }
+  
+  /* Key results on cards */
+  .ign-cs-key-results {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5rem;
+    padding: 0.75rem;
+  }
+  
+  .ign-cs-result-value {
+    font-size: 1.25rem;
+  }
+  
+  .ign-cs-result-label {
+    font-size: 0.7rem;
+  }
+  
+  /* Trust section */
+  .ign-cs-trust-section {
+    gap: 1.5rem;
+  }
+  
+  .ign-cs-trust-item {
+    flex-direction: column;
+    text-align: center;
+    gap: 0.5rem;
+  }
+  
+  /* POPUP FIXES FOR MOBILE */
+  .ign-cs-popup-wrapper {
+    padding: 0;
+  }
+  
+  .ign-cs-popup-container {
+    max-width: 100%;
+    width: 100%;
+    max-height: 100vh;
+  }
+  
+  .ign-cs-popup-content {
+    width: 100%;
+    height: 100vh;
+    max-height: 100vh;
+    margin: 0;
+    border-radius: 0;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Close button improvements */
+  .ign-cs-popup-close {
+    width: 44px;
+    height: 44px;
+    top: 0.5rem;
+    right: 0.5rem;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+  }
+  
+  .ign-cs-popup-close svg {
+    stroke: white;
+  }
+  
+  /* Header improvements */
+  .ign-cs-popup-header {
+    padding: 3rem 1rem 1rem;
+  }
+  
+  .ign-cs-popup-title {
+    font-size: 1.5rem;
+    line-height: 1.2;
+  }
+  
+  /* Tabs improvements */
+  .ign-cs-tabs {
+    padding: 0;
+    gap: 0;
+    background: #f5f5f7;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  .ign-cs-tab {
+    flex: 1 0 auto;
+    min-width: 80px;
+    padding: 0.75rem 0.5rem;
+    font-size: 0.7rem;
+    border-radius: 0;
+  }
+  
+  .ign-cs-tab span {
+    display: block;
+    margin-top: 0.25rem;
+  }
+  
+  .ign-cs-tab svg {
+    margin: 0 auto;
+  }
+  
+  /* Popup body improvements */
+  .ign-cs-popup-body {
+    flex: 1;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    padding: 1rem;
+    padding-bottom: 2rem;
+  }
+  
+  /* Section improvements */
+  .ign-cs-section {
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+  }
+  
+  .ign-cs-section-title {
+    font-size: 1.25rem;
+    margin-bottom: 0.75rem;
+  }
+  
+  /* Table improvements */
+  .ign-cs-results-table {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    margin-left: -1rem;
+    margin-right: -1rem;
+    padding: 0 1rem;
+  }
+  
+  .ign-cs-table-header,
+  .ign-cs-table-row {
+    min-width: 500px;
+    font-size: 0.8rem;
+    padding: 0.5rem;
+    gap: 0.5rem;
+  }
+  
+  /* Metrics grid */
+  .ign-cs-metrics-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.75rem;
+  }
+  
+  .ign-cs-metric-card {
+    padding: 1rem 0.5rem;
+  }
+  
+  .ign-cs-metric-value {
+    font-size: 1.25rem;
+  }
+  
+  /* Progress bars */
+  .ign-cs-progress-item {
+    margin-bottom: 1rem;
+  }
+  
+  .ign-cs-progress-label {
+    font-size: 0.875rem;
+  }
+  
+  .ign-cs-progress-value {
+    font-size: 1rem;
+  }
+  
+  /* Benefits */
+  .ign-cs-benefit-item {
+    gap: 0.75rem;
+  }
+  
+  .ign-cs-benefit-item svg {
+    width: 20px;
+    height: 20px;
+  }
+  
+  /* Footer */
+  .ign-cs-popup-footer {
+    padding: 1rem;
+    flex-direction: column;
+    gap: 0.75rem;
+    position: sticky;
+    bottom: 0;
+    background: #f5f5f7;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  
+  .ign-cs-popup-download {
+    width: 100%;
+    justify-content: center;
+    padding: 0.875rem;
+  }
+}
+
+/* Very small screens */
+@media (max-width: 374px) {
+  .ign-cs-popup-body {
+    padding: 0.75rem;
+  }
+  
+  .ign-cs-metrics-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .ign-cs-key-results {
+    grid-template-columns: 1fr;
+    text-align: left;
+  }
+  
+  .ign-cs-tab {
+    font-size: 0.625rem;
+    padding: 0.625rem 0.375rem;
+  }
+}
+
+/* Touch targets improvement */
+@media (hover: none) and (pointer: coarse) {
+  .ign-cs-view-details,
+  .ign-cs-download-link,
+  .ign-cs-popup-close,
+  .ign-cs-tab {
+    min-height: 44px;
+  }
+}
+
+/* ============================================
+   PRINT STYLES
+   ============================================ */
+@media print {
+  .ign-cs-popup {
+    display: none !important;
+  }
+  
+  .ign-cs-view-details,
+  .ign-cs-download-link {
+    display: none;
+  }
+}
+
+/* ============================================
+   REDUCED MOTION
+   ============================================ */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

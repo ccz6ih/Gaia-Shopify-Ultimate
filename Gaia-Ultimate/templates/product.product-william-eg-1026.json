@@ -1,0 +1,860 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_i38Qbz": {
+      "type": "slideshow",
+      "blocks": {
+        "hero_TnQ6Cr": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Starwalker Egypt Tour With William Henry",
+            "h1_title": false,
+            "title_size": 70,
+            "subheading": "October 20 - 31, 2026\nGaia Members get 10% off!",
+            "enlarge_subheading": false,
+            "link": "#offer",
+            "link_text": "Register Now",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#5ff1f1",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify://shop_images/CS17860_MPWH_Star1026_Hero_Banner_desktop.jpg",
+            "image_mobile": "shopify://shop_images/CS17860_MPWH_Star1026_Hero_Banner_mobile.jpg",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "hero_TnQ6Cr"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slides.name",
+      "settings": {
+        "full_width": true,
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "style": "arrows",
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "blocks_in_banner_fze6BE": {
+      "type": "blocks-in--banner",
+      "blocks": {
+        "section_Aifeqh": {
+          "type": "section",
+          "settings": {
+            "body-text": ""
+          }
+        }
+      },
+      "block_order": [
+        "section_Aifeqh"
+      ],
+      "name": "Blocks Below Banner",
+      "settings": {
+        "title": "",
+        "check-in-middle": false,
+        "btn-text": "",
+        "btn-link": "",
+        "btn-text-c": "",
+        "btn-link-c": ""
+      }
+    },
+    "rich_text_jngJQR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Wt7yU7": {
+          "type": "heading",
+          "settings": {
+            "title": "Awaken the Ancient Light Within",
+            "heading_size": "h2"
+          }
+        },
+        "text_ziF69K": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>The Ultimate Tour of the Greatest Show on Earth</strong></p><p>Join visionary author and mystic explorer William Henry on a once-in-a lifetime pilgrimage through the sacred sites of Ancient Egypt — the land of the gods, star beings, and divine ascension. This is more than a tour — it is an activation journey, a quest for the living wisdom of the ancient Starwalkers encoded in the temples, tombs, and timeless stones of this amazing land. </p><p>Something profound is happening in Egypt. Almost daily we hear of new discoveries, new possibilities. From the Giza Plateau to the Valley of the Kings revelations abound. It’s all about ancient civilizations, stargates and transformation. All part of William’s expertise. </p><p>On this exclusive journey, open to just 32 guests, you will walk the path of the initiates — from the Great Pyramid of Giza to the Temple of Isis at Philae, from Luxor and Karnak to the Valley of the Kings — guided by William’s deep and original insight into ancient Egyptian sacred technologies, Starwalker symbolism, and the mysteries of ascension.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Wt7yU7",
+        "text_ziF69K"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "color_scheme": "3",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "text_and_video_B9QVEz": {
+      "type": "text-and-video",
+      "name": "t:sections.text-and-video.presets.video_with_text.name",
+      "settings": {
+        "video_url": "https://vimeo.com/1153613388",
+        "subtitle": "",
+        "title": "An Invitation from William",
+        "heading_size": "h2",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "video_width": "66",
+        "layout": "center_bottom",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": true
+      }
+    },
+    "featured_video_8qUtkt": {
+      "type": "featured-video",
+      "disabled": true,
+      "custom_css": [],
+      "name": "t:sections.featured-video.presets.video.name",
+      "settings": {
+        "title": "",
+        "video_url": "https://vimeo.com/1145371571?share=copy&fl=sv&fe=ci",
+        "divider": false
+      }
+    },
+    "rich_text_t4H4rL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7ixc7R": {
+          "type": "heading",
+          "settings": {
+            "title": "Tour Highlights",
+            "heading_size": "h0"
+          }
+        },
+        "text_kNHJiC": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Private access inside the Great Pyramid and Paws of the Sphinx – Meditate in the King’s Chamber during a rare and powerful private ceremony.</p><p>Visit the Grand Egyptian Museum through William’s trained eye.</p><p>Luxor & Karnak Temples – Decode the language of light and sound etched into every wall.</p><p>Temple of Horus at Edfu – Uncover the Starwalker legacy and the blueprint of resurrection.</p><p>Sailing the Nile – Drift down the river of eternity on the exclusive  Sanctuary SunBoat III, surrounded by desert, sky, and stars.</p><p>Sacred Teachings – Daily mystical teaching and amazing historical presentations from William Henry.</p><p>Conscious Community – Travel with a group of like-minded seekers devoted to truth, healing, and cosmic remembrance.</p>"
+          }
+        },
+        "button_xgR3mf": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Sign Up Now"
+          }
+        },
+        "text_kyCnDc": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong>Questions? </strong>Connect with our travel manager. 👉 <a href=\"http://www.gaia.com/travelmanager\" target=\"_blank\" title=\"http://www.gaia.com/travelmanager\">Reserve a time.</a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_7ixc7R",
+        "text_kNHJiC",
+        "button_xgR3mf",
+        "text_kyCnDc"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "blocks_in_banner_6Re3zQ": {
+      "type": "blocks-in--banner",
+      "disabled": true,
+      "name": "Blocks Below Banner",
+      "settings": {
+        "title": "",
+        "check-in-middle": false,
+        "btn-text": "",
+        "btn-link": "",
+        "btn-text-c": "",
+        "btn-link-c": ""
+      }
+    },
+    "columns_1_xUtgUC": {
+      "type": "columns-1",
+      "blocks": {
+        "dropdown_UDRJYr": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 1: Cairo – Tuesday, October 20th",
+            "text": "<p>Upon arrival at Cairo Airport, you will be met by our Abercrombie & Kent tour manager who will assist you through customs and immigration before transferring you to your luxury accommodations at the Nile Four Seasons, Cairo. We’ll have an opening meeting, then enjoy our first evening together.</p>",
+            "image": "shopify://shop_images/Cairo_Airport_1.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#274150",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_m6Bgrp": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 2: Cairo - Wednesday, October 21st",
+            "text": "<p>We begin our Starwalker journey at the Grand Egyptian Museum, coming face to face with amazing masterpieces of Ancient Egypt, including the treasures of King Tutankhamun (all decoded by William). Overnight Four Seasons. Breakfast and lunch included.</p>",
+            "image": "shopify://shop_images/Tutankhamun_golden_throne.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#42617f",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_ybWNAH": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 3: Saqqara - Thursday, October 22nd",
+            "text": "<p>Today we explore Saqqara, the original ‘Starwalker Mystery School’, home of the Step Pyramid or ‘Stairway to Heaven’, followed by the awe-inspiring Serapeum. Overnight Four Seasons. Breakfast and lunch included.</p>",
+            "image": "shopify://shop_images/Step_Pyramid_Of_Djoser_Saqqara-2.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#63809f",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_keHFDe": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 4: Luxor - Friday, October 23rd",
+            "text": "<p>Transfer to beautiful Luxor and walk the sacred stones of Karnak Temple. Overnight Al Madoura Hotel, Luxor. Breakfast and lunch included.</p>",
+            "image": "shopify://shop_images/Temple_of_Khonsu_Karnak_Temple_Luxor.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#274150",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_LQRUQw": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 5: Luxor (West Bank) - Saturday, October 24th",
+            "text": "<p>Today, we tour the West Bank of the Nile with visits to Hatshepsut's temple, the Valley of Kings, and the astounding Colossi of Memnon, finishing with the incredible Medinet Habu temple. Breakfast and lunch included.</p>",
+            "image": "shopify://shop_images/Mortuary_Temple_of_Hatshepsut.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#42617f",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_WfUBR8": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 6: Luxor - Sunday, October 25th",
+            "text": "<p>After transferring to the Sunboat III, we will enjoy a visit to the Luxor Temple. The SB III is a truly spoiling experience - listed as one of Condé Nast’s Top 100 most beautiful boats in the world. You will experience the ultimate in service, superb food, delightful staff, and exquisite amenities. Breakfast, lunch & dinner included.</p>",
+            "image": "shopify://shop_images/Sanctuary_Sun_Boat_Nile_River.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#63809f",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_zkKE87": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 7: Denderah - Monday, October 26th",
+            "text": "<p>This Easter morning, we enjoy a peaceful drive through the Egyptian countryside to Denderah to visit the exquisite temple dedicated to Hathor, the goddess of abundance, love, and joy. Breakfast, lunch & dinner included.</p>",
+            "image": "shopify://shop_images/Wall_carving_Temple_of_Hathor_Dendera_Temple_complex.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#274150",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_yN3NJi": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 8: Edfu - Tuesday, October 27th",
+            "text": "<p>Edfu is next as we continue our exploration of the incredible collection of Ptolemaic temples that encode the secrets of the Starwalkers. Breakfast, lunch & dinner included.</p>",
+            "image": "shopify://shop_images/Carved_relief_Temple_of_Edfu.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#42617f",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_LEWRH7": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 9: Aswan - Wednesday, October 28th",
+            "text": "<p>Today, we visit Philae to receive the blessings of Isis-Hathor, the goddess of love and joy, at her beautiful island temple. Breakfast, lunch & dinner included.</p>",
+            "image": "shopify://shop_images/Temple_of_Hathor_Aswan.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#63809f",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_CPpRce": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 10: Giza - Thursday, October 29th",
+            "text": "<p>Today, we fly to Cairo. Upon landing, we follow the path of the Holy Family with a visit to Old Cairo. This evening we have a special private visit to the Great Pyramid, including the King’s Chamber. Overnight Mena House Hotel, Giza. Breakfast and lunch included.</p>",
+            "image": "shopify://shop_images/Group_picture_Pyramid_background.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#274150",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_RAmpQz": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 11: Giza - Friday, October 30th",
+            "text": "<p>The Sphinx welcomes us as we enjoy a private visit to integrate all the wonders we have seen. Farewell dinner. Overnight Mena House Hotel, Giza. Breakfast and dinner included.</p>",
+            "image": "shopify://shop_images/Group_pictures_Great_Sphinx_of_Gaza-2.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#42617f",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_MaPNb9": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 12: Departure - Saturday, October 31st",
+            "text": "<p>Journey home.</p>",
+            "image": "shopify://shop_images/Cairo_Airport_2.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#63809f",
+            "text_color": "#ffffff"
+          }
+        },
+        "heading_73DEHy": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "heading_size": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "dropdown_UDRJYr",
+        "dropdown_m6Bgrp",
+        "dropdown_ybWNAH",
+        "dropdown_keHFDe",
+        "dropdown_LQRUQw",
+        "dropdown_WfUBR8",
+        "dropdown_zkKE87",
+        "dropdown_yN3NJi",
+        "dropdown_LEWRH7",
+        "dropdown_CPpRce",
+        "dropdown_RAmpQz",
+        "dropdown_MaPNb9",
+        "heading_73DEHy"
+      ],
+      "custom_css": [
+        "h2 {padding-top: 70px; background-color: #c7ddd8;}",
+        ".index-section {background-color: #c7ddd8;}"
+      ],
+      "name": "t:sections.columns-1.presets.name",
+      "settings": {
+        "narrow_column": false,
+        "title": "Itinerary",
+        "heading_size": "h0",
+        "subheading": "Here’s the Starwalker 12-Day Spiritual Journey through Ancient Egypt",
+        "align_heading": "center",
+        "column_align_text": "center",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_pQtyM7": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/HERO_SHOT.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Meet Your Guide",
+        "heading_size": "h2",
+        "text": "<h3>William Henry</h3><p>With over 20 years of experience leading over 30 groups to Egypt, William Henry is singularly experienced to bring you phenomenal insight into the mysteries of Ancient Egypt and how they are returning today. Experience the real story behind the ancient gods - not as myth, but as encoded blueprints of human transformation. Explore with William in person his remarkable original research into the ancient star boats of the gods and the mysteries of the ancient Starwalkers. Let Egypt’s sacred imagery, cosmic alignments, and temple codes ignite your soul memory and awaken your divine self.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "color_scheme": "2",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_KeYyrE": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_EgR84Y": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "HTB, Connecticut",
+            "text": "<p>⭐⭐⭐⭐⭐</p><p>“William, it is with the fondest of memories and deepest gratitude that I send this note of appreciation. The tour was a phenomenal experience!! This was primarily due to the care and devotion with which you crafted this experience for us all. You allowed us to have the opportunity to discover for ourselves the treasures you have spent decades digging and searching for. Treasures not hoarded for your personal gain, but treasures joyously and freely shared for all who aspire to greater heights! A true master of their craft makes the labor seem effortless as they perform their art. Evidencing the labor is born of love. It was truly an expanding experience for me! I thank you!! Bravo!!” </p>"
+          }
+        },
+        "text_block_i88rjM": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "MB, Florida",
+            "text": "<p>⭐⭐⭐⭐⭐</p><p>\"My soul and I thank you from the deepest chambers of my being. My gratitude is immeasurable for the guidance, the wisdom and the adventure. This pilgrimage through Egypt has been one of the great blessing and highlights of my life. Each day unfolded like scroll of divine wisdom -- a living classroom of heart, history and spirit -- where past, present and future collide.\" </p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_EgR84Y",
+        "text_block_i88rjM"
+      ],
+      "name": "Text columns with icons",
+      "settings": {
+        "title": "From Our Past Attendees",
+        "heading_size": "h1",
+        "heading_position": "center",
+        "desktop_columns_per_row": 2,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "3",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false
+      }
+    },
+    "blocks_in_banner_mje9Tn": {
+      "type": "blocks-in--banner",
+      "name": "Blocks Below Banner",
+      "settings": {
+        "title": "",
+        "check-in-middle": false,
+        "btn-text": "click here",
+        "btn-link": "",
+        "btn-text-c": "",
+        "btn-link-c": ""
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "custom_AE8fJt": {
+          "type": "custom",
+          "settings": {
+            "code": "<a id=\"offer\" name=\"offer\" style=\"position: absolute;margin-top: -15rem;\"></a>"
+          }
+        },
+        "custom_haxfEm": {
+          "type": "custom",
+          "settings": {
+            "code": "<div style=\"display: flex; justify-content: center; padding: 10px 0;\">\n  <div style=\"background-color: #b6f7fa; border-radius: 50px; padding: 15px 40px; text-align: center;\">\n    <p style=\"margin: 0;\">\n      <strong>Need guidance?</strong><br>\n      Speak with our travel manager.<br>\n      <a href=\"https://www.gaia.com/travelmanager\" target=\"_blank\" style=\"color: #6a0dad; text-decoration: underline;\">\n        Book a time.\n      </a>\n    </p>\n  </div>\n</div>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show-def-q": true,
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "50297793-9b3d-4867-9832-cd6689a53dfe": {
+          "type": "quantity_selector",
+          "settings": {
+            "hide-def-q": false
+          }
+        },
+        "sales_point4": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "lock",
+            "icon_color": "",
+            "text": "Secure payments"
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "text_hVmV38": {
+          "type": "text",
+          "settings": {
+            "text": "📌 Take a moment to review the things to know below."
+          }
+        },
+        "downpay_downpay_form_GgFMiq": {
+          "type": "shopify://apps/downpay/blocks/downpay-form/da700d84-7ed1-410a-a8b5-5cb99a33758a",
+          "settings": {
+            "default_to_pay_in_full": false,
+            "show_payment_methods": false,
+            "show_deposit_amount": true,
+            "show_border": true,
+            "show_help_text2": "deposit",
+            "show_release_date2": "never",
+            "select_style": "radio",
+            "custom_css": "",
+            "section_header": "",
+            "deposit_option_label": "(non-refundable)",
+            "full_pay_option_label": "",
+            "deposit_help_text": "",
+            "release_date_text": "Release Date Text",
+            "add_to_cart_button_label": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "forms_inline_JGTUTM": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "disabled": true,
+          "settings": {
+            "form_id": "723787",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#ffffff",
+            "links_color": "#1878b9",
+            "errors_color": "#e02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 24,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        }
+      },
+      "block_order": [
+        "custom_AE8fJt",
+        "custom_haxfEm",
+        "price",
+        "variant_picker",
+        "50297793-9b3d-4867-9832-cd6689a53dfe",
+        "sales_point4",
+        "inventory_status",
+        "text_hVmV38",
+        "downpay_downpay_form_GgFMiq",
+        "buy_buttons",
+        "forms_inline_JGTUTM"
+      ],
+      "custom_css": [],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": false,
+        "h1_title": true,
+        "hide_media": false,
+        "align_text": "left",
+        "image_position": "left",
+        "image_container_size": "medium",
+        "product_image_size": "natural",
+        "product_zoom_enable": true,
+        "thumbnail_position": "below",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "members_block_events_page_jM9kQi": {
+      "type": "members-block-events-page",
+      "disabled": true,
+      "name": "Members Block Events",
+      "settings": {
+        "add-top-padding": false,
+        "add-bottom-padding": true,
+        "title": "Gaia Marketplace Gift Card",
+        "btn-text": "Gift Card Options Here",
+        "btn-link": "https://marketplace.gaia.com/"
+      }
+    },
+    "columns_1_N4QetX": {
+      "type": "columns-1",
+      "blocks": {
+        "dropdown_MpQ7eL": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Retail Price Inclusions",
+            "text": "",
+            "dropdown_text": "<p>Private access inside the Great Pyramid and Paws of the Sphinx – Meditate in the King’s Chamber and feel the transformative power of this amazing ascension instrument.</p><p>Visit the Grand Egyptian Museum through William’s trained eye.</p><p>Luxor & Karnak Temples – Decode the ascension teachings of the ages.</p><p>Denderah -- William takes you into the heart of the Divine Feminine mysteries.</p><p>Temple of Horus at Edfu – Uncover the Starwalker legacy and the blueprint of resurrection.</p><p>Sailing the Nile – Drift down the river of eternity on the private  Sanctuary SunBoat III, surrounded by desert, sky, and stars.</p><p>Sacred Teachings – Daily mystical teaching and amazing historical presentations from William Henry, who has led over 30 tours to Egypt.</p><p>Conscious Community – Travel with a group of like-minded seekers devoted to connecting with the greatest mysteries of humanity.</p><p>An unmatched program of true five star hotels, an unparalleled boat and A&K service.</p>",
+            "dropdown_image_fill": true,
+            "background_color": "#274150",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_ajAxaD": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Retail Price Exclusions",
+            "text": "",
+            "dropdown_text": "<p>Private access inside the Great Pyramid and Paws of the Sphinx – Meditate in the King’s Chamber and feel the transformative power of this amazing ascension instrument.</p><p>Airfare from your country, and back to your country.</p><p>Entry visa to Egypt, which will cost approximately $25 USD per person.</p><p>Passport fees or charges (if any).</p><p>Travel Insurance (Cancellation and Medical Insurance).</p><p>Personal expenses, such as laundry service, mini bar charges, drinks with meals, and health club fees, etc.</p><p>Gratuities: $450 per person tipping for bus drivers, tour guides, hotel staff, restaurant staff, etc.</p><p>Extra meals not included in itinerary. </p><p>NOTE: Alcoholic beverages with meals are NOT included.</p><p>Emergency evacuation.<br/></p>",
+            "dropdown_image_fill": true,
+            "background_color": "#274150",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_zxUc4t": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Reservation and Payment",
+            "text": "",
+            "dropdown_text": "<p>To secure your booking, $5,000.00 non-refundable deposit for the reservation will be required at the time of booking. Please note that your booking will only be considered confirmed once the payment has been received.</p>",
+            "dropdown_image_fill": true,
+            "background_color": "#274150",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_F3F9mP": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Cancellation and Refunds",
+            "text": "",
+            "dropdown_text": "<p>If you choose to cancel your participation in this tour, we will not refund any deposits or subsequent payments regardless of circumstances. Given this policy, <span style=\"text-decoration:underline\">we strongly suggest</span> that you purchase travel insurance in case of emergencies or unforeseen circumstances that may arise at your end.</p><p>Travel insurance will protect your investment in case of unforeseen situations or emergencies. If you choose to purchase travel insurance, <span style=\"text-decoration:underline\">which we </span><span style=\"text-decoration:underline\"><strong>highly recommend</strong></span>, you must do so on your own. When you purchase this insurance, please take some time to double check what is covered. Each state has slightly different policies. Be sure that you are getting coverage that includes a refund if the Host of the retreat is unavailable to attend if you wish to apply that option.</p>",
+            "dropdown_image_fill": true,
+            "background_color": "#274150",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_aMTFHh": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Waiver of Responsibility",
+            "text": "",
+            "dropdown_text": "<p>By signing up to the Tour you agree to our Terms, Deposit Conditions and Waiver.</p><p>William Henry have worked diligently to make all the arrangements for our journey together in Egypt. However, William Henry will not be held liable for delays, theft, damage, injury, or any other irregularities that may occur during the journey. We will not be held liable for any changes or delays in airline schedules or missed connections; injury, loss, or damage to persons or property; additional expenses resulting from changes in exchange rates, tariffs, or itinerary; any transportation issues or problems with vehicles utilized on the tour; additional expenses incurred due to illness, weather conditions, protests, war, terrorism, quarantine, or other causes; and losses due to cancellations not subject to our Terms and Conditions. </p>",
+            "dropdown_image_fill": true,
+            "background_color": "#274150",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_Ypd9Wp": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Changes",
+            "text": "",
+            "dropdown_text": "<p>This Itinerary is subject to changes to adapt to possible alterations in domestic flight times or other unforeseen circumstances. The content will remain the same, barring any unanticipated complications, and will include many delightful “extras” and surprises.</p>",
+            "dropdown_image_fill": true,
+            "background_color": "#274150",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_rzQq4A": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Insurance",
+            "text": "",
+            "dropdown_text": "<p>We highly recommend that all participants obtain travel insurance. Travel Insured International offers insurance for trip cost, trip cancellation & interruption, and pays for loss due to unforeseen circumstance, death, injury, or illness to you or a member of your family. It also includes coverage for missed connections due to weather, pays for lost deposits due to the financial default of the airline, the tour operator, or cruise line. It pays for baggage delays, travel delays, medical expenses and emergency assistance.</p>",
+            "dropdown_image_fill": true,
+            "background_color": "#274150",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "dropdown_MpQ7eL",
+        "dropdown_ajAxaD",
+        "dropdown_zxUc4t",
+        "dropdown_F3F9mP",
+        "dropdown_aMTFHh",
+        "dropdown_Ypd9Wp",
+        "dropdown_rzQq4A"
+      ],
+      "name": "t:sections.columns-1.presets.name",
+      "settings": {
+        "narrow_column": false,
+        "title": "Things to Know",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "2",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        }
+      },
+      "block_order": [
+        "description",
+        "tab",
+        "contact"
+      ],
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "you_may_also_like_standard_pdp_yidgV7": {
+      "type": "you-may-also-like-standard-pdp",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like"
+      }
+    },
+    "same_collection_standard_dQAEBk": {
+      "type": "same-collection-standard",
+      "disabled": true,
+      "settings": {
+        "title": "More From"
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "product_recommendations_heading": "You may also like",
+        "related_count": 3,
+        "products_per_row": 3
+      }
+    },
+    "more-products-vendor": {
+      "type": "more-products-vendor",
+      "disabled": true,
+      "settings": {
+        "products_per_row": 3,
+        "max_products": 3
+      }
+    },
+    "more-products-collection": {
+      "type": "more-products-collection",
+      "settings": {
+        "products_per_row": 3,
+        "max_products": 3
+      }
+    },
+    "members_block_events_page_h668Gc": {
+      "type": "members-block-events-page",
+      "custom_css": [],
+      "name": "Members Block Events",
+      "settings": {
+        "add-top-padding": false,
+        "add-bottom-padding": true,
+        "title": "Gaia members enjoy 10% off all Marketplace items.",
+        "btn-text": "Learn More",
+        "btn-link": "https://marketplace.gaia.com/"
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {}
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "2"
+      }
+    }
+  },
+  "order": [
+    "slideshow_i38Qbz",
+    "blocks_in_banner_fze6BE",
+    "rich_text_jngJQR",
+    "text_and_video_B9QVEz",
+    "featured_video_8qUtkt",
+    "rich_text_t4H4rL",
+    "blocks_in_banner_6Re3zQ",
+    "columns_1_xUtgUC",
+    "text_and_image_pQtyM7",
+    "text_with_icons_KeYyrE",
+    "blocks_in_banner_mje9Tn",
+    "main",
+    "members_block_events_page_jM9kQi",
+    "columns_1_N4QetX",
+    "sub",
+    "you_may_also_like_standard_pdp_yidgV7",
+    "same_collection_standard_dQAEBk",
+    "recommendations",
+    "more-products-vendor",
+    "more-products-collection",
+    "members_block_events_page_h668Gc",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

@@ -1,0 +1,1884 @@
+{
+  "sections": {
+    "slideshow_emL8WA": {
+      "type": "slideshow",
+      "blocks": {
+        "hero_NqWKzE": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Ancient Peru Tour",
+            "h1_title": false,
+            "title_size": 70,
+            "subheading": "With Host Jorge Luis and Special Guest Host Matías De Stefano. Plus, enjoy a private visit to see the Nazca Mummies.\nNOVEMBER 24 – DECEMBER 7, 2025\nGaia Members get 10% off!",
+            "enlarge_subheading": true,
+            "link": "#offer",
+            "link_text": "Save Your Spot",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#01b4b4",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/CS13699_Marketplace_CHANGE_to_Tour_of_Ancient_Peru_assets_add_Jorge_Luis_en_US_Hero_Banner_1.jpg",
+            "overlay_opacity": 4
+          }
+        }
+      },
+      "block_order": [
+        "hero_NqWKzE"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": 0,
+        "mobile_size": 20,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_Gcwtmz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WwyKKQ": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "heading_size": "h2"
+          }
+        },
+        "text_W4YYQp": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Experience a profound connection to Peru’s ancient energy on this once-in-a-lifetime guided tour through the mystical landscapes of South America. From the lush Sacred Valley to the desert mystery of the Nazca region, this immersive journey is designed to awaken memory, elevate awareness, and honor the timeless cultural heritage of the Andes.<br\/><br\/>For 3 days of the tour, you will be with Matías De Stefano on this ancient initiatic path to embrace and activate your inherent Yo Soy\/I AM presence. Immersed in the sacred energies of the Andean Apus, Matías will guide and \"Remember\" with you, at the cosmic earth axis gateways of Machu Picchu and Ollantaytambo, two sites revered not only as ancient ruins, but as living portals to consciousness.. <\/p><p>These sacred places have been utilized for awakening by ancient civilizations, far beyond recorded time. Whether you're drawn by the power of sacred geometry, ley lines, or ancestral echoes, this portion of the machu picchu tours offers a rare opportunity to experience these wonders from a multidimensional lens.<\/p><p>For the duration of the tour you will be in excellent hands with our dedicated guide. Jorge Luis Delgado, descendant of the Incas and Aymara native culture is a Chakaruna. For 30 years his award-winning tour company has been leading people on memorable journeys to sacred sites. We will be staying at his Taypikala Hotels located in stunning Andean power spots.<\/p><p>This private tour blends deep esoteric exploration with curated sightseeing, giving you access to spaces most travelers only dream of. Between initiations and teachings, you’ll enjoy spaciousness to integrate and connect—whether over a shared meal, a sunrise at Machu Picchu, or a quiet evening under the stars.<\/p><p>Let each day trip and full day on this itinerary remind you of your own ancient memory—alive, waiting, and ready to be reawakened.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WwyKKQ",
+        "text_W4YYQp"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "featured_video_NhXk4G": {
+      "type": "featured-video",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "video_url": "https:\/\/vimeo.com\/1020349261\/ffeedfab8f",
+        "divider": false
+      }
+    },
+    "061b0d20-e98a-47d8-9f35-f44f31d51acc": {
+      "type": "columns-2",
+      "blocks": {
+        "25924d21-e6eb-4634-9fb3-74174334f5a8": {
+          "type": "heading",
+          "settings": {
+            "parent_column": "left",
+            "title": "What’s Included:",
+            "heading_size": "h3"
+          }
+        },
+        "b8c1312f-b1b8-40c3-900b-e160b4005f4c": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "All Hotel Accommodations"
+          }
+        },
+        "template--20197640634689__061b0d20-e98a-47d8-9f35-f44f31d51acc-sales_point-1": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Itinerary Scheduled Domestic Flights in Peru"
+          }
+        },
+        "sales_point_wUFbED": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Daily Breakfast "
+          }
+        },
+        "a8081e08-ab6c-43f5-a21e-8cc447547627": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Option for Free Group Transfer from Airport to Hotel on Nov. 24th"
+          }
+        },
+        "sales_point_yLPmMm": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Departure Group Transfers on December 7th from the hotel to airport"
+          }
+        },
+        "b2be6884-0915-4620-b2e6-ff16008554ab": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Private bus transportation during the whole journey"
+          }
+        },
+        "89d3b5a2-857a-41aa-a311-2e4e8f86129d": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Entrance fees to archaeological sites or places mentioned in the program "
+          }
+        },
+        "6a56ee84-0167-4993-8048-43fbb072343b": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Private visit to see the Nazca Mummies "
+          }
+        },
+        "5bcc93be-e73c-4b39-bcdf-3770ebce414d": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Flight over the Nazca Lines "
+          }
+        },
+        "1296100e-247f-4e78-b0a9-b111e628fd86": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Train to Machu Picchu (The Voyager by Inka Rail) "
+          }
+        },
+        "efc7ecc6-d7c7-491b-87b2-c9126ee9e9e6": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Entrance fees to Machu Picchu  "
+          }
+        },
+        "sales_point_EWxXmY": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Private boat to the islands in Bolivia "
+          }
+        },
+        "sales_point_3aaaix": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Ceremonies"
+          }
+        },
+        "0e175e8f-70ac-4d1d-9d94-33e0466bfb9f": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<p> <\/p>"
+          }
+        },
+        "46e398c5-1ee7-41de-bb33-ad10c56dc2ee": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Daily lunch (excl. arrival & departure days)"
+          }
+        },
+        "7da16b5a-30d9-4dc1-b1ce-1acce219312e": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Select dinners"
+          }
+        },
+        "7f90e356-b9b1-4d55-8da8-844f4a75e7f0": {
+          "type": "heading",
+          "settings": {
+            "parent_column": "right",
+            "title": "Iconic Experiences:",
+            "heading_size": "h3"
+          }
+        },
+        "2916552a-4524-4aff-acbc-634e4afb6d00": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "right",
+            "reveal": true,
+            "title": "Machu Picchu",
+            "text": "",
+            "dropdown_text": "<p>Greet the morning sun amongst the glorious vistas of Machu Picchu one of the new 7 wonders of the world. A well kept secret by the Quechua people of the region and hidden from the world for centuries. Archaeologist Hiram Bingham led by an 11 year old boy saw the ancient city for the first time in 1911 and world wide attention was brought to this magnificent feat of architecture indicating the presence of an advanced civilization. <\/p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.<\/li>\n<li>Use this text to answer questions in as much detail as possible for your customers.<\/li>\n<\/ul>",
+            "dropdown_image": "shopify:\/\/shop_images\/Peru-Tour-Machu-Picchu-Llama.jpg",
+            "dropdown_image_fill": true,
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "aaa35b1a-8f7f-40b4-88b2-307c26dd6c43": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "right",
+            "reveal": false,
+            "title": "Nazca Mummies",
+            "text": "",
+            "dropdown_text": "<p>We will have a special private visit to see and learn about the mysteries of the anomalous humanoid mummies discovered in the desert near Nazca Peru. Leading researchers exploring the mysteries, say the Nazca Mummies may be the greatest scientific discovery of our time. <\/p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.<\/li>\n<li>Use this text to answer questions in as much detail as possible for your customers.<\/li>\n<\/ul>",
+            "dropdown_image": "shopify:\/\/shop_images\/1.Maria_Nazca_Mummy-IMG_7065_1.jpg",
+            "dropdown_image_fill": true,
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "643bace9-4996-4be4-b931-2de728a157a3": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "right",
+            "reveal": false,
+            "title": "Ollantaytambo",
+            "text": "",
+            "dropdown_text": "<p>Ollantaytambo, an archaeological gem at the confluence of the Patakancha and Urubamba Rivers, showcases terraced ruins and Incan-style houses. This site, described variously as a fortress, temple, or royal estate, exemplifies advanced agricultural engineering, featuring massive polyhedron boulders and trapezoidal doorways. A hike up seven levels leads to the Sun God Temple, home to six monumental rose rhyolite granite monoliths, each weighing 50 tons. The summit known as the Temple Of The Air offers breathtaking views of the Sacred Valley, inviting you to imagine soaring on the wind like a condor. Ollantaytambo is a captivating journey through the brilliance of a lost civilization.<\/p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.<\/li>\n<li>Use this text to answer questions in as much detail as possible for your customers.<\/li>\n<\/ul>",
+            "dropdown_image": "shopify:\/\/shop_images\/Peru-Tour-Ollantaytambo.jpg",
+            "dropdown_image_fill": true,
+            "background_color": "#2e2767",
+            "text_color": "#f4f5f7"
+          }
+        },
+        "cab40b70-71f5-4157-900c-344ccf2d5e06": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "right",
+            "reveal": false,
+            "title": "Amaru Muru",
+            "text": "",
+            "dropdown_text": "<p>Amaru Muru also known as “Hayu Marca or Willka Uta: “Place of the sun or gate of the gods.” This magnanimous rock structure is surrounded by mystery and ancient legends. A stunning doorway is carved into the ancient rock wall and faces east, toward Lake Titicaca, the Island of the Sun in Bolivia and the distant, sacred snow-capped mountains.<\/p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.<\/li>\n<li>Use this text to answer questions in as much detail as possible for your customers.<\/li>\n<\/ul>",
+            "dropdown_image": "shopify:\/\/shop_images\/Peru-Tour-Amaru-Muru.jpg",
+            "dropdown_image_fill": true,
+            "background_color": "#2e2767",
+            "text_color": "#f4f5f7"
+          }
+        },
+        "bd48c292-e8fb-405b-9fc2-3e92ec363226": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "parent_column": "right",
+            "reveal": false,
+            "title": "Island of the Sun Bolivia",
+            "text": "",
+            "dropdown_text": "<p>We will take a private boat to visit the beautiful<strong> Isla Del Sol. O<\/strong>riginally known as Titi Khar'ka, the 'rock of the puma' from which Lake Titicaca gets its name. <strong>A sacred place for the Aymara people <\/strong>and believed to be <strong>the birthplace of the Inca Empire<\/strong>. There are over 80 ancient ruins that predate the Inca empire to include the Chinkana and Pillkukayna,<\/p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.<\/li>\n<li>Use this text to answer questions in as much detail as possible for your customers.<\/li>\n<\/ul>",
+            "dropdown_image": "shopify:\/\/shop_images\/Peru-Tour-Stone-Table.jpg",
+            "dropdown_image_fill": true,
+            "background_color": "#2e2767",
+            "text_color": "#f4f5f7"
+          }
+        }
+      },
+      "block_order": [
+        "25924d21-e6eb-4634-9fb3-74174334f5a8",
+        "b8c1312f-b1b8-40c3-900b-e160b4005f4c",
+        "template--20197640634689__061b0d20-e98a-47d8-9f35-f44f31d51acc-sales_point-1",
+        "sales_point_wUFbED",
+        "a8081e08-ab6c-43f5-a21e-8cc447547627",
+        "sales_point_yLPmMm",
+        "b2be6884-0915-4620-b2e6-ff16008554ab",
+        "89d3b5a2-857a-41aa-a311-2e4e8f86129d",
+        "6a56ee84-0167-4993-8048-43fbb072343b",
+        "5bcc93be-e73c-4b39-bcdf-3770ebce414d",
+        "1296100e-247f-4e78-b0a9-b111e628fd86",
+        "efc7ecc6-d7c7-491b-87b2-c9126ee9e9e6",
+        "sales_point_EWxXmY",
+        "sales_point_3aaaix",
+        "0e175e8f-70ac-4d1d-9d94-33e0466bfb9f",
+        "46e398c5-1ee7-41de-bb33-ad10c56dc2ee",
+        "7da16b5a-30d9-4dc1-b1ce-1acce219312e",
+        "7f90e356-b9b1-4d55-8da8-844f4a75e7f0",
+        "2916552a-4524-4aff-acbc-634e4afb6d00",
+        "aaa35b1a-8f7f-40b4-88b2-307c26dd6c43",
+        "643bace9-4996-4be4-b931-2de728a157a3",
+        "cab40b70-71f5-4157-900c-344ccf2d5e06",
+        "bd48c292-e8fb-405b-9fc2-3e92ec363226"
+      ],
+      "custom_css": [
+        "h2 {max-width: 750px; margin-left: auto; margin-right: auto;}"
+      ],
+      "settings": {
+        "title": "Visit the Iconic Ancient Sites Of Peru With Exclusive Access To Local Treasures & The Nazca Mummies!",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "Register Now",
+        "cta_button_url": "#offer",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "85e20baa-20e7-4e15-961d-dc2232ca0e16": {
+      "type": "map",
+      "disabled": true,
+      "settings": {
+        "map_title": "",
+        "heading_size": "h3",
+        "heading_position": "left",
+        "address": "",
+        "map_address": "Lima",
+        "api_key": "AIzaSyCGvtT63CU5qr-RVFMbrPgnOENoN9EKmdA",
+        "map_zoom": 6,
+        "map_style": "retro",
+        "map_simplified": true,
+        "map_control": "draggable_onclick",
+        "show_button": false,
+        "background_image": "shopify:\/\/shop_images\/egypt-cairo-map_ab053abb-c115-45fc-8865-308d8ddf3d63.jpg",
+        "lazyload_images": true
+      }
+    },
+    "e050c6d5-44c1-45b8-88c2-e0650f6f4b08": {
+      "type": "columns-1",
+      "disabled": true,
+      "settings": {
+        "narrow_column": false,
+        "title": "Itinerary & Map",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "7aed34aa-1760-4d6f-8ff3-2be2dc756274": {
+      "type": "background-image-text",
+      "disabled": true,
+      "settings": {
+        "subtitle": "",
+        "title": "",
+        "heading_size": "h1",
+        "heading_position": "center",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/egypt-cairo-map_ab053abb-c115-45fc-8865-308d8ddf3d63.jpg",
+        "layout": "left",
+        "height": 550,
+        "parallax": true,
+        "parallax_direction": "left",
+        "lazyload_images": true
+      }
+    },
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc3": {
+      "type": "testimonials",
+      "blocks": {
+        "7dce2a2f-2ef5-43fc-b9a1-f0bcc76544c9": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The experiences that I had both inside the temples and pyramids were astounding.  Physical energy increases and healings that I experienced on this trip are like non before.”<\/p>",
+            "author": "Susan P.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“You have to go to Egypt with Gaia because of the special access to Giza without the crowds, it’s a completely different experience to be there alone at sunset when it’s quiet.”<\/p>",
+            "author": "Dana S.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“An extraordinary and unforgettable tour. Can't sing the praise loud enough so many extras and special days.”<\/p>",
+            "author": "Daniela S.",
+            "author_info": ""
+          }
+        },
+        "5a6a0c29-9918-45f2-a760-c3d787a8a462": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“Wonderful to not to worry about any type of logistics; I would recommend 100% the tour to everybody”<\/p>",
+            "author": "Jorge F.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The accommodations in Giza and Luxor exceeded all our expectations! The food was fabulous.”<\/p>",
+            "author": "Carmen S.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The trip was life changing for me... it was a spiritual calling to be there and the entire experience, people included, was ineffable from start to finish. Life will never be the same for me.”<\/p>",
+            "author": "James C. ",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "7dce2a2f-2ef5-43fc-b9a1-f0bcc76544c9",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1",
+        "5a6a0c29-9918-45f2-a760-c3d787a8a462",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".testimonial-stars {color: #01b4b4;}"
+      ],
+      "settings": {
+        "title": "Customer Reviews",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "2"
+      }
+    },
+    "6db691b5-0534-45ec-97a0-e4a6c1dcff87": {
+      "type": "columns-1",
+      "blocks": {
+        "b3aeaf69-97a6-4e33-af39-c15ac9f01b04": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/egypt-cairo-map.jpg",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "cf73ead0-1d61-4710-911f-92abbd89cd91": {
+          "type": "heading",
+          "settings": {
+            "title": "Itinerary",
+            "heading_size": "h1"
+          }
+        },
+        "ece66265-849f-4144-a570-dd9d83ba0e5f": {
+          "type": "heading",
+          "settings": {
+            "title": "What You'll See",
+            "heading_size": "h3"
+          }
+        },
+        "57393d7c-eaea-43e6-934b-e35643791451": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 1: NOV 24, 2025 - ARRIVAL IN LIMA",
+            "text": "<ul><li>OVERNIGHT IN MIRAFLORES - LIMA<br\/>HOTEL: <a href=\"https:\/\/www.melia.com\/en\/hotels\/peru\/lima\/innside-lima-miraflores\" target=\"_blank\" title=\"https:\/\/www.melia.com\/en\/hotels\/peru\/lima\/innside-lima-miraflores\">INNSIDE BY MELIA MIRAFLORES<\/a><strong>‬<\/strong><\/li><\/ul><p>Guests arriving <strong>before or after Day 1 (November 24th)<\/strong> will need to arrange and cover the cost of their own airport-to-hotel transfers. Only the <strong>November 24th transfer<\/strong> is included in the program fee.<\/p>",
+            "image": "shopify:\/\/shop_images\/Lima_Daina.heic",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "46f98c92-e505-4141-a9a0-fa35c3e1337c": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 2: NOV 25, 2025 - BUS RIDE TO ICA. FLY OVER THE NAZCA LINES",
+            "text": "<ul><li>AM: HOTEL CHECKOUT & BUS RIDE TO ICA <\/li><li>Lunch Suggestions Provided By Kontiki<\/li><li>PM: FLY OVER THE NAZCA LINES<\/li><li>OVERNIGHT IN ICA - LAS DUNAS HOTEL<br\/><\/li><\/ul><p>In the vast silence of the desert, the Nazca Lines emerge—giant geoglyphs etched into the earth with purpose still unknown. From above, we witness animals, birds, and the mysterious \"Astronaut\" figure, carved into stone as if reaching to the stars. The ceremonial city of Kawachi asks ancient questions: “Where do you see?” and “Where are you seen?” Von Däniken proposed that these markings were made for sky-bound visitors, their “fiery chariots” leaving imprints the Nazcans preserved and expanded, possibly viewing them as sacred runways. As we fly over these majestic shapes, we touch the edge of a mystery that continues to stir both science and spirit.<\/p>",
+            "image": "shopify:\/\/shop_images\/Peru-Tour-Nazca-Lines.jpg",
+            "dropdown_text": "<p>In Nazca, we reconnect with the profound mystery of an ancient culture that etched wisdom into the desert — each design pulsing with its own frequency. At the heart of this civilization lies <em>Kawachi<\/em>, the main ceremonial city. Its name asks, “Where do you see?” and “Where are you seen?” — inviting the timeless question: <em>Who were these lines made for, if not for those who could fly?<\/em><\/p><p>We’ll fly over the iconic Nazca Lines, visible only from above. Von Daniken claims that aliens landed in the Nazca Desert back when humans were still evolving from primitive beings. When the alien vehicles touched down, they gouged tracks into the desert plain.<\/p><p>According to his theory, the ancient Nazcan natives would have believed that these lines were made by the \"fiery chariots of the sky gods.\" They carefully preserved the tracks the \"gods' chariots” had made and even extended them in all directions, potentially viewing them as pathways or landing pads for future alien visits.  <\/p><p>Among the designs: a monkey, dog, whale, and soaring birds like the condor, hummingbird, and heron. Most mysterious of all: the “Astronaut,” a wide-eyed figure carved into the hillside.<\/p><p>Surrounded by sweeping lines and sacred geometry, this visit is more than a stop — it’s a deep encounter with the unseen wisdom of the ancients.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "af9886df-0842-456c-a4da-f86a8fae9128": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 3: NOV 26, 2025 - SPECIAL VISIT TO SEE THE NAZCA MUMMIES IN ICA",
+            "text": "<ul><li>PRIVATE VISIT TO THE NAZCA MUMMIES<\/li><li>VISIT HUACACHINA, and take the bus back to Lima<\/li><li>OVERNIGHT IN <a href=\"https:\/\/www.ihg.com\/holidayinn\/hotels\/us\/en\/lima\/limap\/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-PE-_-LIMAP\" target=\"_blank\" title=\"https:\/\/www.ihg.com\/holidayinn\/hotels\/us\/en\/lima\/limap\/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-PE-_-LIMAP\">HOLIDAY INN - LIMA AIRPORT<\/a><br\/><\/li><\/ul><p><strong>The Nazca Mummies — Guardians of Ancient Memory<br\/><\/strong>Hidden beneath the desert sands, the Nazca Mummies lie in subterranean tombs, offering a glimpse into an era lost to time. Preserved with otherworldly precision, their forms challenge conventional history. At ICA University, we meet with researchers exploring their enigmatic origins—some calling them the greatest discovery of our age.<\/p><p><strong>Huacachina — Oasis of Legend<br\/><\/strong>A shimmering lagoon nestled among endless dunes, Huacachina is said to be born of a princess’s sorrow. Fed by underground springs and surrounded by myth, it invites us to rest, reflect, and receive the desert’s quiet wisdom.<\/p>",
+            "image": "shopify:\/\/shop_images\/4_Maria_For_Itinerary_Mummie_visit_section.png",
+            "dropdown_text": "<p>In the arid desert plains of southern Peru, the mysterious Nazca Mummies await—silent witnesses to a forgotten age and stewards of a deeper cosmic story. Discovered in subterranean tombs near the Nazca Lines, these preserved beings spark both awe and wonder, raising profound questions about  our place in the universe.<\/p><p>Our time at ICA University with the main researchers of these enigmatic mummies will be unique and deeply informative. Leading researchers exploring these mysteries, say the Nazca Mummies may be the greatest scientific discovery of our time. Come with an open heart and an open mind as we seek connection with the timeless wisdom carried by the desert winds and the beings who once walked among the stars.<\/p><p>Huacachina: Oasis of Legend<\/p><p>Hidden among towering sand dunes, Huacachina is a natural desert oasis formed by underground springs. According to legend, it was created by the tears of a heartbroken Incan princess. Her sorrow gave birth to the lagoon—earning it the name “Huacachina,” or “weeping woman” in Quechua.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "665f407f-c58f-4cfe-8e14-b0c7e48b8013": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 4: NOV 27, 2025 - FLY TO CUSCO – ARRIVE IN URUBAMBA‬‭",
+            "text": "<ul><li>DOMESTIC FLIGHT TO CUSCO, PERU, WITH A DIRECT  TRANSFER FROM THE AIRPORT TO THE HOTEL<\/li><li>VISIT CHINCHERO EN ROUTE TO THE HOTEL<\/li><li>HOTEL ARRIVAL: TAKE TIME TO REST AND ACCLIMATE TO THE ALTITUDE <\/li><li>OVERNIGHT STAY IN URUBAMBA - <a href=\"https:\/\/www.taypikala.com\/en\/hotel-taypikalavalle-in-urubamba\/\" target=\"_blank\" title=\"https:\/\/www.taypikala.com\/en\/hotel-taypikalavalle-in-urubamba\/\">TAYPIKALA VALLE SAGRADO HOTEL<\/a><\/li><\/ul><p>We arrive in Cusco, cradle of Andean civilization, and follow energetic lines into the Sacred Valley. Flanked by snow-capped Apus and the flowing Urubamba River, the land pulses with ancient power. In Chinchero, a vibrant village rich in textile tradition, we participate in a Kintu ceremony—offering coca leaves to the mountains with intention and gratitude. At Taypikala Retreat Center, peace surrounds us. We settle into the rhythm of the valley, letting the land open our hearts.<\/p>",
+            "image": "shopify:\/\/shop_images\/Taypikala_Urubamba_Tour_will_stay_here.jpg",
+            "dropdown_text": "<p>We arrive in Cusco, carried by the blessings of the Aguas—multi-dimensional beings embodied in the sacred, snow-capped peaks. These majestic mountains offer a powerful soul-opening, inviting us into deeper connection with spirit and self.<\/p><p>Following ancient energetic lines, we journey into the Sacred Valley, a fertile, luminous region long known as the spiritual heart of the Andes. Cradled by the towering Apus and nourished by the sacred Urubamba River, the valley holds a timeless energy that awakens and transforms.<\/p><p>En route to Urubamba—the “Fields of Light”—we pause in Chinchero, a vibrant weaving village where women carry forward ancestral textile traditions using natural dyes and ancient techniques.<\/p><p>Here, we take part in a traditional Kintu ceremony, offering three coca leaves to the mountain spirits, guided by Mama Cuca as we send our heartfelt intentions from the inner Sun to the unseen world.<\/p><p>Our day ends at Taypikala Retreat Center, a serene sanctuary on the banks of the Urubamba River. Surrounded by beauty and peace, we settle in, connect with the land, and begin to receive the healing gifts of the Sacred Valley.<\/p><p> <\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "a0ac19a9-eb3f-4293-b194-c7a3b463e4f6": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 5: NOV 28, 2025 - VISIT OLLANTAYTAMBO",
+            "text": "<ul><li><strong>Special Guest Host, Matías de Stefano<\/strong><\/li><li>OVERNIGHT STAY IN URUBAMBA - <a href=\"https:\/\/www.taypikala.com\/en\/hotel-taypikalavalle-in-urubamba\/\" target=\"_blank\" title=\"https:\/\/www.taypikala.com\/en\/hotel-taypikalavalle-in-urubamba\/\">TAYPIKALA VALLE SAGRADO HOTEL<\/a><br\/><\/li><\/ul><p><strong>Ollantaytambo — University of the Universe<br\/><\/strong>At the convergence of three valleys, Ollantaytambo rises like a cosmic map, its design mirroring celestial order. Known as Tambo, this sacred site was a center of solar practices and spiritual training.<br\/><br\/><strong>Here, with Matías De Stefano,<\/strong> we engage with ancient teachings to awaken our inner sun and attune to universal energies. Stone structures, aligned with stars, echo the wisdom of Viracocha—the Creator—reminding us of our place in the great cosmic dance.<\/p>",
+            "image": "shopify:\/\/shop_images\/Peru-Tour-Ollantaytambo.jpg",
+            "dropdown_text": "<p>With <em><strong>Matías De Stefano <\/strong><\/em>we will visit Ollantaytambo, known as the <em>University of the Universe<\/em> or <em>Tambo<\/em>, is a sacred space where we reconnect with our heart essence and our place in the cosmos. Set on a mountainside where three valleys converge, this ancient city serves as a bridge between the physical and spiritual worlds.<\/p><p>In the <em>City of the Children of the Sun<\/em>, solar practices help awaken our inner sun, aligning us with the Central Sun and the Father Sun. The energy of this place invites a deep connection with the universe, allowing us to attune to the divine.<\/p><p>The town’s architecture mirrors this cosmic order. Its streets, squares, and monumental stones are designed in perfect harmony with natural and spiritual forces. Above, the spirit of Viracocha, the Creator God, watches over the city, embodying the energy of life and light.<\/p><p>Ollantaytambo is more than just a city—it is a living, spiritual sanctuary where we remember our divine connection and our place in the universe, awakening to the rhythms of the cosmos.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "356bfe06-89e2-457a-a782-ada1263e0d36": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 6: NOV 29, 2025 - VISIT MACHU PICCHU",
+            "text": "<ul><li><strong>Special Guest Host, Matías de Stefano<\/strong><\/li><li>11:15H - TRAIN TO AGUAS CALIENTES<\/li><li>VISIT MACHU PICCHU<\/li><li>TRAIN RIDE ON THE VOYAGER BY INKA RAIL.<\/li><li>POTENTIAL HOTELS:<br\/>  • TAYPIKALA MACHU PICCHU BOUTIQUE<br\/>  • TIERRA VIVA<br\/>  • CASA ANDINA<br\/>  • HATUN INTI BOUTIQUE<br\/><\/li><\/ul><p>Machu Picchu is more than an archaeological wonder—it is a sacred resonance point where sky and stone converge. Built with deep knowledge of astronomy, agriculture, and energy, it reveals the spiritual genius of the Inka and their ancestors.<br\/><br\/>As we move through its temples and terraces, <strong>Matías De Stefano<\/strong> will guide us to remember and connect with its frequencies. Here, intention meets alignment, awakening the light within.<\/p>",
+            "image": "shopify:\/\/shop_images\/Peru-Tour-Llama.jpg",
+            "dropdown_text": "<p>With <em><strong>Matías De Stefano <\/strong><\/em>we will visit Machu Picchu, a living energetic Portal of remembrance, where spiritual design and natural wisdom converge. Aligned with celestial events like solstices and equinoxes, its temples, terraces, and sacred sites—such as the Temple of the Sun and the Intihuatana stone served as portals connecting human life to the cosmos. The Inka, influenced by earlier cultures that include the Wari and Tiwanaku, built Machu Picchu’s terracing systems that reflect both advanced agriculture and reverence for Pachamama, sustaining crops while honoring the Earth.<\/p><p>Our journey will immerse us in Quechua and more ancient cosmology, where we’ll learn about the interconnectedness of all life and offer ceremonies at key Places of Power within the site, designed to help us fully attune to the energetic frequency of Machu Picchu. As we connect to these sacred sites, we invoke the divine light that flows through the land, amplifying our intentions with every step.<\/p><p>Come, connect with the divine forces of the sun and experience a profound spiritual awakening at one of the most powerful places on Earth.<\/p><p>At each of these portals, we will engage in guided meditation and sacred ceremony to attune to the site's energetic frequency<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "66db8b2b-fdc9-4434-bd63-38c72353b779": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 7: NOV 30, 2025 - RETURN TO MACHU PICCHU FOR SUNRISE CEREMONY",
+            "text": "<ul><li><strong>Special Guest Host, Matías de Stefano<\/strong><\/li><li>EARLY AM: BUS RIDE - RETURN TO MACHU PICCHU FOR INNER SUN ACTIVATION CEREMONY<\/li><li>TRAIN BACK TO OLLANTAYTAMBO<\/li><li>BUS RIDE TO URUBAMBA<\/li><li>OVERNIGHT STAY IN URUBAMBA - <a href=\"https:\/\/www.taypikala.com\/en\/hotel-taypikalavalle-in-urubamba\/\" target=\"_blank\" title=\"https:\/\/www.taypikala.com\/en\/hotel-taypikalavalle-in-urubamba\/\">TAYPIKALA VALLE SAGRADO HOTEL<\/a><\/li><\/ul><p>With <strong>Matias De Stefano,<\/strong> at dawn, we return to Machu Picchu for a sacred moment with Father Sun. Bathed in golden light, we offer prayers and connect with the guardians of the site—the Puma, Condor, and Light Spirits. Through the sacred trinity of Munay (love), Llancay (service), and Yachay (wisdom), we align with the Andean codes and step deeper into conscious living.<\/p>",
+            "image": "shopify:\/\/shop_images\/Resized-Peru-Tour-Aerial_1.jpg",
+            "dropdown_text": "<p>At first light, with <em><strong>Matías De Stefano <\/strong><\/em>we enter the Lost City of the Inkas for a sacred sunrise ceremony with <em>Inti<\/em>, the Father Sun. As his golden rays rise above the mountains, we receive the light that carries the essence of the soul—nourishing us as <em>Inti Churi<\/em>, Children of the Sun. Here, in the sacred city aligned with the Central Sun (<em>Inticinti<\/em>), divine synchronicity flows with ease.<\/p><p>We open our hearts to the sun’s codes and ask permission from the guardians—the Puma, the Condor, and the Light Spirits—to deepen our connection. With reverence, we embody the sacred trinity of Munay (love), Llancay (service), and Yachay (wisdom).<\/p><p>As we walk the sacred paths of Machu Picchu, we release heavy energies and attune to the vibration of a once-conscious civilization living in harmony with the cosmos. <\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "dd20cdd8-6dc0-42a2-91c4-c110a0716601": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 8: DEC 1, 2025 - VISIT SAQSAYWAMAN, ILLAPATA & CUSCO‬‭",
+            "text": "<ul><li>GUIDED OPTIONS OR FREE TIME IN CUSCO<\/li><li>PM: FREE TIME IN CUSCO<\/li><li>OVERNIGHT STAY IN URUBAMBA - <a href=\"https:\/\/www.taypikala.com\/en\/hotel-taypikalavalle-in-urubamba\/\" target=\"_blank\" title=\"https:\/\/www.taypikala.com\/en\/hotel-taypikalavalle-in-urubamba\/\">TAYPIKALA VALLE SAGRADO HOTEL<\/a><\/li><\/ul><p>We begin our day in Cusco, where independent exploration or guided options allow for a personal connection to the city’s vibrant history.<\/p><p>At Saqsaywaman, a fortress of cyclopean stones, we connect with Illapa—the Andean deity of lightning and sky—and feel the sacred energy of this astronomically aligned site.<\/p><p>We then journey to Illapata, a hidden altar of star-aligned stones. Through solar practice, we attune to the wisdom of the sun and awaken the codes of radiance within.<\/p><p>The evening returns us to Urubamba for rest and reflection.<\/p>",
+            "image": "shopify:\/\/shop_images\/Resized-Peru-Tour-Plaza-de-Armas_1.jpg",
+            "dropdown_text": "<p>As morning breaks over the ancient city of Cusco, we begin our day with space for independent exploration or guided options that invite a deeper connection to the city's vibrant past. Walking its cobbled streets, we feel the resonance of Inca foundations beneath colonial facades—evidence of civilizations layered through time.<\/p><p>Our first ceremonial site is Saqsaywaman, the cyclopean fortress that once formed the head of the sacred Puma-shaped city. Towering stones—some weighing over 100 tons—fit seamlessly together, vibrating with the power of sky and storm. This is the temple of Illapa, the Andean deity of lightning, thunder, and celestial energy. Here, we attune to primal forces and open to clarity, strength, and ancestral remembrance. As the wind moves through the stones, many feel stirred—by vision, by memory, or by the electric stillness that inhabits this sacred ground.<\/p><p>From here, we travel beyond the city to Illapata, a lesser-known sanctuary hidden in the Andean hills. Revered by local wisdom keepers, Illapata rests on ancient ley lines and is said to contain space stones—celestial rocks gifted by star beings in ages past. At this Altar of Light, we engage in Solar Practice, facing the sun and breathing in its radiant codes. The practice is simple, yet profound: harmonizing our inner light with the cosmic fire that sustains all life.<\/p><p>This day is not merely a visit to ancient sites—it is an invitation to align body, heart, and spirit with the energies of earth and sky. From the sacred architecture of Saqsaywaman to the star-charged serenity of Illapata, we walk a path of reconnection, stepping into deeper remembrance of who we are and why we journey.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "fe9d9b01-84d8-42dd-aa2f-b13bfa9cb5a5": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 9: DEC 2, 2025 - TRAVEL FROM CUSCO TO PUNO",
+            "text": "<ul><li>VISIT TINAJANI OR RAQCHI, WITH A BUFFET LUNCH EN ROUTE.<\/li><li>‭OVERNIGHT STAY IN PUNO (CHUCUITO) - <a href=\"https:\/\/www.taypikala.com\/en\/hotel-taypikalalago-in-puno\/\" target=\"_blank\" title=\"https:\/\/www.taypikala.com\/en\/hotel-taypikalalago-in-puno\/\">TAYPIKALA LAGO HOTEL‬<\/a><\/li><\/ul><p><em>This day involves a long overland journey by bus, with several stops at key cultural and archaeological sites along the way. The full trip may take up to 11 hours, so we recommend packing light snacks, a refillable water bottle, and any items you may want for comfort or entertainment during the ride. Be sure to wear comfortable travel clothes and layers suitable for changing altitudes and temperatures.<\/em><\/p><p>We follow ancient energy lines from Cusco to Lake Titicaca, the mythic birthplace of the Sun.<\/p><p>At Tinajani Canyon, weathered stone figures and sacred caves whisper memories of the Ancients.<br\/><br\/>Arriving at the lake, we are held in its vast stillness—ready for what the waters will reveal.<\/p>",
+            "image": "shopify:\/\/shop_images\/Titikaka_Lago.jpg",
+            "dropdown_text": "<p>We journey from Cusco to the sacred shores of Lake Titicaca, following ancient energy lines that connect highland temples to the waters of origin.<\/p><p>En route, we stop at either <strong>Tinajani Canyon<\/strong>—a landscape of towering red rock formations and sacred caves shaped by wind and time—or <strong>Raqchi<\/strong>, home to the Temple of Wiracocha, an expansive Inca ceremonial site dedicated to the creator god. Both sites offer powerful encounters with the ancestral presence embedded in stone and earth.<\/p><p>By evening, we arrive at Lake Titicaca and settle into our hotel in Chucuito. The stillness of the water invites us inward, preparing us for the deeper initiations to come.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "61cfa1f6-c4f1-446d-a5ef-2f4486dc1020": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "DAY 10: DEC 3, 2025 - INKA CAMAÑA, ARAMU MURU",
+            "text": "<ul><li>‭OVERNIGHT STAY IN PUNO (CHUCUITO) - <a href=\"https:\/\/www.taypikala.com\/en\/hotel-taypikalalago-in-puno\/\" target=\"_blank\" title=\"https:\/\/www.taypikala.com\/en\/hotel-taypikalalago-in-puno\/\">TAYPIKALA LAGO HOTEL‬<\/a><br\/><\/li><\/ul><p>Inka Camaña opens the day with teachings on the Seven Sacred Relationships, inviting us into balance.<br\/><br\/>Later, we approach Aramu Muru—the interdimensional doorway known as the House of the Ancient Spirits.<br\/><br\/>Through, guided ceremony, we align with the vortex and step through the veil, remembering the wisdom of those who once traveled between realms.<\/p>",
+            "image": "shopify:\/\/shop_images\/Peru-Tour-Amaru-Muru.jpg",
+            "dropdown_text": "<p>At <em>Inka Camaña<\/em>, we arrive at a sacred place of deep connection—a center of cosmic vitality where we attune to the great cosmic order. Here, through ceremony and intention, we harmonize what the Andean traditions call <em>the seven relationships<\/em>: the connection with our mother, our father, our children, our family, our community, our past and personal story, and our future—still unseen, yet already unfolding. This is a place to open the heart to <em>Amar Kawsay<\/em>—a life lived in love, service, and wisdom.<\/p><p>From here, our journey leads us to one of the most powerful energetic sites in the Andes: the Interdimensional Gateway of Lord Aramu Muru. Also known as <em>Ajayu Marka<\/em> or <em>Willka Uta<\/em>—the House of the Ancient Spirits—this is more than a rock formation. It is said to be a dimensional doorway used by the Ancient Ones, a place where the veils between worlds grow thin.<\/p><p>We follow the sacred path, offering tribute to the Puma, walking along the great Serpent’s back, and arriving at the Condor—a symbol of divine vision and higher consciousness—at the Aramu Muru Doorway.<\/p><p>This sacred portal remained hidden for generations until it was revealed in a dream to Peruvian guide and mystic Jorge Luis Delgado. When he shared the vision with his elders, they recognized it as a call from Spirit. Guided by their wisdom, Jorge Luis re-discovered this powerful site and stepped into his sacred responsibility to share it with the world.<\/p><p>Here, we will hold a special ceremony to help us align with the powerful vortex energy and prepare to enter the portal—not just with our bodies, but with our consciousness. This is a place of personal revelation and cosmic remembrance.<\/p><p>In Peru, every sacred site has layers—seen and unseen. As we open ourselves to the spirit of the land, we honor all aspects of this holy place and the wisdom it holds.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "5126e38e-daf5-4953-a36a-6c08bdde1ba3": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 11: DEC 4, 2025 - CROP CIRCLES‬‭",
+            "text": "<ul><li>‭CROP CIRCLES - Optional‬<\/li><li>‭GROUP: UROS \/ TAQUILE OR AMANTANI ISLANDS (Private Boat Ride to Islands)‬<\/li><li>‭OVERNIGHT STAY IN PUNO (CHUCUITO) - <a href=\"https:\/\/www.taypikala.com\/en\/hotel-taypikalalago-in-puno\/\" target=\"_blank\" title=\"https:\/\/www.taypikala.com\/en\/hotel-taypikalalago-in-puno\/\">TAYPIKALA LAGO HOTEL‬<\/a><\/li><\/ul><p>Crossing Lake Titicaca, we visit the floating reed islands of the Uros, marvels of ecological harmony.<\/p><p>On Taquile or Amantani Island, we meet communities living by sacred principles like Ayni (reciprocity).<\/p><p>On Amantani’s terraced hills and within its ancient temples, we experience a landscape designed around celestial alignments and sacred dualities. Here, we are invited to release ancestral patterns and open to inner peace.<\/p>",
+            "image": "shopify:\/\/shop_images\/AdobeStock_313458862.jpg",
+            "dropdown_text": "<p>As we cross the sacred waters of Lake Titicaca, the highest navigable lake in the world we step into a space of deep ancestral wisdom and healing. This powerful body of water holds stories far older than history—echoes from the times of Lemuria and the Ancient Ones.<\/p><p>We begin with a visit to the Uros Floating Reed Islands, marvels of human ingenuity and cultural resilience. Built by hand from the totora reeds that grow in the lake, these islands are home to communities who have preserved their traditional ways of life for centuries. From here, we journey onward by boat to Taquile or Amanti Island.<\/p><p>Taquile Island is a place of deep spiritual resonance and extraordinary textile artistry, where intricate woven works tell the stories of nature, cosmic cycles, and ancestral knowledge. The people of Taquile follow sacred principles of Ayni (reciprocity), Munay (love), and Llank'ay (sacred work), living in balance with the sun, moon, and stars. Here, we can tune into the land’s frequencies and open ourselves to spiritual insights.<\/p><p>Amantani Island, known as the “Island of Love,” where peace and tranquility permeate the air. This island holds ancient ceremonial sites like the Pachamama (Mother Earth) and Pachatata (Father Earth) temples, which are thought to have been used for pre-Inkan agricultural and solar ceremonies. These sacred spaces are set atop the island’s hills, offering powerful energy and stunning views of the surrounding lake.<\/p><p>The terraces that cover the island are remnants of ancient pre-Inkan agricultural practices, ingeniously designed to manage water and soil erosion. These terraces, still used by the locals, represent a living testament to the island’s deep connection with the earth and its ability to sustain its people through sustainable, ancestral farming methods.<\/p><p>Amantani also carries astronomical significance, with its sacred hills believed to align with cosmic cycles. Local ceremonies held during the solstices celebrate the balance of masculine and feminine energies, reflecting the Inkan dualistic worldview. This is a place where past and present merge, and the living archaeology of Amantani continues to guide the spiritual life of its people.<\/p><p>Here, we have an opportunity to release ancestral imprints and unresolved energies—whether from past lives, familial history, or karmic connections—opening ourselves to deeper clarity and peace.<\/p><p>This is more than just a visit to beautiful islands; it is a profound opportunity to reconnect with ancient energies, heal, and align with the land’s sacred rhythms.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "8e38bacb-2f1f-4c94-b100-a63b49eba045": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 12: DEC 5, 2025 - SILLUSTANI \/ INKA TUNUHUIRE (related with Tiwanaku)",
+            "text": "<ul><li>‭OVERNIGHT STAY IN PUNO (CHUCUITO) - <a href=\"https:\/\/www.taypikala.com\/en\/hotel-taypikalalago-in-puno\/\" target=\"_blank\" title=\"https:\/\/www.taypikala.com\/en\/hotel-taypikalalago-in-puno\/\">TAYPIKALA LAGO HOTEL‬<\/a><\/li><\/ul><p>At Sillustani, funerary towers align with cosmic forces, marking a place of endings and beginnings. In a sacred fire ceremony, we activate remembrance and prepare for inner rebirth. Nearby, at Inka Tunuwiri, we offer Pachamama atop a sacred hill, anchoring light into the Earth and receiving the wisdom of the stars.<\/p>",
+            "image": "shopify:\/\/shop_images\/AdobeStock_958075095.jpg",
+            "dropdown_text": "<p>Our sacred journey brings us to two powerful ceremonial sites—Sillustani and Inka Tunuwiri—each a portal to ancient wisdom, cosmic connection, and deep personal transformation.<\/p><p>At Sillustani, a mystical peninsula on the shores of Lake Umayo, we encounter a place where the veil between worlds is thin. Towering chullpas—ancient funerary towers built by the Colla people—stand aligned with the stars, holding sacred codes of rebirth and transition. Here, we gather at the Temple of Fire, a powerful energy vortex connected to the Cosmic Spiral, to release fear and reconnect with the soul’s original design of joy, clarity, and light.<\/p><p>We will also participate in the Solar Disc Imposition Ceremony, a profound Andean ritual that awakens our divine remembrance as children of the Sun—beings meant to live clear, radiant, and luminous lives. According to legend, this land once held the peace accord after an ancient intergalactic war, sealing it with harmonizing energy that still resonates today.<\/p><p>Nearby, we journey to Inka Tunuwiri, a sacred hill outside Puno crowned with stones from the ancient Pukara culture. This ceremonial site is a living sanctuary, where locals still make offerings to Pachamama in the spirit of gratitude and healing. Influenced by the Tiwanaku civilization, its traditions reflect a deep alignment with the Earth and cosmos.<\/p><p>At Inka Tunuwiri, we’ll engage in an ancestral offering ceremony, tuning into energetic grids said to run through Lake Titicaca and beyond. As we walk the land, we remember the timeless connection between Earth and Stars, grounding ancient frequencies into our own bodies and hearts.<\/p><p>Together, these two sites offer a sacred space for remembrance, activation, and deep inner work—a return to who we truly are.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "dropdown_wifbd9": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 13: DEC 6, 2025 - CROP CIRCLES",
+            "text": "<ul><li>DOMESTIC FLIGHT TO LIMA<\/li><li>OVERNIGHT IN MIRAFLORES - LIMA<br\/>HOTEL: <a href=\"https:\/\/www.melia.com\/en\/hotels\/peru\/lima\/innside-lima-miraflores\" target=\"_blank\" title=\"https:\/\/www.melia.com\/en\/hotels\/peru\/lima\/innside-lima-miraflores\">INNSIDE BY MELIA MIRAFLORES<\/a><strong>‬<\/strong><\/li><\/ul><p>We journey to the Pre-Inka Crop Circles—Waruwaru formations that balanced ecology and energy. More than agricultural marvels, these geometric patterns are seen as living symbols of divine intelligence. Here, we contemplate cycles of continuity and remember ourselves as beings woven into the sacred design of the Earth.<\/p>",
+            "image": "shopify:\/\/shop_images\/Wanu_Wanu_Crop_Circles_1_1.jpg",
+            "dropdown_text": "<p>In the highlands of Peru, we visit one of the lesser-known yet deeply mysterious sites—the Pre-Inka Crop Circles, a landscape shaped by ancient wisdom and cosmic connection. These enigmatic formations offer a glimpse into a time before the Inka, when the ancestors walked in harmony with both Pachamama (Mother Earth) and the Stars.<\/p><p>Scientifically, these circular land formations are linked to an advanced pre-Inkan agricultural technique known as Waru Waru. Ingeniously designed, these systems used water channels surrounding raised beds to retain warmth and moisture, creating a microclimate that protected crops from frost and drought. This was a technology of sustainability, long before modern science understood such balance.<\/p><p>Yet, to the awakened soul, these circles are more than functional—they are portals of sacred geometry, expressions of divine design. Many believe they are messages or signs left by the Space Brothers—beings of higher intelligence who shared their wisdom with the ancient people of the Andes. The formations echo the 'Eye of the Mother', a cosmic symbol of divine awareness, forever open to the heavens, receiving and transmitting rays of sacred light.<\/p><p>Each circle also reflects the energy of the Muyoc, one of the expressions of the Divine in Andean cosmology, embodying the eternal cycle of life, death, and rebirth. The Law of the Circle—the sacred principle of continuity and unity—is alive in this land.<\/p><p>Standing among these formations, we are invited to feel their harmonic vibration, to remember our connection to the Earth and the stars, and to awaken the memory of who we are as beings of light, part of a greater cosmic family.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "dropdown_8t4bQM": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 14: DEC 7, 2025 - VISIT HUACA PUCLLANA PYRAMID – FLY HOME‬‭",
+            "text": "<ul><li>OPTIONAL TRIP TO VISIT HUACA PUCLLANA PYRAMID<\/li><li>Hotel check out is at 12:00H‬<\/li><li>‭Free time until your airport transfers. Please note that there are two airport transfers scheduled for this day: one around 12:00 p.m. (noon) and another closer to 5:00 p.m. for late-night travelers.<\/li><\/ul><p>‭In the heart of Lima's modern Miraflores district rises the adobe pyramid of Huaca Pucllana—once a ceremonial center for the Lima culture. As we walk its ancient terraces, we reflect on the continuity between past and present, where the sacred once shaped everyday life.<\/p><p>This final visit invites us to consider the rhythms of civilization: how time, memory, and ritual endure in even the most urban spaces. It is a fitting close to a journey rooted in ancestral wisdom and spiritual reconnection.<\/p>",
+            "image": "shopify:\/\/shop_images\/14Lima_farewell_sunset.jpg",
+            "dropdown_text": "<p>Located in Lima’s vibrant Miraflores district, Huaca Pucllana is a striking example of pre-Inca architecture built by the Lima culture nearly 1,500 years ago. Constructed entirely of hand-shaped adobe bricks, this ceremonial pyramid was once a central site for elite religious and administrative functions. Its layered platforms and surrounding structures offer a glimpse into early coastal Andean civilization and their interaction with the arid landscape.<\/p><p>Today, Huaca Pucllana stands as a testament to the resilience of ancient engineering amidst Lima’s urban growth. A guided visit allows us to reflect on the cycles of civilization, continuity, and change—bringing our journey full circle, from ancient temples in the high Andes to sacred sites preserved within the modern capital.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "button_DppG3L": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Sign Up Now",
+            "link_entitled": "",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "b3aeaf69-97a6-4e33-af39-c15ac9f01b04",
+        "cf73ead0-1d61-4710-911f-92abbd89cd91",
+        "ece66265-849f-4144-a570-dd9d83ba0e5f",
+        "57393d7c-eaea-43e6-934b-e35643791451",
+        "46f98c92-e505-4141-a9a0-fa35c3e1337c",
+        "af9886df-0842-456c-a4da-f86a8fae9128",
+        "665f407f-c58f-4cfe-8e14-b0c7e48b8013",
+        "a0ac19a9-eb3f-4293-b194-c7a3b463e4f6",
+        "356bfe06-89e2-457a-a782-ada1263e0d36",
+        "66db8b2b-fdc9-4434-bd63-38c72353b779",
+        "dd20cdd8-6dc0-42a2-91c4-c110a0716601",
+        "fe9d9b01-84d8-42dd-aa2f-b13bfa9cb5a5",
+        "61cfa1f6-c4f1-446d-a5ef-2f4486dc1020",
+        "5126e38e-daf5-4953-a36a-6c08bdde1ba3",
+        "8e38bacb-2f1f-4c94-b100-a63b49eba045",
+        "dropdown_wifbd9",
+        "dropdown_8t4bQM",
+        "button_DppG3L"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_JPgmwm": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Schoch_Robert_PhotoByCatherineUlissey_APPROVED_but_speak_to_Robert_before_using101023.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Meet Robert Schoch, Ph.D., Your Host",
+        "heading_size": "h1",
+        "text": "<p>Dr. Robert Schoch, prolific bestselling author, is renowned for his groundbreaking research studying ancient civilizations from a geological and anthropological perspective, Dr. Schoch earned his Ph.D., in Geology and Geophysics from Yale University.  Schoch’s research challenges conventional chronologies and interpretations of ancient history, particularly regarding our understanding of the development of civilization.<br\/><br\/>In the early 1990s, Schoch demonstrated through studies of the origins of the Great Sphinx of Egypt that civilization can be dated to a much earlier period than standardly believed. Since then, he has expanded his studies to sites around the world, including in Turkey, India, Easter Island, Peru, and Bolivia. He asserts that civilization is not a mere 5000 or 6000 years old; instead, it dates back to the end of the last ice age some 12,000 years ago.<br\/><br\/>Dr. Robert Schoch's books include <em>Forgotten Civilization <\/em>(revised and expanded, 2021), <em>Origins of the Sphinx, The Parapsychology Revolution<\/em>, and the children’s book, co-created with his wife, <em>Adriana and the Ancient Mysteries: The Great Sphinx<\/em>.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_UN7GdK": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Jorge_Luis_Delgado_Our_Guide.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Meet Our Andean Tour Guide & Host, Jorge Luis",
+        "heading_size": "h1",
+        "text": "<p>Jorge Luis is a chakaruna embodying the wisdom of light of the Inka and Aymara culture which is very profound. In practice this makes the visit to each power place not only have a physical dimension, but transcends, so that people can experience other planes of manifestation, other deep and further dimensions. <\/p><p>Jorge reactivates the profound solar code within each soul, translating it into the principles of love, service, and wisdom—expressed through Munay (love), Llankay (service), and Yachay (wisdom). A beacon of light, Jorge is a guide who helps individuals weave the luminous threads emanating from the cosmos into a tapestry that illuminates the path to their hearts.<\/p><p>The Inca tradition has no separation between the physical and spiritual worlds and Jorge Luis Delgado is an expert at walking the path between both worlds.He received his early training from the Kallawaya shamans of the NE Lake Titicaca region, the lineage of the Wise Ones of the Andes, and from the Qero elders of Cusco, who are the last remaining tribal descendants of the Incas.<\/p><p>Jorge Luis brought to public attention the Aramu Muru Doorway, an inter-dimensional portal located in the Hayu Marca mountains. On the History Channel, he  is featured in more than ten episodes of Ancient Aliens. We are honored to be journeying with a guide who has  this caliber of knowledge and wisdom. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_tLxDFQ": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MP_Product_Tile_Headshot_Circle_Matias_De_Stefano.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Meet Our Special Guest Host Matías de Stefano",
+        "heading_size": "h1",
+        "text": "<p><a href=\"https:\/\/www.gaia.com\/person\/matias-de-stefano\" target=\"_blank\" title=\"https:\/\/www.gaia.com\/person\/matias-de-stefano\">Matías De Stefano<\/a> is a Consciousness Educator, who many know as the \"Rememberer\". <\/p><p>Matías De Stefano’s personal journey to reconnect the consciousness of the planet began at a young age as he started remembering past lives in Atlantis and recording his memories in childhood drawings. As an Indigo child, he developed a close relationship with his spirit guides who helped him make sense of these memories and connect with the natural world to uncover his mission. <\/p><p>De Stefano began his YOSOY global journey in 2020, anchoring the world axis between the North and South Poles and generating a worldwide consciousness movement to help people recognize humanity’s purpose on Earth. He is currently developing RECORDIS, an online university that aims to spread the message of a conscious society based on the philosophy he calls Ontocracy. <\/p><p>He is the founder of Arsayian Foundation, a non-profit that supports projects and social movements related to consciousness. De Stefano, who was born in Venado Tuerto, Argentina, began transmitting his unique understanding of reality to wide audiences at the age of 21. In 2018, he was featured in the National Geographic documentary <em>The Rememberer<\/em>.<\/p><p>Are you ready to deepen your “remembering” with Matias De Stefano at Machu Picchu and Ollantaytambo? <\/p><p>“Born on August 4, 1987, and since then, I have kept my pre-birth memories active.” <\/p><p>~ Matías De Stefano<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_6dhgPK": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2024-06-03_at_9.42.05_AM.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Supporting Guides",
+        "heading_size": "h1",
+        "text": "<h3><strong>Ahmed Nady<\/strong><\/h3><p>Professional Tour Guide to Egypt since 2003. Over 20 year experience in guiding English speakers from different countries around the globe.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_9Ditee": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2024-06-03_at_9.41.56_AM.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "heading_size": "h1",
+        "text": "<h3><strong>Hanaa Abd Elkhaleq<\/strong><\/h3><p>Graduated from the Faculty of Archaeology at Cairo University, specializing in Egyptian Antiquities. Discovered that working in the field of archaeology is not her passion and would not significantly add to her career growth. Consequently, she pursued a diploma in Tourist Guidance from the Faculty of Tourism and Hotels at Helwan University. She has been working as a tour guide since 2003, gaining extensive experience in the field and thoroughly enjoying the journey.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "color_scheme": "1",
+        "show_wave": true,
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "benefits_blocks_standard_YKn94F": {
+      "type": "benefits-blocks-standard",
+      "name": "Benefits Block Standard",
+      "settings": {}
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "custom_hikrjb": {
+          "type": "custom",
+          "settings": {
+            "code": "<a id=\"offer\" name=\"offer\" style=\"position: absolute;margin-top: -15rem;\"><\/a>"
+          }
+        },
+        "5d0eaa37-9ce3-4e70-88fb-648e9f061d06": {
+          "type": "text",
+          "settings": {
+            "text": "PAST EVENT"
+          }
+        },
+        "price": {
+          "type": "price",
+          "disabled": true,
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "show-def-q": true,
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "downpay_downpay_form_D776dY": {
+          "type": "shopify:\/\/apps\/downpay\/blocks\/downpay-form\/da700d84-7ed1-410a-a8b5-5cb99a33758a",
+          "disabled": true,
+          "settings": {
+            "default_to_pay_in_full": false,
+            "show_payment_methods": false,
+            "show_deposit_amount": true,
+            "show_border": true,
+            "show_help_text2": "deposit",
+            "show_release_date2": "never",
+            "select_style": "radio",
+            "custom_css": "",
+            "section_header": "Save your spot",
+            "deposit_option_label": "Non-Refundable Deposit",
+            "full_pay_option_label": "",
+            "deposit_help_text": "You will be charged a non-refundable deposit of $1,000 USD. The remaining balance due will be charged to your account on June 27, 2025.",
+            "release_date_text": "",
+            "add_to_cart_button_label": ""
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false
+          }
+        },
+        "separator_eeJzNN": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "3f696441-480a-4872-a3b8-c275b27bb1c7": {
+          "type": "shopify:\/\/apps\/forms\/blocks\/inline\/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "33594",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#ffffff",
+            "links_color": "#1878b9",
+            "errors_color": "#e02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "custom_hikrjb",
+        "5d0eaa37-9ce3-4e70-88fb-648e9f061d06",
+        "price",
+        "separator",
+        "variant_picker",
+        "description",
+        "downpay_downpay_form_D776dY",
+        "inventory_status",
+        "buy_buttons",
+        "separator_eeJzNN",
+        "3f696441-480a-4872-a3b8-c275b27bb1c7",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "custom_css": [
+        ".product-grid__container {padding-top: var(--indexSectionPadding); padding-bottom: var(--indexSectionPadding); margin-top: -40px;}",
+        ".product-block--header {margin: -60px 0 0;}"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": false,
+        "h1_title": false,
+        "hide_media": false,
+        "align_text": "left",
+        "image_position": "left",
+        "image_container_size": "large",
+        "product_image_size": "natural",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "ce45914b-7a52-48d4-9e05-4cf5a5c05566": {
+      "type": "text-columns",
+      "blocks": {
+        "template--21409734426945__ce45914b-7a52-48d4-9e05-4cf5a5c05566-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Dana_Sabre_boat_W4A0295.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--21409734426945__ce45914b-7a52-48d4-9e05-4cf5a5c05566-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Dana_Sabre_boat_W4A0332.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "32a6e963-2a78-4115-84e8-067fd0f81b90": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Dana_Sabre_boat_W4A0474.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "0f5ecf6e-6bb1-4750-b9ef-6d74ace362cb": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Dana_Sabre_boat_W4A0524.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "ce1ea62c-7a37-47f6-9c8d-b726960b8da2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Dana_Sabre_boat_W4A0424.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "19dfce67-12b7-4372-bc97-025f614e7184": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Dana_Sabre_boat_W4A0540.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "0ef2cdf0-19c1-4546-b207-33ea6a75f078": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Dana_Sabre_boat_W4A0582.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "2f47a106-59f6-4814-9631-6ae15e721253": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Dana_Sabre_boat_W4A0592.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "66ab4d68-7f4f-494d-9adb-09cbc660cb5f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Dana_Sabre_boat_W4A0631.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "978a8d75-ae3c-4301-bdd0-ef58bd7c264b": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Dana_Sabre_boat_W4A0639.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "9dc8ec66-9f2b-4b32-b504-580202f76244": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Dana_Sabre_boat_W4A0611.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "bf833179-5973-4834-907c-3807c4e6f43f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Dana_Sabre_boat_W4A0666.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "69602440-d990-4384-bdd3-5852a0bafb0d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Dana_Sabre_boat_W4A0673.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "b446b4be-06e4-46d0-950c-b2d454075a5e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Dana_Sabre_boat_W4A0707.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "9d9acacd-e2de-4370-a192-28684f7d68ca": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Dana_Sabre_boat_W4A0947.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "02c6f28e-50a0-474f-b63c-daaf10287a41": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Dana_Sabre_boat_W4A1026.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "31b13caf-a917-4abe-88c8-9577eeb1478c": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Dana_Sabre_boat_W4A0822.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "cb72d020-a665-4279-bb7f-439783a2c658": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Dana_Sabre_boat_W4A1073.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "2f4b50e8-b4ab-483c-81bc-3998e8cf802b": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Dana_Sabre_boat_W4A1089.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "169ab764-8651-46b0-a348-133c301f544a": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Dana_Sabre_boat_W4A1178_8939a70c-e7d2-4298-a894-cd8f40373506.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21409734426945__ce45914b-7a52-48d4-9e05-4cf5a5c05566-text_block-1",
+        "template--21409734426945__ce45914b-7a52-48d4-9e05-4cf5a5c05566-text_block-2",
+        "32a6e963-2a78-4115-84e8-067fd0f81b90",
+        "0f5ecf6e-6bb1-4750-b9ef-6d74ace362cb",
+        "ce1ea62c-7a37-47f6-9c8d-b726960b8da2",
+        "19dfce67-12b7-4372-bc97-025f614e7184",
+        "0ef2cdf0-19c1-4546-b207-33ea6a75f078",
+        "2f47a106-59f6-4814-9631-6ae15e721253",
+        "66ab4d68-7f4f-494d-9adb-09cbc660cb5f",
+        "978a8d75-ae3c-4301-bdd0-ef58bd7c264b",
+        "9dc8ec66-9f2b-4b32-b504-580202f76244",
+        "bf833179-5973-4834-907c-3807c4e6f43f",
+        "69602440-d990-4384-bdd3-5852a0bafb0d",
+        "b446b4be-06e4-46d0-950c-b2d454075a5e",
+        "9d9acacd-e2de-4370-a192-28684f7d68ca",
+        "02c6f28e-50a0-474f-b63c-daaf10287a41",
+        "31b13caf-a917-4abe-88c8-9577eeb1478c",
+        "cb72d020-a665-4279-bb7f-439783a2c658",
+        "2f4b50e8-b4ab-483c-81bc-3998e8cf802b",
+        "169ab764-8651-46b0-a348-133c301f544a"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Photos from Our Last Trip",
+        "heading_size": "h0",
+        "subtitle": "Photo Credit: Dana Sabre, Gaia Member",
+        "align_text": "center",
+        "grid": 4,
+        "divider": false,
+        "color_scheme": "none"
+      }
+    },
+    "e6fa5fae-029e-48df-a6da-fe4caef08809": {
+      "type": "columns-3",
+      "blocks": {
+        "fc95136e-6654-4876-b0f3-83619982e36b": {
+          "type": "liquid",
+          "settings": {
+            "parent_column": "right",
+            "code": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"63.951\" height=\"63.966\" viewBox=\"0 0 63.951 63.966\" style=\"margin: 0 auto 15px; display: block;\"><path d=\"M62.913,3.375h-18.9a2.223,2.223,0,0,0-1.568.646L4.667,41.8a4.436,4.436,0,0,0,0,6.258L22.657,66.05a4.436,4.436,0,0,0,6.258,0L66.68,28.285a2.223,2.223,0,0,0,.646-1.568V7.8A4.407,4.407,0,0,0,62.913,3.375ZM55.578,20.566a4.919,4.919,0,1,1,4.352-4.352A4.925,4.925,0,0,1,55.578,20.566Z\" transform=\"translate(-3.375 -3.375)\" fill=\"#02b5b4\"\/><\/svg>"
+          }
+        },
+        "template--20197640634689__e6fa5fae-029e-48df-a6da-fe4caef08809-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": false,
+            "text": "<h3>Gaia members save 10%<\/h3><p>Just for being a Gaia member, you will save 10% when you purchase.<\/p>"
+          }
+        },
+        "cba03462-9fce-46b7-8667-581fdde037aa": {
+          "type": "liquid",
+          "settings": {
+            "parent_column": "center",
+            "code": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"55.914\" height=\"63.966\" viewBox=\"0 0 55.914 55.914\" style=\"margin: 0 auto 15px; display: block;\"><path d=\"M53.322,3H8.591A5.572,5.572,0,0,0,3,8.591V39.344a5.572,5.572,0,0,0,5.591,5.591H19.774V58.914l11.183-5.591L42.14,58.914V44.935H53.322a5.572,5.572,0,0,0,5.591-5.591V8.591A5.572,5.572,0,0,0,53.322,3Zm0,36.344H8.591V33.752H53.322Zm0-13.978H8.591V8.591H53.322Z\" transform=\"translate(-3 -3)\" fill=\"#02b5b4\"\/><\/svg>"
+          }
+        },
+        "76fa2165-a4cb-4aca-a03b-f6a545f7f60c": {
+          "type": "text",
+          "settings": {
+            "parent_column": "center",
+            "enlarge_text": false,
+            "text": "<h3>Exclusive Andean Tour<\/h3><p>The Gaia team has hand-curated this one-of-a-kind experience and it's only available through the Gaia Marketplace.<\/p>"
+          }
+        },
+        "5c1d294c-9915-4022-b460-e1f736bb4135": {
+          "type": "liquid",
+          "settings": {
+            "parent_column": "left",
+            "code": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"87.864\" height=\"63.966\" viewBox=\"0 0 87.864 55.914\" style=\"margin: 0 auto 15px; display: block;\"><path d=\"M61.407,31.463A11.981,11.981,0,1,0,49.426,19.481,11.931,11.931,0,0,0,61.407,31.463Zm-31.951,0A11.981,11.981,0,1,0,17.475,19.481,11.931,11.931,0,0,0,29.457,31.463Zm0,7.988C20.151,39.451,1.5,44.123,1.5,53.429v9.985H57.414V53.429C57.414,44.123,38.762,39.451,29.457,39.451Zm31.951,0c-1.158,0-2.476.08-3.874.2,4.633,3.355,7.868,7.868,7.868,13.779v9.985H89.364V53.429C89.364,44.123,70.713,39.451,61.407,39.451Z\" transform=\"translate(-1.5 -7.5)\" fill=\"#02b5b4\"\/><\/svg>"
+          }
+        },
+        "583c7003-2d98-42fd-bbae-515698196ce0": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<h3>Travel with a like-minded community<\/h3><p>Because this tour is limited to the Gaia community, you will have the opportunity to embark on this journey with others who share your curiosity and sense of adventure. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "fc95136e-6654-4876-b0f3-83619982e36b",
+        "template--20197640634689__e6fa5fae-029e-48df-a6da-fe4caef08809-text-1",
+        "cba03462-9fce-46b7-8667-581fdde037aa",
+        "76fa2165-a4cb-4aca-a03b-f6a545f7f60c",
+        "5c1d294c-9915-4022-b460-e1f736bb4135",
+        "583c7003-2d98-42fd-bbae-515698196ce0"
+      ],
+      "settings": {
+        "title": "Book with Confidence",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "center",
+        "column_center_align_text": "center",
+        "column_right_align_text": "center",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2": {
+      "type": "testimonials",
+      "blocks": {
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“An extraordinary and unforgettable tour. Can't sing the praise loud enough so many extras and special days.”<\/p>",
+            "author": "Daniela S.",
+            "author_info": ""
+          }
+        },
+        "899314c4-90a9-4ace-b175-23f42f03347c": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The experiences that I had both inside the temples and pyramids were astounding.  Physical energy increases and healings that I experienced on this trip are like none before.”<\/p>",
+            "author": "Susan P.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“Wonderful to not to worry about any type of logistics; I would recommend 100% the tour to everybody” <\/p>",
+            "author": "Jorge F.",
+            "author_info": ""
+          }
+        },
+        "30ee8aed-c331-49b8-a501-04a969da42bf": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“You  have to go to Egypt with Gaia because of the special access to Giza without the crowds, it’s a completely different experience to be there alone at sunset when it’s quiet.”<\/p>",
+            "author": "Dana S.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The accommodations in Giza and Luxor exceeded all our expectations! The food was fabulous.”<\/p>",
+            "author": "Carmen S.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The trip was life changing for me... it was a spiritual calling to be there and the entire experience, people included, was ineffable from start to finish. Life will never be the same for me.”<\/p>",
+            "author": "James C. ",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1",
+        "899314c4-90a9-4ace-b175-23f42f03347c",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2",
+        "30ee8aed-c331-49b8-a501-04a969da42bf",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".testimonial-stars {color: #01b4b4;}"
+      ],
+      "settings": {
+        "title": "Customer Reviews",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "2"
+      }
+    },
+    "05a6ccb4-5008-4aea-bd7b-71a71b3b7286": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "What accommodations should I expect?",
+            "text": "<p>During the trip, you will be staying at trusted hotels that our tour operator has used on their tours for many years. Most of the hotels are rated 4-5 stars, but note that star ratings vary by region. Rest assured that we have selected the best accommodations available for the areas we visit during the tour.<\/p>"
+          }
+        },
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "What's the difference between Double and Single?",
+            "text": "<p>Single occupancy means you will have your own room for all accommodations during the trip. Double occupancy means you will share a room with someone you plan to share the room with. Double occupancy rooms have two options: a shared bed or a room with two separate beds. <\/p>"
+          }
+        },
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-4": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "Do I need to have a vaccine to travel to Peru?",
+            "text": "<p>As of right now, no. <br\/><a href=\"https:\/\/www.passporthealthusa.com\/destination-advice\/bolivia\/#vaccines\" target=\"_blank\"><br\/><\/a>Stay updated on current travel requirements, as they may change due to evolving public health conditions.<\/p>"
+          }
+        },
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-5": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "Do you cater for Vegetarians or Vegans?",
+            "text": "<p>Peru is known for its cuisine and excellent restaurants enjoyed by foodies. The restaurants we will visit will serve a variety of Peruvian and Western dishes with plenty of vegetarian options and some vegan options.<\/p>"
+          }
+        },
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-7": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "What service can I expect when traveling with Jorge Delgado owner and founder of Kontiki Peru Tours.",
+            "text": "<p>For 30 years Jorge Luis Delgado’s award-winning tour company Kontiki Tours has been leading people on memorable Andean journeys. You can expect a professional team with a high level of experience in the field of tourism and touring.  “We treat our clients with dedication and do our best for them to have unique and memorable experiences in our country. With Kontiki Tours you will have security, confidence and personalized attention, with guarantees that you, our clients deserve. We base our services in Munay, Llancay and Yachay (service, love and wisdom) as our ancient fathers based their lives.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-1",
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-3",
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-4",
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-5",
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-7"
+      ],
+      "settings": {
+        "title": "FAQ's",
+        "heading_size": "h1",
+        "heading_position": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0": {
+      "type": "columns-1",
+      "blocks": {
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Exclusions",
+            "text": "",
+            "dropdown_text": "<ul><li>International or domestic Flights (either side of tour)<\/li><li>Lunch and Dinner<\/li><li>Visas - an entry visa is required.  It is the travelers responsibility to ensure they’re holding a current visa for the countries they’re visiting. <em>(Please see Visa Information for Travel to Peru section below).<\/em><\/li><li>Personal Expenses\/Items \/ Optional Activities<\/li><li>Travelers Insurance<\/li><li>Laundry services<\/li><li>Any additional\/optional services or tours not mentioned in the itinerary above<\/li><li>Extra Transfers not included in the group<\/li><li>Tipping (for guides, drivers, bell staff, waitstaff, etc). (<em>Please refer to the Tipping Guidance below for recommended amounts).<\/em><\/li><li>Departure airport tax for the flight La Paz \/ Lima <\/li><li>Cost of any vaccines that may be required depending on your country of origin<\/li><\/ul>",
+            "dropdown_image_fill": true,
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Reservation and Payment",
+            "text": "",
+            "dropdown_text": "<p>We’re honored to be part of your journey. To hold your place on this transformative experience, please review the reservation and payment details below:<\/p><ul><li>A <strong>non-refundable deposit <\/strong>of $1000 per person will be required at the time of booking. <\/li><li><strong>The $1000 non-refundable deposit is transferable to future Gaia Tours or other products offered on Gaia Marketplace. <\/strong><\/li><li>To ensure your reservation, final payment will be due a minimum of 181 days prior to the departure dates from your Country. It is the responsibility of the traveler (or agent) to determine that final payment reaches us on time. <\/li><li>Bookings made within 181 days of departure date, will require full and final payment immediately upon booking. No booking will be considered until final payment balance is received by Gaia In<strong>c. <\/strong><\/li><li>Payments are to be made via Bank Transfer or Credit Card. Any fees charged will be the responsibility of the sender. <\/li><\/ul><p><strong>All reservation and payment inquiries must be submitted in writing via email.<\/strong><\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "88fe273d-dad8-4fcb-8e72-e298aeffea83": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Cancellation and Refunds",
+            "text": "",
+            "dropdown_text": "<p>Given the complex nature of coordinating travel, we understand that cancellations may occur.<br\/><br\/><strong>All cancellation requests must be submitted in writing via email.<\/strong><\/p><ol><li>Refundable less $1000 non-refundable deposit up to 181 days or more prior to tour date <br\/><\/li><li>Non-refundable or transferable after May 28, 2025 (180 days or less prior to tour date)<br\/><\/li><li>Guests of the tour will be required to purchase travel insurance.<\/li><\/ol><p>Please note that no refunds will be provided for unused services, including but not limited to transfers, city tours, accommodations, meals, or transportation that are not availed voluntarily.<\/p><p>We understand that unforeseen circumstances can arise, and we highly recommend that travelers consider travel insurance to safeguard their investment in the event of unexpected changes. Thank you for your understanding of our policy, as it ensures the smooth operation and the satisfaction of all parties involved.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "8fef7e85-3dbd-4573-b556-4afbf969813d": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Waiver of Responsibility",
+            "text": "",
+            "dropdown_text": "<p>By signing up to the Tour you agree to our Terms (as detailed in the \"Things to Know\" section herein), Cancellation and Refunds policy and Waiver.  Gaia Inc, their representatives,  Kontiki Tours & their agents have worked diligently to make all the arrangements for our journey together in Peru and Bolivia. However, Kontiki Tours and Gaia Inc will not be held liable for delays, theft, damage, injury, or any other irregularities that may occur during the journey. We will not be held liable for any changes or delays in airline schedules or missed connections; injury, loss, or damage to persons or property; additional expenses resulting from changes in exchange rates, tariffs, or itinerary; any transportation issues or problems with vehicles utilized on the tour; additional expenses incurred due to illness, weather conditions, protests, war, terrorism, quarantine, or other causes; and losses due to cancellations not subject to our Terms and Conditions.<br\/><br\/><strong>Please Note:<\/strong> For all international retreats and experiences, please read through our <a href=\"https:\/\/marketplace.gaia.com\/pages\/international-travel-waiver?pb=0\">International Travel Waiver<\/a> prior to departure. This waiver ensures alignment with our travel guidelines and supports a smooth, safe journey for all participants.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Itinerary Changes",
+            "text": "",
+            "dropdown_text": "<p>This itinerary is subject to change to accommodate possible adjustments in domestic flight times or other unforeseen circumstances. The overall content will remain the same, barring any unanticipated complications, and will include many delightful extras and surprises.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "36d254e6-c118-4eb9-868e-c7838412525e": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Insurance",
+            "text": "",
+            "dropdown_text": "<p>We strongly recommend that all participants obtain travel insurance. Travel insurance companies offer insurance for trip cost, trip cancellation and interruption, and covers losses due to unforeseen circumstances, death, injury, or illness affecting you or a member of your family. It also includes coverage for missed connections due to weather and for lost deposits resulting from the financial default of the airline, the tour operator, or the cruise line. It covers baggage delays, travel delays, medical expenses, and emergency assistance.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_Jxztp9": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Visa Information for Travel to Peru",
+            "text": "",
+            "dropdown_text": "<p>Citizens traveling with passports from most South American countries, the United States, Canada, Europe, Australia, New Zealand, and several Asian nations <strong>do not require a visa<\/strong> to enter Peru for short tourist stays.<\/p><p>However, <strong>if your country does require a visa<\/strong>, it is <strong>your responsibility<\/strong> to obtain one before departure. Travelers must ensure they hold a <strong>valid visa for all countries<\/strong> they plan to visit.<\/p><p>For a complete and up-to-date list of countries that <strong>do require a visa<\/strong> to enter Peru, please consult the official Peruvian government website:<br\/><br\/>👉 <a href=\"https:\/\/www.consulado.pe\/es\/londres\/tramite\/Paginas\/Visas\/Issuance-of-Tourist-Visa.aspx\">Issuance of Tourist Visa – Peruvian Consulate<\/a><\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_M7Xjdk": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Tipping Guidance",
+            "text": "",
+            "dropdown_text": "<p>We suggest bringing $120–$150 USD to contribute toward a shared tip pool managed by Kontiki, the tour company. This pool covers gratuities for bus drivers, local guides, Machu Picchu circuit attendants, and other group service providers.<br\/><br\/><strong>Please note: <\/strong>This suggested tipping amount does not include personal tips for waitstaff, hotel staff, concierge services, or service providers during your own free time or optional outings.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "button_GkTfbb": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Register Now",
+            "link_entitled": "",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d",
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281",
+        "88fe273d-dad8-4fcb-8e72-e298aeffea83",
+        "8fef7e85-3dbd-4573-b556-4afbf969813d",
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07",
+        "36d254e6-c118-4eb9-868e-c7838412525e",
+        "dropdown_Jxztp9",
+        "dropdown_M7Xjdk",
+        "button_GkTfbb"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "Important Information",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "left",
+        "column_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "927a5fbd-9afa-4cc7-adea-fe0ab118ead0": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20197640634689__927a5fbd-9afa-4cc7-adea-fe0ab118ead0-hero-2": {
+          "type": "hero",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "Gaia Exclusive \nPre-Diluvian Egypt Tour",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/3JrZnwP8C8_4522fd15-d82a-4f39-bded-3d998aea3e40.jpg",
+            "overlay_opacity": 50
+          }
+        },
+        "d3ffef74-d615-4ac2-afea-12aec6607ff7": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Gaia Exclusive \nPre-Diluvian Egypt Tour",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/cairo-1200x800.jpg",
+            "overlay_opacity": 50
+          }
+        },
+        "d8d4958c-b42f-4913-9be9-2e5f382fdd57": {
+          "type": "hero",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "Gaia Exclusive \nPre-Diluvian Egypt Tour",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/egypt-tour-bg-3-desktop.jpg",
+            "overlay_opacity": 50
+          }
+        },
+        "deba10be-d7e0-4007-be86-86350443e5d0": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Gaia Exclusive \nPre-Diluvian Egypt Tour",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/ldjNflmUKF_e626b68d-5854-4743-8303-f493b42c78c5.jpg",
+            "overlay_opacity": 50
+          }
+        },
+        "948951c4-d3cd-4923-807c-17cbc9f7edb6": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Gaia Exclusive \nPre-Diluvian Egypt Tour",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/03dHa7KS51_3188c4e0-a2c6-49bb-9131-cfa7c00b69da.jpg",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--20197640634689__927a5fbd-9afa-4cc7-adea-fe0ab118ead0-hero-2",
+        "d3ffef74-d615-4ac2-afea-12aec6607ff7",
+        "d8d4958c-b42f-4913-9be9-2e5f382fdd57",
+        "deba10be-d7e0-4007-be86-86350443e5d0",
+        "948951c4-d3cd-4923-807c-17cbc9f7edb6"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "desktop_size": -40,
+        "mobile_size": 0,
+        "style": "dots",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "slideshow_emL8WA",
+    "rich_text_Gcwtmz",
+    "featured_video_NhXk4G",
+    "061b0d20-e98a-47d8-9f35-f44f31d51acc",
+    "85e20baa-20e7-4e15-961d-dc2232ca0e16",
+    "e050c6d5-44c1-45b8-88c2-e0650f6f4b08",
+    "7aed34aa-1760-4d6f-8ff3-2be2dc756274",
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc3",
+    "6db691b5-0534-45ec-97a0-e4a6c1dcff87",
+    "text_and_image_JPgmwm",
+    "text_and_image_UN7GdK",
+    "text_and_image_tLxDFQ",
+    "text_and_image_6dhgPK",
+    "text_and_image_9Ditee",
+    "benefits_blocks_standard_YKn94F",
+    "main",
+    "ce45914b-7a52-48d4-9e05-4cf5a5c05566",
+    "e6fa5fae-029e-48df-a6da-fe4caef08809",
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2",
+    "05a6ccb4-5008-4aea-bd7b-71a71b3b7286",
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0",
+    "927a5fbd-9afa-4cc7-adea-fe0ab118ead0"
+  ]
+}

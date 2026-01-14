@@ -1,0 +1,1060 @@
+{
+  "sections": {
+    "hero_video_YxC36d": {
+      "type": "hero-video",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "title": "Silver Birch Spring Retreat, West Cork, Ireland.",
+        "h1_title": true,
+        "title_size": 70,
+        "subheading": "May 11th - 18th, 2024",
+        "link_text": "Register Now",
+        "link": "#register",
+        "color_accent": "#01b4b4",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/037944be3dda4c7c83b7709563e099f3.mp4",
+        "overlay_opacity": 0,
+        "height": 650,
+        "height_mobile": 300
+      }
+    },
+    "e1f81617-24a5-444c-b24c-d475bf39eddf": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20197640634689__e1f81617-24a5-444c-b24c-d475bf39eddf-hero-1": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Sedona Love Heals Retreat 2025",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "Presented by Body & Brain\nBeing Offered on Multiple Dates in 2025\nGaia members save 10%",
+            "enlarge_subheading": true,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Marketplace_Hero_Love_Heals_Retreat_v2.jpg",
+            "overlay_opacity": 40
+          }
+        }
+      },
+      "block_order": [
+        "template--20197640634689__e1f81617-24a5-444c-b24c-d475bf39eddf-hero-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": 0,
+        "mobile_size": 30,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "4dd0df47-16d9-4d25-8562-49859fd15b78": {
+      "type": "background-image-text",
+      "disabled": true,
+      "custom_css": [
+        ".background-media-text__text {width: 100%; max-width: 500px;}"
+      ],
+      "settings": {
+        "subtitle": "",
+        "title": "Gaia Exclusive Pre-Diluvian Egypt Tour",
+        "heading_size": "h1",
+        "heading_position": "left",
+        "text": "<p>Awaken your inner explorer on this expedition through ancient Egyptian history. Exclusive Pre-Diluvian Egypt Tour for Gaia members only! <\/p>",
+        "button_label": "",
+        "button_link": "#shopify-section-template--20197640634689__main",
+        "image": "shopify:\/\/shop_images\/egypt-tour-bg-3-desktop.jpg",
+        "layout": "left",
+        "height": 550,
+        "parallax": true,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "columns_1_e6NP7C": {
+      "type": "columns-1",
+      "blocks": {
+        "text_gFLP8i": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>“We went down into the silent garden. Dawn is the time when nothing breathes, the hour of silence. Everything is transfixed, only the light moves.” <em><br\/><\/em><strong>― Leonora Carrington<\/strong><\/p>"
+          }
+        },
+        "text_WjQTE4": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>April 16-20, 2025<br\/>June 11-15, 2025<br\/>September 26 - 30, 2025<br\/>November 9 - 13<\/p>"
+          }
+        },
+        "button_GtMqiM": {
+          "type": "button",
+          "settings": {
+            "link": "#register",
+            "link_text": "Register Now",
+            "link_entitled": "",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "text_gFLP8i",
+        "text_WjQTE4",
+        "button_GtMqiM"
+      ],
+      "custom_css": [
+        "@media screen and (min-width: 768px) {.narrow {max-width: 75%; margin: 0 auto; }}"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "UPCOMING DATES:",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "center",
+        "color_scheme": "3",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "featured_video_rBNdjg": {
+      "type": "featured-video",
+      "settings": {
+        "title": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=ja_4xxUouWg",
+        "divider": false
+      }
+    },
+    "text_and_image_WqRQdy": {
+      "type": "text-and-image",
+      "custom_css": [
+        "@media screen and (max-width: 768px) {.feature-row__text a {margin: auto; display: block; width: fit-content; margin-top: 10px; }}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Love-Heals-Retreat-Reflecting.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Reconnect your Mind, Body, Spirit",
+        "heading_size": "h1",
+        "text": "<p>Experience deep transformation over 5 days<br\/><br\/>The LOVE HEALS Retreat is a 5-day program in Sedona, AZ. You will experience ancient East Asian energy practices and principles, which hold the key to unlock the limitless potential of your body’s energy centers.  Surrounded by nature, you will learn how to connect with your inner self and activate the natural energy healing of your body, mind, and spirit.<\/p><ul><li>Through connecting to your Observer Consciousness, begin awakening your lower chakras and accepting the pain in your physical body.<\/li><li>Reunite with your True Heart and find the unshakeable love within.  Learn how to use this love to accept the pain of emotions and the past.<\/li><li>Awaken your Bright Light and divinity within. Once you meet your true essence, discover how this true brightness can embrace everything.<\/li><\/ul>",
+        "button_label": "Register Now",
+        "button_link": "#register",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "color_scheme": "2",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_video_c39wff": {
+      "type": "text-and-video",
+      "settings": {
+        "video_url": "https:\/\/youtu.be\/-GnqmQpI2j8",
+        "subtitle": "",
+        "title": "Featured in the Documentary LOVE HEALS",
+        "heading_size": "h2",
+        "text": "<p>The Love Heals Retreat is based on the group transformational experience featured in the documentary, LOVE HEALS, which follows the journey of Dana, a chronic pain sufferer in search of healing, as she learns how these ancient principles have helped people heal and find their true nature.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "video_width": "50",
+        "layout": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
+    "columns_1_fri9L4": {
+      "type": "columns-1",
+      "blocks": {
+        "dropdown_TKmRwD": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 1",
+            "text": "",
+            "dropdown_text": "<p>During the welcome orientation you will receive an overview of the schedule, experience a reflective meditation and there will be an opportunity to watch the LOVE HEALS documentary together.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#01b4b4",
+            "text_color": "#f4f5f7"
+          }
+        },
+        "dropdown_fkW4KW": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 2",
+            "text": "",
+            "dropdown_text": "<p>Each day begins with morning outdoor mindfulness exercises and mediation in the Healing Garden. On Day 2, you will learn how to stay in the present moment by learning how to develop your awareness and awaken your physical and energy sense. Every night, you will finish your day with self-healing practices to practice taking care of your own body, mind, and spirit.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#01b4b4",
+            "text_color": "#f4f5f7"
+          }
+        },
+        "dropdown_ycJTdw": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 3",
+            "text": "",
+            "dropdown_text": "<p>Begin Day 3 with a reflective meditation amongst the 5 elements of the Healing Garden to help you connect and reflect on your life story with love and patience.<br\/><br\/>Throughout the day you will have an opportunity to reflect on the emotions, thoughts and habits you have been holding onto. You will be guided to energetically heal your body and mind through heart-opening, chakra healing and other meditation techniques.<br\/><br\/>Experience how your relationship with yourself and others can expand as you gain self-love, acceptance, understanding, and forgiveness.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#01b4b4",
+            "text_color": "#f4f5f7"
+          }
+        },
+        "dropdown_zcCr7H": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 4",
+            "text": "",
+            "dropdown_text": "<p>We’ll start the day with a Life Purpose Meditation at the serene Mago Labyrinth, grounding ourselves in intention and clarity. As the energy builds, you’ll be guided into a transformative Mago Divinity Meditation, connecting deeply with the sacred energy of Mago.  Through meditation and training on this day, you will finally recover the balance and harmony of body, mind, and spirit. You will feel a sense of purpose, self-value, total health, and overflowing joy from within.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#01b4b4",
+            "text_color": "#f4f5f7"
+          }
+        },
+        "dropdown_wb3qzk": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 5",
+            "text": "",
+            "dropdown_text": "<p>The final morning’s special outdoor activities and meditations will allow you to feel “nothingness” as you let go of who you are not, and experience complete quietness, tranquility, and deep peace.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#01b4b4",
+            "text_color": "#f4f5f7"
+          }
+        },
+        "button_eJqfJ7": {
+          "type": "button",
+          "settings": {
+            "link": "#register",
+            "link_text": "Join Today",
+            "link_entitled": "",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "dropdown_TKmRwD",
+        "dropdown_fkW4KW",
+        "dropdown_ycJTdw",
+        "dropdown_zcCr7H",
+        "dropdown_wb3qzk",
+        "button_eJqfJ7"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "Trust, accept, forgive and heal yourself to meet your PURE LOVE",
+        "heading_size": "h1",
+        "subheading": "Program Itinerary:",
+        "align_heading": "left",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "columns_2_prri7V": {
+      "type": "columns-2",
+      "blocks": {
+        "text_HVNzzf": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": true,
+            "text": "<h2>Activities Include<\/h2><ul><li>Barefoot Walking<\/li><li>Sun Meditation at Mission Place<\/li><li>Nature Meditation at Healing Gardens<\/li><li>120 Step Life Reflection Meditation<\/li><li>QiGong at Senya Vista<\/li><li>Waterfall Meditation at Senya Falls<\/li><li>Sound Healing Meditation<\/li><li>Labyrinth Life Purpose Meditation<\/li><\/ul>"
+          }
+        },
+        "text_6B83NY": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": true,
+            "text": "<h2>Benefits Include<\/h2><ul><li>Manage Your Stress<\/li><li>Heal and Balance Your Emotions<\/li><li>Gain Tools to Ground Yourself<\/li><li>Increase Your Awareness<\/li><li>Achieve Absolute Peace & Tranquility<\/li><li>Gain Confidence<\/li><li>Gain Tools to Build Physical Power<\/li><li>Circulate Energy to Recover Natural Health<\/li><li>Raise Your Consciousness<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "text_HVNzzf",
+        "text_6B83NY"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "85e20baa-20e7-4e15-961d-dc2232ca0e16": {
+      "type": "map",
+      "settings": {
+        "map_title": "",
+        "heading_size": "h3",
+        "heading_position": "left",
+        "address": "",
+        "map_address": "Sedona, Arizona",
+        "api_key": "AIzaSyCGvtT63CU5qr-RVFMbrPgnOENoN9EKmdA",
+        "map_zoom": 6,
+        "map_style": "retro",
+        "map_simplified": true,
+        "map_control": "draggable_onclick",
+        "show_button": false,
+        "background_image": "shopify:\/\/shop_images\/egypt-cairo-map_ab053abb-c115-45fc-8865-308d8ddf3d63.jpg",
+        "lazyload_images": true
+      }
+    },
+    "columns_1_XhiWg8": {
+      "type": "columns-1",
+      "blocks": {
+        "button_TXMUUW": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link": "#register",
+            "link_text": "Register Now",
+            "link_entitled": "",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "button_TXMUUW"
+      ],
+      "custom_css": [
+        ".index-section {background-color: #fff5f1; padding: 40px 20px;}"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "About the Retreat Center",
+        "heading_size": "h2",
+        "subheading": "Sedona Mago Center for Well-being and Retreat, operated by the non-profit, Tao Fellowship, is located in Northern Arizona, on 173-acres of open land in the Coconino National Forest, cradled amongst Sedona’s renowned vortexes and healing red rocks. For over 40 years, Sedona Mago has been a destination for healing and transformation.",
+        "align_heading": "left",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_image_AQgaU6": {
+      "type": "slideshow-image",
+      "blocks": {
+        "image_4Cwwih": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify:\/\/shop_images\/Love-Heals-Retreat-Center.jpg"
+          }
+        },
+        "image_yFGxKy": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify:\/\/shop_images\/Love-Heals-Retreat-Fountain-Area.jpg"
+          }
+        },
+        "image_raFLRP": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify:\/\/shop_images\/Love-Heals-Retreat-Room.jpg"
+          }
+        },
+        "image_HDHLYF": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify:\/\/shop_images\/Love-Heals-Retreat-Souvenir-Shop.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_4Cwwih",
+        "image_yFGxKy",
+        "image_raFLRP",
+        "image_HDHLYF"
+      ],
+      "settings": {
+        "full_width": false,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "columns_1_3PcyMX": {
+      "type": "columns-1",
+      "blocks": {
+        "liquid_GPX4TM": {
+          "type": "liquid",
+          "settings": {
+            "code": "<center>We are inspired to co-create this very special retreat especially for you. As consciousness explorers we each bring our unique gifts and talents, combined with decades of experience to hold space and support your becoming. Our team embodies ancient timeless wisdom with a generosity of spirit and together we are committed to helping you transcend and embrace your true nature.<\/center>"
+          }
+        },
+        "liquid_AHGif8": {
+          "type": "liquid",
+          "settings": {
+            "code": "<center><strong>Suzi von Mensenkampff, Ireland.\n<\/strong><\/center>"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_GPX4TM",
+        "liquid_AHGif8"
+      ],
+      "disabled": true,
+      "settings": {
+        "narrow_column": true,
+        "title": "OUR TEAM",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": true,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_XLQUN3": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_VEKWrk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Love-Heals-Retreat-Trainer-Ilchibuko-Todd.jpg",
+            "link": "https:\/\/www.wakeuplittlesuzi.com\/about",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_cbY3pz": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Meet Ilchibuko\n<\/h2>\n<p>\n<em>\n<\/em>\n<\/p>\n<p>\nIlchibuko Todd brings over 20 years of experience mastering Qi energy through SunTao Living practice and Body & Brain. She offers expert guidance to reconnect people to the deepest root of themselves and awaken their fullest potential. Ilchibuko is an international speaker and trainer who envisions individual awakening and healing to be the seed from which the healing of all humanity and the Earth will grow. She is the trainer who led the group in the documentary LOVE HEALS through their transformational experience.\n<\/p>",
+            "width": "66%",
+            "alignment": "center"
+          }
+        },
+        "liquid_Ffjh34": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "code": "<h3>Integrated Wellness and Global Community Engagement:<\/h3>\n<p>\nAs an Ayurveda Consultant Suzi offers personalised online consultations, she is passionate about living the teachings, and has expanded her knowledge and experience of Ayurveda to offer support to her private clients as they consciously connect all of the dots in their lives to see the bigger picture. Suzi provides guidance and empathy along with simple practical advice and tools to support their health and wellbeing, transforming their lives on a deep level. Suzi continued her study of Ayurveda between 2014 and 2018 with Dr. Shivani Sood at the Shivani Ayurveda Clinic in Dharamshala, India.\n<\/p>\n<p>\nSuzi volunteered for five years as Group Leader with Yoga for Hope based in Kolkata, India. Her passion for travel has inspired her extensive travels throughout India and Bhutan taking guests on an unforgettable, life changing journey. She has spent many years creating Himalayan retreats and taking groups to sacred locations in both India and Bhutan since 2018. In recent years her retreat setting has been closer to home. Suzi creates unique experiences in the land of the ancient Celts, in Ireland for small intimate groups from around the world, check out her retreat schedule for 2024 for more details.\n<\/p>\n<p>\nEvery Monday at 5pm Ireland time, Suzi hosts a live meditation on zoom that everyone is welcome to join, sign up on the landing page for the link. With a variety of monthly online programs on offer, why not sign up for the occasional newsletter to stay in touch. As a volunteer with Feast for the Soul, she is committed to making meditation free and accessible for everyone, check out her meditations on YouTube, Soundcloud and Insight Timer if you can't make it to the live sessions.\n<\/p>\n<h3>\nEmpowering Visionary Leadership and Personal Transformation:\n<\/h3>\n<p>\nIn recent years Suzi has developed an executive coaching style that inspires creative visionaries who are ready to Invest ~Invoke ~Inform, her corporate intuitive model has been rolled out globally in companies across multiple sectors based in Europe, Canada, UK, UAE, and Asia Pacific. This collaboration continues to expand; connect directly to schedule her for a keynote presentation and to discuss developing a strategy to take your organisation to a whole new level of health, wealth and happiness.\nSuzi has never stopped learning, she has been researching, writing and developing new programs and practices to facilitate living in a constantly changing world, these develop the sixth sense and intuitive response. They are practical, experiential programs, and include; Spirit Cafe, Living with Awareness, Timeless Travel, Trust Your Vibe and Explore Your Quest.\n<\/p>\n<p>\nSuzi has a natural gift and she has developed simple practices to get you started. When one develops trust and learns how to live with pure awareness they confidently start following their intuition - synchronicities multiply and life becomes a lot more fun!. Suzi lives by these mystical principles and is committed to mentoring you to take your next steps, she invites all modern mystics to join her and her expanding global community who are ready to answer the call to wake up!\n<\/p>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_VEKWrk",
+        "liquid_cbY3pz",
+        "liquid_Ffjh34"
+      ],
+      "custom_css": [
+        "img {border-radius: 100%;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "columns_1_FLdAEF": {
+      "type": "columns-1",
+      "blocks": {
+        "button_8e6XWQ": {
+          "type": "button",
+          "settings": {
+            "link": "#register",
+            "link_text": "Register Now",
+            "link_entitled": "#offer",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "button_8e6XWQ"
+      ],
+      "settings": {
+        "narrow_column": true,
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "center",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_DtLUUq": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_gkLU4z": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ireland-retreat-sara-mclean.webp",
+            "link": "https:\/\/mcleanmeditation.com\/sarah-mclean\/",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_qjyp6H": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Sarah McLean, USA\n<\/h2>\n<p>\n“I am dedicated to doing what I can to create more peace on this planet for every living being. I believe that when people learn how to meditate and practice every day, their awareness expands and they are able to cultivate their own personal peace. When each one of us is peaceful, it creates a more peaceful planet for everyone. That’s the kind of planet I want to live on.” <strong>\n– Sarah McLean<\/strong>\n<\/p>\n<p>\n<strong>Sarah McLean<\/strong> is a contemporary meditation and mindfulness teacher who has been inspiring people to meditate since 1993.\n<\/p>\n<p>\nSarah first learned about meditation while training in the U.S. Army as a Behavioral Specialist to help soldiers address Post-Traumatic Stress Disorder.  After the Army and graduating from the University of Massachusetts, Sarah took a nine-month mountain bike journey from Europe to Asia seeking secrets to peace and fulfillment. When she returned, she began her daily meditation practice and studied mind\/body health with Dr. Deepak Chopra in Lancaster, Massachusetts at the Ayurveda Health Center, a Transcendental Meditation community. After Deepak moved to California, Sarah became the Program Director for the Chopra Center for Wellbeing.\n<\/p>",
+            "width": "66%",
+            "alignment": "center"
+          }
+        },
+        "liquid_RFrjqK": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h3>Sarah's Journey and Meditation Teacher Academy:<\/h3>\n<p>\n  After eight years of being immersed in the world of Ayurveda, ancient wisdom,\n  mind\/body health, and meditation at the Chopra Center, Sarah took a sabbatical\n  to seek the origins of meditation. She lived in a traditional ashram in South\n  India for six months and was a resident at a remote Zen Buddhist monastery for\n  two years.\n<\/p>\n<p>\n  Life after the monastery consisted of working with Gary Zukav in Mount Shasta,\n  followed by becoming the director of Byron Katie’s School for the Work. In\n  2001, Sarah then moved to Sedona, Arizona where she opened a destination\n  meditation center.\n<\/p>\n<p>\n  In 2011, Sarah founded the\n  <a target=\"_blank\" href=\"https:\/\/mcleanmeditation.com\/teacher-training\/\"\n    >Meditation Teacher Academy<\/a\n  >\n  at the McLean Meditation Institute in in Sedona, Arizona in order to train her\n  students and others how to become effective meditation and mindfulness\n  teachers. The 300-hour teacher training program incorporates a variety of\n  meditation and mindfulness techniques and practices from a myriad of\n  traditions and lineages. At the Meditation Teacher Academy, teachers learn to\n  become clear communicators who bring meditation and mindfulness to any\n  population or setting. Sarah is personally involved with each and every person\n  who is enrolled and helps them uncover their unique skills and develop their\n  personal power so they can go on to effectively teach their students to\n  meditate and live more mindfully.\n<\/p>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_gkLU4z",
+        "liquid_qjyp6H",
+        "liquid_RFrjqK"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "img {border-radius: 100%;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "columns_1_mBGF9w": {
+      "type": "columns-1",
+      "blocks": {
+        "button_UXC39Y": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link": "#register",
+            "link_text": "Register Now",
+            "link_entitled": "#register",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "button_UXC39Y"
+      ],
+      "settings": {
+        "narrow_column": true,
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "center",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_JWcTMe": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_FecHXE": {
+          "type": "liquid",
+          "settings": {
+            "code": "<span id=\"register\" \/>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_FecHXE"
+      ],
+      "custom_css": [],
+      "settings": {
+        "full_width": false,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_video_PqgC8Q": {
+      "type": "text-and-video",
+      "settings": {
+        "video_url": "https:\/\/youtu.be\/7TnrVqWbLvI",
+        "subtitle": "",
+        "title": "What People are Saying About the Retreat",
+        "heading_size": "h2",
+        "text": "<p>\"This retreat was the most incredible experience I have ever been a part of [and] brought me home to myself, to my authenticity, to my truth... it gave me the space and guidance to delve deeper and hone my inherent strength and wisdom.\" - Katriana D.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "video_width": "50",
+        "layout": "right",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "5d0eaa37-9ce3-4e70-88fb-648e9f061d06": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show-def-q": false,
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "5d0eaa37-9ce3-4e70-88fb-648e9f061d06",
+        "price",
+        "separator",
+        "variant_picker",
+        "inventory_status",
+        "buy_buttons",
+        "description",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "custom_css": [
+        ".product-grid__container {padding-top: var(--indexSectionPadding); padding-bottom: var(--indexSectionPadding); margin-top: -40px;}",
+        ".product-block--header {margin: -60px 0 0;}"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": false,
+        "h1_title": false,
+        "hide_media": false,
+        "align_text": "left",
+        "image_position": "left",
+        "image_container_size": "large",
+        "product_image_size": "natural",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "ce45914b-7a52-48d4-9e05-4cf5a5c05566": {
+      "type": "text-columns",
+      "blocks": {
+        "template--21409734426945__ce45914b-7a52-48d4-9e05-4cf5a5c05566-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/All_Clips.00_27_04_01.Still070.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--21409734426945__ce45914b-7a52-48d4-9e05-4cf5a5c05566-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Love.Heals.Experience.4k.00_03_48_10.Still010.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "32a6e963-2a78-4115-84e8-067fd0f81b90": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/All_Clips.00_40_39_05.Still085.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "0f5ecf6e-6bb1-4750-b9ef-6d74ace362cb": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/All_Clips.00_29_05_13.Still074.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "ce1ea62c-7a37-47f6-9c8d-b726960b8da2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Love-Heals-Retreat-Group-Pic.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "19dfce67-12b7-4372-bc97-025f614e7184": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Love-Heals-Retreat-Korean-Qigong_23ef3b71-e38d-41e8-abdb-b6b42521019a.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "0ef2cdf0-19c1-4546-b207-33ea6a75f078": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Love-Heals-Retreat-Connecting.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "2f47a106-59f6-4814-9631-6ae15e721253": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Love-Heals-Retreat-Garden.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_LCPVJF": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "heading_size": "h2",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions.<\/p>",
+            "align_text": "center",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21409734426945__ce45914b-7a52-48d4-9e05-4cf5a5c05566-text_block-1",
+        "template--21409734426945__ce45914b-7a52-48d4-9e05-4cf5a5c05566-text_block-2",
+        "32a6e963-2a78-4115-84e8-067fd0f81b90",
+        "0f5ecf6e-6bb1-4750-b9ef-6d74ace362cb",
+        "ce1ea62c-7a37-47f6-9c8d-b726960b8da2",
+        "19dfce67-12b7-4372-bc97-025f614e7184",
+        "0ef2cdf0-19c1-4546-b207-33ea6a75f078",
+        "2f47a106-59f6-4814-9631-6ae15e721253",
+        "text_block_LCPVJF"
+      ],
+      "custom_css": [
+        ".index-section {background-color: #fff5f1; padding: 40px 20px;}"
+      ],
+      "settings": {
+        "title": "Photos From Past Retreats",
+        "heading_size": "h0",
+        "subtitle": "",
+        "align_text": "center",
+        "grid": 4,
+        "divider": false,
+        "color_scheme": "none"
+      }
+    },
+    "05a6ccb4-5008-4aea-bd7b-71a71b3b7286": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "How do I get to the Retreat Center?",
+            "text": "<p>There are two ways to get into Sedona Mago Center. You can either drive into the property on your own, or book a shuttle through a 3rd party that will drive you all the way to the Welcome Center. For driving directions, please<a href=\"https:\/\/sedonamagoretreat.org\/directions\/\" target=\"_blank\">visit this page<\/a>. For shuttles,<a href=\"https:\/\/sedonamagoretreat.org\/transportation\/\" target=\"_blank\">please visit here. <\/a>Keep in mind that driving into Sedona Mago Center requires driving through 11 miles of unpaved road that is usually smooth and manageable, but can get muddy and\/or rocky during monsoon season (July-Oct). If you choose to drive into Sedona Mago, we recommend driving an SUV.<\/p>"
+          }
+        },
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "Are meals & accommodations included?",
+            "text": "<p>No, meals & accommodations are not included in the program price. Please book your accommodations with Sedona Mago Center directly by calling (928) 204-3391, or request a booking link from the program coordinator. The cost for accommodations is roughly $150\/night, and will include 3x freshly prepared, buffet-style pescatarian meals every day during your stay. If you have special dietary requirements, please inform Sedona Mago Center when you book your accommodations.<\/p>"
+          }
+        },
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-5": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "How do I know if this program is for me?",
+            "text": "<p>We truly understand that choosing to attend to a retreat and traveling somewhere new can be overwhelming, so we’re here to help you feel as safe as possible. If you feel connected with the information you've read so far, chances are that you will love this retreat experience. If you're interested but still not sure and would like to ask a few questions, feel free to send us an email at <a href=\"mailto:customerservice@bodynbrain.com\" target=\"_self\">customerservice@bodynbrain.com<\/a>. If it’s something we can answer directly through email, we’ll reply back within a few business days. If it’s something more personal, we can even set up a phone call or Zoom with you to talk through your questions. Just let us know what you need, and we'll start from there!<\/p>"
+          }
+        },
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-4": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "What happens after the retreat?",
+            "text": "<p>We are each on our own personal journey. On the last day of the program, our staff and trainers will make recommendations for you based on helping you achieve your goals. If you would like specialized guidance, you may request it from our staff and trainers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-1",
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-3",
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-5",
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-4"
+      ],
+      "settings": {
+        "title": "FAQ's",
+        "heading_size": "h1",
+        "heading_position": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0": {
+      "type": "columns-1",
+      "blocks": {
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Exclusions",
+            "text": "",
+            "dropdown_text": "<p>Air-fare, travel insurance, optional excursions, meals & accommodations are not included in the program price. Please book your accommodations with Sedona Mago Center directly by calling (928) 204-3391.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "88fe273d-dad8-4fcb-8e72-e298aeffea83": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Cancellation and Refunds",
+            "text": "",
+            "dropdown_text": "<p><strong>REFUND \/ CANCELLATION POLICY<\/strong><\/p><p>61+ days prior to the event –  Refundable less 10% cancellation fee<\/p><p>60-31 days prior  - Refundable less 20% cancellation fee<\/p><p>30 or less days prior  - Non-Refundable<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d",
+        "88fe273d-dad8-4fcb-8e72-e298aeffea83"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "Things to Know",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "left",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "hero_video_YxC36d",
+    "e1f81617-24a5-444c-b24c-d475bf39eddf",
+    "4dd0df47-16d9-4d25-8562-49859fd15b78",
+    "columns_1_e6NP7C",
+    "featured_video_rBNdjg",
+    "text_and_image_WqRQdy",
+    "text_and_video_c39wff",
+    "columns_1_fri9L4",
+    "columns_2_prri7V",
+    "85e20baa-20e7-4e15-961d-dc2232ca0e16",
+    "columns_1_XhiWg8",
+    "slideshow_image_AQgaU6",
+    "columns_1_3PcyMX",
+    "advanced_content_XLQUN3",
+    "columns_1_FLdAEF",
+    "advanced_content_DtLUUq",
+    "columns_1_mBGF9w",
+    "advanced_content_JWcTMe",
+    "text_and_video_PqgC8Q",
+    "main",
+    "ce45914b-7a52-48d4-9e05-4cf5a5c05566",
+    "05a6ccb4-5008-4aea-bd7b-71a71b3b7286",
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0"
+  ]
+}

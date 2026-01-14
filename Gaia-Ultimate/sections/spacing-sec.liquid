@@ -1,0 +1,37 @@
+<div class="spacing-sec-parent">
+
+</div>
+<style>
+    .spacing-sec-parent{
+        padding-top: {{product.metafields.pad-top-d.key}}px;
+        padding-bottom: {{product.metafields.pad-bot-d.key}}px;
+    }
+    @media(max-width:767px){
+        .spacing-sec-parent{
+        padding-top: {{product.metafields.pad-top-m.key}}px;
+        padding-bottom: {{product.metafields.pad-bot-m.key}}px;
+    }   
+    }
+</style>
+{% schema %}
+    {
+      "name": "Spacer Section",
+      "class": "mapping",
+      "settings": [
+
+      
+       {
+          "type": "text",
+          "id": "title",
+          "label": "Section Title",
+          "default": "Customer Reviews"
+        }
+       
+      ],
+      "presets": [
+        {
+            "name": "Spacer Section"
+        }
+      ]
+    } 
+{% endschema %}  

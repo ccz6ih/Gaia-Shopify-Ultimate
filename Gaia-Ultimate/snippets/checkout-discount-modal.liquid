@@ -1,0 +1,272 @@
+<!-- Discount Modal -->
+<script>
+  function showDiscountModal() {
+    const modalHTML = `
+      <div id="discount-modal" class="discount-modal" style="display: flex;" role="dialog" aria-labelledby="discount-modal-title" aria-modal="true">
+        <div class="discount-modal__content">
+          <h2 id="discount-modal-title" class="discount-modal__header">Want 10% Off This (and Every) Order?</h2>
+          <p class="discount-modal__text">To receive your Gaia member 10% discount, log in or become a member.</p>
+          <div class="discount-modal__buttons">
+            <a href="/account/login?return_url=%2Fcart" class="btn btn--primary" id="discount-modal-primary-btn">Log In or Sign Up</a>
+            <button class="btn btn--secondary checkout-without-discount" onclick="checkoutWithoutDiscount()">Checkout Without Discount</button>
+          </div>
+        </div>
+      </div>
+    `;
+
+    // Remove any existing modal
+    const existingModal = document.getElementById('discount-modal');
+    if (existingModal) {
+      existingModal.remove();
+    }
+
+    // Add new modal
+    document.body.insertAdjacentHTML('beforeend', modalHTML);
+
+    // Store the last focused element
+    const lastFocusedElement = document.activeElement;
+
+    // Focus the primary button
+    const primaryButton = document.getElementById('discount-modal-primary-btn');
+    if (primaryButton) {
+      primaryButton.focus();
+    }
+
+    // Add click handler to close modal when clicking outside
+    const modal = document.getElementById('discount-modal');
+    modal.addEventListener('click', function(e) {
+      if (e.target === modal) {
+        modal.remove();
+        // Restore focus to the last focused element
+        if (lastFocusedElement) {
+          lastFocusedElement.focus();
+        }
+      }
+    });
+
+    // Handle escape key
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') {
+        modal.remove();
+        // Restore focus to the last focused element
+        if (lastFocusedElement) {
+          lastFocusedElement.focus();
+        }
+      }
+    });
+  }
+
+  function checkoutWithoutDiscount() {
+    // Find the original checkout form and submit it
+    // This preserves the normal checkout flow including Evey's popup
+    const cartForm = document.querySelector('form[action*="/cart"]');
+    if (cartForm) {
+      // Create a hidden submit button to trigger the form
+      const submitButton = document.createElement('button');
+      submitButton.type = 'submit';
+      submitButton.name = 'checkout';
+      submitButton.style.display = 'none';
+      cartForm.appendChild(submitButton);
+      submitButton.click();
+      cartForm.removeChild(submitButton);
+    } else {
+      // Fallback to direct checkout if no form found
+      window.location.href = '/checkout';
+    }
+  }
+
+  // Check if user is logged in
+  function isUserLoggedIn() {
+    return {% if customer %}true{% else %}false{% endif %};
+  }
+
+  // Replace Shopify payment buttons with custom button for non-logged-in users
+  function replacePaymentButtons() {
+    if (isUserLoggedIn()) return; // Don't replace for logged-in users
+
+    const paymentButtonContainers = document.querySelectorAll('[data-shopify="payment-button"]');
+
+    paymentButtonContainers.forEach(function(container) {
+      // Check if we've already replaced this container
+      if (container.dataset.replaced === 'true') return;
+
+      // Mark as replaced
+      container.dataset.replaced = 'true';
+
+      // Store original content
+      container.dataset.originalContent = container.innerHTML;
+
+      // Create custom "Buy Now" button
+      const customButton = document.createElement('button');
+      customButton.type = 'button';
+      customButton.className = 'btn btn--full shopify-payment-button__button--unbranded';
+      customButton.textContent = 'Buy Now';
+      customButton.style.cssText = `
+        width: 100%;
+        margin-top: 10px;
+        background: #000;
+        color: #fff;
+        border: none;
+        padding: 15px 20px;
+        border-radius: 4px;
+        font-size: 16px;
+        font-weight: 600;
+        cursor: pointer;
+      `;
+
+      // Add click handler - add to cart first, then show modal
+      customButton.addEventListener('click', function(e) {
+        e.preventDefault();
+
+        // Find the product form and get its data
+        const productForm = document.querySelector('form[action*="/cart/add"]');
+        if (productForm) {
+          // Get form data
+          const formData = new FormData(productForm);
+
+          // Add to cart via AJAX
+          fetch('/cart/add.js', {
+            method: 'POST',
+            body: formData
+          })
+          .then(response => response.json())
+          .then(data => {
+            // Show modal after successful cart addition
+            showDiscountModal();
+          })
+          .catch(error => {
+            console.error('Error adding to cart:', error);
+            // Fallback - just show modal
+            showDiscountModal();
+          });
+        } else {
+          // Fallback - just show modal
+          showDiscountModal();
+        }
+      });
+
+      // Replace the entire container content
+      container.innerHTML = '';
+      container.appendChild(customButton);
+
+      // Add a note about the discount
+      const discountNote = document.createElement('p');
+      discountNote.style.cssText = `
+        font-size: 12px;
+        color: #666;
+        margin-top: 5px;
+        text-align: center;
+      `;
+      discountNote.textContent = 'Log in for Gaia member discount';
+      container.appendChild(discountNote);
+    });
+  }
+
+  // Handle dynamic checkout button clicks
+  function handleDynamicCheckoutClick(event) {
+    // Check if user is not logged in
+    if (!isUserLoggedIn()) {
+      event.preventDefault();
+      event.stopPropagation();
+      event.stopImmediatePropagation();
+      showDiscountModal();
+      return false;
+    }
+    // If user is logged in, allow normal checkout flow
+    return true;
+  }
+
+  document.addEventListener('DOMContentLoaded', function() {
+    // Handle regular checkout buttons
+    const checkoutButtons = document.querySelectorAll('.show-discount-modal');
+    checkoutButtons.forEach(function(button) {
+      button.addEventListener('click', showDiscountModal);
+    });
+
+    // Setup payment button replacement for Shop Pay/Apple Pay
+    function setupPaymentButtonReplacement() {
+      // Wait for Shopify's dynamic checkout buttons to be loaded
+      const checkForButtons = setInterval(function() {
+        const paymentButtonContainers = document.querySelectorAll('[data-shopify="payment-button"]');
+
+        if (paymentButtonContainers.length > 0) {
+          clearInterval(checkForButtons);
+          replacePaymentButtons();
+        }
+      }, 100);
+    }
+
+    // Initial setup
+    setupPaymentButtonReplacement();
+
+    // Watch for dynamically added payment button containers
+    const observer = new MutationObserver(function(mutations) {
+      mutations.forEach(function(mutation) {
+        if (mutation.type === 'childList') {
+          // Check for new payment button containers
+          const newPaymentButtons = document.querySelectorAll('[data-shopify="payment-button"]:not([data-replaced="true"])');
+          if (newPaymentButtons.length > 0) {
+            replacePaymentButtons();
+          }
+        }
+      });
+    });
+
+    // Start observing the document body for changes
+    observer.observe(document.body, {
+      childList: true,
+      subtree: true
+    });
+  });
+</script>
+
+<style>
+  /* Modal Styles */
+  .discount-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+  }
+
+  .discount-modal__content {
+    background: white;
+    padding: 2rem;
+    border-radius: 4px;
+    max-width: 500px;
+    width: 90%;
+    text-align: center;
+  }
+
+  .discount-modal__header {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+  }
+
+  .discount-modal__text {
+    margin-bottom: 1.5rem;
+  }
+
+  .discount-modal__buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .discount-modal__buttons .btn {
+    width: 100%;
+  }
+
+  /* Focus styles for better accessibility */
+  .discount-modal__buttons .btn:focus {
+    outline: 2px solid #000;
+    outline-offset: 2px;
+  }
+</style>
+

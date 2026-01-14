@@ -1,0 +1,54 @@
+{%- comment -%}
+  Color Swatch Component
+  ======================
+  Renders a color swatch for product variants.
+
+  Usage:
+  {% render 'color-swatch',
+    value: 'Red',
+    variant: variant,
+    product: product,
+    size: 'small'
+  %}
+
+  Sizes: small (default), medium, large
+{%- endcomment -%}
+
+{%- liquid
+  assign swatch_file_extension = 'png'
+  assign color_file_name = value | handle | append: '.' | append: swatch_file_extension
+  assign color_image = color_file_name | file_img_url: '50x50' | prepend: 'https:' | split: '?' | first
+  assign color_swatch_fallback = value | split: ' ' | last | handle
+
+  case size
+    when 'large'
+      assign swatch_size_class = 'color-swatch--large'
+    when 'medium'
+      assign swatch_size_class = 'color-swatch--medium'
+    else
+      assign swatch_size_class = 'color-swatch--small'
+  endcase
+-%}
+
+<span
+  class="color-swatch {{ swatch_size_class }} color-swatch--{{ value | handle }}{% if variant.image %} color-swatch--with-image{% endif %}{% if selected %} color-swatch--selected{% endif %}"
+  {% if variant %}
+    data-variant-id="{{ variant.id }}"
+    {% if variant.image %}
+      data-variant-image="{{ variant.image | image_url: width: 400 }}"
+    {% endif %}
+    data-url="{{ variant.url | within: collection }}"
+  {% endif %}
+  style="background-color: {{ color_swatch_fallback }};{% if images[color_file_name] != blank %} background-image: url({{ color_image }});{% endif %}"
+  {% if show_tooltip %}
+    title="{{ value }}"
+    aria-label="{{ value }}"
+  {% endif %}
+>
+  <span class="visually-hidden">{{ value }}</span>
+  {%- if selected -%}
+    <svg aria-hidden="true" focusable="false" class="color-swatch__check icon icon-checkmark" viewBox="0 0 24 24">
+      <path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z" fill="currentColor"/>
+    </svg>
+  {%- endif -%}
+</span>

@@ -1,0 +1,1027 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_gKQYtR": {
+      "type": "slideshow",
+      "blocks": {
+        "hero_gxUXGk": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Sound Energy Healing",
+            "h1_title": true,
+            "title_size": 55,
+            "subheading": "The Magical Power Behind Sound and How to Sound to Heal! Taught by Elizabeth Tomboulian",
+            "enlarge_subheading": true,
+            "link": "#offer",
+            "link_text": "Enroll Now",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#01b4b4",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/517617_custom_site_themes_id_XXLrNUQAQU2g7ION7bKI_8.png",
+            "image_mobile": "shopify://shop_images/517617_custom_site_themes_id_XXLrNUQAQU2g7ION7bKI_8.png",
+            "overlay_opacity": 40
+          }
+        }
+      },
+      "block_order": [
+        "hero_gxUXGk"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": -20,
+        "mobile_size": 40,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        }
+      },
+      "block_order": [
+        "description",
+        "tab",
+        "contact"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "product_recommendations_heading": "You may also like",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "more-products-vendor": {
+      "type": "more-products-vendor",
+      "disabled": true,
+      "settings": {
+        "products_per_row": 3,
+        "max_products": 5
+      }
+    },
+    "columns_1_jqny4D": {
+      "type": "columns-1",
+      "blocks": {
+        "text_8RLhL4": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Sound is a powerful tool that has the power to transform, create and heal. Science now tells us that everything is energy. In this class, taught by Elizabeth Tomboulian, you will learn about the history of sound, Elizabeth’s journey of healing, and how you can use your own voice to heal. </p><p>Elizabeth is an expert in vibrational healing. She employs a technique called Quantum Energetics Structured Therapy (a bit like Reiki combined with science) and Quantum Sound Healing, where her voice and overtones are the healing instrument. It’s a bridge between Eastern Medicine, which has acknowledged human energy systems for thousands of years, and Western Medicine, which focuses on anatomy and physiology. She’s also a certified <a href=\"https://stgermainmysteryschool.com/product/akashic-records-reading-with-elizabeth-tomboulian-50-minute-session/\"><span style=\"text-decoration:underline\">Akashic Records Guide</span></a> with the St. Germain Mystery School.</p>"
+          }
+        },
+        "heading_K4gAHr": {
+          "type": "heading",
+          "settings": {
+            "title": "Sound as a catalyst",
+            "heading_size": "h2"
+          }
+        },
+        "text_JMcigM": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Sound as a catalyst for creation and healing dates back to the ancient mystery schools thousands of years ago in Rome, Athens, Egypt, India, China and Tibet. Wise elders knew of the power of sound to heal. In those schools, the use of sound as a therapeutic tool was the spiritual science of the day, arising from the wisdom that vibration is the fundamental creative force of the universe, bringing energies into form.</p><p>The power of sound to create form and shape matter has been scientifically proven from many perspectives. Here’s a quote from the NY Times Science Section: “<em>Sound shaped into dazzling new tool -- can make, break or rearrange molecular structure and levitate objects.</em>”</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_8RLhL4",
+        "heading_K4gAHr",
+        "text_JMcigM"
+      ],
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "About The Course",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "2",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "columns_1_fYFMgX": {
+      "type": "columns-1",
+      "blocks": {
+        "button_iq9cVe": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Enroll Now",
+            "link_entitled": "",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "button_iq9cVe"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "center",
+        "color_scheme": "2",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "columns_1_bDhXGf": {
+      "type": "columns-1",
+      "blocks": {
+        "video_mp4_NAzU7N": {
+          "type": "video_mp4",
+          "settings": {
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/e22304662b304dd6898697c6182581ef.mp4",
+            "controls": true,
+            "loop": true,
+            "autoplay": true,
+            "video_width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "video_mp4_NAzU7N"
+      ],
+      "custom_css": [],
+      "settings": {
+        "narrow_column": false,
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "left",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "more-products-collection": {
+      "type": "more-products-collection",
+      "disabled": true,
+      "settings": {
+        "products_per_row": 3,
+        "max_products": 5
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {}
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "2"
+      }
+    },
+    "columns_2_BfTbw9": {
+      "type": "columns-2",
+      "blocks": {
+        "video_mp4_8eBgLC": {
+          "type": "video_mp4",
+          "settings": {
+            "parent_column": "right",
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/e22304662b304dd6898697c6182581ef.mp4",
+            "controls": true,
+            "loop": false,
+            "autoplay": false,
+            "video_width": "100"
+          }
+        },
+        "heading_8fimjk": {
+          "type": "heading",
+          "settings": {
+            "parent_column": "left",
+            "title": "About The Course",
+            "heading_size": "h1"
+          }
+        },
+        "text_yMp8ee": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<p>Sound is a powerful tool that has the power to transform, create and heal. Science now tells us that everything is energy. In this class, taught by Elizabeth Tomboulian, you will learn about the history of sound, Elizabeth’s journey of healing, and how you can use your own voice to heal. </p><p>Elizabeth is an expert in vibrational healing. She employs a technique called Quantum Energetics Structured Therapy (a bit like Reiki combined with science) and Quantum Sound Healing, where her voice and overtones are the healing instrument. It’s a bridge between Eastern Medicine, which has acknowledged human energy systems for thousands of years, and Western Medicine, which focuses on anatomy and physiology. She’s also a certified <a href=\"https://stgermainmysteryschool.com/product/akashic-records-reading-with-elizabeth-tomboulian-50-minute-session/\"><span style=\"text-decoration:underline\">Akashic Records Guide</span></a> with the St. Germain Mystery School. </p><p>Sound as a catalyst for creation and healing dates back to the ancient mystery schools thousands of years ago in Rome, Athens, Egypt, India, China and Tibet. Wise elders knew of the power of sound to heal. In those schools, the use of sound as a therapeutic tool was the spiritual science of the day, arising from the wisdom that vibration is the fundamental creative force of the universe, bringing energies into form.</p><p>The power of sound to create form and shape matter has been scientifically proven from many perspectives. Here’s a quote from the NY Times Science Section: “Sound shaped into dazzling new tool -- can make, break or rearrange molecular structure and levitate objects.”</p>"
+          }
+        }
+      },
+      "block_order": [
+        "video_mp4_8eBgLC",
+        "heading_8fimjk",
+        "text_yMp8ee"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_zy3n49": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_r7FDJe": {
+          "type": "heading",
+          "settings": {
+            "title": "About The Course",
+            "heading_size": "h2"
+          }
+        },
+        "text_Gb7kUh": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Sound is a powerful tool that has the power to transform, create and heal. Science now tells us that everything is energy. In this class, taught by Elizabeth Tomboulian, you will learn about the history of sound, Elizabeth’s journey of healing, and how you can use your own voice to heal. </p><p>Elizabeth is an expert in vibrational healing. She employs a technique called Quantum Energetics Structured Therapy (a bit like Reiki combined with science) and Quantum Sound Healing, where her voice and overtones are the healing instrument. It’s a bridge between Eastern Medicine, which has acknowledged human energy systems for thousands of years, and Western Medicine, which focuses on anatomy and physiology. She’s also a certified <a href=\"https://stgermainmysteryschool.com/product/akashic-records-reading-with-elizabeth-tomboulian-50-minute-session/\"><span style=\"text-decoration:underline\">Akashic Records Guide</span></a> with the St. Germain Mystery School. </p><p>Sound as a catalyst for creation and healing dates back to the ancient mystery schools thousands of years ago in Rome, Athens, Egypt, India, China and Tibet. Wise elders knew of the power of sound to heal. In those schools, the use of sound as a therapeutic tool was the spiritual science of the day, arising from the wisdom that vibration is the fundamental creative force of the universe, bringing energies into form.</p><p>The power of sound to create form and shape matter has been scientifically proven from many perspectives. Here’s a quote from the NY Times Science Section: “Sound shaped into dazzling new tool -- can make, break or rearrange molecular structure and levitate objects.”</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_r7FDJe",
+        "text_Gb7kUh"
+      ],
+      "disabled": true,
+      "settings": {
+        "align_text": "left",
+        "narrow_column": false,
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "columns_2_jUmatw": {
+      "type": "columns-2",
+      "blocks": {
+        "text_8ELYyG": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<h2>About The Course</h2><p>Sound is a powerful tool that has the power to transform, create and heal. Science now tells us that everything is energy. In this class, taught by Elizabeth Tomboulian, you will learn about the history of sound, Elizabeth’s journey of healing, and how you can use your own voice to heal. </p><p>Elizabeth is an expert in vibrational healing. She employs a technique called Quantum Energetics Structured Therapy (a bit like Reiki combined with science) and Quantum Sound Healing, where her voice and overtones are the healing instrument. It’s a bridge between Eastern Medicine, which has acknowledged human energy systems for thousands of years, and Western Medicine, which focuses on anatomy and physiology. She’s also a certified <a href=\"https://stgermainmysteryschool.com/product/akashic-records-reading-with-elizabeth-tomboulian-50-minute-session/\"><span style=\"text-decoration:underline\">Akashic Records Guide</span></a> with the St. Germain Mystery School. </p><p>Sound as a catalyst for creation and healing dates back to the ancient mystery schools thousands of years ago in Rome, Athens, Egypt, India, China and Tibet. Wise elders knew of the power of sound to heal. In those schools, the use of sound as a therapeutic tool was the spiritual science of the day, arising from the wisdom that vibration is the fundamental creative force of the universe, bringing energies into form.</p><p>The power of sound to create form and shape matter has been scientifically proven from many perspectives. Here’s a quote from the NY Times Science Section: “Sound shaped into dazzling new tool -- can make, break or rearrange molecular structure and levitate objects.”</p>"
+          }
+        },
+        "video_9ahPUk": {
+          "type": "video",
+          "settings": {
+            "parent_column": "right",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video_width": "50"
+          }
+        }
+      },
+      "block_order": [
+        "text_8ELYyG",
+        "video_9ahPUk"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "columns_2_V3nmWi": {
+      "type": "columns-2",
+      "blocks": {
+        "heading_YkYrUN": {
+          "type": "heading",
+          "settings": {
+            "parent_column": "left",
+            "title": "What is included in this course:",
+            "heading_size": "h1"
+          }
+        },
+        "sales_point_YGBW8p": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Three modules of learning  content and one module of breathwork exercises."
+          }
+        },
+        "sales_point_NqrtpW": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "An understanding of sound frequencies and how to raise your own frequency."
+          }
+        },
+        "heading_XfPyBd": {
+          "type": "heading",
+          "settings": {
+            "parent_column": "right",
+            "title": "Who should take this course:",
+            "heading_size": "h1"
+          }
+        },
+        "sales_point_mQ4P3T": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "right",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Anyone who is interested in learning about sound and its healing properties."
+          }
+        },
+        "sales_point_Fpnek6": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "right",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "People who want to learn how to use their voice and diaphragm beyond what it’s currently capable of."
+          }
+        },
+        "sales_point_cWRVQD": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "right",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Anyone who is wanting to expand their skillsets and knowledge base in the esoteric studies."
+          }
+        },
+        "sales_point_PgHaq6": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Theoretical and experiential understandings of sound and using it to heal."
+          }
+        },
+        "sales_point_z98Vkz": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Ideas and approaches to improving your life."
+          }
+        }
+      },
+      "block_order": [
+        "heading_YkYrUN",
+        "sales_point_YGBW8p",
+        "sales_point_NqrtpW",
+        "heading_XfPyBd",
+        "sales_point_mQ4P3T",
+        "sales_point_Fpnek6",
+        "sales_point_cWRVQD",
+        "sales_point_PgHaq6",
+        "sales_point_z98Vkz"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "left",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "left",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "2",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "columns_1_Mf7y4d": {
+      "type": "columns-1",
+      "blocks": {
+        "button_YG9BtV": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Enroll Now",
+            "link_entitled": "",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "button_YG9BtV"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "center",
+        "color_scheme": "2",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_jkxt6t": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_yDK6Fx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Elizabeth.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_bB4qy3": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h1>Elizabeth’s Story</h1><p>While attending a musical event at the Omega Institute in 2005, Elizabeth heard from a seer that she is a “Messenger of the Divine” and a healer—that she has energy that when people come into it, they may be healed. This rang true, and catalyzed her resignation from her university publishing job and shifting to consciously seeking to know her divine purposeful path.Studies in Quantum Touch, Healing Touch, CranioSacral Therapy, Reiki, and Sound Energy Healing preceded her discovery of Quantum Energetics Structured Therapy (QEST) on Hawaii in 2006. On the way, in-flight at 37,000 feet, she was daydreaming of finding an energy healing practice that was pertinent and relative to the physical body. She found QEST within 48 hours. It so happened that one of the founders of QEST had moved to Wisconsin, where she had moved after quitting her job. The day after her flight home from Kona to Milwaukee, a man she was meeting for the first time extended his hand and said (all in one breath), “Hi, I’m Andy and I’m playing bass tonight and I’m enrolled in a Quantum Energetics Class next Fall in Green Bay and we need another person for the class to make it happen.” If there was any doubt about Elizabeth’s next course, that removed it. She graduated the 2-year track in the Spring of 2008 and has been quite active ever since.QEST uses muscle testing to locate disruptions in the etheric blueprint relative to bones, muscles, ligaments, nerves, organs, etc., for specific conditions such as swellings, fracture, dislocations, thrombosis, etc., which may or may not be present in the physical. Direction of energy clears the coded disruptions, catalyzing the client to pattern in wellness. If you ever saw a blueprint for a house, it is not the house, but it informs the building of the house. Hence clearing the blueprint, etheric body, informs the building of the physical body free of disruptions. She uses her voice and overtones to integrate QEST with Quantum Sound across a broad range of frequencies from ultra-low to super-sonic, adding an element of vibrational entrainment to her healing work. This toning is sometimes appropriate to use in service as an Akashic Records Guide.</p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_yDK6Fx",
+        "liquid_bB4qy3"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "columns_2_ny78QB": {
+      "type": "columns-2",
+      "blocks": {
+        "image_XXqxkW": {
+          "type": "image",
+          "settings": {
+            "parent_column": "left",
+            "image": "shopify://shop_images/Elizabeth_8b7ac2e4-35e2-497d-9f3d-3949de4f79fc.jpg",
+            "link": "",
+            "image_mask": "rounded"
+          }
+        },
+        "heading_iqgWDX": {
+          "type": "heading",
+          "settings": {
+            "parent_column": "right",
+            "title": "Elizabeth’s Story",
+            "heading_size": "h1"
+          }
+        },
+        "text_gqxNyw": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": false,
+            "text": "<p>While attending a musical event at the Omega Institute in 2005, Elizabeth heard from a seer that she is a “Messenger of the Divine” and a healer—that she has energy that when people come into it, they may be healed. This rang true, and catalyzed her resignation from her university publishing job and shifting to consciously seeking to know her divine purposeful path.</p><p>Studies in Quantum Touch, Healing Touch, CranioSacral Therapy, Reiki, and Sound Energy Healing preceded her discovery of Quantum Energetics Structured Therapy (QEST) on Hawaii in 2006. On the way, in-flight at 37,000 feet, she was daydreaming of finding an energy healing practice that was pertinent and relative to the physical body. She found QEST within 48 hours. It so happened that one of the founders of QEST had moved to Wisconsin, where she had moved after quitting her job. The day after her flight home from Kona to Milwaukee, a man she was meeting for the first time extended his hand and said (all in one breath), “Hi, I’m Andy and I’m playing bass tonight and I’m enrolled in a Quantum Energetics Class next Fall in Green Bay and we need another person for the class to make it happen.” If there was any doubt about Elizabeth’s next course, that removed it. She graduated the 2-year track in the Spring of 2008 and has been quite active ever since.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "image_XXqxkW",
+        "heading_iqgWDX",
+        "text_gqxNyw"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "columns_1_j7Mwbj": {
+      "type": "columns-1",
+      "blocks": {
+        "text_nUJCBz": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>Quantum Energetics Structured Therapy</em> also known as QEST uses muscle testing to locate disruptions in the etheric blueprint relative to bones, muscles, ligaments, nerves, organs, etc., for specific conditions such as swellings, fracture, dislocations, thrombosis, etc., which may or may not be present in the physical. Direction of energy clears the coded disruptions, catalyzing the client to pattern in wellness. If you ever saw a blueprint for a house, it is not the house, but it informs the building of the house. Hence clearing the blueprint, etheric body, informs the building of the physical body free of disruptions. She uses her voice and overtones to integrate QEST with Quantum Sound across a broad range of frequencies from ultra-low to super-sonic, adding an element of vibrational entrainment to her healing work. This toning is sometimes appropriate to use in service as an Akashic Records Guide.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_nUJCBz"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "More About QEST",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "left",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "columns_1_eD3WNV": {
+      "type": "columns-1",
+      "blocks": {
+        "dropdown_7qB74U": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Introduction",
+            "text": "",
+            "dropdown_text": "<ol><li>Sound Toning - Openess</li><li>Sound Toning - Description</li><li>Theory Part 1</li><li>Theory Part 2</li><li>Theory Part 3</li></ol>",
+            "background_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "dropdown_7qB74U"
+      ],
+      "disabled": true,
+      "settings": {
+        "narrow_column": true,
+        "title": "Course curriculum",
+        "heading_size": "h0",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "columns_1_iVrKyB": {
+      "type": "columns-1",
+      "blocks": {
+        "dropdown_Vx3Bw9": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Module 1",
+            "text": "",
+            "dropdown_text": "<ol><li>Sound Toning - Openess</li><li>Sound Toning - Description</li><li>Theory Part 1</li><li>Theory Part 2</li><li>Theory Part 3</li></ol>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_qzYkHi": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Module 2",
+            "text": "",
+            "dropdown_text": "<ol><li>Toning</li><li>Theory Part 1</li><li>Theory Part 2</li></ol>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_kxFVaF": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Breathwork",
+            "text": "",
+            "dropdown_text": "<ol><li>Breathwork - Exercise 1</li><li>Breathwork - Exercise 2</li></ol>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_e6L3yp": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Module 3",
+            "text": "",
+            "dropdown_text": "<ol><li>Sound Toning - Joy</li><li>Description of Joy</li><li>M_NG</li><li>RUG</li><li>N_NG</li><li>Sound Toning - Adventure (close)</li></ol>",
+            "background_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "dropdown_Vx3Bw9",
+        "dropdown_qzYkHi",
+        "dropdown_kxFVaF",
+        "dropdown_e6L3yp"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "Course Curriculum",
+        "heading_size": "h0",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "columns_2_X6rw6K": {
+      "type": "columns-2",
+      "blocks": {
+        "dropdown_ntd8Gb": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "left",
+            "reveal": false,
+            "title": "Module 1",
+            "text": "",
+            "dropdown_text": "<ol><li>Sound Toning - Openess</li><li>Sound Toning - Description</li><li>Theory Part 1</li><li>Theory Part 2</li><li>Theory Part 3</li></ol>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_4djwCb": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "right",
+            "reveal": false,
+            "title": "Module 2",
+            "text": "",
+            "dropdown_text": "<ol><li>Toning</li><li>Theory Part 1</li><li>Theory Part 2</li></ol>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_yGckGG": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "left",
+            "reveal": false,
+            "title": "Breathwork",
+            "text": "",
+            "dropdown_text": "<ol><li>Breathwork - Exercise 1</li><li>Breathwork - Exercise 2</li></ol>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_LDmVBp": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "right",
+            "reveal": false,
+            "title": "Module 3",
+            "text": "",
+            "dropdown_text": "<ol><li>Sound Toning - Joy</li><li>Description of Joy</li><li>M_NG</li><li>RUG</li><li>N_NG</li><li>Sound Toning - Adventure (close)</li></ol>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "dropdown_ntd8Gb",
+        "dropdown_4djwCb",
+        "dropdown_yGckGG",
+        "dropdown_LDmVBp"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_rDYm4Y": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_jL7tc9": {
+          "type": "liquid",
+          "settings": {
+            "code": "<span id=\"offer\"></span>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_jL7tc9"
+      ],
+      "custom_css": [
+        "* {max-height: 0p}"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "custom_t9Xr4c": {
+          "type": "custom",
+          "disabled": true,
+          "settings": {
+            "code": "<strong>About This course</strong>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "custom_LUprBK": {
+          "type": "custom",
+          "settings": {
+            "code": "<h2>About this course</h2>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "sales_point_BUbTif": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "package",
+            "icon_color": "#01b4b4",
+            "text": "17 lessons"
+          }
+        },
+        "sales_point_PAP8fe": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "tag",
+            "icon_color": "#01b4b4",
+            "text": "2 hours of video content"
+          }
+        },
+        "sales_point3": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "icon": "leaf",
+            "icon_color": "",
+            "text": "Carbon neutral"
+          }
+        },
+        "sales_point4": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "lock",
+            "icon_color": "",
+            "text": "Secure payments"
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "custom_t9Xr4c",
+        "variant_picker",
+        "custom_LUprBK",
+        "price",
+        "sales_point_BUbTif",
+        "sales_point_PAP8fe",
+        "sales_point3",
+        "sales_point4",
+        "inventory_status",
+        "buy_buttons"
+      ],
+      "custom_css": [
+        ".image-wrap {background: transparent;}",
+        ".product-grid__container {padding-bottom: 40px;}",
+        ".variant__label {display: none;}",
+        ".product-block {margin-bottom: 15px;}"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": true,
+        "h1_title": true,
+        "hide_media": false,
+        "align_text": "left",
+        "image_position": "left",
+        "image_container_size": "large",
+        "product_image_size": "square",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "columns_2_b8WqQb": {
+      "type": "columns-2",
+      "blocks": {
+        "image_K73QU8": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/517617_custom_site_themes_id_zGHHYPt9R5mful6BWHql_artist_583850-1659560795.jpg",
+            "link": "",
+            "image_mask": "rounded"
+          }
+        },
+        "text_NC7xDP": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<h2>Elizabeth Tomboulian</h2><p>Elizabeth Tomboulian’s path today is the integration of her musical work with her healing work, along with project work in marketing and publishing. She has served many denominations as church music minister through the years, and is presently Music Director for Grace UMC Mesa, AZ. She performs as a solo artist and as guest vocalist, with a massive repertoire of jazz, blues, Brazilian, Americana, and the Great American Songbook.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "image_K73QU8",
+        "text_NC7xDP"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "2",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "slideshow_gKQYtR",
+    "sub",
+    "recommendations",
+    "more-products-vendor",
+    "columns_1_jqny4D",
+    "columns_1_fYFMgX",
+    "columns_1_bDhXGf",
+    "more-products-collection",
+    "recently-viewed",
+    "collection-return",
+    "columns_2_BfTbw9",
+    "rich_text_zy3n49",
+    "columns_2_jUmatw",
+    "columns_2_V3nmWi",
+    "columns_1_Mf7y4d",
+    "advanced_content_jkxt6t",
+    "columns_2_ny78QB",
+    "columns_1_j7Mwbj",
+    "columns_1_eD3WNV",
+    "columns_1_iVrKyB",
+    "columns_2_X6rw6K",
+    "advanced_content_rDYm4Y",
+    "main",
+    "columns_2_b8WqQb"
+  ]
+}

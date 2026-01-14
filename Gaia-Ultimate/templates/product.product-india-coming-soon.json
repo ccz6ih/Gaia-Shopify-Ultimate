@@ -1,0 +1,1753 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_emL8WA": {
+      "type": "slideshow",
+      "blocks": {
+        "hero_NqWKzE": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Ayurveda Wellness & Spiritual Retreat",
+            "h1_title": false,
+            "title_size": 70,
+            "subheading": "with Host, Amish Shah of the Natural Law\nMarch 17-25, 2025 | Pune, India\nGaia Members get 10% off!",
+            "enlarge_subheading": true,
+            "link": "#offer",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#01b4b4",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/CS11764_Marketplace_Ayurveda_Wellness_and_Spiritual_Retreat_in_India_en_US.jpg",
+            "overlay_opacity": 4
+          }
+        }
+      },
+      "block_order": [
+        "hero_NqWKzE"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": 0,
+        "mobile_size": 20,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_Gcwtmz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WwyKKQ": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "heading_size": "h2"
+          }
+        },
+        "text_W4YYQp": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>Experience the pinnacle of Ayurvedic healing, cleansing, and rejuvenation at our first-ever Panchakarma Spring Retreat in India.<br/><br/></strong>The Natural Law’s Panchakarma Spring Retreat is a life-changing immersion in total wellness, taking place in the idyllic Sahyadri mountains of Pune, India.</p><p>Through seven days of treatments for the mind, body, and soul, you’re healed, cleansed, and rejuvenated with the greatest Ayurvedic treatments, under the loving guidance of master practitioners dedicated to their craft.</p><p>An intimate experience for just 20 participants, this retreat is a deeply personal journey that will cleanse you of all physical, emotional, and spiritual toxins, in the time of the year most aligned with growth and rejuvenation.</p><p>By the end of your journey, you will have ascended to the highest possible levels of wellness, balance, bliss, and youthful vitality - and leave with a newfound radiance that stays with you for life.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WwyKKQ",
+        "text_W4YYQp"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "columns_2_9Pb8KV": {
+      "type": "columns-2",
+      "blocks": {
+        "text_QcQweU": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<p><em><strong>Panchakarma is the greatest of all Ayurvedic treatments for cleansing, revitalization, and holistic wellbeing…And it’s now widely recognized as the answer to what’s missing in our modern approach to detoxification.</strong></em></p><p>The average commercial detox protocol can only promise short-term results that vanish within weeks or days – whereas Panchakarma delivers a lasting rejuvenation of the body’s detoxification systems:</p><p>The same ones so often disrupted by the modern lifestyle. Environmental pollutants. Medications and medical treatments. And even food pumped with the same pesticides used for combat in World War 2.</p><p>Panchakarma cleanses your body, mind, and soul through a series of professionally administered treatments delivered over the course of a week or less.</p><p><strong>The Panchakarma method has been perfected over 5,000 years – and its benefits are now finally recognized by modern science.</strong></p><p>A wealth of clinical studies highlight Panchakarma’s rapid toxin removal, inflammation reduction, anti-aging effects, and benefits in managing chronic diseases.</p><p>Every Panchakarma is personalized to its recipient’s unique needs. And even just one annual treatment can leave a profound impact on your health, wellness, and energy levels, all through the year.</p>"
+          }
+        },
+        "image_39NRXw": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/DO-TNL-Blindfold.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        }
+      },
+      "block_order": [
+        "text_QcQweU",
+        "image_39NRXw"
+      ],
+      "settings": {
+        "title": "What is a Panchakarma?",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_image_HfyPcy": {
+      "type": "slideshow-image",
+      "blocks": {
+        "image_RjJymf": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify://shop_images/DO-TNL-Ayurvedic-Medical.png"
+          }
+        },
+        "image_a3MngA": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify://shop_images/DO-TNL-Cloud-Forest.png"
+          }
+        },
+        "image_Vi6Uie": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify://shop_images/DO-TNL-Yoga-Group-Meditation.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_RjJymf",
+        "image_a3MngA",
+        "image_Vi6Uie"
+      ],
+      "settings": {
+        "full_width": false,
+        "style": "dots",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "061b0d20-e98a-47d8-9f35-f44f31d51acc": {
+      "type": "columns-2",
+      "blocks": {
+        "25924d21-e6eb-4634-9fb3-74174334f5a8": {
+          "type": "heading",
+          "settings": {
+            "parent_column": "left",
+            "title": "What’s Included:",
+            "heading_size": "h3"
+          }
+        },
+        "b8c1312f-b1b8-40c3-900b-e160b4005f4c": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Fully personalized daily Ayurvedic meals - </strong>Enjoy three daily organic vegetarian Ayurvedic meals, each one prepared in perfect accordance with Ayurvedic nutrition science, and catered to your Dosha and unique needs."
+          }
+        },
+        "template--20197640634689__061b0d20-e98a-47d8-9f35-f44f31d51acc-sales_point-1": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Accommodation & facilities - </strong>In addition to your own private room, you get full access to the retreat’s facilities, including a health studio, swimming zone, fruit, veg, and flower gardens, and more."
+          }
+        },
+        "sales_point_wUFbED": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Ayurvedic cooking classes - </strong>Hands-on classes where you’ll learn how to cook a variety of delicious Ayurvedic recipes for every Dosha."
+          }
+        },
+        "a8081e08-ab6c-43f5-a21e-8cc447547627": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Daily sunrise & sunset sessions with Amish Shah - </strong>Attend special mentoring sessions with The Natural Law Founder to help address your questions, and deeply connect with the people and the wisdom available to you."
+          }
+        },
+        "b2be6884-0915-4620-b2e6-ff16008554ab": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Daily group integrations - </strong>Harness the power of collective intent through daily mindfulness, reflection, and meditations sessions with local Ayurveda practitioners."
+          }
+        },
+        "89d3b5a2-857a-41aa-a311-2e4e8f86129d": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Local excursion - </strong>Join a mini adventure to the local temples and marketplace, where you can experience traditional Indian culture firsthand."
+          }
+        },
+        "0e175e8f-70ac-4d1d-9d94-33e0466bfb9f": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<p> </p>"
+          }
+        },
+        "7da16b5a-30d9-4dc1-b1ce-1acce219312e": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Select dinners"
+          }
+        },
+        "7f90e356-b9b1-4d55-8da8-844f4a75e7f0": {
+          "type": "heading",
+          "settings": {
+            "parent_column": "right",
+            "title": "Where we will be staying:",
+            "heading_size": "h3"
+          }
+        },
+        "2916552a-4524-4aff-acbc-634e4afb6d00": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "right",
+            "reveal": true,
+            "title": "A wellness center that perfectly embodies the majesty of nature & the timeless wisdom of Ayurveda",
+            "text": "",
+            "image": "shopify://shop_images/DO-TNL-Lawn.png",
+            "dropdown_text": "<p>Nestled in the lush greenery of the Sahyadri mountains in Pune, India, is an exceptional wellness center that perfectly embodies the majesty of nature and the timeless wisdom of Ayurveda.</p><p>Managed by a family of Ayurvedic doctors, this idyllic retreat blends rustic, natural beauty with state-of-the-art facilities and warm hospitality to create a space that feels both timeless and contemporary, and offers the perfect canvas for deep healing and purification.</p><p>What better place is there than the majestic mountains of India, to immerse yourself in the healing wisdom of Ayurveda? </p><p>Who better to guide you, than a family of practitioners globally renowned for their skill, knowledge, and sincere care?</p><p>And who better to be by your side, than a supportive community of people with a shared goal for healing through nature’s wisdom?</p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "25924d21-e6eb-4634-9fb3-74174334f5a8",
+        "b8c1312f-b1b8-40c3-900b-e160b4005f4c",
+        "template--20197640634689__061b0d20-e98a-47d8-9f35-f44f31d51acc-sales_point-1",
+        "sales_point_wUFbED",
+        "a8081e08-ab6c-43f5-a21e-8cc447547627",
+        "b2be6884-0915-4620-b2e6-ff16008554ab",
+        "89d3b5a2-857a-41aa-a311-2e4e8f86129d",
+        "0e175e8f-70ac-4d1d-9d94-33e0466bfb9f",
+        "7da16b5a-30d9-4dc1-b1ce-1acce219312e",
+        "7f90e356-b9b1-4d55-8da8-844f4a75e7f0",
+        "2916552a-4524-4aff-acbc-634e4afb6d00"
+      ],
+      "custom_css": [
+        "h2 {max-width: 750px; margin-left: auto; margin-right: auto;}"
+      ],
+      "settings": {
+        "title": "A life-changing 7-day retreat in the breathtaking Sahyadri mountains of Pune, India. Only 20 spots available.",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "#offer",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "85e20baa-20e7-4e15-961d-dc2232ca0e16": {
+      "type": "map",
+      "disabled": true,
+      "settings": {
+        "map_title": "",
+        "heading_size": "h3",
+        "heading_position": "left",
+        "address": "",
+        "map_address": "Lima",
+        "api_key": "AIzaSyCGvtT63CU5qr-RVFMbrPgnOENoN9EKmdA",
+        "map_zoom": 6,
+        "map_style": "retro",
+        "map_simplified": true,
+        "map_control": "draggable_onclick",
+        "show_button": false,
+        "background_image": "shopify://shop_images/egypt-cairo-map_ab053abb-c115-45fc-8865-308d8ddf3d63.jpg",
+        "lazyload_images": true
+      }
+    },
+    "columns_2_AgFVPA": {
+      "type": "columns-2",
+      "blocks": {
+        "sales_point_FgqJQp": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "You feel exhausted, overwhelmed or strung out, and you want to reclaim your vitality and your zest for life"
+          }
+        },
+        "sales_point_ypWbEn": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "You’re a professional or entrepreneur looking to regain your health, balance, and clarity, and perform better at work and in your personal pursuits"
+          }
+        },
+        "sales_point_Q4PcWM": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "You want to detox from accumulated toxins brought on by prolonged periods of poor diet, stress, or exposure to pollutants"
+          }
+        },
+        "sales_point_XqmmAN": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "You’re searching for deep healing from a specific health challenge - especially digestive problems, joint pain, skin disorders, or stress-related ailments"
+          }
+        },
+        "sales_point_iyR4cJ": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "You want to protect your health and prevent future health issues that could impact your longevity or quality of life"
+          }
+        },
+        "image_YP6ywH": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/DO-TNL-Triple-Cabins.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        }
+      },
+      "block_order": [
+        "sales_point_FgqJQp",
+        "sales_point_ypWbEn",
+        "sales_point_Q4PcWM",
+        "sales_point_XqmmAN",
+        "sales_point_iyR4cJ",
+        "image_YP6ywH"
+      ],
+      "settings": {
+        "title": "This retreat is for you if:",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "left",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "e050c6d5-44c1-45b8-88c2-e0650f6f4b08": {
+      "type": "columns-1",
+      "disabled": true,
+      "settings": {
+        "narrow_column": false,
+        "title": "Itinerary & Map",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "7aed34aa-1760-4d6f-8ff3-2be2dc756274": {
+      "type": "background-image-text",
+      "disabled": true,
+      "settings": {
+        "subtitle": "",
+        "title": "",
+        "heading_size": "h1",
+        "heading_position": "center",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify://shop_images/egypt-cairo-map_ab053abb-c115-45fc-8865-308d8ddf3d63.jpg",
+        "layout": "left",
+        "height": 550,
+        "parallax": true,
+        "parallax_direction": "left",
+        "lazyload_images": true
+      }
+    },
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc3": {
+      "type": "testimonials",
+      "blocks": {
+        "7dce2a2f-2ef5-43fc-b9a1-f0bcc76544c9": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The experiences that I had both inside the temples and pyramids were astounding.  Physical energy increases and healings that I experienced on this trip are like non before.”</p>",
+            "author": "Susan P.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“You have to go to Egypt with Gaia because of the special access to Giza without the crowds, it’s a completely different experience to be there alone at sunset when it’s quiet.”</p>",
+            "author": "Dana S.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“An extraordinary and unforgettable tour. Can't sing the praise loud enough so many extras and special days.”</p>",
+            "author": "Daniela S.",
+            "author_info": ""
+          }
+        },
+        "5a6a0c29-9918-45f2-a760-c3d787a8a462": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“Wonderful to not to worry about any type of logistics; I would recommend 100% the tour to everybody”</p>",
+            "author": "Jorge F.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The accommodations in Giza and Luxor exceeded all our expectations! The food was fabulous.”</p>",
+            "author": "Carmen S.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The trip was life changing for me... it was a spiritual calling to be there and the entire experience, people included, was ineffable from start to finish. Life will never be the same for me.”</p>",
+            "author": "James C. ",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "7dce2a2f-2ef5-43fc-b9a1-f0bcc76544c9",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1",
+        "5a6a0c29-9918-45f2-a760-c3d787a8a462",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".testimonial-stars {color: #01b4b4;}"
+      ],
+      "settings": {
+        "title": "Customer Reviews",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "2"
+      }
+    },
+    "6db691b5-0534-45ec-97a0-e4a6c1dcff87": {
+      "type": "columns-1",
+      "blocks": {
+        "b3aeaf69-97a6-4e33-af39-c15ac9f01b04": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/egypt-cairo-map.jpg",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "cf73ead0-1d61-4710-911f-92abbd89cd91": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Itinerary",
+            "heading_size": "h1"
+          }
+        },
+        "ece66265-849f-4144-a570-dd9d83ba0e5f": {
+          "type": "heading",
+          "settings": {
+            "title": "Explore the Ayurveda Wellness Retreat Agenda",
+            "heading_size": "h3"
+          }
+        },
+        "57393d7c-eaea-43e6-934b-e35643791451": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 0: Arrival & Welcome Session",
+            "text": "<p>On the day of your arrival, you’ll check into your accommodation, get familiar with your exquisite surroundings, and receive a welcome session with Amish. You’ll also be treated to a delicious Ayurvedic dinner, as you connect with your practitioners and your fellow participants.</p>",
+            "dropdown_text": "<p><em><strong>On this day you will:</strong></em></p><ul><li>Settle in and get comfortable</li><li>Harmonize with nature and your environment</li><li>Connect with the team and your fellow participants</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "46f98c92-e505-4141-a9a0-fa35c3e1337c": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 1: Relaxation",
+            "text": "<p>Your journey begins with a bouquet of ancient treatments that carry your mind, body, and soul into the most profound depths of relaxation. From soothing oil massages, to refreshing steam muscle treatments, to natural remedies that refresh the eyes and skin, you’ll experience pure bliss and stillness that stays with you throughout your retreat.</p>",
+            "dropdown_text": "<p><em><strong>On this day you will:</strong></em></p><ul><li>Gain complete freedom from stress and anxiety</li><li>Embody bliss as your default state</li><li>Become fully present for your retreat</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "af9886df-0842-456c-a4da-f86a8fae9128": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 2: Rejuvenation",
+            "text": "<p>Your plunge into absolute relaxation continues on your second day, with ancient treatments like Shirodhara for a still mind and the Padabhyanga foot massage for rejuvenation and revitalization. Any lingering sense of fatigue will swiftly leave you, making way for boundless energy, focus, and clarity.</p>",
+            "dropdown_text": "<p><em><strong>On this day you will:</strong></em></p><ul><li>Replace fatigue and tiredness with radiant energy</li><li>Achieve total clarity of mind and thought</li><li>Experience true and unconditional stillness</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "665f407f-c58f-4cfe-8e14-b0c7e48b8013": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 3: Detoxification",
+            "text": "<p>The Panchakarma’s core goal of detoxification begins on your third day, with a series of Ayurvedic treatments for holistic cleansing and purification. Treatments like the Laghu Shankha Prakshalana, the Patra Potli, and the Ayurvedic mud bath will instantly and thoroughly cleanse you of accumulated toxins in every aspect of your being.</p>",
+            "dropdown_text": "<p><em><strong>On this day you will:</strong></em></p><ul><li>Eliminate accumulated toxins from the source</li><li>Cleanse your skin and other organs, returning them to optimal function</li><li>Achieve total purity through gentle yet invigorating exercises</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "a0ac19a9-eb3f-4293-b194-c7a3b463e4f6": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 4: Holistic Healing",
+            "text": "<p>Therapeutic oil massages, plant leaf baths, herbal eye remedies for better vision, and other blissful treatments await you on your fourth day, as you transition from detoxification to deep and holistic healing. By focusing on healing specific organs, you’ll be empowered to elevate your quality of life and bring greater joy, energy, and impact to every new day.</p>",
+            "dropdown_text": "<p><em><strong>On this day you will:</strong></em></p><ul><li>Heal and optimize your key markers of health and wellbeing</li><li>Correct imbalances in your organs and bodily functions</li><li>Gain protection from future health challenges</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "356bfe06-89e2-457a-a782-ada1263e0d36": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 5: Integrated Wellness",
+            "text": "<p>On your fifth day, you’ll be immersed in a combination of time-tested Ayurvedic treatments like Nasyam and Shashtik Shali Pinda Swedan, as well as modern treatments like Hydrotherapy that are carefully selected to amplify your positive outcomes. This is where ancient and modern science converge for your greatest good.</p>",
+            "dropdown_text": "<p><em><strong>On this day you will:</strong></em></p><ul><li>Heal, cleanse, and relax, all at the same time</li><li>Continue optimizing bodily functions, including your sinuses and respiratory health</li><li>Experience advanced modalities that enhance overall wellness</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "66db8b2b-fdc9-4434-bd63-38c72353b779": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 6: Ayurvedic Purification",
+            "text": "<p>The penultimate day of your retreat takes you further into Ayurveda’s greatest purification protocols. In addition to further calming Shirodhara and Padabhyanga sessions, you’ll be guided through the Basti protocol for deep detoxification, leaving you completely cleansed and rejuvenated.</p>",
+            "dropdown_text": "<p><em><strong>On this day you will:</strong></em></p><ul><li>Enjoy a profound sense of relaxation and well-being</li><li>Expand your detoxification protocols</li><li>Expel any remaining toxins from your body, mind, and soul</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "dd20cdd8-6dc0-42a2-91c4-c110a0716601": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 7: Final Detox & Excursion",
+            "text": "<p>Before saying goodbye, you’ll indulge in one more day of relaxation and cleansing, including a therapeutic oil massage that soothes every fiber of your being. You’ll also discover simple ways to stay cleansed all year round, and embark on a tour of the nearby temples and market for a taste of local culture.</p>",
+            "dropdown_text": "<p><em><strong>On this day you will:</strong></em></p><ul><li>Complete your detoxification experience</li><li>Integrate Ayurvedic detoxification and wellness into your daily life</li><li>Experience traditional Indian culture through a visit to local temples and markets</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "fe9d9b01-84d8-42dd-aa2f-b13bfa9cb5a5": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 8: Departure",
+            "text": "<p>You can breathe easy on your day of departure - your transport to the airport is fully covered, so you’re free to focus on your farewells and your reflections.</p>",
+            "dropdown_text": "",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "button_DppG3L": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Sign Up Now",
+            "link_entitled": "",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "b3aeaf69-97a6-4e33-af39-c15ac9f01b04",
+        "cf73ead0-1d61-4710-911f-92abbd89cd91",
+        "ece66265-849f-4144-a570-dd9d83ba0e5f",
+        "57393d7c-eaea-43e6-934b-e35643791451",
+        "46f98c92-e505-4141-a9a0-fa35c3e1337c",
+        "af9886df-0842-456c-a4da-f86a8fae9128",
+        "665f407f-c58f-4cfe-8e14-b0c7e48b8013",
+        "a0ac19a9-eb3f-4293-b194-c7a3b463e4f6",
+        "356bfe06-89e2-457a-a782-ada1263e0d36",
+        "66db8b2b-fdc9-4434-bd63-38c72353b779",
+        "dd20cdd8-6dc0-42a2-91c4-c110a0716601",
+        "fe9d9b01-84d8-42dd-aa2f-b13bfa9cb5a5",
+        "button_DppG3L"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_JPgmwm": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/DO-TNL-Amish-Headshot.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Hosted by The Natural Law Founder Amish Shah & Team",
+        "heading_size": "h1",
+        "text": "<p>Amish Shah is a natural wellness advocate, an Inc. 500-listed entrepreneur, and a philanthropist with a 20-year career in the fields of health, wellness, and spirituality. </p><p>After Ayurvedic treatments healed him of a long list of life-threatening illnesses, Amish has dedicated his career and his life to spreading nature’s wisdom – first through his multiple award-winning film <em>The Natural Law</em> (now streaming on Amazon Prime), and then through online events, courses, and now retreats.</p><p><em>In addition to hosting the Panchakarma Spring Retreat, Amish will offer his sincere presence and guidance to all participants through </em><em><strong>daily morning and evening mentoring sessions</strong></em><em> that help ground you and embody all your growth and learnings from the retreat.</em></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_UN7GdK": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Jorge_Luis_Delgado_Our_Guide.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Meet Our Andean Tour Guide",
+        "heading_size": "h1",
+        "text": "<p>For 30 years Jorge Luis’s award winning tour company has been leading people on unique memorable journeys. He is fluent in his native Aymara and Quechua languages as well as Spanish and English and owner of the beautifully located Taypikala Hotels.</p><p>Jorge Luis embodies the wisdom of light of the Inka and Aymara culture which is very profound. In practice this makes the visit to each power place not only have a physical dimension, but transcends, opening the opportunity for people to have a more profound experience of the land and elements. </p><p>Jorge Luis brought to public attention the Aramu Muru Doorway, an inter-dimensional portal located in the Hayu Marca mountains. On the History Channel, he  is featured in more than ten episodes of Ancient Aliens. We are honored to be journeying with a guide who has  this caliber of knowledge. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_6dhgPK": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Screenshot_2024-06-03_at_9.42.05_AM.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Supporting Guides",
+        "heading_size": "h1",
+        "text": "<h3><strong>Ahmed Nady</strong></h3><p>Professional Tour Guide to Egypt since 2003. Over 20 year experience in guiding English speakers from different countries around the globe.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_9Ditee": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Screenshot_2024-06-03_at_9.41.56_AM.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "heading_size": "h1",
+        "text": "<h3><strong>Hanaa Abd Elkhaleq</strong></h3><p>Graduated from the Faculty of Archaeology at Cairo University, specializing in Egyptian Antiquities. Discovered that working in the field of archaeology is not her passion and would not significantly add to her career growth. Consequently, she pursued a diploma in Tourist Guidance from the Faculty of Tourism and Hotels at Helwan University. She has been working as a tour guide since 2003, gaining extensive experience in the field and thoroughly enjoying the journey.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "color_scheme": "1",
+        "show_wave": true,
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "custom_hikrjb": {
+          "type": "custom",
+          "settings": {
+            "code": "<a id=\"offer\" name=\"offer\" style=\"position: absolute;margin-top: -15rem;\"></a>"
+          }
+        },
+        "5d0eaa37-9ce3-4e70-88fb-648e9f061d06": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "downpay_downpay_form_D776dY": {
+          "type": "shopify://apps/downpay/blocks/downpay-form/da700d84-7ed1-410a-a8b5-5cb99a33758a",
+          "disabled": true,
+          "settings": {
+            "show_border": true,
+            "section_header": "Save your spot",
+            "deposit_option_label": "Non-Refundable Deposit",
+            "show_deposit_amount": true,
+            "default_to_pay_in_full": false,
+            "full_pay_option_label": "",
+            "show_payment_methods": false,
+            "show_help_text2": "deposit",
+            "deposit_help_text": "You will be charged a non-refundable deposit of $1,000 USD. The remaining balance due will be charged to your account on December 1, 2024.",
+            "show_release_date2": "never",
+            "release_date_text": "",
+            "add_to_cart_button_label": "",
+            "custom_css": ""
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false
+          }
+        },
+        "separator_eeJzNN": {
+          "type": "separator",
+          "settings": {}
+        },
+        "3f696441-480a-4872-a3b8-c275b27bb1c7": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "33594",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#ffffff",
+            "links_color": "#1878b9",
+            "errors_color": "#e02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "custom_hikrjb",
+        "5d0eaa37-9ce3-4e70-88fb-648e9f061d06",
+        "price",
+        "separator",
+        "variant_picker",
+        "description",
+        "downpay_downpay_form_D776dY",
+        "inventory_status",
+        "buy_buttons",
+        "separator_eeJzNN",
+        "3f696441-480a-4872-a3b8-c275b27bb1c7",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "custom_css": [
+        ".product-grid__container {padding-top: var(--indexSectionPadding); padding-bottom: var(--indexSectionPadding); margin-top: -40px;}",
+        ".product-block--header {margin: -60px 0 0;}"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": false,
+        "h1_title": false,
+        "hide_media": false,
+        "align_text": "left",
+        "image_position": "left",
+        "image_container_size": "large",
+        "product_image_size": "natural",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "ce45914b-7a52-48d4-9e05-4cf5a5c05566": {
+      "type": "text-columns",
+      "blocks": {
+        "template--21409734426945__ce45914b-7a52-48d4-9e05-4cf5a5c05566-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0295.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--21409734426945__ce45914b-7a52-48d4-9e05-4cf5a5c05566-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0332.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "32a6e963-2a78-4115-84e8-067fd0f81b90": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0474.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "0f5ecf6e-6bb1-4750-b9ef-6d74ace362cb": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0524.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "ce1ea62c-7a37-47f6-9c8d-b726960b8da2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0424.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "19dfce67-12b7-4372-bc97-025f614e7184": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0540.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "0ef2cdf0-19c1-4546-b207-33ea6a75f078": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0582.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "2f47a106-59f6-4814-9631-6ae15e721253": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0592.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "66ab4d68-7f4f-494d-9adb-09cbc660cb5f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0631.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "978a8d75-ae3c-4301-bdd0-ef58bd7c264b": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0639.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "9dc8ec66-9f2b-4b32-b504-580202f76244": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0611.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "bf833179-5973-4834-907c-3807c4e6f43f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0666.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "69602440-d990-4384-bdd3-5852a0bafb0d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0673.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "b446b4be-06e4-46d0-950c-b2d454075a5e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0707.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "9d9acacd-e2de-4370-a192-28684f7d68ca": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0947.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "02c6f28e-50a0-474f-b63c-daaf10287a41": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A1026.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "31b13caf-a917-4abe-88c8-9577eeb1478c": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0822.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "cb72d020-a665-4279-bb7f-439783a2c658": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A1073.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "2f4b50e8-b4ab-483c-81bc-3998e8cf802b": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A1089.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "169ab764-8651-46b0-a348-133c301f544a": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A1178_8939a70c-e7d2-4298-a894-cd8f40373506.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21409734426945__ce45914b-7a52-48d4-9e05-4cf5a5c05566-text_block-1",
+        "template--21409734426945__ce45914b-7a52-48d4-9e05-4cf5a5c05566-text_block-2",
+        "32a6e963-2a78-4115-84e8-067fd0f81b90",
+        "0f5ecf6e-6bb1-4750-b9ef-6d74ace362cb",
+        "ce1ea62c-7a37-47f6-9c8d-b726960b8da2",
+        "19dfce67-12b7-4372-bc97-025f614e7184",
+        "0ef2cdf0-19c1-4546-b207-33ea6a75f078",
+        "2f47a106-59f6-4814-9631-6ae15e721253",
+        "66ab4d68-7f4f-494d-9adb-09cbc660cb5f",
+        "978a8d75-ae3c-4301-bdd0-ef58bd7c264b",
+        "9dc8ec66-9f2b-4b32-b504-580202f76244",
+        "bf833179-5973-4834-907c-3807c4e6f43f",
+        "69602440-d990-4384-bdd3-5852a0bafb0d",
+        "b446b4be-06e4-46d0-950c-b2d454075a5e",
+        "9d9acacd-e2de-4370-a192-28684f7d68ca",
+        "02c6f28e-50a0-474f-b63c-daaf10287a41",
+        "31b13caf-a917-4abe-88c8-9577eeb1478c",
+        "cb72d020-a665-4279-bb7f-439783a2c658",
+        "2f4b50e8-b4ab-483c-81bc-3998e8cf802b",
+        "169ab764-8651-46b0-a348-133c301f544a"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Photos from Our Last Trip",
+        "heading_size": "h0",
+        "subtitle": "Photo Credit: Dana Sabre, Gaia Member",
+        "align_text": "center",
+        "grid": 4,
+        "divider": false,
+        "color_scheme": "none"
+      }
+    },
+    "e6fa5fae-029e-48df-a6da-fe4caef08809": {
+      "type": "columns-3",
+      "blocks": {
+        "fc95136e-6654-4876-b0f3-83619982e36b": {
+          "type": "liquid",
+          "settings": {
+            "parent_column": "right",
+            "code": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"63.951\" height=\"63.966\" viewBox=\"0 0 63.951 63.966\" style=\"margin: 0 auto 15px; display: block;\"><path d=\"M62.913,3.375h-18.9a2.223,2.223,0,0,0-1.568.646L4.667,41.8a4.436,4.436,0,0,0,0,6.258L22.657,66.05a4.436,4.436,0,0,0,6.258,0L66.68,28.285a2.223,2.223,0,0,0,.646-1.568V7.8A4.407,4.407,0,0,0,62.913,3.375ZM55.578,20.566a4.919,4.919,0,1,1,4.352-4.352A4.925,4.925,0,0,1,55.578,20.566Z\" transform=\"translate(-3.375 -3.375)\" fill=\"#02b5b4\"/></svg>"
+          }
+        },
+        "template--20197640634689__e6fa5fae-029e-48df-a6da-fe4caef08809-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": false,
+            "text": "<h3>Gaia members save 10%</h3><p>Just for being a Gaia member, you will save 10% when you purchase.</p>"
+          }
+        },
+        "cba03462-9fce-46b7-8667-581fdde037aa": {
+          "type": "liquid",
+          "settings": {
+            "parent_column": "center",
+            "code": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"55.914\" height=\"63.966\" viewBox=\"0 0 55.914 55.914\" style=\"margin: 0 auto 15px; display: block;\"><path d=\"M53.322,3H8.591A5.572,5.572,0,0,0,3,8.591V39.344a5.572,5.572,0,0,0,5.591,5.591H19.774V58.914l11.183-5.591L42.14,58.914V44.935H53.322a5.572,5.572,0,0,0,5.591-5.591V8.591A5.572,5.572,0,0,0,53.322,3Zm0,36.344H8.591V33.752H53.322Zm0-13.978H8.591V8.591H53.322Z\" transform=\"translate(-3 -3)\" fill=\"#02b5b4\"/></svg>"
+          }
+        },
+        "76fa2165-a4cb-4aca-a03b-f6a545f7f60c": {
+          "type": "text",
+          "settings": {
+            "parent_column": "center",
+            "enlarge_text": false,
+            "text": "<h3>Exclusive Andean Tour</h3><p>The Gaia team has hand-curated this one-of-a-kind experience and it's only available through the Gaia Marketplace.</p>"
+          }
+        },
+        "5c1d294c-9915-4022-b460-e1f736bb4135": {
+          "type": "liquid",
+          "settings": {
+            "parent_column": "left",
+            "code": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"87.864\" height=\"63.966\" viewBox=\"0 0 87.864 55.914\" style=\"margin: 0 auto 15px; display: block;\"><path d=\"M61.407,31.463A11.981,11.981,0,1,0,49.426,19.481,11.931,11.931,0,0,0,61.407,31.463Zm-31.951,0A11.981,11.981,0,1,0,17.475,19.481,11.931,11.931,0,0,0,29.457,31.463Zm0,7.988C20.151,39.451,1.5,44.123,1.5,53.429v9.985H57.414V53.429C57.414,44.123,38.762,39.451,29.457,39.451Zm31.951,0c-1.158,0-2.476.08-3.874.2,4.633,3.355,7.868,7.868,7.868,13.779v9.985H89.364V53.429C89.364,44.123,70.713,39.451,61.407,39.451Z\" transform=\"translate(-1.5 -7.5)\" fill=\"#02b5b4\"/></svg>"
+          }
+        },
+        "583c7003-2d98-42fd-bbae-515698196ce0": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<h3>Travel with a like-minded community</h3><p>Because this tour is limited to the Gaia community, you will have the opportunity to embark on this journey with others who share your curiosity and sense of adventure. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "fc95136e-6654-4876-b0f3-83619982e36b",
+        "template--20197640634689__e6fa5fae-029e-48df-a6da-fe4caef08809-text-1",
+        "cba03462-9fce-46b7-8667-581fdde037aa",
+        "76fa2165-a4cb-4aca-a03b-f6a545f7f60c",
+        "5c1d294c-9915-4022-b460-e1f736bb4135",
+        "583c7003-2d98-42fd-bbae-515698196ce0"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Book with Confidence",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "center",
+        "column_center_align_text": "center",
+        "column_right_align_text": "center",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2": {
+      "type": "testimonials",
+      "blocks": {
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“An extraordinary and unforgettable tour. Can't sing the praise loud enough so many extras and special days.”</p>",
+            "author": "Daniela S.",
+            "author_info": ""
+          }
+        },
+        "899314c4-90a9-4ace-b175-23f42f03347c": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The experiences that I had both inside the temples and pyramids were astounding.  Physical energy increases and healings that I experienced on this trip are like none before.”</p>",
+            "author": "Susan P.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“Wonderful to not to worry about any type of logistics; I would recommend 100% the tour to everybody” </p>",
+            "author": "Jorge F.",
+            "author_info": ""
+          }
+        },
+        "30ee8aed-c331-49b8-a501-04a969da42bf": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“You  have to go to Egypt with Gaia because of the special access to Giza without the crowds, it’s a completely different experience to be there alone at sunset when it’s quiet.”</p>",
+            "author": "Dana S.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The accommodations in Giza and Luxor exceeded all our expectations! The food was fabulous.”</p>",
+            "author": "Carmen S.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The trip was life changing for me... it was a spiritual calling to be there and the entire experience, people included, was ineffable from start to finish. Life will never be the same for me.”</p>",
+            "author": "James C. ",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1",
+        "899314c4-90a9-4ace-b175-23f42f03347c",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2",
+        "30ee8aed-c331-49b8-a501-04a969da42bf",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".testimonial-stars {color: #01b4b4;}"
+      ],
+      "settings": {
+        "title": "Customer Reviews",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "2"
+      }
+    },
+    "05a6ccb4-5008-4aea-bd7b-71a71b3b7286": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "Who should not go for a Panchakarma?",
+            "text": "<p>Panchakarma requires you to be able to sit, sometimes for prolonged periods. Therefore we do not recommend attending if you are pregnant, severely ill, or experiencing a debilitating mental health condition that may hold you back from being able to undergo the necessary treatments.</p>"
+          }
+        },
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "What’s included in the ticket price?",
+            "text": "<p>Your ticket includes the cost of all treatments, three meals a day, accommodation throughout the seven-day retreat, and airport transport to and from the venue. It does not include flights.</p>"
+          }
+        },
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-4": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "What kind of meals will I receive? What if I have special food requirements?",
+            "text": "<p>On each day of the retreat, you’ll receive three vegetarian organic Ayurvedic meals customized to your Dosha and your personal requirements. Upon confirming your spot, we’ll send you a food personalization form for you to fill in.</p>"
+          }
+        },
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-5": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "Where will I be staying?",
+            "text": "<p>You will be staying at our curated Ayurvedic retreat in the Sahyadri mountains of Pune, India. We will provide more details on the venue shortly after you’ve booked your spot.</p>"
+          }
+        },
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-7": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "How do I get to the venue?",
+            "text": "<p>We provide an airport pick-up service to and from the venue - just get to the airport and we’ll sort out everything else.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-1",
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-3",
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-4",
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-5",
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-7"
+      ],
+      "settings": {
+        "title": "FAQ's",
+        "heading_size": "h1",
+        "heading_position": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0": {
+      "type": "columns-1",
+      "blocks": {
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Exclusions",
+            "text": "",
+            "dropdown_text": "<ul><li>Flights</li><li>All U.S. citizens need a valid passport as well as a valid Indian visa or an Overseas Citizen of India (OCI) card to enter and exit India for any purpose. India may deny entry to travelers without valid documents or the correct type of visa. </li></ul><p>Indian visa rules and instructions can change. Travelers should check the <a href=\"https://www.indianembassyusa.gov.in/pages/NzU\" title=\"https://www.indianembassyusa.gov.in/pages/NzU\">website of the Indian Embassy in Washington D.C.</a> before any travel to India to review the most current information. </p><p>U.S. citizens seeking to enter India solely for tourist purposes for stays of less than 60 days may apply for an eVisa at least four days before their arrival. Please visit the <a href=\"https://indianvisaonline.gov.in/evisa/tvoa.html\" title=\"https://indianvisaonline.gov.in/evisa/tvoa.html\">Indian government's website for electronic travel authorization</a> for more information and to submit an application visit the <a href=\"https://boi.gov.in/\" title=\"https://boi.gov.in/\">Bureau of Immigration’s website.</a></p><p>U.S. citizens seeking to enter India as a tourist for longer than 60 days or for any other purpose must apply for a visa from an Indian embassy or consulate. The Government of India has appointed VFS Global to assist with visa services for individuals in the United States. Applicants may apply for Indian visas through the <a href=\"https://visa.vfsglobal.com/usa/en/ind/apply-visa\" title=\"https://visa.vfsglobal.com/usa/en/ind/apply-visa\">application link</a>. Please exercise caution and check the correct website and as there are many fake webpages that will gather your personal information.</p>",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "Reservation and Payment",
+            "text": "",
+            "dropdown_text": "<p>Given the complex nature of coordinating travel, we understand that cancellations may occur. All cancellations must be made in writing via email.A non-refundable deposit of $1000 per person will be required at the time of booking. To ensure your reservation, final payment will be due a minimum of 181 days prior to the departure dates from your Country. It is the responsibility of the traveler (or agent) to determine that final payment reaches us on time. Bookings made within 181 days of departure date, will require full and final payment immediately upon booking. No booking will be considered until final payment balance is received by Gaia In<strong>c.</strong>Payments are to be made via Bank Transfer or Credit Card. Any fees charged will be the responsibility of the sender. <strong>The $1000 non-refundable deposit is transferable to future Gaia Tours or other products offered on Gaia Marketplace.</strong></p>",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "88fe273d-dad8-4fcb-8e72-e298aeffea83": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Cancellation and Refunds",
+            "text": "",
+            "dropdown_text": "<p>We understand that plans can change. If you can’t make it for any reason, you can either claim a full refund within at least 60 days before the retreat, or a 50% refund if less than 60 days remain. You can also transfer your ticket to someone else with no penalty; just email us at least one week in advance with your new participant’s details.</p>",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "8fef7e85-3dbd-4573-b556-4afbf969813d": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "Waiver of Responsibility",
+            "text": "",
+            "dropdown_text": "<p>By signing up to the Tour you agree to our Terms (as detailed in the \"Things to Know\" section herein), Cancellation and Refunds policy and Waiver.  Gaia Inc, their representatives,  Kontiki Tours & their agents have worked diligently to make all the arrangements for our journey together in Peru and Bolivia. However, Kontiki Tours and Gaia Inc will not be held liable for delays, theft, damage, injury, or any other irregularities that may occur during the journey. We will not be held liable for any changes or delays in airline schedules or missed connections; injury, loss, or damage to persons or property; additional expenses resulting from changes in exchange rates, tariffs, or itinerary; any transportation issues or problems with vehicles utilized on the tour; additional expenses incurred due to illness, weather conditions, protests, war, terrorism, quarantine, or other causes; and losses due to cancellations not subject to our Terms and Conditions.</p>",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "Changes",
+            "text": "",
+            "dropdown_text": "<p>This Itinerary is subject to changes to adapt to possible alterations in domestic flight times or other unforeseen circumstances. The content will remain the same, barring any unanticipated complications, and will include many delightful “extras” and surprises.</p>",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "36d254e6-c118-4eb9-868e-c7838412525e": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "Insurance",
+            "text": "",
+            "dropdown_text": "<p>We really highly seriously  recommend that all participants obtain travel insurance. Travel Insured International ( and other travel insurance companies) offers insurance for trip cost, trip cancellation & interruption, and pays for loss due to unforeseen circumstance, death, injury, or illness to you or a member of your family. It also includes coverage for missed connections due to weather, and pays for lost deposits due to the financial default of the airline, the tour operator, or cruise line. It pays for baggage delays, travel delays, medical expenses and emergency assistance.</p>",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "button_GkTfbb": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Register Now",
+            "link_entitled": "",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d",
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281",
+        "88fe273d-dad8-4fcb-8e72-e298aeffea83",
+        "8fef7e85-3dbd-4573-b556-4afbf969813d",
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07",
+        "36d254e6-c118-4eb9-868e-c7838412525e",
+        "button_GkTfbb"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "Things to Know",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "left",
+        "column_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "927a5fbd-9afa-4cc7-adea-fe0ab118ead0": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20197640634689__927a5fbd-9afa-4cc7-adea-fe0ab118ead0-hero-2": {
+          "type": "hero",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "Gaia Exclusive \nPre-Diluvian Egypt Tour",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/3JrZnwP8C8_4522fd15-d82a-4f39-bded-3d998aea3e40.jpg",
+            "overlay_opacity": 50
+          }
+        },
+        "d3ffef74-d615-4ac2-afea-12aec6607ff7": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Gaia Exclusive \nPre-Diluvian Egypt Tour",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/cairo-1200x800.jpg",
+            "overlay_opacity": 50
+          }
+        },
+        "d8d4958c-b42f-4913-9be9-2e5f382fdd57": {
+          "type": "hero",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "Gaia Exclusive \nPre-Diluvian Egypt Tour",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/egypt-tour-bg-3-desktop.jpg",
+            "overlay_opacity": 50
+          }
+        },
+        "deba10be-d7e0-4007-be86-86350443e5d0": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Gaia Exclusive \nPre-Diluvian Egypt Tour",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/ldjNflmUKF_e626b68d-5854-4743-8303-f493b42c78c5.jpg",
+            "overlay_opacity": 50
+          }
+        },
+        "948951c4-d3cd-4923-807c-17cbc9f7edb6": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Gaia Exclusive \nPre-Diluvian Egypt Tour",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/03dHa7KS51_3188c4e0-a2c6-49bb-9131-cfa7c00b69da.jpg",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--20197640634689__927a5fbd-9afa-4cc7-adea-fe0ab118ead0-hero-2",
+        "d3ffef74-d615-4ac2-afea-12aec6607ff7",
+        "d8d4958c-b42f-4913-9be9-2e5f382fdd57",
+        "deba10be-d7e0-4007-be86-86350443e5d0",
+        "948951c4-d3cd-4923-807c-17cbc9f7edb6"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "desktop_size": -40,
+        "mobile_size": 0,
+        "style": "dots",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "slideshow_emL8WA",
+    "rich_text_Gcwtmz",
+    "columns_2_9Pb8KV",
+    "slideshow_image_HfyPcy",
+    "061b0d20-e98a-47d8-9f35-f44f31d51acc",
+    "85e20baa-20e7-4e15-961d-dc2232ca0e16",
+    "columns_2_AgFVPA",
+    "e050c6d5-44c1-45b8-88c2-e0650f6f4b08",
+    "7aed34aa-1760-4d6f-8ff3-2be2dc756274",
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc3",
+    "6db691b5-0534-45ec-97a0-e4a6c1dcff87",
+    "text_and_image_JPgmwm",
+    "text_and_image_UN7GdK",
+    "text_and_image_6dhgPK",
+    "text_and_image_9Ditee",
+    "main",
+    "ce45914b-7a52-48d4-9e05-4cf5a5c05566",
+    "e6fa5fae-029e-48df-a6da-fe4caef08809",
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2",
+    "05a6ccb4-5008-4aea-bd7b-71a71b3b7286",
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0",
+    "927a5fbd-9afa-4cc7-adea-fe0ab118ead0"
+  ]
+}

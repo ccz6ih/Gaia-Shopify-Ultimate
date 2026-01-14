@@ -1,0 +1,636 @@
+{{ 'ign-section-product-glow.css' | asset_url | stylesheet_tag }}
+
+{%- style -%}
+  .ign-section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .ign-section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+
+  {%- comment -%} Custom Color Properties {%- endcomment -%}
+  .ign-product-glow-section-{{ section.id }} {
+    --ign-glow-heading-color: {{ section.settings.heading_color }};
+    --ign-glow-label-color: {{ section.settings.label_color }};
+    --ign-glow-stat-value-color: {{ section.settings.stat_color }};
+    --ign-glow-stat-label-color: {{ section.settings.stat_label_color }};
+    --ign-glow-callout-title-color: {{ section.settings.callout_title_color }};
+    --ign-glow-callout-text-color: {{ section.settings.callout_text_color }};
+    --ign-glow-glow-color: {{ section.settings.glow_color }};
+    --ign-glow-glow-opacity: {{ section.settings.glow_opacity | divided_by: 100.0 }};
+    --ign-glow-button-bg-color: {{ section.settings.button_bg_color }};
+    --ign-glow-button-text-color: {{ section.settings.button_text_color }};
+  }
+
+  {%- if section.settings.background_type == 'solid' -%}
+    .ign-product-glow-section-{{ section.id }} {
+      background-color: {{ section.settings.background_color }};
+    }
+  {%- elsif section.settings.background_type == 'gradient' -%}
+    .ign-product-glow-section-{{ section.id }} {
+      background: linear-gradient(
+        {{ section.settings.gradient_angle }}deg,
+        {{ section.settings.gradient_start_color }} 0%,
+        {{ section.settings.gradient_end_color }} 100%
+      );
+    }
+  {%- elsif section.settings.background_type == 'image' and section.settings.background_image != blank -%}
+    .ign-product-glow-section-{{ section.id }} {
+      background-image: url('{{ section.settings.background_image | image_url: width: 2000 }}');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  {%- endif -%}
+{%- endstyle -%}
+
+<div class="ign-product-glow-section ign-product-glow-section-{{ section.id }} ign-section-{{ section.id }}-padding">
+  <div class="page-width">
+    <div class="ign-glow-grid">
+      
+      {%- comment -%} LEFT - Content & Stats {%- endcomment -%}
+      <div class="ign-glow-content{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
+        {%- if section.settings.label != blank -%}
+          <div class="ign-glow-label">{{ section.settings.label }}</div>
+        {%- endif -%}
+        
+        {%- if section.settings.heading != blank -%}
+          <h2 class="ign-glow-heading inline-richtext {{ section.settings.heading_size }}">
+            {{ section.settings.heading }}
+          </h2>
+        {%- endif -%}
+
+        {%- comment -%} STATS GRID - Support multiple stat boxes {%- endcomment -%}
+        {%- assign stat_blocks = section.blocks | where: 'type', 'stat' -%}
+        {%- if stat_blocks.size > 0 -%}
+          <div class="ign-glow-stats-grid" data-stats-count="{{ stat_blocks.size }}">
+            {%- for block in stat_blocks -%}
+              <div class="ign-glow-stat-box" {{ block.shopify_attributes }}>
+                {%- if block.settings.stat_label != blank -%}
+                  <div class="ign-stat-label">{{ block.settings.stat_label }}</div>
+                {%- endif -%}
+                <div class="ign-stat-number">
+                  <span class="ign-stat-arrow">↑</span>
+                  <span class="ign-stat-value" data-value="{{ block.settings.stat_value }}">0</span>
+                  <span class="ign-stat-unit">{{ block.settings.stat_unit }}</span>
+                </div>
+                {%- if block.settings.stat_footnote != blank -%}
+                  <p class="ign-stat-footnote">{{ block.settings.stat_footnote }}</p>
+                {%- endif -%}
+              </div>
+            {%- endfor -%}
+          </div>
+        {%- endif -%}
+
+        {%- if section.settings.button_label != blank and section.settings.enable_modal -%}
+          <button
+            type="button"
+            class="button ign-glow-modal-trigger"
+            data-modal-trigger="{{ section.id }}"
+          >
+            {{ section.settings.button_label }}
+          </button>
+        {%- endif -%}
+      </div>
+
+      {%- comment -%} CENTER - Glowing Visual {%- endcomment -%}
+      <div class="ign-glow-visual{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--fade-in{% endif %}">
+        <div class="ign-visual-glow-container">
+          {%- if section.settings.visual_image != blank -%}
+            <img
+              class="ign-visual-media ign-visual-image"
+              src="{{ section.settings.visual_image | image_url: width: 800 }}"
+              srcset="
+                {{ section.settings.visual_image | image_url: width: 400 }} 400w,
+                {{ section.settings.visual_image | image_url: width: 600 }} 600w,
+                {{ section.settings.visual_image | image_url: width: 800 }} 800w"
+              sizes="(min-width: 990px) 400px, 300px"
+              alt="{{ section.settings.visual_image.alt | escape }}"
+              loading="lazy"
+            >
+          {%- else -%}
+            <div class="ign-visual-placeholder">
+              <svg class="ign-visual-icon" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="60" cy="60" r="58" stroke="currentColor" stroke-width="2" opacity="0.2"/>
+                <circle cx="60" cy="60" r="40" stroke="currentColor" stroke-width="2" opacity="0.4"/>
+                <circle cx="60" cy="60" r="22" stroke="currentColor" stroke-width="2" opacity="0.6"/>
+                <circle cx="60" cy="60" r="8" fill="currentColor"/>
+              </svg>
+            </div>
+          {%- endif -%}
+        </div>
+      </div>
+
+      {%- comment -%} RIGHT - Feature Callouts {%- endcomment -%}
+      {%- assign callout_blocks = section.blocks | where: 'type', 'callout' -%}
+      {%- if callout_blocks.size > 0 -%}
+        <div class="ign-glow-callouts{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
+          {%- for block in callout_blocks -%}
+            <div class="ign-glow-callout" {{ block.shopify_attributes }}>
+              <div class="ign-callout-glow"></div>
+              <div class="ign-callout-content">
+                {%- if block.settings.callout_title != blank -%}
+                  <h3 class="ign-callout-title">{{ block.settings.callout_title }}</h3>
+                {%- endif -%}
+                {%- if block.settings.callout_text != blank -%}
+                  <p class="ign-callout-text">{{ block.settings.callout_text }}</p>
+                {%- endif -%}
+              </div>
+            </div>
+          {%- endfor -%}
+        </div>
+      {%- endif -%}
+      
+    </div>
+  </div>
+</div>
+
+{%- comment -%} Modal Popup {%- endcomment -%}
+{%- if section.settings.enable_modal -%}
+  <div
+    class="ign-glow-modal"
+    id="modal-{{ section.id }}"
+    aria-modal="true"
+    aria-label="{{ section.settings.modal_heading | default: 'Product Details' }}"
+    aria-hidden="true"
+    role="dialog"
+  >
+    <div class="ign-glow-modal-overlay" data-modal-close="{{ section.id }}"></div>
+    <div class="ign-glow-modal-container">
+      <div class="ign-glow-modal-header">
+        <h3 class="ign-glow-modal-title h2">{{ section.settings.modal_heading | default: 'Product Details' }}</h3>
+        <button
+          type="button"
+          class="ign-glow-modal-close"
+          data-modal-close="{{ section.id }}"
+          aria-label="Close modal"
+        >
+          <svg width="15" height="15" viewBox="0 0 15 15" fill="none">
+            <path d="M1 1L14 14M14 1L1 14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        </button>
+      </div>
+      <div class="ign-glow-modal-content">
+        <div class="rte">
+          {{ section.settings.modal_content }}
+        </div>
+      </div>
+    </div>
+  </div>
+{%- endif -%}
+
+<script>
+  (function() {
+    const section = document.querySelector('.ign-product-glow-section-{{ section.id }}');
+    if (!section) return;
+
+    // Animate stats on scroll
+    const animateStats = () => {
+      const statValues = section.querySelectorAll('.ign-stat-value');
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting && !entry.target.hasAttribute('data-animated')) {
+            const finalValue = parseFloat(entry.target.getAttribute('data-value'));
+            const duration = 2000;
+            const startTime = performance.now();
+            
+            entry.target.setAttribute('data-animated', 'true');
+            
+            // Show the arrow
+            const arrow = entry.target.previousElementSibling;
+            if (arrow && arrow.classList.contains('ign-stat-arrow')) {
+              arrow.style.opacity = '1';
+              arrow.style.transform = 'translateY(0)';
+            }
+            
+            const animate = (currentTime) => {
+              const elapsed = currentTime - startTime;
+              const progress = Math.min(elapsed / duration, 1);
+              
+              // Ease out cubic
+              const easeOutCubic = 1 - Math.pow(1 - progress, 3);
+              const currentValue = (finalValue * easeOutCubic).toFixed(1);
+              
+              entry.target.textContent = currentValue;
+              
+              if (progress < 1) {
+                requestAnimationFrame(animate);
+              }
+            };
+            
+            requestAnimationFrame(animate);
+          }
+        });
+      }, { threshold: 0.5 });
+      
+      statValues.forEach(stat => observer.observe(stat));
+    };
+
+    // Modal functionality
+    const initModal = () => {
+      const modalTriggers = section.querySelectorAll('[data-modal-trigger="{{ section.id }}"]');
+      const modal = document.getElementById('modal-{{ section.id }}');
+      const modalClosers = document.querySelectorAll('[data-modal-close="{{ section.id }}"]');
+      
+      if (!modal) return;
+      
+      const openModal = () => {
+  modal.setAttribute('aria-hidden', 'false');
+  modal.style.display = 'flex';
+  document.body.style.overflow = 'hidden';
+  
+  // Focus management
+  const firstFocusable = modal.querySelector('button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])');
+  if (firstFocusable) firstFocusable.focus();
+};
+
+const closeModal = () => {
+  modal.setAttribute('aria-hidden', 'true');
+  modal.style.display = 'none';
+  document.body.style.overflow = '';
+  
+  // Return focus to trigger
+  const trigger = section.querySelector('[data-modal-trigger="{{ section.id }}"]');
+  if (trigger) trigger.focus();
+};
+      
+      modalTriggers.forEach(trigger => {
+        trigger.addEventListener('click', openModal);
+      });
+      
+      modalClosers.forEach(closer => {
+        closer.addEventListener('click', closeModal);
+      });
+      
+      // Close on Escape
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && modal.getAttribute('aria-hidden') === 'false') {
+          closeModal();
+        }
+      });
+      
+      // Trap focus in modal
+      modal.addEventListener('keydown', (e) => {
+        if (e.key !== 'Tab') return;
+        
+        const focusables = modal.querySelectorAll('button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])');
+        const firstFocusable = focusables[0];
+        const lastFocusable = focusables[focusables.length - 1];
+        
+        if (e.shiftKey && document.activeElement === firstFocusable) {
+          e.preventDefault();
+          lastFocusable.focus();
+        } else if (!e.shiftKey && document.activeElement === lastFocusable) {
+          e.preventDefault();
+          firstFocusable.focus();
+        }
+      });
+    };
+
+    // Initialize
+    animateStats();
+    initModal();
+
+    // Reinitialize for theme editor
+    if (Shopify && Shopify.designMode) {
+      document.addEventListener('shopify:section:load', function(event) {
+        if (event.target === section) {
+          animateStats();
+          initModal();
+        }
+      });
+    }
+  })();
+</script>
+
+{% schema %}
+{
+  "name": "IGN Product Glow",
+  "tag": "section",
+  "class": "section",
+  "disabled_on": {
+    "groups": ["header", "footer"]
+  },
+  "settings": [
+    {
+      "type": "header",
+      "content": "🎨 Layout & Background"
+    },
+    {
+      "type": "select",
+      "id": "background_type",
+      "label": "Background type",
+      "options": [
+        { "value": "solid", "label": "Solid color" },
+        { "value": "gradient", "label": "Gradient" },
+        { "value": "image", "label": "Image" }
+      ],
+      "default": "solid"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background color",
+      "default": "#000000"
+    },
+    {
+      "type": "color",
+      "id": "gradient_start_color",
+      "label": "Gradient start color",
+      "default": "#000000"
+    },
+    {
+      "type": "color",
+      "id": "gradient_end_color",
+      "label": "Gradient end color",
+      "default": "#1a1a1a"
+    },
+    {
+      "type": "range",
+      "id": "gradient_angle",
+      "label": "Gradient angle",
+      "min": 0,
+      "max": 360,
+      "step": 5,
+      "unit": "deg",
+      "default": 135
+    },
+    {
+      "type": "image_picker",
+      "id": "background_image",
+      "label": "Background image"
+    },
+    {
+      "type": "header",
+      "content": "🎨 Color Controls"
+    },
+    {
+      "type": "color",
+      "id": "heading_color",
+      "label": "Heading color",
+      "default": "#ffffff"
+    },
+    {
+      "type": "color",
+      "id": "label_color",
+      "label": "Label color",
+      "default": "#D3A23C"
+    },
+    {
+      "type": "color",
+      "id": "stat_color",
+      "label": "Stat value color",
+      "default": "#D3A23C"
+    },
+    {
+      "type": "color",
+      "id": "stat_label_color",
+      "label": "Stat label color",
+      "default": "#cccccc"
+    },
+    {
+      "type": "color",
+      "id": "callout_title_color",
+      "label": "Callout title color",
+      "default": "#D3A23C"
+    },
+    {
+      "type": "color",
+      "id": "callout_text_color",
+      "label": "Callout text color",
+      "default": "#cccccc"
+    },
+    {
+      "type": "color",
+      "id": "glow_color",
+      "label": "Glow effect color",
+      "default": "#D3A23C"
+    },
+    {
+      "type": "range",
+      "id": "glow_opacity",
+      "label": "Glow opacity",
+      "min": 0,
+      "max": 100,
+      "step": 5,
+      "unit": "%",
+      "default": 50
+    },
+    {
+      "type": "color",
+      "id": "button_bg_color",
+      "label": "Button background color",
+      "default": "#D3A23C"
+    },
+    {
+      "type": "color",
+      "id": "button_text_color",
+      "label": "Button text color",
+      "default": "#000000"
+    },
+    {
+      "type": "header",
+      "content": "📝 Content"
+    },
+    {
+      "type": "text",
+      "id": "label",
+      "label": "Label",
+      "default": "BREAKTHROUGH TECHNOLOGY"
+    },
+    {
+      "type": "inline_richtext",
+      "id": "heading",
+      "label": "Heading",
+      "default": "<b>Experience the Future</b> of Wellness"
+    },
+    {
+      "type": "select",
+      "id": "heading_size",
+      "label": "Heading size",
+      "options": [
+        { "value": "h3", "label": "Small" },
+        { "value": "h2", "label": "Medium" },
+        { "value": "h1", "label": "Large" },
+        { "value": "h0", "label": "Extra large" }
+      ],
+      "default": "h1"
+    },
+    {
+      "type": "text",
+      "id": "button_label",
+      "label": "Button label",
+      "default": "Learn More"
+    },
+    {
+      "type": "header",
+      "content": "🖼️ Visual"
+    },
+    {
+      "type": "select",
+      "id": "visual_type",
+      "label": "Visual type",
+      "options": [
+        { "value": "image", "label": "Image" }
+      ],
+      "default": "image"
+    },
+    {
+      "type": "image_picker",
+      "id": "visual_image",
+      "label": "Image",
+      "info": "Best size: 800x800px"
+    },
+    {
+      "type": "header",
+      "content": "💬 Modal Popup"
+    },
+    {
+      "type": "checkbox",
+      "id": "enable_modal",
+      "label": "Enable modal popup",
+      "default": true
+    },
+    {
+      "type": "text",
+      "id": "modal_heading",
+      "label": "Modal heading",
+      "default": "Product Details"
+    },
+    {
+      "type": "richtext",
+      "id": "modal_content",
+      "label": "Modal content",
+      "default": "<p>Add detailed product information, specifications, or any content you want to display in the popup.</p>"
+    },
+    {
+      "type": "header",
+      "content": "📏 Section padding"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "label": "Top padding",
+      "min": 0,
+      "max": 120,
+      "step": 4,
+      "unit": "px",
+      "default": 60
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "label": "Bottom padding",
+      "min": 0,
+      "max": 120,
+      "step": 4,
+      "unit": "px",
+      "default": 60
+    }
+  ],
+  "blocks": [
+    {
+      "type": "stat",
+      "name": "📊 Stat",
+      "limit": 4,
+      "settings": [
+        {
+          "type": "text",
+          "id": "stat_label",
+          "label": "Stat label",
+          "default": "Improvement in sleep quality"
+        },
+        {
+          "type": "text",
+          "id": "stat_value",
+          "label": "Stat value",
+          "default": "87",
+          "info": "Number only"
+        },
+        {
+          "type": "text",
+          "id": "stat_unit",
+          "label": "Stat unit",
+          "default": "%"
+        },
+        {
+          "type": "text",
+          "id": "stat_footnote",
+          "label": "Footnote (optional)",
+          "default": "*Based on 3-month study"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "name": "✨ Feature callout",
+      "limit": 4,
+      "settings": [
+        {
+          "type": "text",
+          "id": "callout_title",
+          "label": "Title",
+          "default": "ADVANCED TECH"
+        },
+        {
+          "type": "textarea",
+          "id": "callout_text",
+          "label": "Text",
+          "default": "Patented frequency optimization for maximum effectiveness"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "IGN Product Glow",
+      "blocks": [
+        {
+          "type": "stat",
+          "settings": {
+            "stat_label": "Improvement in sleep quality",
+            "stat_value": "87",
+            "stat_unit": "%",
+            "stat_footnote": "*Based on 3-month study"
+          }
+        },
+        {
+          "type": "stat",
+          "settings": {
+            "stat_label": "User satisfaction rate",
+            "stat_value": "94",
+            "stat_unit": "%",
+            "stat_footnote": "*From 1000+ reviews"
+          }
+        },
+        {
+          "type": "callout",
+          "settings": {
+            "callout_title": "PATENTED TECHNOLOGY",
+            "callout_text": "Advanced frequency optimization for enhanced results"
+          }
+        },
+        {
+          "type": "callout",
+          "settings": {
+            "callout_title": "CLINICALLY PROVEN",
+            "callout_text": "Backed by peer-reviewed research and studies"
+          }
+        },
+        {
+          "type": "callout",
+          "settings": {
+            "callout_title": "EASY TO USE",
+            "callout_text": "Simple setup with guided app experience"
+          }
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}

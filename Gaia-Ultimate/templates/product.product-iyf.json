@@ -1,0 +1,1831 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_emL8WA": {
+      "type": "slideshow",
+      "blocks": {
+        "hero_NqWKzE": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "International Yoga Festival",
+            "h1_title": false,
+            "title_size": 70,
+            "subheading": "in Parmarth Niketan, Ashram in Rishikesh, India | March 9-15, 2025\n\nGaia Members get 10% off!",
+            "enlarge_subheading": true,
+            "link": "#offer",
+            "link_text": "Save Your Spot",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#01b4b4",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify://shop_images/CS10951_Marketplace_IYF_Hero_en_US_1.jpg",
+            "overlay_opacity": 54
+          }
+        }
+      },
+      "block_order": [
+        "hero_NqWKzE"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": 10,
+        "mobile_size": 20,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_Gcwtmz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WwyKKQ": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "heading_size": "h2"
+          }
+        },
+        "text_W4YYQp": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<h2><strong>Awaken to Your True Self at the International Yoga Festival</strong></h2><p>Join us at the <em>International Yoga Festival 2025</em>, from <strong>March 9-15</strong> at Parmarth Niketan Ashram, Rishikesh—a sanctuary for healing, unity, and transformation on the sacred banks of the Ganga River in Rishikesh, India.</p><p>In the birthplace of yoga, where ancient sages, seers, and yogis sought enlightenment amidst the majestic Himalayas, this is your invitation to reconnect, recharge, and renew. Here, you’ll join a global family of seekers, co-creators, and conscious souls—all coming together to expand consciousness and bring healing to ourselves and our world.<br/><br/><strong>Why Join Us?</strong></p><p>✨ <strong>Uncover Your True Potential:</strong> Awaken the best version of yourself through transformative teachings, practices, and wisdom. Step into your power, ignite your inner light, and leave behind what no longer serves you.</p><p>🌍 <strong>Global Unity & Community:</strong> In a world often marked by stress, division and burnout, the importance of connection and community has never been more! Come and connect with like-minded, conscious yogis from every corner of the globe. Whether you’re on a path of personal transformation or searching for a new beginning, this is where friendships turn into lifelong connections.</p><p>🧘 <strong>Transform Your Body, Mind, and Spirit with World-Renowned Masters:</strong> Dive into teachings and practices led by the world’s top yoga teachers, wellness experts, and revered spiritual leaders. Reclaim your health, find deep clarity in your mind, open and health your heart, and reignite your connection to spirit. This is your chance to receive life-changing tools to live with energy, peace, and purpose every day.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WwyKKQ",
+        "text_W4YYQp"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": false,
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "featured_video_fYbzcz": {
+      "type": "featured-video",
+      "settings": {
+        "title": "",
+        "video_url": "https://youtu.be/6xOz-Jy15uU?si=lR5DKX0RHwISC7Qt",
+        "divider": false
+      }
+    },
+    "061b0d20-e98a-47d8-9f35-f44f31d51acc": {
+      "type": "columns-2",
+      "blocks": {
+        "25924d21-e6eb-4634-9fb3-74174334f5a8": {
+          "type": "heading",
+          "settings": {
+            "parent_column": "left",
+            "title": "During this 7-day immersion, you will:",
+            "heading_size": "h3"
+          }
+        },
+        "sales_point_HXDETX": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Explore Diverse Yoga Styles</strong> – Dive into every major style of yoga, from Hatha and Vinyasa to Kundalini and Iyengar, guided by masterful teachers from around the world."
+          }
+        },
+        "sales_point_ER7mGj": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Learn from Spiritual & Wellness Masters – </strong>Experience profound teachings from enlightened saints, yoga acharyas, wellness specialists, and thought leaders who are shaping the future of global consciousness."
+          }
+        },
+        "sales_point_pHF9LF": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Rejuvenate in Sacred Surroundings – </strong>Soak in the energy of the sacred Mother Goddess Ganga River, the wisdom of the ancient Himalayas, and the spiritual heritage of Parmarth Niketan Ashram, one of India’s largest and most renowned ashrams."
+          }
+        },
+        "sales_point_f6UN4t": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Engage in Workshops & Discussions – </strong>Participate in dynamic sessions on topics from holistic wellness to mind-body alignment, all designed to support your journey of growth and self-discovery."
+          }
+        },
+        "sales_point_bnEDtP": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Experience Inner Healing –</strong> Let go of stress, anxiety, and old limitations. Return home with tools for lasting peace, clarity, and vitality."
+          }
+        },
+        "sales_point_a93rwT": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Ecstatic Dance & Kirtan -</strong> Lose yourself in ecstatic dance and powerful chanting sessions with world-renowned kirtan leaders and celebrated musicians, allowing your spirit to soar and your heart to open."
+          }
+        },
+        "sales_point_T6raRD": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Celebrate Holi - </strong>The Festival of Colors: Join us in the joyful celebration of Holi, as we come together in a vibrant burst of colors, symbolizing unity, love, and the joy of new beginnings."
+          }
+        },
+        "sales_point_t6znzq": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "none",
+            "icon_color": "",
+            "text": ""
+          }
+        },
+        "0e175e8f-70ac-4d1d-9d94-33e0466bfb9f": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<p> </p>"
+          }
+        },
+        "46e398c5-1ee7-41de-bb33-ad10c56dc2ee": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Daily lunch (excl. arrival & departure days)"
+          }
+        },
+        "7da16b5a-30d9-4dc1-b1ce-1acce219312e": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Select dinners"
+          }
+        },
+        "7f90e356-b9b1-4d55-8da8-844f4a75e7f0": {
+          "type": "heading",
+          "settings": {
+            "parent_column": "right",
+            "title": "",
+            "heading_size": "h3"
+          }
+        },
+        "aaa35b1a-8f7f-40b4-88b2-307c26dd6c43": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "right",
+            "reveal": false,
+            "title": "Location:",
+            "text": "<p>Rishikesh – known as the “City of the Divine” and Yoga Capital of the World – is a spiritual center to which sages, rishis, saints and pilgrims have flocked for millennia. The roads of the city are lined with bustling market places of ethnic arts and handicrafts, fresh produce markets, holy shrines and orange-robed sadhus. Then, the road narrows, the markets become more sparse and you come upon a foot bridge, suspended high over the sacred Ganga river. As you cross this bridge, the sun streaming through the sacred Himalayas to warm your being, you will feel as if you have truly come home. It is no surprise that pilgrims are drawn here from all over the world.</p>",
+            "dropdown_text": "<p>The awe-inspiring beauty of the ashram, the clear, flowing Ganga, the majestic mountains, and the lush green forests will embrace and rejuvenate your entire being. Parmarth Niketan offers comfort, inspiration and upliftment for your body, mind and spirit as well as a deeper connection with the Divine. As you stay in the ashram, you will feel your soul bathing in the peace of sacred energies, including those that emanate from nature and those that linger from the timeless healing powers of saints, sages and holy ones. Parmarth Niketan contains within it the voice and the spirit of divine communion.</p><p>Rishikesh and Uttarakhand as the sacred birthplace of Yoga.  Even after the tragic floods of 2013, when the state faced a huge blow to tourism, the state is standing strong, attracting and inspiring over some 600 participants from over 50 countries in the sacred practice of Yoga during the International Yoga Festival.   The Himalayas are not only a place that is safe to travel, but stands strong and resilient in its sacred spiritual roots.  The Ministry of Tourism’s beautiful slogan ‘Uttarakhand: Simply Heaven’ is given a deeper, more profound meaning, when through the practice of Yoga, IYF participants leave the sacred land of Devbhoomi, Swargashram with a tangible and exquisite experience of heaven within their own selves, bathing in the waters of their own peace, love and joy.</p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "dropdown_image": "shopify://shop_images/ashram.jpg",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "643bace9-4996-4be4-b931-2de728a157a3": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "parent_column": "right",
+            "reveal": false,
+            "title": "Caral Pyramid",
+            "text": "",
+            "dropdown_text": "<p>Caral is thought to be one of the oldest known cities in the Western Hemisphere. The Caral civilization was pre-Columbian. It remains a mystery as to why the city was abandoned.</p><p>One of the largest Pyramids in the complex is known as the Pirámide Mayor and is almost 100 feet tall and is considered to be as old as the Egyptian pyramids. </p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "dropdown_image": "shopify://shop_images/Peru-Tour-Caral-Enhanced.jpg",
+            "background_color": "#2e2767",
+            "text_color": "#f4f5f7"
+          }
+        },
+        "cab40b70-71f5-4157-900c-344ccf2d5e06": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "parent_column": "right",
+            "reveal": false,
+            "title": "Amaru Muru",
+            "text": "",
+            "dropdown_text": "<p>Amaru Muru also known as “Hayu Marca or Willka Uta: “Place of the sun or gate of the gods.” This magnanimous rock structure is surrounded by mystery and ancient legends. A stunning doorway is carved into the ancient rock wall and faces east, toward Lake Titicaca, the Island of the Sun in Bolivia and the distant, sacred snow-capped mountains.</p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "dropdown_image": "shopify://shop_images/Peru-Tour-Amaru-Muru.jpg",
+            "background_color": "#2e2767",
+            "text_color": "#f4f5f7"
+          }
+        },
+        "bd48c292-e8fb-405b-9fc2-3e92ec363226": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "parent_column": "right",
+            "reveal": false,
+            "title": "Island of the Sun Bolivia",
+            "text": "",
+            "dropdown_text": "<p>We will take a private boat to visit the beautiful<strong> Isla Del Sol. O</strong>riginally known as Titi Khar'ka, the 'rock of the puma' from which Lake Titicaca gets its name. <strong>A sacred place for the Aymara people </strong>and believed to be <strong>the birthplace of the Inca Empire</strong>. There are over 80 ancient ruins that predate the Inca empire to include the Chinkana and Pillkukayna,</p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "dropdown_image": "shopify://shop_images/Peru-Tour-Stone-Table.jpg",
+            "background_color": "#2e2767",
+            "text_color": "#f4f5f7"
+          }
+        }
+      },
+      "block_order": [
+        "25924d21-e6eb-4634-9fb3-74174334f5a8",
+        "sales_point_HXDETX",
+        "sales_point_ER7mGj",
+        "sales_point_pHF9LF",
+        "sales_point_f6UN4t",
+        "sales_point_bnEDtP",
+        "sales_point_a93rwT",
+        "sales_point_T6raRD",
+        "sales_point_t6znzq",
+        "0e175e8f-70ac-4d1d-9d94-33e0466bfb9f",
+        "46e398c5-1ee7-41de-bb33-ad10c56dc2ee",
+        "7da16b5a-30d9-4dc1-b1ce-1acce219312e",
+        "7f90e356-b9b1-4d55-8da8-844f4a75e7f0",
+        "aaa35b1a-8f7f-40b4-88b2-307c26dd6c43",
+        "643bace9-4996-4be4-b931-2de728a157a3",
+        "cab40b70-71f5-4157-900c-344ccf2d5e06",
+        "bd48c292-e8fb-405b-9fc2-3e92ec363226"
+      ],
+      "custom_css": [
+        "h2 {max-width: 750px; margin-left: auto; margin-right: auto;}"
+      ],
+      "settings": {
+        "title": "Come Home to the Himalayas…\nAwaken, Connect, Discover a New You.",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "Register Now",
+        "cta_button_url": "#offer",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "85e20baa-20e7-4e15-961d-dc2232ca0e16": {
+      "type": "map",
+      "disabled": true,
+      "settings": {
+        "map_title": "",
+        "heading_size": "h3",
+        "heading_position": "left",
+        "address": "",
+        "map_address": "Lima",
+        "api_key": "AIzaSyCGvtT63CU5qr-RVFMbrPgnOENoN9EKmdA",
+        "map_zoom": 6,
+        "map_style": "retro",
+        "map_simplified": true,
+        "map_control": "draggable_onclick",
+        "show_button": false,
+        "background_image": "shopify://shop_images/egypt-cairo-map_ab053abb-c115-45fc-8865-308d8ddf3d63.jpg",
+        "lazyload_images": true
+      }
+    },
+    "e050c6d5-44c1-45b8-88c2-e0650f6f4b08": {
+      "type": "columns-1",
+      "disabled": true,
+      "settings": {
+        "narrow_column": false,
+        "title": "Itinerary & Map",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "7aed34aa-1760-4d6f-8ff3-2be2dc756274": {
+      "type": "background-image-text",
+      "disabled": true,
+      "settings": {
+        "subtitle": "",
+        "title": "",
+        "heading_size": "h1",
+        "heading_position": "center",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify://shop_images/egypt-cairo-map_ab053abb-c115-45fc-8865-308d8ddf3d63.jpg",
+        "layout": "left",
+        "height": 550,
+        "parallax": true,
+        "parallax_direction": "left",
+        "lazyload_images": true
+      }
+    },
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc3": {
+      "type": "testimonials",
+      "blocks": {
+        "7dce2a2f-2ef5-43fc-b9a1-f0bcc76544c9": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The experiences that I had both inside the temples and pyramids were astounding.  Physical energy increases and healings that I experienced on this trip are like non before.”</p>",
+            "author": "Susan P.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“You have to go to Egypt with Gaia because of the special access to Giza without the crowds, it’s a completely different experience to be there alone at sunset when it’s quiet.”</p>",
+            "author": "Dana S.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“An extraordinary and unforgettable tour. Can't sing the praise loud enough so many extras and special days.”</p>",
+            "author": "Daniela S.",
+            "author_info": ""
+          }
+        },
+        "5a6a0c29-9918-45f2-a760-c3d787a8a462": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“Wonderful to not to worry about any type of logistics; I would recommend 100% the tour to everybody”</p>",
+            "author": "Jorge F.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The accommodations in Giza and Luxor exceeded all our expectations! The food was fabulous.”</p>",
+            "author": "Carmen S.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The trip was life changing for me... it was a spiritual calling to be there and the entire experience, people included, was ineffable from start to finish. Life will never be the same for me.”</p>",
+            "author": "James C. ",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "7dce2a2f-2ef5-43fc-b9a1-f0bcc76544c9",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1",
+        "5a6a0c29-9918-45f2-a760-c3d787a8a462",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".testimonial-stars {color: #01b4b4;}"
+      ],
+      "settings": {
+        "title": "Customer Reviews",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "2"
+      }
+    },
+    "6db691b5-0534-45ec-97a0-e4a6c1dcff87": {
+      "type": "columns-1",
+      "blocks": {
+        "b3aeaf69-97a6-4e33-af39-c15ac9f01b04": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/egypt-cairo-map.jpg",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "cf73ead0-1d61-4710-911f-92abbd89cd91": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Itinerary",
+            "heading_size": "h1"
+          }
+        },
+        "ece66265-849f-4144-a570-dd9d83ba0e5f": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "What You'll See",
+            "heading_size": "h3"
+          }
+        },
+        "57393d7c-eaea-43e6-934b-e35643791451": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": true,
+            "title": "Day 1: ARRIVAL IN LIMA - MAY 24, 2025",
+            "text": "<p>OVERNIGHT IN LIMA MIRAFLORES AT WYNDHAM HOTEL DAZZLER</p>",
+            "image": "shopify://shop_images/Lima_Daina.heic",
+            "dropdown_text": "",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "46f98c92-e505-4141-a9a0-fa35c3e1337c": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": true,
+            "title": "Day 2: FLY OVER THE NAZCA LINES - MAY 25, 2025",
+            "text": "<ul><li>DRIVE TO ICA </li><li>FLY OVER THE NAZCA LINES </li><li>OVERNIGHT IN ICA - LAS DUNAS HOTEL</li></ul>",
+            "image": "shopify://shop_images/Peru-Tour-Nazca-Lines.jpg",
+            "dropdown_text": "",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "af9886df-0842-456c-a4da-f86a8fae9128": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": true,
+            "title": "Day 3: SPECIAL VISIT TO SEE THE NAZCA MUMMIES - MAY 26, 2025",
+            "text": "<ul><li>SPECIAL PRIVATE VISIT TO THE NAZCA MUMMIES.</li><li>VISIT THE HUACACHINA</li><li>DRIVE TO LIMA OVERNIGHT AT WYNDHAM LIMA AIRPORT HOTEL</li></ul>",
+            "image": "shopify://shop_images/4_Maria_For_Itinerary_Mummie_visit_section.png",
+            "dropdown_text": "",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "b3aeaf69-97a6-4e33-af39-c15ac9f01b04",
+        "cf73ead0-1d61-4710-911f-92abbd89cd91",
+        "ece66265-849f-4144-a570-dd9d83ba0e5f",
+        "57393d7c-eaea-43e6-934b-e35643791451",
+        "46f98c92-e505-4141-a9a0-fa35c3e1337c",
+        "af9886df-0842-456c-a4da-f86a8fae9128"
+      ],
+      "disabled": true,
+      "settings": {
+        "narrow_column": false,
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_JPgmwm": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/hosts2.png",
+        "image_mask": "portrait",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Hosts",
+        "heading_size": "h1",
+        "text": "<p><strong>HH Pujya Swami Chidanand Saraswati </strong>(Pujya Swamiji) is the President of Parmarth Niketan Ashram, Rishikesh, one of the largest interfaith spiritual institutions in India, located on the banks of the National River Ganga, in the lap of the Himalayas. He is co-founder/co-chairman of the Global Interfaith WASH Alliance (GIWA), which was launched at UNICEF headquarters as the world’s first initiative to bring together the leaders of all the world’s faiths to enable a water-secure future where all may access safe and healthy water, sanitation and hygiene (WASH). Pujya Swamiji is also Founder of Ganga Action Parivar, which is leading the way towards saving the Ganges River–one of the world’s most threatened rivers– which is depended on by over 500 million people. In addition, he is Founder of Divine Shakti Foundation and Interfaith Humanitarian Network, which are international, non-profit institutions dedicated to education, women’s upliftment, health care, rural development, relief services and other humanitarian projects. Pujya Swamiji’s religion is unity, and he is a leader in numerous international, interfaith summits and parliaments as well as guides and directs multifaceted and innovative solutions to address some of our world’s greatest challenges and threats to the environment</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_d3NJjG": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/hosts.png",
+        "image_mask": "portrait",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Hosts",
+        "heading_size": "h1",
+        "text": "<p><strong>Sadhvi Bhagawati Saraswati, PhD</strong> is a spiritual leader, motivational speaker, author and social activist, based at Parmarth Niketan, Rishikesh, Himalayas, India. She is President of Divine Shakti Foundation, bringing education and empowerment to women and children. She is Secretary-General of Global Interfaith WASH Alliance, the first alliance of religious leaders for Water, Sanitation and Hygiene, and Director of the world-famous International Yoga Festival. She has received numerous awards for her humanitarian work including the Lifetime Achievement Award by U.S. President Joe Biden. She is also the author of #1 bestselling memoir, Hollywood to the Himalayas: A Journey of Healing and Transformation. Originally from Los Angeles, and a graduate of Stanford University, Sadhviji has lived at Parmarth Niketan for more than 26 years, where she gives spiritual discourses, satsang and meditation, leads myriad humanitarian programs and serves as a unique female voice of spiritual leadership throughout India and the world.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_zGGckh": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Screenshot_2024-10-24_at_11.57.27_AM.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Presenters",
+        "heading_size": "h1",
+        "text": "<p>The International Yoga Festival is honoured to host some of the greatest Yoga Masters from the Eastern and Western lineages of Yoga. These individuals have influenced and defined Yoga in the 21st century. Come join us for a rare opportunity to learn and experience first hand from India’s leading spirtual leaders and take your Yoga practise further with some of the world’s most renowned teachers.</p><p>The renowned presenters at IYF bring not only the best of strength and flexibility through asana, but they also bring the depth and breadth of yogic philosophy and spiritual wisdom for true alignment of body, mind, heart, spirit and connection of the self to the Divine!<br/><br/></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "66",
+        "layout": "center_bottom",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_6wTegr": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Screenshot_2024-10-24_at_12.56.30_PM.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Artists & Musicians",
+        "heading_size": "h1",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "66",
+        "layout": "center_bottom",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_9Ditee": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Screenshot_2024-06-03_at_9.41.56_AM.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "heading_size": "h1",
+        "text": "<h3><strong>Hanaa Abd Elkhaleq</strong></h3><p>Graduated from the Faculty of Archaeology at Cairo University, specializing in Egyptian Antiquities. Discovered that working in the field of archaeology is not her passion and would not significantly add to her career growth. Consequently, she pursued a diploma in Tourist Guidance from the Faculty of Tourism and Hotels at Helwan University. She has been working as a tour guide since 2003, gaining extensive experience in the field and thoroughly enjoying the journey.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "color_scheme": "1",
+        "show_wave": true,
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_video_QmQMeK": {
+      "type": "text-and-video",
+      "settings": {
+        "video_url": "https://www.youtube.com/watch?v=L4lzW0fZPk4",
+        "subtitle": "",
+        "title": "Location",
+        "heading_size": "h2",
+        "text": "<p><strong>Parmarth Niketan </strong>is a true, spiritual haven, lying on the holy banks of Mother Ganga, in the lap of the lush Himalayas. It is also the largest ashram in Rishikesh. Parmarth Niketan provides its thousands of pilgrims – who come from all corners of the Earth – with a clean, pure and sacred atmosphere as well as abundant, beautiful gardens. With several hundred rooms, the facilities are a perfect blend of modern amenities and traditional, spiritual simplicity.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "video_width": "50",
+        "layout": "right",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
+    "slideshow_image_6NGjzU": {
+      "type": "slideshow-image",
+      "blocks": {
+        "image_NQQCiA": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify://shop_images/IYF-Light.jpg"
+          }
+        },
+        "image_4f8k8E": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify://shop_images/IYF-Bridge.jpg"
+          }
+        },
+        "image_zantTH": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify://shop_images/IYF-Yoga.jpg"
+          }
+        },
+        "image_hcmmxX": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify://shop_images/IYF-_Open-Arms.jpg"
+          }
+        },
+        "image_jYMF4A": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify://shop_images/IYF-Happy-People.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_NQQCiA",
+        "image_4f8k8E",
+        "image_zantTH",
+        "image_hcmmxX",
+        "image_jYMF4A"
+      ],
+      "settings": {
+        "full_width": false,
+        "style": "dots",
+        "autoplay": true,
+        "autoplay_speed": 6,
+        "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "custom_hikrjb": {
+          "type": "custom",
+          "settings": {
+            "code": "<a id=\"offer\" name=\"offer\" style=\"position: absolute;margin-top: -15rem;\"></a>"
+          }
+        },
+        "5d0eaa37-9ce3-4e70-88fb-648e9f061d06": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "downpay_downpay_form_D776dY": {
+          "type": "shopify://apps/downpay/blocks/downpay-form/da700d84-7ed1-410a-a8b5-5cb99a33758a",
+          "disabled": true,
+          "settings": {
+            "show_border": true,
+            "section_header": "Save your spot",
+            "deposit_option_label": "Non-Refundable Deposit",
+            "show_deposit_amount": true,
+            "full_pay_option_label": "",
+            "show_payment_methods": false,
+            "show_help_text2": "deposit",
+            "deposit_help_text": "You will be charged a non-refundable deposit of $1,000 USD. The remaining balance due will be charged to your account on December 1, 2024.",
+            "show_release_date2": "never",
+            "release_date_text": "",
+            "add_to_cart_button_label": "",
+            "custom_css": ""
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false
+          }
+        },
+        "separator_eeJzNN": {
+          "type": "separator",
+          "settings": {}
+        },
+        "3f696441-480a-4872-a3b8-c275b27bb1c7": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "disabled": true,
+          "settings": {
+            "form_id": "33594",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#ffffff",
+            "links_color": "#1878b9",
+            "errors_color": "#e02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "custom_hikrjb",
+        "5d0eaa37-9ce3-4e70-88fb-648e9f061d06",
+        "price",
+        "separator",
+        "variant_picker",
+        "downpay_downpay_form_D776dY",
+        "inventory_status",
+        "description",
+        "buy_buttons",
+        "separator_eeJzNN",
+        "3f696441-480a-4872-a3b8-c275b27bb1c7",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "custom_css": [
+        ".product-grid__container {padding-top: var(--indexSectionPadding); padding-bottom: var(--indexSectionPadding); margin-top: -40px;}",
+        ".product-block--header {margin: -60px 0 0;}"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": false,
+        "h1_title": false,
+        "hide_media": false,
+        "align_text": "left",
+        "image_position": "left",
+        "image_container_size": "large",
+        "product_image_size": "natural",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "ce45914b-7a52-48d4-9e05-4cf5a5c05566": {
+      "type": "text-columns",
+      "blocks": {
+        "template--21409734426945__ce45914b-7a52-48d4-9e05-4cf5a5c05566-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0295.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--21409734426945__ce45914b-7a52-48d4-9e05-4cf5a5c05566-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0332.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "32a6e963-2a78-4115-84e8-067fd0f81b90": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0474.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "0f5ecf6e-6bb1-4750-b9ef-6d74ace362cb": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0524.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "ce1ea62c-7a37-47f6-9c8d-b726960b8da2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0424.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "19dfce67-12b7-4372-bc97-025f614e7184": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0540.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "0ef2cdf0-19c1-4546-b207-33ea6a75f078": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0582.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "2f47a106-59f6-4814-9631-6ae15e721253": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0592.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "66ab4d68-7f4f-494d-9adb-09cbc660cb5f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0631.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "978a8d75-ae3c-4301-bdd0-ef58bd7c264b": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0639.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "9dc8ec66-9f2b-4b32-b504-580202f76244": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0611.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "bf833179-5973-4834-907c-3807c4e6f43f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0666.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "69602440-d990-4384-bdd3-5852a0bafb0d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0673.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "b446b4be-06e4-46d0-950c-b2d454075a5e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0707.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "9d9acacd-e2de-4370-a192-28684f7d68ca": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0947.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "02c6f28e-50a0-474f-b63c-daaf10287a41": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A1026.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "31b13caf-a917-4abe-88c8-9577eeb1478c": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0822.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "cb72d020-a665-4279-bb7f-439783a2c658": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A1073.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "2f4b50e8-b4ab-483c-81bc-3998e8cf802b": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A1089.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "169ab764-8651-46b0-a348-133c301f544a": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A1178_8939a70c-e7d2-4298-a894-cd8f40373506.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21409734426945__ce45914b-7a52-48d4-9e05-4cf5a5c05566-text_block-1",
+        "template--21409734426945__ce45914b-7a52-48d4-9e05-4cf5a5c05566-text_block-2",
+        "32a6e963-2a78-4115-84e8-067fd0f81b90",
+        "0f5ecf6e-6bb1-4750-b9ef-6d74ace362cb",
+        "ce1ea62c-7a37-47f6-9c8d-b726960b8da2",
+        "19dfce67-12b7-4372-bc97-025f614e7184",
+        "0ef2cdf0-19c1-4546-b207-33ea6a75f078",
+        "2f47a106-59f6-4814-9631-6ae15e721253",
+        "66ab4d68-7f4f-494d-9adb-09cbc660cb5f",
+        "978a8d75-ae3c-4301-bdd0-ef58bd7c264b",
+        "9dc8ec66-9f2b-4b32-b504-580202f76244",
+        "bf833179-5973-4834-907c-3807c4e6f43f",
+        "69602440-d990-4384-bdd3-5852a0bafb0d",
+        "b446b4be-06e4-46d0-950c-b2d454075a5e",
+        "9d9acacd-e2de-4370-a192-28684f7d68ca",
+        "02c6f28e-50a0-474f-b63c-daaf10287a41",
+        "31b13caf-a917-4abe-88c8-9577eeb1478c",
+        "cb72d020-a665-4279-bb7f-439783a2c658",
+        "2f4b50e8-b4ab-483c-81bc-3998e8cf802b",
+        "169ab764-8651-46b0-a348-133c301f544a"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Photos from Our Last Trip",
+        "heading_size": "h0",
+        "subtitle": "Photo Credit: Dana Sabre, Gaia Member",
+        "align_text": "center",
+        "grid": 4,
+        "divider": false,
+        "color_scheme": "none"
+      }
+    },
+    "e6fa5fae-029e-48df-a6da-fe4caef08809": {
+      "type": "columns-3",
+      "blocks": {
+        "fc95136e-6654-4876-b0f3-83619982e36b": {
+          "type": "liquid",
+          "settings": {
+            "parent_column": "right",
+            "code": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"63.951\" height=\"63.966\" viewBox=\"0 0 63.951 63.966\" style=\"margin: 0 auto 15px; display: block;\"><path d=\"M62.913,3.375h-18.9a2.223,2.223,0,0,0-1.568.646L4.667,41.8a4.436,4.436,0,0,0,0,6.258L22.657,66.05a4.436,4.436,0,0,0,6.258,0L66.68,28.285a2.223,2.223,0,0,0,.646-1.568V7.8A4.407,4.407,0,0,0,62.913,3.375ZM55.578,20.566a4.919,4.919,0,1,1,4.352-4.352A4.925,4.925,0,0,1,55.578,20.566Z\" transform=\"translate(-3.375 -3.375)\" fill=\"#02b5b4\"/></svg>"
+          }
+        },
+        "template--20197640634689__e6fa5fae-029e-48df-a6da-fe4caef08809-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": false,
+            "text": "<h3>Gaia members save 10%</h3><p>Just for being a Gaia member, you will save 10% when you purchase.</p>"
+          }
+        },
+        "cba03462-9fce-46b7-8667-581fdde037aa": {
+          "type": "liquid",
+          "settings": {
+            "parent_column": "center",
+            "code": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"55.914\" height=\"63.966\" viewBox=\"0 0 55.914 55.914\" style=\"margin: 0 auto 15px; display: block;\"><path d=\"M53.322,3H8.591A5.572,5.572,0,0,0,3,8.591V39.344a5.572,5.572,0,0,0,5.591,5.591H19.774V58.914l11.183-5.591L42.14,58.914V44.935H53.322a5.572,5.572,0,0,0,5.591-5.591V8.591A5.572,5.572,0,0,0,53.322,3Zm0,36.344H8.591V33.752H53.322Zm0-13.978H8.591V8.591H53.322Z\" transform=\"translate(-3 -3)\" fill=\"#02b5b4\"/></svg>"
+          }
+        },
+        "76fa2165-a4cb-4aca-a03b-f6a545f7f60c": {
+          "type": "text",
+          "settings": {
+            "parent_column": "center",
+            "enlarge_text": false,
+            "text": "<h3>Exclusive Andean Tour</h3><p>The Gaia team has hand-curated this one-of-a-kind experience and it's only available through the Gaia Marketplace.</p>"
+          }
+        },
+        "5c1d294c-9915-4022-b460-e1f736bb4135": {
+          "type": "liquid",
+          "settings": {
+            "parent_column": "left",
+            "code": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"87.864\" height=\"63.966\" viewBox=\"0 0 87.864 55.914\" style=\"margin: 0 auto 15px; display: block;\"><path d=\"M61.407,31.463A11.981,11.981,0,1,0,49.426,19.481,11.931,11.931,0,0,0,61.407,31.463Zm-31.951,0A11.981,11.981,0,1,0,17.475,19.481,11.931,11.931,0,0,0,29.457,31.463Zm0,7.988C20.151,39.451,1.5,44.123,1.5,53.429v9.985H57.414V53.429C57.414,44.123,38.762,39.451,29.457,39.451Zm31.951,0c-1.158,0-2.476.08-3.874.2,4.633,3.355,7.868,7.868,7.868,13.779v9.985H89.364V53.429C89.364,44.123,70.713,39.451,61.407,39.451Z\" transform=\"translate(-1.5 -7.5)\" fill=\"#02b5b4\"/></svg>"
+          }
+        },
+        "583c7003-2d98-42fd-bbae-515698196ce0": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<h3>Travel with a like-minded community</h3><p>Because this tour is limited to the Gaia community, you will have the opportunity to embark on this journey with others who share your curiosity and sense of adventure. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "fc95136e-6654-4876-b0f3-83619982e36b",
+        "template--20197640634689__e6fa5fae-029e-48df-a6da-fe4caef08809-text-1",
+        "cba03462-9fce-46b7-8667-581fdde037aa",
+        "76fa2165-a4cb-4aca-a03b-f6a545f7f60c",
+        "5c1d294c-9915-4022-b460-e1f736bb4135",
+        "583c7003-2d98-42fd-bbae-515698196ce0"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Book with Confidence",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "center",
+        "column_center_align_text": "center",
+        "column_right_align_text": "center",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2": {
+      "type": "testimonials",
+      "blocks": {
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“An extraordinary and unforgettable tour. Can't sing the praise loud enough so many extras and special days.”</p>",
+            "author": "Daniela S.",
+            "author_info": ""
+          }
+        },
+        "899314c4-90a9-4ace-b175-23f42f03347c": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The experiences that I had both inside the temples and pyramids were astounding.  Physical energy increases and healings that I experienced on this trip are like none before.”</p>",
+            "author": "Susan P.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“Wonderful to not to worry about any type of logistics; I would recommend 100% the tour to everybody” </p>",
+            "author": "Jorge F.",
+            "author_info": ""
+          }
+        },
+        "30ee8aed-c331-49b8-a501-04a969da42bf": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“You  have to go to Egypt with Gaia because of the special access to Giza without the crowds, it’s a completely different experience to be there alone at sunset when it’s quiet.”</p>",
+            "author": "Dana S.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The accommodations in Giza and Luxor exceeded all our expectations! The food was fabulous.”</p>",
+            "author": "Carmen S.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The trip was life changing for me... it was a spiritual calling to be there and the entire experience, people included, was ineffable from start to finish. Life will never be the same for me.”</p>",
+            "author": "James C. ",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1",
+        "899314c4-90a9-4ace-b175-23f42f03347c",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2",
+        "30ee8aed-c331-49b8-a501-04a969da42bf",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".testimonial-stars {color: #01b4b4;}"
+      ],
+      "settings": {
+        "title": "Customer Reviews",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "2"
+      }
+    },
+    "05a6ccb4-5008-4aea-bd7b-71a71b3b7286": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "What accommodations should I expect?",
+            "text": "<p>During your Peru and Bolivia trip, you can expect tried and tested excellent 4 - 5-star accommodations every night of your trip.</p>"
+          }
+        },
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "What's the difference between Double and Single?",
+            "text": "<p>Single occupancy means you will have your own room for all accommodations during the trip. Double occupancy means you will share a room with someone you plan to share the room with. Double occupancy rooms have two options: a shared bed or a room with two separate beds. </p>"
+          }
+        },
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-4": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "Do I need to have a vaccine to travel to Peru and Bolivia?",
+            "text": "<p>You may need a yellow fever vaccine to enter Bolivia depending on which country you're from. </p><p>Citizens of some countries, including USA, need a yellow fever vaccine<strong> </strong>to enter Bolivia. </p><p>There is also a possibility of obtaining an exemption waiver letter.</p><p>More info: <a href=\"https://www.passporthealthusa.com/vaccinations/yellow-fever/\" target=\"_blank\" title=\"https://www.passporthealthusa.com/vaccinations/yellow-fever/\">https://www.passporthealthusa.com/vaccinations/yellow-fever/<br/><br/></a>You should also monitor current travel requirements, as additional restrictions may arise based on the evolving public health environment.</p>"
+          }
+        },
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-5": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "Do you cater for Vegetarians or Vegans?",
+            "text": "<p>Peru is known for its cuisine and excellent restaurants enjoyed by foodies. The restaurants we will visit will serve a variety of Peruvian, Bolivian and Western dishes with plenty of vegetarian options and some vegan options.</p>"
+          }
+        },
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-7": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "What service can I expect when traveling with Jorge Delgado owner and founder of Kontiki Peru Tours.",
+            "text": "<p>For 30 years Jorge Luis Delgado’s award-winning tour company Kontiki Tours has been leading people on memorable Andean journeys. You can expect a professional team with a high level of experience in the field of tourism and touring.  “We treat our clients with dedication and do our best for them to have unique and memorable experiences in our country. With Kontiki Tours you will have security, confidence and personalized attention, with guarantees that you, our clients deserve. We base our services in Munay, Llancay and Yachay (service, love and wisdom) as our ancient fathers based their lives.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-1",
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-3",
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-4",
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-5",
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-7"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "FAQ's",
+        "heading_size": "h1",
+        "heading_position": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
+    "text_columns_RYYjaT": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_rmU4yR": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/LC-Mercantile-Hotel-At-Night.png",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "McCloud Mercantile Hotel",
+            "heading_size": "h2",
+            "text": "<p>The hotel’s rooms are book blocked for our group, however, you can ONLY BOOK BY PHONE OR EMAIL<br/><br/><strong>Please contact Darlene<br/>+1-530-859 2634<br/></strong><a href=\"mailto:info@mccloudmercantile.com\">info@mccloudmercantile.com</a><br/><br/>It is not possible to book rooms on the hotel website for our event days.</p>",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": "https://mccloudhotel.com/"
+          }
+        },
+        "text_block_p6txag": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/recolor.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "McCloud Hotel",
+            "heading_size": "h2",
+            "text": "<p>Historic Ambiance and Modern Conveniences</p>",
+            "align_text": "center",
+            "button_label": "See More",
+            "button_link": "https://mccloudhotel.com/"
+          }
+        },
+        "text_block_MwK8Rb": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/airbnb-2-logo-png-transparent.png",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "Airbnbs in McCloud or Shasta",
+            "heading_size": "h2",
+            "text": "<p>Reserve your own Airbnb in McCloud or Shasta</p>",
+            "align_text": "center",
+            "button_label": "See More",
+            "button_link": "https://www.airbnb.com/s/McCloud--CA--United-States/homes?refinement_paths%5B%5D=%2Fhomes&query=McCloud%2C%20CA%2C%20United%20States&place_id=ChIJb47FgOAszFQR08FSa_-NZSI&allow_override%5B%5D=&s_tag=UqniT3Hl"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_rmU4yR",
+        "text_block_p6txag",
+        "text_block_MwK8Rb"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "The Venue",
+        "heading_size": "h2",
+        "subtitle": "",
+        "align_text": "center",
+        "grid": 3,
+        "divider": false,
+        "color_scheme": "none"
+      }
+    },
+    "faq_8X7aCm": {
+      "type": "faq",
+      "blocks": {
+        "question_mBCepC": {
+          "type": "question",
+          "settings": {
+            "title": "Where is IYF held?",
+            "text": "<p>The International Yoga Festival is held at Parmarth Niketan Ashram in Rishikesh, Uttarakhand, India. To learn more about Parmarth and how to get there,<a href=\"https://internationalyogafestival.org/location/\" target=\"_blank\">click here</a>. Please note: IYF’s venue is ONLY at Parmarth Niketan, not at any other locations throughout Rishikesh.</p>"
+          }
+        },
+        "question_EtXtq6": {
+          "type": "question",
+          "settings": {
+            "title": "Will I need to show proof of a negative COVID test?",
+            "text": "<p>There are currently no COVID protocols in place at the ashram.</p>"
+          }
+        },
+        "question_D7Jdig": {
+          "type": "question",
+          "settings": {
+            "title": "What styles of yoga will be taught at IYF?",
+            "text": "<p>Every year we have more than 70+ hours of yoga classes, taught by renowned teachers from around the world practicing multiple styles of Yoga including Kundalini Yoga, Vinyasa Yoga, Iyengar Yoga and Hatha Yoga.  <em>To see the full list of IYF 2025’s presenters,</em> <a href=\"https://internationalyogafestival.org/presenters/\" target=\"_blank\">click here.</a></p>"
+          }
+        },
+        "question_Jnz4KK": {
+          "type": "question",
+          "settings": {
+            "title": "When will the schedule be released?",
+            "text": "<p>We’re sure you can appreciate that with the large number of teachers, classes and days that we need to coordinate, it isn’t always possible to confirm an exact date when a schedule will be released. However, it will be shortly before the Festival opens. Look for updates on website and social media.</p><p>List of presenters and schedule is subject to change at short notice.</p>"
+          }
+        },
+        "question_XbDFcA": {
+          "type": "question",
+          "settings": {
+            "title": "Do I need to attend every class?",
+            "text": "<p>While we encourage you to participate fully in the Festival, attendance is optional.</p>"
+          }
+        },
+        "question_GjTrHT": {
+          "type": "question",
+          "settings": {
+            "title": "What is included with my ticket?",
+            "text": "<p>All registration options include meals, hot drinks, classes, lectures and performances. In an effort to keep our waste to a minimum, please bring a reusable water bottle. We have filtered water machines throughout the Ashram at no charge.</p>"
+          }
+        },
+        "question_HbE6bY": {
+          "type": "question",
+          "settings": {
+            "title": "How do I become a country ambassador?",
+            "text": "<p>The first person to register from each country will become a country ambassador.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_mBCepC",
+        "question_EtXtq6",
+        "question_D7Jdig",
+        "question_Jnz4KK",
+        "question_XbDFcA",
+        "question_GjTrHT",
+        "question_HbE6bY"
+      ],
+      "settings": {
+        "narrow_column": true,
+        "title": "FAQs",
+        "heading_size": "h2",
+        "heading_position": "left"
+      }
+    },
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0": {
+      "type": "columns-1",
+      "blocks": {
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Exclusions",
+            "text": "",
+            "dropdown_text": "<p>*Airfare & transfers</p>",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "What to Bring",
+            "text": "",
+            "dropdown_text": "<p><strong>IMPORTANT: </strong>We will have a Breathflow Session during the second and third days of the retreat.<br/><strong>Please bring a YOGA MAT </strong>as you will be lying down. Also bring a <strong>small pillow </strong>or <strong>folded towel </strong>to support your head.</p>",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "88fe273d-dad8-4fcb-8e72-e298aeffea83": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Cancellation, Refunds & Transfers",
+            "text": "",
+            "dropdown_text": "<p>Before 1 Jan 2025, full refund less $75 processing fee.<br/><br/>After 1 Jan 2025, 50% refund until 8 Feb. <br/><br/>After 8 Feb, NO REFUNDS.<br/><br/>You can transfer your ticket to another person, at no charge, before February 8, 2025. Ticket transfers are not possible after this date. Transfer requests should be made in writing by the original purchaser to info@internationalyogafestival.com with full details of the person.<br/></p><h4></h4>",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "8fef7e85-3dbd-4573-b556-4afbf969813d": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "Terms & Conditions",
+            "text": "",
+            "dropdown_text": "<p>All fees are per person / per registration. We cannot modify / discount residential packages for partial stay or participation for any reason. Accommodation and meals before and after the festival are additional. There is no guarantee of room type / preference at any point, however we will do our best to accommodate all requests. By purchasing your IYF ticket and collecting your wristband from our Registration Desk, you accept the following Terms & Conditions: Parmarth Niketan and it’s representatives shall be not held liable for any injury, damage, loss, delay or irregularity that may be occasioned for any reason by guests attending IYF, including but not limited to: death, personal injury, illness, delay or cancellation of scheduled performances and loss of or damage to personal property. Your wristband must be worn to gain entry & re-entry to venues and performances. Any wristbands removed or damaged will be consider null and void and will not be replaced. Parmarth Niketan has the right to prohibit anyone without a wristband from gaining access to any of the festival venues. All participants grant the International Yoga Festival & Parmarth Niketan the rights to utilise the participant’s image, likeness, actions and statements in any live or recorded audio, video, film, or photographic display or other transmission, exhibition, publication or reproduction made of, or at, the Event in any medium or context for any purpose, including commercial or promotional purposes, without further authorisation or compensation.</p>",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "Changes",
+            "text": "",
+            "dropdown_text": "<p>This Itinerary is subject to changes to adapt to possible alterations in domestic flight times or other unforeseen circumstances. The content will remain the same, barring any unanticipated complications, and will include many delightful “extras” and surprises.</p>",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "36d254e6-c118-4eb9-868e-c7838412525e": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "Insurance",
+            "text": "",
+            "dropdown_text": "<p>We really highly seriously  recommend that all participants obtain travel insurance. Travel Insured International ( and other travel insurance companies) offers insurance for trip cost, trip cancellation & interruption, and pays for loss due to unforeseen circumstance, death, injury, or illness to you or a member of your family. It also includes coverage for missed connections due to weather, and pays for lost deposits due to the financial default of the airline, the tour operator, or cruise line. It pays for baggage delays, travel delays, medical expenses and emergency assistance.</p>",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "button_GkTfbb": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Register Now",
+            "link_entitled": "",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d",
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281",
+        "88fe273d-dad8-4fcb-8e72-e298aeffea83",
+        "8fef7e85-3dbd-4573-b556-4afbf969813d",
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07",
+        "36d254e6-c118-4eb9-868e-c7838412525e",
+        "button_GkTfbb"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "Things to Know",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "left",
+        "column_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "927a5fbd-9afa-4cc7-adea-fe0ab118ead0": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20197640634689__927a5fbd-9afa-4cc7-adea-fe0ab118ead0-hero-2": {
+          "type": "hero",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "Gaia Exclusive \nPre-Diluvian Egypt Tour",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/3JrZnwP8C8_4522fd15-d82a-4f39-bded-3d998aea3e40.jpg",
+            "overlay_opacity": 50
+          }
+        },
+        "d3ffef74-d615-4ac2-afea-12aec6607ff7": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Gaia Exclusive \nPre-Diluvian Egypt Tour",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/cairo-1200x800.jpg",
+            "overlay_opacity": 50
+          }
+        },
+        "d8d4958c-b42f-4913-9be9-2e5f382fdd57": {
+          "type": "hero",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "Gaia Exclusive \nPre-Diluvian Egypt Tour",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/egypt-tour-bg-3-desktop.jpg",
+            "overlay_opacity": 50
+          }
+        },
+        "deba10be-d7e0-4007-be86-86350443e5d0": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Gaia Exclusive \nPre-Diluvian Egypt Tour",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/ldjNflmUKF_e626b68d-5854-4743-8303-f493b42c78c5.jpg",
+            "overlay_opacity": 50
+          }
+        },
+        "948951c4-d3cd-4923-807c-17cbc9f7edb6": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Gaia Exclusive \nPre-Diluvian Egypt Tour",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/03dHa7KS51_3188c4e0-a2c6-49bb-9131-cfa7c00b69da.jpg",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--20197640634689__927a5fbd-9afa-4cc7-adea-fe0ab118ead0-hero-2",
+        "d3ffef74-d615-4ac2-afea-12aec6607ff7",
+        "d8d4958c-b42f-4913-9be9-2e5f382fdd57",
+        "deba10be-d7e0-4007-be86-86350443e5d0",
+        "948951c4-d3cd-4923-807c-17cbc9f7edb6"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "desktop_size": -40,
+        "mobile_size": 0,
+        "style": "dots",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "slideshow_emL8WA",
+    "rich_text_Gcwtmz",
+    "featured_video_fYbzcz",
+    "061b0d20-e98a-47d8-9f35-f44f31d51acc",
+    "85e20baa-20e7-4e15-961d-dc2232ca0e16",
+    "e050c6d5-44c1-45b8-88c2-e0650f6f4b08",
+    "7aed34aa-1760-4d6f-8ff3-2be2dc756274",
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc3",
+    "6db691b5-0534-45ec-97a0-e4a6c1dcff87",
+    "text_and_image_JPgmwm",
+    "text_and_image_d3NJjG",
+    "text_and_image_zGGckh",
+    "text_and_image_6wTegr",
+    "text_and_image_9Ditee",
+    "text_and_video_QmQMeK",
+    "slideshow_image_6NGjzU",
+    "main",
+    "ce45914b-7a52-48d4-9e05-4cf5a5c05566",
+    "e6fa5fae-029e-48df-a6da-fe4caef08809",
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2",
+    "05a6ccb4-5008-4aea-bd7b-71a71b3b7286",
+    "text_columns_RYYjaT",
+    "faq_8X7aCm",
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0",
+    "927a5fbd-9afa-4cc7-adea-fe0ab118ead0"
+  ]
+}

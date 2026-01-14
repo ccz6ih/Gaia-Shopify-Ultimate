@@ -1,0 +1,104 @@
+<div class="metafields-faq-product-info-parent">
+    <div class="metafields-faq-product-info-holder">
+       
+    {% if product.metafields.t-t-know.title != blank %}
+        <h2 class="FaqTitleMetaInfo">
+            {{product.metafields.t-t-know.title}}
+        </h2>
+    {% endif %}
+    
+    {% comment %}
+    {% if product.metafields.thing-to-know-.full-cap != blank %}
+        <div class=" fullCapacity-modules fulCap-Desktop">
+            {{ product.metafields.thing-to-know-.full-cap }}
+            
+        </div>
+    {% endif %}
+ 
+ {% if product.metafields.thing-to-know-m.full-cap != blank %}
+    <div class=" fullCapacity-modules fulCap-Mobile">
+        {{product.metafields.thing-to-know-m.full-cap}}
+    </div>
+{% endif %}
+
+ {% endcomment %}
+
+<div class="metafields-faq-product-info-el">
+    <ul class="FaqTypeList">
+    {% for faqTypeT in product.metafields.things-to-know-type.key %}
+     <li class="faqInfoAccordion thingss">
+        {%if faqTypeT != blank %}
+        <div class="Faq-type-question-info fullCapacity-modules fulCap-Desktop
+        ">{{ faqTypeT }} <span class="plusSignOpenFAQ">+</span></div>
+        {% endif %}
+     
+         {% if product.metafields.faq-answer-type.key[forloop.index0] != blank %}
+        <p class="InfoOfTheAccordion">{{product.metafields.faq-answer-type.key[forloop.index0]}}</p>
+        {%endif %} 
+      
+     </li>  
+    {% endfor %} 
+    </ul>
+</div>
+
+        {% comment %} <div class="metafields-faq-product-info-el">
+            <ul class="FaqTypeList">
+            {% for faqType in product.metafields.things-to-know-type.key %}
+             <li class="faqInfoAccordion thingss">
+                <h4 class="Faq-type-question-info
+                ">{{ faqType }} <span class="plusSignOpenFAQ">+</span></h4>
+                {% if  product.metafields.things-to-know-answer-type.key[forloop.index0] != blank %}
+                <p class="InfoOfTheAccordion">{{product.metafields.things-to-know-answer-type.key[forloop.index0]}}</p>
+                {% endif %}
+                {% if product.metafields.thing-t-b.key[forloop.index0] != blank %}
+                    <div class="all-type-f">
+                    {{ product.metafields.thing-t-b.key[forloop.index0] }}    
+                    </div>
+                    {% endif %}
+             </li>  
+            {% endfor %} 
+            </ul>
+        </div> {% endcomment %}
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+<style>
+    .showExpandedInfoFaq{
+        display:block !important;
+    }
+    .transformRotatePlus{
+        transform: rotate(315deg);
+    }
+</style>
+<script>
+    $(".thingss").click(function(){
+$(this).children(".InfoOfTheAccordion").toggleClass("showExpandedInfoFaq");
+$(this).children(".all-type-f").toggleClass("showExpandedInfoFaq");
+
+$(this).children(".Faq-type-question-info").children(".plusSignOpenFAQ").toggleClass("transformRotatePlus");
+    });
+</script>
+
+{% schema %}
+    {
+      "name": "Things To Know Metafields",
+      "class": "book-with-confidence",
+      "settings": [
+
+      
+       {
+          "type": "text",
+          "id": "title",
+          "label": "Book With Confidence Section title",
+          "default": "Book With Confidence"
+        }
+       
+      ],
+      "presets": [
+        {
+            "name": "Things To Know Metafields",
+            "category": "Product Page Widgets"
+        }
+      ]
+    } 
+  {% endschema %}  

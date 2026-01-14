@@ -1,0 +1,201 @@
+<div class="guide-meta-block-parent">
+    <div class="guide-meta-block-holder">
+        {% if product.metafields.primary-title.key != blank %}
+        <h2 class="title-book-with-confidence blockTitleOfWidgets">{{ product.metafields.primary-title.key }}</h2>
+        {% endif %}
+        {% if product.metafields.guide-image.key != blank %}
+        <div class="guide-meta-block-el">
+            {% for guide in product.metafields.guide-image.key %}
+                <div class="guideBlockHolder">
+                    <div class="guideImageHolder">
+                        <img src="{{guide}}" class="guideImageProfile" alt="{{guide.alt}}"/>
+                    </div>
+                    <div class="guideInfoTextHolder primaryGuideInfo">
+                        <h3 class="GuideNameInfoHolder">{{product.metafields.guide-name.key[forloop.index0]}}</h3>
+
+                        {% if product.metafields.short-info-pr.guide != blank  %}
+                            <p class="GuideNameInfoElement shortInfoType">{{product.metafields.short-info-pr.guide}}
+                                <span class="rdMore-expand">Read More</span>
+                            </p>
+                        {% endif %} 
+                        <p class="GuideNameInfoElement LongInfoType">
+                           
+                        {{product.metafields.guide-info.key[forloop.index0] |  newline_to_br}}
+                            
+                        <span class="rdLess-expand">Read Less</span></p>
+                    </div>
+                </div>
+            {% endfor %} 
+        </div>
+        {% endif %}
+             
+
+        {% comment %}
+            {% if product.metafields.ful-cap-guide-.title-key != blank %}
+                <div class="fullCapacity-modules fulCap-Desktop">
+                    {{ product.metafields.ful-cap-guide-.title-key }}
+              </div>
+                {% endif %}
+
+            {% if product.metafields.ful-cap-guide-m.title-key != blank %}
+                <div class="fullCapacity-modules fulCap-Mobile">
+                    {{product.metafields.ful-cap-guide-m.title-key}}
+              </div>
+                {% endif %}
+{% endcomment %}
+        {% if product.metafields.non-cu-key-title-guides.key != blank %}
+            <h2 class="guides-main-title">{{ product.metafields.non-cu-key-title-guides.key }} </h2>
+        {% endif %}
+        <div class="guide-meta-block-el secAvailable-mobile-expand secondary-available-for-expand">
+            {% assign count = 0 %}
+
+            {% for guideSecond in product.metafields.guide-image-second.key %}
+                {% assign count = count | plus: 1 %}
+
+                <div class="guideBlockHolder {% if count > 1 %} hide-next {% endif %}">
+                    <div class="guideImageHolder">
+                        <img src="{{guideSecond}}" class="guideImageProfile" alt="{{guideSecond.alt}}"/>
+                    </div>
+                    <div class="guideInfoTextHolder secondGuide">
+                        {% if product.metafields.section-non-customisable-.title != blank  %}
+                        <h4 class="guideName-property-for-guide">{{product.metafields.section-non-customisable-.title}}</h4>
+                        {% endif %}
+                        {% comment %}
+                        {% if product.metafields.gide-ful-name.cap-key[forloop.index0] != blank %}
+                            <div class="fullCapacity-modules fulCap-Desktop">
+                                {{product.metafields.gide-ful-name.cap-key[forloop.index0] }}
+                          </div>
+                            {% endif %}
+            
+                        {% if product.metafields.gide-ful-name-m.cap-key[forloop.index0] != blank %}
+                            <div class="fullCapacity-modules fulCap-Mobile">
+                                {{product.metafields.gide-ful-name-m.cap-key[forloop.index0]}}
+                          </div>
+                            {% endif %}
+                        {% endcomment %}
+
+                    {% comment %} Desktop {% endcomment %}
+                        {% if product.metafields.short-info-cap.full[forloop.index0] != blank %}
+                            <div class="GuideNameInfoElement shortInfoType shrtInfo divFullCapacity fullCapacity-modules fulCap-Desktop">
+                                {{product.metafields.short-info-cap.full[forloop.index0]}}
+                                <span class="rdMore-expandsupport">Read More</span>
+                            </div>
+                        {% endif %}
+            {% comment %} Mobile {% endcomment %}
+                        {% if product.metafields.short-info-cap-m.full[forloop.index0] != blank %}
+                            <div class="GuideNameInfoElement shortInfoType shrtInfo divFullCapacity fullCapacity-modules fulCap-Mobile">
+                                {{product.metafields.short-info-cap-m.full[forloop.index0]}}
+                                <span class="rdMore-expandsupport">Read More</span>
+                            </div>
+                        {% endif %} 
+
+               
+ {% comment %} Desktop {% endcomment %}
+                        {% if product.metafields.long-info-full-capacity.key[forloop.index0] != blank %}
+                            <div class="GuideNameInfoElement LongInfoType divFullCapacity fullCapacity-modules fulCap-Desktop">
+                                {{product.metafields.long-info-full-capacity.key[forloop.index0]}}
+                                <span class="rdMore-expandsupport fullCapacityHide">Read Less</span>
+                            </div>
+                        {% endif %}
+     {% comment %} Mobile {% endcomment %}
+                        {% if product.metafields.long-info-full-guide.key[forloop.index0] %}
+                            <div class="GuideNameInfoElement LongInfoType divFullCapacity fullCapacity-modules fulCap-Mobile">
+                                {{product.metafields.long-info-full-guide.key[forloop.index0]}}
+                                <span class="rdMore-expandsupport fullCapacityHide">Read Less</span>
+                            </div>
+                        {% endif %}
+
+                     
+                        
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+        <p class="inputButtonExpand-view-more-People">
+            <span class="vwMore-in">View More</span>
+            <span class="reverseTheArrowTop">
+<svg class="" xmlns="http://www.w3.org/2000/svg" width="12" height="8" viewBox="0 0 12 8" fill="none">
+  <path d="M11.7391 0.819396C11.5786 0.658861 11.3779 0.578593 11.1371 0.578593C10.8963 0.578593 10.6957 0.658861 10.5351 0.819396L6 5.35451L1.46488 0.819396C1.30435 0.658861 1.10368 0.578593 0.862876 0.578593C0.622074 0.578593 0.421405 0.658861 0.26087 0.819396C0.0869565 0.993309 0 1.19732 0 1.43144C0 1.66555 0.0869565 1.86287 0.26087 2.02341L5.39799 7.16053C5.47826 7.25418 5.57191 7.32107 5.67893 7.3612C5.78595 7.40134 5.89298 7.4214 6 7.4214C6.10702 7.4214 6.21405 7.40134 6.32107 7.3612C6.42809 7.32107 6.52174 7.25418 6.60201 7.16053L11.7391 2.02341C11.913 1.86287 12 1.66555 12 1.43144C12 1.19732 11.913 0.993309 11.7391 0.819396Z" fill="#26B4B2"/>
+</svg>
+            </span>
+        </p>
+    </div>
+</div>
+<style>
+    .showLongVersion{
+        display: block !important;
+    }
+    .hideLongVersion{
+        display: none;
+    }
+    .guideBlockHolder.hide-next.secAvailable-mobile-expand {
+    display: block;
+}
+</style>
+<script>
+$(".inputButtonExpand-view-more-People").click(function() {
+    // Toggle the class
+    $(".secAvailable-mobile-expand").toggleClass("secondary-available-for-expand");
+    $(".secondaryTitle-m ").toggleClass("secondary-available-for-expand");
+    $(".reverseTheArrowTop").toggleClass("svgArrowReverseTop");
+    $(".guideBlockHolder").toggleClass("secAvailable-mobile-expand");
+    // Change the button text
+    if ($(".vwMore-in").text().trim() === "View More") {
+        $(".vwMore-in").text("View Less");
+    
+    } else {
+        $(".vwMore-in").text("View More");
+    }
+});
+
+$(".rdMore-expand").click(function(){
+$(".primaryGuideInfo").children(".shortInfoType").addClass("hideLongVersion");
+$(".primaryGuideInfo").children(".LongInfoType").addClass("showLongVersion");
+});
+
+$(".rdLess-expand").click(function(){
+$(".primaryGuideInfo").children(".shortInfoType").removeClass("hideLongVersion");
+$(".primaryGuideInfo").children(".LongInfoType").removeClass("showLongVersion");
+});
+
+// Short Supporting Guides
+$(".rdMore-expandsupport").click(function(){
+$(this).closest(".shortInfoType").addClass("hideLongVersion");
+$(this).closest(".secondGuide").children(".LongInfoType").addClass("showLongVersion");
+});
+
+$(".rdLess-expandsupport").click(function(){
+    $(this).closest(".secondGuide").children(".shortInfoType").removeClass("hideLongVersion");
+    $(this).closest(".secondGuide").children(".LongInfoType").removeClass("showLongVersion");
+    $(this).closest(".secondGuide").children(".GuideNameInfoElement").removeClass("showLongVersion");
+});
+
+$(".fullCapacityHide").click(function(){
+    $(this).closest(".secondGuide").children(".shortInfoType").removeClass("hideLongVersion");
+    $(this).closest(".secondGuide").children(".GuideNameInfoElement").removeClass("showLongVersion");
+})
+</script>
+
+{% schema %}
+    {
+      "name": "Guide Metafields Block",
+      "class": "book-with-confidence",
+      "settings": [
+
+      
+       {
+          "type": "text",
+          "id": "title",
+          "label": "Book With Confidence Section title",
+          "default": "Book With Confidence"
+        }
+       
+      ],
+      "presets": [
+        {
+        "name": "Guide Metafields Block",
+
+        }
+      ]
+    } 
+  {% endschema %}  

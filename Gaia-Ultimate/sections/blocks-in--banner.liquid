@@ -1,0 +1,100 @@
+
+<div class="blocks-below-banner-parent">
+    <div class="blocks-below-banner-holder {% if section.settings.check-in-middle == true %} padding-on-mobile {% endif %}" style="background: linear-gradient(90deg, #01B4B4 0%, #7C4490 100%);">
+<div class="blocks-bellow-banner-el {% if section.settings.check-in-middle == true %} text-align-middle {% endif %}"  >
+          {% if section.settings.title  != blank %}
+            <h3 class="blocks-in-block-title-banners">{{section.settings.title}} 
+              <span>
+                {% if customer %}
+                  <a class="trigger-in-title-of-blocks" href="{{section.settings.btn-link-c}}">{{section.settings.btn-text-c}}</a>
+
+                  {%else %}
+              <a class="trigger-in-title-of-blocks" href="{{section.settings.btn-link}}">{{section.settings.btn-text}}</a>
+                {% endif  %}
+              </span></h3> 
+            {% else %}
+          
+            {% for block in section.blocks %}
+                {% if block.settings.body-text != blank %}
+                <div class="block-element-in-blocks">
+                    <div class="tick-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none">
+                        <path d="M11.69 5.80001C11.8055 5.91936 11.87 6.07893 11.87 6.24501C11.87 6.41108 11.8055 6.57065 11.69 6.69001L7.31 11.06C7.25308 11.1193 7.18476 11.1665 7.10915 11.1987C7.03354 11.2309 6.95219 11.2475 6.87 11.2475C6.78781 11.2475 6.70647 11.2309 6.63086 11.1987C6.55525 11.1665 6.48693 11.1193 6.43 11.06L4.55 9.19001C4.44085 9.07025 4.38204 8.91304 4.38579 8.75104C4.38954 8.58904 4.45556 8.43472 4.57014 8.32014C4.68472 8.20557 4.83904 8.13954 5.00104 8.13579C5.16303 8.13204 5.32025 8.19085 5.44 8.30001L6.87 9.74001L10.8 5.80001C10.9194 5.68453 11.0789 5.61998 11.245 5.61998C11.4111 5.61998 11.5706 5.68453 11.69 5.80001ZM16.24 8.12001C16.24 9.72599 15.7638 11.2959 14.8715 12.6312C13.9793 13.9666 12.7111 15.0073 11.2274 15.6219C9.74366 16.2365 8.111 16.3973 6.53587 16.084C4.96074 15.7707 3.5139 14.9973 2.3783 13.8617C1.24269 12.7261 0.469339 11.2793 0.156027 9.70414C-0.157285 8.12901 0.00351816 6.49635 0.618102 5.01262C1.23269 3.52888 2.27345 2.26071 3.60877 1.36847C4.9441 0.476236 6.51402 6.17341e-06 8.12 6.17341e-06C9.18671 -0.00130993 10.2432 0.207822 11.2289 0.615424C12.2147 1.02303 13.1104 1.62109 13.8646 2.37536C14.6189 3.12964 15.217 4.0253 15.6246 5.01106C16.0322 5.99682 16.2413 7.0533 16.24 8.12001ZM15 8.12001C15 6.75927 14.5965 5.42909 13.8405 4.29768C13.0845 3.16627 12.01 2.28445 10.7529 1.76371C9.49571 1.24298 8.11237 1.10674 6.77778 1.3722C5.44319 1.63767 4.21729 2.29293 3.25511 3.25511C2.29292 4.2173 1.63767 5.4432 1.3722 6.77778C1.10673 8.11237 1.24298 9.49571 1.76371 10.7529C2.28444 12.01 3.16627 13.0845 4.29768 13.8405C5.42909 14.5965 6.75927 15 8.12 15C9.94469 15 11.6946 14.2752 12.9849 12.9849C14.2751 11.6947 15 9.9447 15 8.12001Z" fill="white"/>
+                      </svg>
+                    </div>
+                    <div class="text-prop-of-body">
+                        {{block.settings.body-text}}
+                    </div>
+                </div>
+                {% endif %}
+            {% endfor %}
+           
+          {% endif %}
+        </div>
+    </div> 
+</div> 
+{% schema %}
+    {
+      "name": "Blocks Below Banner",
+      "class": "blocks-below-banner",
+      "settings": [
+    
+      {
+          "type": "richtext",
+          "id": "title",
+          "label": "Title Intro"
+
+        },
+        {
+      "type": "checkbox",
+      "id": "check-in-middle",
+      "label": "Show Text In Middle ( use if there are no section blocks )",
+      "default": false
+    },
+        {
+          "type": "text",
+          "id": "btn-text",
+          "label": "Button Text",
+          "default": "Learn More"
+        },
+        {
+            "type": "url",
+            "id": "btn-link",
+            "label": "Button link"
+        } ,
+        {
+          "type": "text",
+          "id": "btn-text-c",
+          "label": "Button Text If Customer Is Logged In",
+          "default": "Learn More"
+        },
+        {
+            "type": "url",
+            "id": "btn-link-c",
+            "label": "Button link If Customer Is Logged In"
+        } 
+      ],
+
+      "blocks": [
+        {
+          "type": "section",
+          "name": "section-block",
+          "settings": [
+           
+              {
+              "type": "text",
+              "id": "body-text",
+              "label": "Block Body Text"
+            }
+         
+          ]
+        }
+      ],
+      "presets": [
+        {
+          "name": "Blocks Below Banner",
+          "category": "Page Banners"
+        }
+      ]
+    } 
+  {% endschema %}  

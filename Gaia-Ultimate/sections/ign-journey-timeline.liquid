@@ -1,0 +1,538 @@
+{% comment %}
+  IGN Journey Timeline - Product Benefits Journey
+  Features: Vertical timeline, animated progress, customizable colors
+  Compatible with Gaia theme - uses Poppins & Quicksand fonts
+  Prefixed with 'ign-' for theme isolation
+{% endcomment %}
+
+{{ 'ign-journey-timeline.css' | asset_url | stylesheet_tag }}
+
+{%- style -%}
+  .ign-section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .ign-section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+
+  /* Color Variables */
+  .ign-jt-section-{{ section.id }} {
+    --ign-jt-primary: {{ section.settings.primary_color | default: '#1a1a4e' }};
+    --ign-jt-accent: {{ section.settings.accent_color | default: '#D3A23C' }};
+    --ign-jt-timeline: {{ section.settings.timeline_color | default: '#e0e0e0' }};
+    --ign-jt-progress: {{ section.settings.progress_color | default: '#22c55e' }};
+    --ign-jt-badge-bg: {{ section.settings.badge_background | default: '#1a1a4e' }};
+    --ign-jt-badge-text: {{ section.settings.badge_text_color | default: '#ffffff' }};
+    --ign-jt-text: {{ section.settings.text_color | default: '#333333' }};
+    --ign-jt-glow: {{ section.settings.glow_color | default: '#D3A23C' }};
+    --ign-jt-bg: {{ section.settings.background_color | default: 'transparent' }};
+  }
+
+  .ign-jt-section-{{ section.id }} {
+    background-color: var(--ign-jt-bg);
+  }
+{%- endstyle -%}
+
+<div class="ign-journey-timeline-section ign-section-{{ section.id }}-padding ign-jt-section-{{ section.id }}">
+  <div class="ign-jt-container{% unless section.settings.full_width %} page-width{% endunless %}">
+    
+    {%- comment -%} Section Header {%- endcomment -%}
+    {%- if section.settings.heading != blank -%}
+    <div class="ign-jt-header">
+      <h2 class="ign-jt-heading">{{ section.settings.heading }}</h2>
+      {%- if section.settings.subheading != blank -%}
+      <p class="ign-jt-subheading">{{ section.settings.subheading }}</p>
+      {%- endif -%}
+    </div>
+    {%- endif -%}
+
+    <div class="ign-jt-content ign-jt-layout-{{ section.settings.layout }}">
+      
+      {%- comment -%} Product Image {%- endcomment -%}
+      {%- if section.settings.show_image -%}
+      <div class="ign-jt-image-wrapper">
+        <div class="ign-jt-image-container">
+          {%- if section.settings.product_image != blank -%}
+            <img
+              class="ign-jt-image"
+              src="{{ section.settings.product_image | image_url: width: 600 }}"
+              srcset="
+                {{ section.settings.product_image | image_url: width: 300 }} 300w,
+                {{ section.settings.product_image | image_url: width: 600 }} 600w,
+                {{ section.settings.product_image | image_url: width: 900 }} 900w"
+              sizes="(min-width: 990px) 500px, 90vw"
+              alt="{{ section.settings.product_image.alt | escape }}"
+              loading="lazy"
+              width="{{ section.settings.product_image.width }}"
+              height="{{ section.settings.product_image.height }}"
+            >
+          {%- else -%}
+            {{ 'product-1' | placeholder_svg_tag: 'ign-jt-image placeholder-svg' }}
+          {%- endif -%}
+          {%- if section.settings.show_glow -%}
+          <div class="ign-jt-glow"></div>
+          {%- endif -%}
+        </div>
+      </div>
+      {%- endif -%}
+
+      {%- comment -%} Timeline {%- endcomment -%}
+      <div class="ign-jt-timeline">
+        <div class="ign-jt-timeline-track">
+          <div class="ign-jt-timeline-line"></div>
+          <div class="ign-jt-timeline-progress" data-jt-progress></div>
+        </div>
+
+        <div class="ign-jt-timeline-items">
+          {%- for block in section.blocks -%}
+            {%- case block.type -%}
+              {%- when 'timeline_item' -%}
+              <div class="ign-jt-item" data-jt-item {{ block.shopify_attributes }}>
+                <div class="ign-jt-marker">
+                  <div class="ign-jt-badge" data-jt-badge>
+                    {%- if block.settings.use_icon -%}
+                      <svg class="ign-jt-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                        {%- case block.settings.icon_type -%}
+                          {%- when 'check' -%}
+                            <path d="M20 6L9 17L4 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                          {%- when 'star' -%}
+                            <path d="M12 2L15 9L22 9L17 14L19 21L12 17L5 21L7 14L2 9L9 9L12 2Z" fill="currentColor"/>
+                          {%- when 'trophy' -%}
+                            <path d="M12 15C15.866 15 19 11.866 19 8V3H5V8C5 11.866 8.13401 15 12 15Z M12 15V19M8 19H16" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                          {%- when 'lightning' -%}
+                            <path d="M13 2L3 14H12L11 22L21 10H12L13 2Z" fill="currentColor"/>
+                        {%- endcase -%}
+                      </svg>
+                    {%- else -%}
+                      {{ block.settings.badge_text }}
+                    {%- endif -%}
+                  </div>
+                </div>
+                
+                <div class="ign-jt-content-wrapper" data-jt-content>
+                  {%- if block.settings.title != blank -%}
+                  <h3 class="ign-jt-item-title">{{ block.settings.title }}</h3>
+                  {%- endif -%}
+                  
+                  {%- if block.settings.description != blank -%}
+                  <div class="ign-jt-item-description rte">{{ block.settings.description }}</div>
+                  {%- endif -%}
+                  
+                  {%- if block.settings.highlight != blank -%}
+                  <div class="ign-jt-highlight">
+                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                      <path d="M10 2L12 7L17 7L13 10L15 15L10 12L5 15L7 10L3 7L8 7L10 2Z" fill="currentColor"/>
+                    </svg>
+                    <span>{{ block.settings.highlight }}</span>
+                  </div>
+                  {%- endif -%}
+                </div>
+              </div>
+            {%- endcase -%}
+          {%- endfor -%}
+        </div>
+
+        {%- comment -%} Call to Action {%- endcomment -%}
+        {%- if section.settings.show_cta -%}
+        <div class="ign-jt-cta" data-jt-cta>
+          {%- if section.settings.cta_url != blank -%}
+          <a href="{{ section.settings.cta_url }}" class="ign-jt-button">
+            {{ section.settings.cta_text }}
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+              <path d="M10 4L16 10L10 16" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M16 10H4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+          </a>
+          {%- else -%}
+          <button class="ign-jt-button" onclick="window.scrollTo({ top: 0, behavior: 'smooth' });">
+            {{ section.settings.cta_text }}
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+              <path d="M10 4L16 10L10 16" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M16 10H4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+          </button>
+          {%- endif -%}
+          
+          {%- if section.settings.cta_subtext != blank -%}
+          <p class="ign-jt-cta-subtext">{{ section.settings.cta_subtext }}</p>
+          {%- endif -%}
+        </div>
+        {%- endif -%}
+      </div>
+
+    </div>
+  </div>
+</div>
+
+{%- comment -%} Inline JavaScript - No GSAP dependency {%- endcomment -%}
+<script>
+(function() {
+  'use strict';
+  
+  const section = document.querySelector('.ign-jt-section-{{ section.id }}');
+  if (!section) return;
+
+  const items = section.querySelectorAll('[data-jt-item]');
+  const badges = section.querySelectorAll('[data-jt-badge]');
+  const contents = section.querySelectorAll('[data-jt-content]');
+  const progressLine = section.querySelector('[data-jt-progress]');
+  const cta = section.querySelector('[data-jt-cta]');
+
+  // Intersection Observer for animations
+  const observerOptions = {
+    threshold: 0.2,
+    rootMargin: '-50px'
+  };
+
+  // Progress line animation
+  if (progressLine) {
+    const progressObserver = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const rect = section.getBoundingClientRect();
+          const scrollProgress = Math.max(0, Math.min(1, 
+            (window.innerHeight - rect.top) / (rect.height + window.innerHeight)
+          ));
+          progressLine.style.height = (scrollProgress * 100) + '%';
+        }
+      });
+    }, { threshold: 0 });
+
+    progressObserver.observe(section);
+
+    // Update on scroll
+    window.addEventListener('scroll', () => {
+      const rect = section.getBoundingClientRect();
+      const scrollProgress = Math.max(0, Math.min(1, 
+        (window.innerHeight - rect.top) / (rect.height + window.innerHeight)
+      ));
+      progressLine.style.height = (scrollProgress * 100) + '%';
+    });
+  }
+
+  // Item animations
+  const itemObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('active');
+        const badge = entry.target.querySelector('[data-jt-badge]');
+        if (badge) badge.classList.add('active');
+      }
+    });
+  }, observerOptions);
+
+  items.forEach(item => itemObserver.observe(item));
+
+  // CTA animation
+  if (cta) {
+    const ctaObserver = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('active');
+        }
+      });
+    }, observerOptions);
+    
+    ctaObserver.observe(cta);
+  }
+
+})();
+</script>
+
+{% schema %}
+{
+  "name": "IGN Journey Timeline",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Layout"
+    },
+    {
+      "type": "checkbox",
+      "id": "full_width",
+      "label": "Full width section",
+      "default": false
+    },
+    {
+      "type": "select",
+      "id": "layout",
+      "label": "Layout style",
+      "options": [
+        {
+          "value": "left",
+          "label": "Image left"
+        },
+        {
+          "value": "right",
+          "label": "Image right"
+        },
+        {
+          "value": "center",
+          "label": "Centered"
+        }
+      ],
+      "default": "left"
+    },
+    {
+      "type": "header",
+      "content": "Colors"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background color",
+      "default": "transparent"
+    },
+    {
+      "type": "color",
+      "id": "primary_color",
+      "label": "Primary color",
+      "default": "#1a1a4e"
+    },
+    {
+      "type": "color",
+      "id": "accent_color",
+      "label": "Accent color",
+      "default": "#D3A23C"
+    },
+    {
+      "type": "color",
+      "id": "timeline_color",
+      "label": "Timeline line color",
+      "default": "#e0e0e0"
+    },
+    {
+      "type": "color",
+      "id": "progress_color",
+      "label": "Progress line color",
+      "default": "#22c55e"
+    },
+    {
+      "type": "color",
+      "id": "badge_background",
+      "label": "Badge background",
+      "default": "#1a1a4e"
+    },
+    {
+      "type": "color",
+      "id": "badge_text_color",
+      "label": "Badge text color",
+      "default": "#ffffff"
+    },
+    {
+      "type": "color",
+      "id": "text_color",
+      "label": "Text color",
+      "default": "#333333"
+    },
+    {
+      "type": "color",
+      "id": "glow_color",
+      "label": "Glow effect color",
+      "default": "#D3A23C"
+    },
+    {
+      "type": "header",
+      "content": "Header"
+    },
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Heading",
+      "default": "Your Journey to Peak Performance"
+    },
+    {
+      "type": "text",
+      "id": "subheading",
+      "label": "Subheading",
+      "default": "Experience progressive benefits backed by clinical research"
+    },
+    {
+      "type": "header",
+      "content": "Product Image"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_image",
+      "label": "Show product image",
+      "default": true
+    },
+    {
+      "type": "image_picker",
+      "id": "product_image",
+      "label": "Product image"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_glow",
+      "label": "Show glow effect",
+      "default": true
+    },
+    {
+      "type": "header",
+      "content": "Call to Action"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_cta",
+      "label": "Show call to action",
+      "default": true
+    },
+    {
+      "type": "text",
+      "id": "cta_text",
+      "label": "Button text",
+      "default": "Start Your Journey"
+    },
+    {
+      "type": "url",
+      "id": "cta_url",
+      "label": "Button link",
+      "info": "Leave empty to scroll to top"
+    },
+    {
+      "type": "text",
+      "id": "cta_subtext",
+      "label": "Text below button"
+    },
+    {
+      "type": "header",
+      "content": "Spacing"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Top padding",
+      "default": 80
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Bottom padding",
+      "default": 80
+    }
+  ],
+  "blocks": [
+    {
+      "type": "timeline_item",
+      "name": "Timeline Item",
+      "settings": [
+        {
+          "type": "header",
+          "content": "Badge"
+        },
+        {
+          "type": "checkbox",
+          "id": "use_icon",
+          "label": "Use icon instead of text",
+          "default": false
+        },
+        {
+          "type": "text",
+          "id": "badge_text",
+          "label": "Badge text",
+          "default": "Week 1"
+        },
+        {
+          "type": "select",
+          "id": "icon_type",
+          "label": "Icon type",
+          "options": [
+            {
+              "value": "check",
+              "label": "Checkmark"
+            },
+            {
+              "value": "star",
+              "label": "Star"
+            },
+            {
+              "value": "trophy",
+              "label": "Trophy"
+            },
+            {
+              "value": "lightning",
+              "label": "Lightning bolt"
+            }
+          ],
+          "default": "check"
+        },
+        {
+          "type": "header",
+          "content": "Content"
+        },
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Title",
+          "default": "Enhanced Focus & Energy"
+        },
+        {
+          "type": "richtext",
+          "id": "description",
+          "label": "Description",
+          "default": "<p>Experience improved mental clarity and sustained energy levels throughout your day.</p>"
+        },
+        {
+          "type": "text",
+          "id": "highlight",
+          "label": "Highlight text",
+          "info": "Optional highlight badge"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "IGN Journey Timeline",
+      "blocks": [
+        {
+          "type": "timeline_item",
+          "settings": {
+            "badge_text": "1",
+            "title": "Sharper focus, stable energy",
+            "description": "<p><em>Igniton</em>-charged Citicoline and Alpha-GPC may quickly support neurotransmitter function, helping boost focus, mood, and mental clarity.**</p>"
+          }
+        },
+        {
+          "type": "timeline_item",
+          "settings": {
+            "badge_text": "2",
+            "title": "Unlock your flow state",
+            "description": "<p><em>Igniton</em>-charged Citicoline, NADH, and Phosphatidylserine help support mental clarity, emotional balance, and resilience to occasional stressors.**</p>"
+          }
+        },
+        {
+          "type": "timeline_item",
+          "settings": {
+            "badge_text": "3",
+            "title": "Own your mind and motivation",
+            "description": "<p>Optimal brain health with enhanced memory, focus, and mental resilience.</p>"
+          }
+        },
+        {
+          "type": "timeline_item",
+          "settings": {
+            "badge_text": "4",
+            "title": "Build cognitive resilience",
+            "description": "<p>Sustained supplementation supports pathways tied to memory, motivation, and long-term cognitive health.**</p>"
+          }
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}

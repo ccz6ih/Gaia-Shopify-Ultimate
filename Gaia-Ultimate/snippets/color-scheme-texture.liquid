@@ -1,0 +1,70 @@
+{%- comment -%}
+  Color Scheme Texture Overlay
+  ============================
+  Adds visual texture overlays to color scheme backgrounds.
+  Compatible with both Dawn's modern color_scheme_group format and Fetch's numbered schemes.
+
+  Usage: {% render 'color-scheme-texture', scheme: section.settings.color_scheme %}
+         {% render 'color-scheme-texture', color_scheme: '1' %}
+
+  Textures available:
+  - Image-based: paper.jpg, marble.jpg, space.jpg
+  - SVG/CSS patterns: swirl, squiggle, dots, notebook, wave, minimal-wave
+  - Effects: darken, cold-blur, warm-blur
+  - Nature: plants
+  - Geometric: grid, noise
+{%- endcomment -%}
+
+{%- liquid
+  # Support both 'scheme' (Dawn style) and 'color_scheme' (Fetch style) parameters
+  assign scheme_value = scheme | default: color_scheme
+
+  # Extract scheme number/id for settings lookup
+  # Dawn uses 'scheme-1', 'scheme-2', etc. Fetch uses '1', '2', '3'
+  if scheme_value contains 'scheme-'
+    assign scheme_number = scheme_value | split: '-' | last
+  else
+    assign scheme_number = scheme_value
+  endif
+
+  # Build settings keys
+  capture texture_key
+    echo 'color_scheme_' | append: scheme_number | append: '_texture'
+  endcapture
+  capture opacity_key
+    echo 'color_scheme_' | append: scheme_number | append: '_texture_opacity'
+  endcapture
+
+  assign texture = settings[texture_key] | default: 'none'
+  assign texture_opacity = settings[opacity_key] | default: 30
+
+  if texture == blank or texture == 'none'
+    assign show_texture = false
+  else
+    assign show_texture = true
+  endif
+-%}
+
+{%- if show_texture -%}
+  {%- if texture == 'space.jpg' or texture == 'paper.jpg' or texture == 'marble.jpg' -%}
+    {%- comment -%} Image-based textures {%- endcomment -%}
+    <div class="color-scheme-texture color-scheme-texture--image" style="opacity: {{ texture_opacity | divided_by: 100.0 }};">
+      {%- render 'image-element',
+        asset: texture,
+        host: 'theme',
+        type: 'asset',
+        classes: 'color-scheme-texture__image',
+        alt: ''
+      -%}
+    </div>
+  {%- elsif texture == 'darken' -%}
+    {%- comment -%} Darken overlay {%- endcomment -%}
+    <div class="color-scheme-texture color-scheme-texture--darken" style="opacity: {{ texture_opacity | divided_by: 100.0 }};"></div>
+  {%- elsif texture == 'noise' -%}
+    {%- comment -%} Noise grain effect {%- endcomment -%}
+    <div class="color-scheme-texture color-scheme-texture--noise" style="opacity: {{ texture_opacity | divided_by: 100.0 }};"></div>
+  {%- else -%}
+    {%- comment -%} SVG/CSS pattern textures (swirl, squiggle, dots, etc.) {%- endcomment -%}
+    <div class="color-scheme-texture color-scheme-texture--{{ texture }} scheme-{{ texture }}" style="opacity: {{ texture_opacity | divided_by: 100.0 }};"></div>
+  {%- endif -%}
+{%- endif -%}

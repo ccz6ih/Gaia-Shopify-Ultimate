@@ -1,0 +1,71 @@
+<div class="more-to-experience-blocks-parent">
+    <div class="more-to-experience-blocks-holder">
+        <h2 class="title-experince-more">{{section.settings.title}}</h2>
+        <div class="more-to-experience-block-el">
+                {% for block in section.blocks %}
+                    <div class="more-to-exp-blocks">
+                        <div class="img-circle-experience">
+                            <img class="experience-image-circle" width="240" height="240" alt="{{block.settings.image.alt}}" src="{{block.settings.image |  img_url: 'master'}}" />
+                        </div>
+                        <h4 class="bl-title-in-experience">{{block.settings.title}} <svg xmlns="http://www.w3.org/2000/svg" width="17" height="12" viewBox="0 0 17 12" fill="none">
+                        <path d="M10.3973 1L15.3266 5.92929C15.3656 5.96834 15.3656 6.03166 15.3266 6.07071L10.3973 11" stroke="#4A4A4A" stroke-width="2" stroke-linecap="round"/>
+                        <path d="M14.9009 5.99994L0.999995 5.99994" stroke="#4A4A4A" stroke-width="2" stroke-linecap="round"/>
+                        </svg></h4>
+                        <p class="bl-body-text-in-experience">{{block.settings.body-text}}</p>
+                    </div>
+                {% endfor %}
+        </div>
+    </div>
+</div>
+
+{% schema %}
+    {
+      "name": "Experience Blocks",
+      "class": "blocks-below-banner",
+      "settings": [
+    
+      {
+              "type": "text",
+              "id": "title",
+              "label": "Section Title"
+            }
+       
+      ],
+
+      "blocks": [
+        {
+          "type": "section",
+          "name": "section-block",
+          "settings": [
+            {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image Cover"
+        },
+            {
+              "type": "text",
+              "id": "title",
+              "label": "Experience Title"
+            },
+              {
+              "type": "textarea",
+              "id": "body-text",
+              "label": "Block Body Text"
+            },
+            {
+            "type": "url",
+            "id": "btn-link",
+            "label": "Experience Block link"
+        } 
+         
+          ]
+        }
+      ],
+      "presets": [
+        {
+          "name": "Experience Blocks",
+          "category": "Page Banners"
+        }
+      ]
+    } 
+  {% endschema %}     

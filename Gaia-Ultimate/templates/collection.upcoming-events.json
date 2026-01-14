@@ -1,0 +1,261 @@
+{
+  "sections": {
+    "events_hero_banner_JgUXzM": {
+      "type": "events-hero--banner",
+      "settings": {
+        "image-video": "image",
+        "v-link": "",
+        "image": "shopify:\/\/shop_images\/Marketplace_LP_Live_Events_hero_banner_v1.jpg",
+        "title-intro": "gaia events",
+        "title": "Transform with community",
+        "body-text": ""
+      }
+    },
+    "blocks_in_banner_Djb3Fi": {
+      "type": "blocks-in--banner",
+      "settings": {
+        "title": "<p>Gaia Members Enjoy 10% OFF<\/p>",
+        "check-in-middle": true,
+        "btn-text": "Log In or Sign Up",
+        "btn-link": "\/account\/login",
+        "btn-text-c": "Shop Now",
+        "btn-link-c": ""
+      }
+    },
+    "collection-header": {
+      "type": "collection-header",
+      "disabled": true,
+      "custom_css": [
+        ".section-header__title {display: none;}"
+      ],
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    },
+    "rich_text_meta_info_JF69KW": {
+      "type": "rich-text-meta-info",
+      "blocks": {
+        "section_k7wCWB": {
+          "type": "section",
+          "settings": {
+            "body-text": "Hosted by conscious leaders"
+          }
+        },
+        "section_Rhq3We": {
+          "type": "section",
+          "settings": {
+            "body-text": "Vetted by the Gaia team"
+          }
+        },
+        "section_Fi97x8": {
+          "type": "section",
+          "settings": {
+            "body-text": "Connect with Gaia community"
+          }
+        },
+        "section_4D6x4i": {
+          "type": "section",
+          "settings": {
+            "body-text": "Designed to elevate"
+          }
+        },
+        "section_UmixRh": {
+          "type": "section",
+          "settings": {
+            "body-text": "Book with confidence"
+          }
+        }
+      },
+      "block_order": [
+        "section_k7wCWB",
+        "section_Rhq3We",
+        "section_Fi97x8",
+        "section_4D6x4i",
+        "section_UmixRh"
+      ],
+      "settings": {
+        "title": "<p>Awaken to your truest nature at life-changing events<\/p>",
+        "hide-blocks": false,
+        "body-text": "Pick from dynamic offerings that will spark passion, educate, and help you co-create a new paradigm. Participate in events with like-minded individuals, and tap into unlimited inspiration. Hosted at Gaiasphere, each experience catalyzes profound education and personal transformation. Be a part of the change you want to see in the world."
+      }
+    },
+    "promo-grid": {
+      "type": "promo-grid",
+      "blocks": {
+        "entitled_banner": {
+          "type": "banner",
+          "settings": {
+            "heading": "Members Enjoy 10% Off",
+            "text": "As a Gaia member, you get 10% off all Marketplace items.",
+            "link": "",
+            "label": "",
+            "color_scheme": "2"
+          }
+        },
+        "trial_banner": {
+          "type": "banner",
+          "settings": {
+            "heading": "Members Enjoy 10% Off",
+            "text": "Complete your Gaia trial to receive 10% off all Marketplace items.",
+            "link": "",
+            "label": "",
+            "color_scheme": "2"
+          }
+        },
+        "inactive_banner": {
+          "type": "banner",
+          "settings": {
+            "heading": "Members Enjoy 10% Off",
+            "text": "Reactivate your Gaia membership to get 10% off all Marketplace items.",
+            "link": "https:\/\/www-stg-4b2c19.gaia.com\/account",
+            "label": "Reactivate",
+            "color_scheme": "2"
+          }
+        },
+        "anonymous_banner": {
+          "type": "banner",
+          "settings": {
+            "heading": "Members Enjoy 10% Off",
+            "text": "Gaia members get 10% off all Marketplace items.",
+            "link": "/account/login",
+            "label": "Log In or Sign Up",
+            "color_scheme": "2"
+          }
+        }
+      },
+      "block_order": [
+        "entitled_banner",
+        "trial_banner",
+        "inactive_banner",
+        "anonymous_banner"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "collection_description": {
+          "type": "collection_description",
+          "settings": {
+          }
+        },
+        "subcollections": {
+          "type": "subcollections",
+          "settings": {
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "grid_style": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "collection_description",
+        "subcollections",
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapse_filters": true,
+        "enable_color_swatches": false,
+        "enable_sort": true,
+        "disable-grid-view": true,
+        "swap-counter": true,
+        "hide-price-filter": true,
+        "transform-filters": false,
+        "align-buttons": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+      }
+    },
+    "members_block_events_page_dJXg3L": {
+      "type": "members-block-events-page",
+      "settings": {
+        "add-top-padding": false,
+        "add-bottom-padding": false,
+        "title": "Gaia Members Enjoy 10% OFF",
+        "btn-text": "Log In or Sign Up",
+        "btn-link": "https:\/\/www-stg-4b2c19.gaia.com\/invite\/join"
+      }
+    },
+    "theres_more_to_experience_th9Bef": {
+      "type": "theres-more-to-experience",
+      "blocks": {
+        "section_7chLBa": {
+          "type": "section",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gettyimages-1305840978-170667a_4e5a5d44-f677-4cb5-bc58-ff9e90969aed.jpg",
+            "title": "Retreats & Tours",
+            "body-text": "Whatever you seek, there’s an adventure that’s right for you.",
+            "btn-link": "shopify:\/\/collections\/transformative-experiences"
+          }
+        },
+        "section_Kz9Qed": {
+          "type": "section",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GettyImages-2074283095.jpg",
+            "title": "Courses & Certifications",
+            "body-text": "Deepen your study to raise your vibration, optimize your health, and achieve self-mastery.",
+            "btn-link": "shopify:\/\/collections\/personal-growth-courses"
+          }
+        },
+        "section_VVJXKj": {
+          "type": "section",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4E8A6793.jpg",
+            "title": "Become a Gaia Member",
+            "body-text": "Members receive 10% off on all Gaia Marketplace offerings.",
+            "btn-link": "\/account\/login"
+          }
+        }
+      },
+      "block_order": [
+        "section_7chLBa",
+        "section_Kz9Qed",
+        "section_VVJXKj"
+      ],
+      "settings": {
+        "title": "There’s More To Experience"
+      }
+    },
+    "events_page_hero_banner_bottom_kYxUCU": {
+      "type": "events-page-hero-banner-bottom",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GettyImages-1126980115_1.png",
+        "title": "Explore your spirituality",
+        "title-two": "Have you seen our upcoming retreats & tours?",
+        "body-text": "Immerse yourself in sacred sites and unique journeys alongside your global soul family.",
+        "btn-text": "Learn More",
+        "btn-link": ""
+      }
+    }
+  },
+  "order": [
+    "events_hero_banner_JgUXzM",
+    "blocks_in_banner_Djb3Fi",
+    "collection-header",
+    "rich_text_meta_info_JF69KW",
+    "promo-grid",
+    "main-collection",
+    "recently-viewed",
+    "members_block_events_page_dJXg3L",
+    "theres_more_to_experience_th9Bef",
+    "events_page_hero_banner_bottom_kYxUCU"
+  ]
+}

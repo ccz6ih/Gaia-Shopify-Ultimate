@@ -1,0 +1,157 @@
+{% assign videos = product.media | where: 'media_type', 'video' %}
+
+<div class="product-image-covers-full-parent
+ {% if product.metafields.single-cover-image.hero == "true" %} hero-banner-cover-single {% endif %}
+ {% if product.metafields.mansory-grid-hero.banenr == "true" %} hero-banner-mansory-cover {% endif %}
+ ">
+    <div class="product-image-covers-full-holder">
+        <div class="product-image-covers-full-el">
+            {%- for media in product.media -%}
+              {% if media.media_type == 'video' %}
+                <video class="videoPosterForCover image-pos-{{forloop.index}} {%if forloop.index > 5 %} cyst-hidden {% endif %} full-cover-hero-banner-image"
+                playsinline
+                autoplay
+                muted
+                  loop
+                
+                poster="{{ media.preview_image | img_url: '740x' }}"
+             
+                
+                class="product__video">
+                {%- for source in media.sources -%}
+                  <source src="{{ source.url }}" type="{{ source.mime_type }}">
+                {%- endfor -%}
+                Your browser does not support the video tag.
+              </video>
+
+                {% else %}
+                <img class="image-pos-{{forloop.index}} full-cover-hero-banner-image {%if forloop.index > 5 %} cyst-hidden {% endif %}" alt="{{media.alt}}" src="{{media  | img_url: 'master' }}" />
+
+              {% endif %}
+            {% endfor %}
+            
+          </div>
+          {% assign countz = 0 %}
+          {% for medBz in product.media %}
+                 {% assign countz = countz | plus: 1 %}
+          {% endfor %}
+          {% if countz > 1 %}
+        
+        <button class="expand-in-full-view-images"><span><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none">
+        <path d="M10.9091 0H1.09091C0.801582 0 0.524105 0.114935 0.31952 0.31952C0.114935 0.524105 0 0.801582 0 1.09091V10.9091C0 11.1984 0.114935 11.4759 0.31952 11.6805C0.524105 11.8851 0.801582 12 1.09091 12H10.9091C11.1984 12 11.4759 11.8851 11.6805 11.6805C11.8851 11.4759 12 11.1984 12 10.9091V1.09091C12 0.801582 11.8851 0.524105 11.6805 0.31952C11.4759 0.114935 11.1984 0 10.9091 0ZM10.9091 5.45455H6.54545V1.09091H10.9091V5.45455ZM5.45455 1.09091V5.45455H1.09091V1.09091H5.45455ZM1.09091 6.54545H5.45455V10.9091H1.09091V6.54545ZM10.9091 10.9091H6.54545V6.54545H10.9091V10.9091Z" fill="white"/>
+      </svg></span>View All </button>
+          {%endif%}
+    </div>
+</div>
+
+<div class="hold-the-slider-and-expand-upon-request">
+    <div class="hold-the-interactive-ctas">
+<div class="cover-image-light-expand-hero-banner" role="group" aria-label="Splide Basic HTML Example">
+  <div class="splide__arrows">
+		<button class="splide__arrow splide__arrow--prev">
+      <svg xmlns="http://www.w3.org/2000/svg" width="17" height="28" viewBox="0 0 17 28" fill="none">
+      <path d="M14.8699 2.52173L3.39166 14L14.8699 25.4783" stroke="#251B63" stroke-width="3.47826" stroke-linecap="round"/>
+      </svg>
+		</button>
+		<button class="splide__arrow splide__arrow--next">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="28" viewBox="0 0 16 28" fill="none">
+      <path d="M1.95607 2.52173L13.4343 14L1.95607 25.4783" stroke="#251B63" stroke-width="3.47826" stroke-linecap="round"/>
+      </svg>
+		</button>
+  </div>
+    <div class="splide__track">
+          <ul class="splide__list">
+            {%- for media in product.media -%}
+              {% if media.media_type == 'video' %}
+                <li class="splide__slide">
+                <video class="videoPosterForCover make-cover-in-splide-slider"
+                playsinline
+                autoplay
+                muted
+                  loop
+                controls
+                poster="{{ media.preview_image | img_url: '740x' }}"
+             
+                
+                class="product__video">
+                {%- for source in media.sources -%}
+                  <source src="{{ source.url }}" type="{{ source.mime_type }}">
+                {%- endfor -%}
+                Your browser does not support the video tag.
+              </video>
+</li>
+                {% else %}
+              <li class="splide__slide">
+  
+              <img class="make-cover-in-splide-slider"  alt="{{media.alt}}" src="{{media  | img_url: 'master' }}" />
+
+              </li>
+              {%endif%}
+        {%- endfor -%}
+          
+          </ul>
+    </div>
+</div>
+<button class="close-the-interactive-slider" title="Close (esc)">
+        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 64 64"><defs><style>.cls-1{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:2px}</style></defs><path class="cls-1" d="M19 17.61l27.12 27.13m0-27.13L19 44.74"></path></svg>
+      </button>
+</div>
+</div>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+<script>
+
+
+  var splideNew = new Splide('.cover-image-light-expand-hero-banner', {
+    perPage: 1,
+    arrows: true,
+    pagination: false,
+    perMove: 1,
+    type: 'fade',
+    autoplay: 'pause',
+    adaptiveHeight: false,
+    rewind: true,
+    drag: true,
+    interval: 4000,
+    speed: 2000,
+    keyboard: true
+  });
+
+  splideNew.mount();
+
+
+$(".expand-in-full-view-images").click(function(){
+$(".hold-the-slider-and-expand-upon-request").addClass("display-the-hero-banner")
+});
+$(".close-the-interactive-slider").click(function(){
+$(".hold-the-slider-and-expand-upon-request").removeClass("display-the-hero-banner")
+});
+// Close the slider when the Escape key is pressed
+$(document).on('keydown', function(event) {
+    if (event.key === "Escape" || event.keyCode === 27) {
+        $(".hold-the-slider-and-expand-upon-request").removeClass("display-the-hero-banner");
+    }
+});
+</script>
+{% schema %}
+    {
+      "name": "Product Image Covers",
+      "class": "mapping",
+      "settings": [
+
+      
+       {
+          "type": "text",
+          "id": "title",
+          "label": "Section Title",
+          "default": "Customer Reviews"
+        }
+       
+      ],
+      "presets": [
+        {
+            "name": "Product Image Covers",
+            "category": "Product Page Widgets"
+        }
+      ]
+    } 
+{% endschema %}  

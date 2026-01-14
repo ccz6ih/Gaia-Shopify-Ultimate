@@ -1,0 +1,803 @@
+{
+  "sections": {
+    "slideshow_emL8WA": {
+      "type": "slideshow",
+      "blocks": {
+        "hero_NqWKzE": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Kryon Egypt Tour and Nile Cruise",
+            "h1_title": true,
+            "title_size": 70,
+            "subheading": "Led by Lee Carroll & Monika Muranyi \nFebruary 3-14, 2026 in Egypt\nGaia Members get 10% off!",
+            "enlarge_subheading": true,
+            "link": "#offer",
+            "link_text": "Save Your Spot",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#01b4b4",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify:\/\/shop_images\/CS14442_Marketplace_Kryon_Grand_Egypt_Tour_en_US_Hero_Banner.jpg",
+            "overlay_opacity": 6
+          }
+        }
+      },
+      "block_order": [
+        "hero_NqWKzE"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": 10,
+        "mobile_size": 20,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "blocks_in_banner_6zdUyp": {
+      "type": "blocks-in--banner",
+      "blocks": {
+        "section_7qzzQk": {
+          "type": "section",
+          "disabled": true,
+          "settings": {
+            "body-text": "https:\/\/marketplace.gaia.com\/products\/kryon-returns-to-egypt-land-tour-february-1-6-2026"
+          }
+        }
+      },
+      "block_order": [
+        "section_7qzzQk"
+      ],
+      "name": "Blocks Below Banner",
+      "settings": {
+        "title": "<p>See This Tour's Other Option<\/p>",
+        "check-in-middle": true,
+        "btn-text": "Learn More",
+        "btn-link": "https:\/\/marketplace.gaia.com\/collections\/transformative-experiences\/products\/kryon-returns-to-egypt-land-tour-february-1-6-2026",
+        "btn-text-c": "Learn More",
+        "btn-link-c": "https:\/\/marketplace.gaia.com\/collections\/transformative-experiences\/products\/kryon-returns-to-egypt-land-tour-february-1-6-2026"
+      }
+    },
+    "rich_text_Gcwtmz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WwyKKQ": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "heading_size": "h2"
+          }
+        },
+        "text_W4YYQp": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<h2>Explore Ancient Egypt with Kryon as Your Guide<\/h2><p>Join Lee Carroll, Monika Muranyi, Elan Cohen, and Kryon on a rare opportunity to experience a sacred, multidimensional journey through ancient Egypt. As Kryon returns to this powerful land, you’ll travel with your Kryon soul family to some of the most awe-inspiring and energetically significant sites on the planet.<\/p><p>This 12-day transformational adventure invites you to move beyond time and space—into a field of allied consciousness rooted in wisdom, compassion, and love. With private access to sacred temples, time on the Nile, and live Kryon channelings, this is more than a tour—it’s a soul-level activation wrapped in the energy of galactic remembrance.<\/p><p>Together, we will co-create light and expand global consciousness.<\/p><p><em><strong>\"May you always drink from the Nile.\"<\/strong><\/em><strong> – Kryon<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WwyKKQ",
+        "text_W4YYQp"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "color_scheme": "3",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "columns_2_EdbgxP": {
+      "type": "columns-2",
+      "blocks": {
+        "text_6KAtbf": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": true,
+            "text": "<h3>What's Included:<\/h3>"
+          }
+        },
+        "sales_point_cDMTVi": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "Kryon channellings every day!"
+          }
+        },
+        "sales_point_Rzxr9G": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "Tours in English-language by professional Egyptologist tour guides."
+          }
+        },
+        "sales_point_Y6EDLM": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "All site entrances fees"
+          }
+        },
+        "sales_point_qWykJz": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "Hotel accommodations"
+          }
+        },
+        "sales_point_M4N46i": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "A wonderful program on 2 deluxe chartered Nile cruise boats; Lower Nile: 5-Star Mövenpick M\/S. Royal Lily. Sailing on the Nile is an experience to cherish. It is like time is standing still and you feel you are back in an ancient time, sailing again to your favorite Temple. "
+          }
+        },
+        "sales_point_a4GRUJ": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "Visits to all the great Temples along the Upper and Lower Nile, The Sphinx, the Great Pyramids, and the Giza Plateau and much more as listed in itinerary."
+          }
+        },
+        "image_Udew3j": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify:\/\/shop_images\/ET-Elan-Lee-Karnaktemple-guide-giantcolumns.jpg",
+            "link": "",
+            "image_mask": "none"
+          }
+        }
+      },
+      "block_order": [
+        "text_6KAtbf",
+        "sales_point_cDMTVi",
+        "sales_point_Rzxr9G",
+        "sales_point_Y6EDLM",
+        "sales_point_qWykJz",
+        "sales_point_M4N46i",
+        "sales_point_a4GRUJ",
+        "image_Udew3j"
+      ],
+      "custom_css": [
+        ".index-section.color-scheme-1 {background: #fff5f1;}"
+      ],
+      "settings": {
+        "title": "The only tour in the world Lee Carroll & Monika Muranyi are going to!",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "dropdown_with_image_b39PRj": {
+      "type": "dropdown-with-image",
+      "blocks": {
+        "dropdown_kyypG7": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 1 – Tuesday, February 3rd - ARRIVAL DAY",
+            "text": "<ul><li>Check-in at 3:00 PM<\/li><li>Overnight in Cairo – The Nile Ritz-Carlton Hotel<\/li><li>Meals on your own<\/li><\/ul>",
+            "dropdown_text": "",
+            "image": "shopify:\/\/shop_images\/ET-Elan-Lee-Marriotview.jpg",
+            "dropdown_image_fill": true,
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_ADfhzJ": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 2 – Wednesday, February 4th - Pyramids & Temples of Abusir and Dahsur",
+            "text": "<ul><li>Overnight Cairo – The Nile Ritz-Carlton Hotel<\/li><li>Breakfast & Lunch Included<\/li><\/ul><p>We have arranged for an early morning <strong>PRIVATE VISIT<\/strong> to the <strong>Sun Temple of Userkaf<\/strong> to view the Sunrise. This was an ancient Egyptian temple dedicated to the sun god Ra built by pharaoh Userkaf, the founder of the Fifth Dynasty of Egypt.<\/p>",
+            "dropdown_text": "<p>The temple lies between the <strong>Abusir pyramid<\/strong> field to the south and the locality of Abu Gurab. The ancient name of the temple was Nekhen-Re meaning the “Stronghold of Ra”. Lunch en route.<br\/><br\/>After breakfast en route we will visit <strong>The Red Pyramid<\/strong>, also called the North Pyramid, which is the largest of the three major pyramids located at the Dahshur necropolis. Named for the rusty reddish hue of its red limestone stones, it is also the third largest Egyptian pyramid, after those of Khufu and Khafra at Giza. It is also believed to be Egypt’s first successful attempt at constructing a “true” smooth-sided pyramid.<br\/><br\/>We continue with a visit to <strong>The Bent Pyramid<\/strong>, which is located at the royal necropolis of Dahshur, built under the Old Kingdom Pharaoh Sneferu. A unique example of early pyramid development in Egypt, this was the second pyramid built by Sneferu. The Bent Pyramid rises from the desert at a 54-degree inclination, but the top section (above 47 metres) is built at the shallower angle of 43 degrees, lending the pyramid its very obviously ‘bent’ appearance.<br\/><br\/><strong>The Grand Egyptian Museum<\/strong>, also known as the Giza Museum, is a planned museum of artifacts of ancient Egypt. Described as the largest archaeological museum in the world, the museum is situated on 120 acres of land approximately two kilometers from the Giza pyramids, and is part of a new master plan for the plateau.<\/p>",
+            "image": "shopify:\/\/shop_images\/ET-Elan-Lee-redpyramid.jpg",
+            "dropdown_image_fill": true,
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_eYXCKN": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 3 - Thursday, February 5th - Giza Plateau & The Sphinx",
+            "text": "<ul><li>Overnight Cairo – The Nile Ritz-Carlton Hotel<\/li><li>Breakfast & Lunch Included<\/li><\/ul><p>Full day tour of the <strong>Giza Plateau and Sphinx Complex<\/strong>. See the <strong>three Pyramids<\/strong> and the <strong>Valley Temple<\/strong>.<\/p>",
+            "dropdown_text": "<p><br\/>Private Visit to <strong>The Great Pyramid<\/strong> and time in the <strong>King’s Chamber<\/strong>!<br\/><br\/>Private Visit to <strong>The Great Sphinx<\/strong>, the most powerful vortex point on the planet. The lion in the sky is linked with the Sphinx on Earth, and they contain the knowledge of our true origin.<\/p><p>Lunch in the 9 Pyramids Panorama Restaurant.<\/p>",
+            "image": "shopify:\/\/shop_images\/ET-Elan-Lee-Sphinx_1.jpg",
+            "dropdown_image_fill": true,
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_L7eGix": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 4 - Friday, February 6th - Nile Cruise & Elephantine Island",
+            "text": "<ul><li>Flight to Aswan<\/li><li>Overnight on Royal Lily Cruise<\/li><li>Breakfast, Lunch, & Dinner included<\/li><\/ul><p>After breakfast, check-out from <strong>The Nile Ritz-Carlton Hotel <\/strong>and transfer to our <strong>private charter flight <\/strong>from Cairo Airport to Aswan.<br\/><\/p>",
+            "dropdown_text": "<p>Transfer to our chartered <strong>5-Star Mövenpick MS Royal Lily<\/strong>– considered to be one of the most luxurious Nile Cruise Ships on the Lower Nile – for a <strong>7 nights \/ 8 days Lower Nile Cruise<\/strong>, sailing from Aswan to Luxor, Qena, Luxor, then back to Aswan, on full board basis including all meals.<\/p><p>An amazing luxury Nile cruise that provides the ultimate in comfort, elegance and design. <strong>Movenpick MS Royal Lily <\/strong>features the highest quality for your enjoyment. Sailing on the Nile is an experience to cherish. It is like time is standing still and you feel you are back in an ancient time, sailing again to your favorite temple.<\/p><p>In the late afternoon enjoy a <strong>Felucca sail <\/strong>with a visit to <strong>Elephantine Island <\/strong>to see the <strong>Temple of Khnum<\/strong>. Here was the ram-headed god of the Cataracts, also known as a creator god, for it is said he fashioned man on a potter’s wheel. We will also see an excavation of a 6th century Jewish community with their Temple that was called the <strong>House of Yahweh<\/strong>.<br\/><br\/><\/p>",
+            "image": "shopify:\/\/shop_images\/aja_p_7202-61-13by5-2620x1008--06-07-2025_01_26_AM_fe561a13-6783-4f1e-97ad-7349881aa5f5.png",
+            "dropdown_image_fill": true,
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_MWxB3E": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 5 – Saturday, February 7th - Nile Cruise & Temple Visits",
+            "text": "<ul><li>Overnight in Edfu on Royal Lily Cruise<\/li><li>Breakfast, Lunch, & Dinner included<\/li><\/ul><p>We have arranged for a <strong>PRIVATE VISIT <\/strong>before it opens to the public to the beautiful <strong>Temple of Isis at Philae <\/strong>to watch the New “Dawn” and to connect with the divine goddess energies. <br\/><\/p>",
+            "dropdown_text": "<p>We will visit the amazing temple and ask for a healing from Isis to awaken our full potential as we journey on the Nile.<\/p><p>Returning to our amazing Nile Cruise, we sail to the dual <strong>Temple of Kom Ombo<\/strong>. This Temple is unique as it is dedicated to two Great Gods: <strong>Horus the divine Hawk <\/strong>and <strong>Sobek the crocodile God<\/strong>, which symbolize the duality of our own higher and lower natures.<br\/><br\/><br\/><\/p>",
+            "image": "shopify:\/\/shop_images\/ET-Elan-Lee-Temple-of-Isis-Aswan.jpg",
+            "dropdown_image_fill": true,
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_RW9qKC": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 6 – Sunday, February 8th - Nile Cruise & Temple Visits",
+            "text": "<ul><li>Overnight in Luxor on Royal Lily Cruise<\/li><li>Breakfast, Lunch, & Dinner included<\/li><\/ul><p>For our group we have again made arrangements to have a <strong>PRIVATE VISIT <\/strong>before it opens to the public. Visit to <strong>Edfu Temple<\/strong> – this magnificent Temple is one of the best preserved of all the temples. The inscriptions describe the mysteries of the “First Time” Zep Tepe: the age when the Gods ruled Egypt. <\/p>",
+            "dropdown_text": "<p>A library of ancient esoteric knowledge was once archived here. Ancient Egypt created a harmonious cosmology that reflected a conscious spiritual reality based on direct knowingness of the natural laws of the Universe. They created sacred physical structures that mimic the harmonic golden ratio found in nature to maintain universal harmony. This Temple is energetically connected to Denderah where it also taught about the meaning of Divine Union within self. We then sail to Luxor going through the Esna Locks.<\/p><p>In the evening we visit <strong>Luxor Temple<\/strong> (also referred to as the <strong>Temple of Man<\/strong>) during sunset, when the temple is lit. Here sacred geometry is infused into the heart of this temple.<\/p>",
+            "image": "shopify:\/\/shop_images\/ET-Elan-Lee-Tomb-of-Nefertari-Luxor.jpg",
+            "dropdown_image_fill": true,
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_6xtwxe": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 7 – Monday, February 9th - Nile Cruise & Valley of Kings & Queens",
+            "text": "<ul><li>Overnight in Luxor on Royal Lily Cruise<\/li><li>Breakfast, Lunch, & Dinner included<\/li><\/ul><p>Visit the west bank and see the most breathtaking beautifully preserved tomb in Egypt of<strong> Queen Nefertari<\/strong> in the <strong>Valley of the Queens.<\/strong><\/p>",
+            "dropdown_text": "<p>After this, we continue to experience the exquisite <strong>Temple of the female pharaoh Hatshepsut<\/strong>, one of the most beautiful masterpieces of the ancient world. Return to Cruise for Lunch.<\/p><p>We then continue to the <strong>Valley of the Kings <\/strong>with its deep subterranean tombs of the ancient Kings of Egypt.<\/p>",
+            "image": "shopify:\/\/shop_images\/ET-Elan-Lee-Mortuary-Temple-_of-Hatshepsut.jpg",
+            "dropdown_image_fill": true,
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_Jx778K": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 8 – Tuesday, February 10th - Nile Cruise & Temples",
+            "text": "<ul><li>Overnight in Qena on Royal Lily Cruise<\/li><li>Breakfast, Lunch, & Dinner included<\/li><\/ul><p>Early morning visit to <strong>Karnak <\/strong>and a <strong>PRIVATE VISIT <\/strong>to see the <strong>Shrine of Sekhmet<\/strong>. We will explore <strong>Karnak Temple <\/strong>with its huge columns that reach to the stars. <\/p>",
+            "dropdown_text": "<p>It was said that the ancient ones built these columns with special stones to collect and store the energies of their sacred singing and chanting that was done daily at dawn as the priests and priestess walked down the processional path to the Holies of Holies. Then daily the stored energy within the columns would fill the Temple spaces, energizing those who visited this sacred Temple throughout the day. We will be at the <strong>Seven Gates to Heaven <\/strong>door at Osiris temple.<\/p><p>Sail to Qena. After lunch we will visit <strong>Denderah Temple<\/strong> dedicated to <strong>Hathor<\/strong>, Goddess of love and joy. Experience the famous circular zodiac ceiling and secret crypts with enigmatic images. Denderah Temple was considered a university of higher learning and ancient Stargate and is still alive today.<br\/><br\/><\/p>",
+            "image": "shopify:\/\/shop_images\/ET-Elan-Lee-Karnaktemple-Luxor2.jpg",
+            "dropdown_image_fill": true,
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_n9UJPQ": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 9 – Wednesday, February 11th - Nile Cruise & Abydos",
+            "text": "<ul><li>Overnight in Luxor on Royal Lily Cruise<\/li><li>Breakfast, Lunch, & Dinner included<\/li><\/ul><p>After breakfast, we drive by bus to visit <strong>Abydos<\/strong>. This amazing, beautiful Temple built by <strong>Seti<\/strong> I was dedicated to <strong>Osiris<\/strong>. It was considered a profound pilgrimage place and over the centuries pilgrims came with offering pots to ask for a blessing from the beloved god Osiris.<\/p>",
+            "dropdown_text": "<p>Today it is one of the most amazing sites in Egypt. Abydos Temple was considered a university of higher learning and ancient Stargate and is still alive today.<\/p><p>We will have a <strong>PRIVATE VISIT<\/strong> to see the ancient mysterious <strong>Osireion <\/strong>mythological structure. Return for lunch and then sail back to Luxor.<\/p>",
+            "image": "shopify:\/\/shop_images\/221-jpg-817x300--06-07-2025_02_02_AM.png",
+            "dropdown_image_fill": true,
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_QMcCaL": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 10 – Thursday, February 12th - Sailing The Nile",
+            "text": "<ul><li>Overnight in Aswan on Royal Lily Cruise<\/li><li>Breakfast, Lunch, & Dinner included<\/li><\/ul>",
+            "dropdown_text": "<p>Full day sailing on the Nile as we make our way back to Aswan, relaxing, integrating and deepening our experience of the tour. We will end the day with <strong>Galabia Party<\/strong> and <strong>festive Farewell Dinner<\/strong> for the Lower Nile cruise.<\/p>",
+            "image": "shopify:\/\/shop_images\/Nile_Cruise-min.jpg",
+            "dropdown_image_fill": true,
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_693VeA": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 11 – Friday, February 13th - Flight to Cairo",
+            "text": "<ul><li>Overnight in Cairo at Le Meridien Airport Hotel<\/li><li>Breakfast & Lunch included<\/li><\/ul>",
+            "dropdown_text": "",
+            "image": "shopify:\/\/shop_images\/cairo-1200x800.jpg",
+            "dropdown_image_fill": true,
+            "background_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "dropdown_kyypG7",
+        "dropdown_ADfhzJ",
+        "dropdown_eYXCKN",
+        "dropdown_L7eGix",
+        "dropdown_MWxB3E",
+        "dropdown_RW9qKC",
+        "dropdown_6xtwxe",
+        "dropdown_Jx778K",
+        "dropdown_n9UJPQ",
+        "dropdown_QMcCaL",
+        "dropdown_693VeA"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "Tour Itinerary",
+        "heading_size": "h2",
+        "heading_position": "left"
+      }
+    },
+    "text_and_image_JPgmwm": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Lee-Carroll-Headshot.jpg",
+        "image_mask": "portrait",
+        "image2_mask": "none",
+        "subtitle": "YOUR GUIDES",
+        "title": "Lee Carroll, Channeler of KRYON",
+        "heading_size": "h1",
+        "text": "<p>Since 1989, Lee has channelled the loving messages of Kryon to the world. He is the author of fourteen Kryon books, and co-author of:<em>The Indigo Children, An Indigo Celebration, and The Indigo Children Ten Years Later,<\/em>which have been translated into dozens of languages<em>.<\/em>These Indigo books introduced the term “Indigo Children” to the world. In recognition of Lee’s service to humanity the WATKINS<em>Mind, Body, Spirit<\/em>magazine listed Lee Carroll on numerous occasions as one of the<em>100 most spiritually influential living people.<\/em>Together with his partner, Monika Muranyi, Lee continues to deliver Kryon’s messages online as part of the popular<em>Wednesdays with Kryon<\/em>weekly program and in-person events.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_EDYQVQ": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/LC-Monika-Headshot.png",
+        "image_mask": "portrait",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Monika Muranyi",
+        "heading_size": "h1",
+        "text": "<p>Following a spiritual awakening Monika has become the commensurate researcher and archivist of the Kryon material. She is the author of four Kryon books that provide detailed information about subject driven topics such as Gaia, the Akash, the Soul, and Lemuria. In addition, Monika has created two beautifully illustrated oracle card decks. Together with her partner, Lee Carroll, Monika continues to assist in the delivery of Kryon’s messages online and in-person events.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc3": {
+      "type": "testimonials",
+      "blocks": {
+        "7dce2a2f-2ef5-43fc-b9a1-f0bcc76544c9": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Thank you so much for making this trip of a lifetime so special! It was wonderful to meet such interesting, like-minded people and to have special meditative moments with Kryon, Lee, Monika and Elan.<\/p><p>The time that we spent in the King’s Chamber had an energy to it that was sacred. The toning, chanting and light language all served to bring about an energetic that was very special, even perhaps an opening of a sacred portal.<\/p><p>The food and accommodations were excellent, and all the transporting of people and luggage went extremely well. So nice to sit back and just let everything happen!<\/p>",
+            "author": "Erika",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Returning from Egypt, with your exceptional guided experiences, it’s like my brain woke up, I can find my way, not that lost feeling, and the brain cells are functioning, and processing.<\/p><p>It’s difficult to explain, I’m like my old self again. I’m attributing this to all the meditations, (especially in the king’s pyramid), with your intuitional guidance. I’m in a much different place than before this trip.<\/p>",
+            "author": "Carol",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>The tour you created far exceeded my expectations, hopes and dreams. We were so well taken care of from the moment we arrived in Egypt until the last moment when we were escorted to security at Cairo airport. Everyone involved was helpful, kind and patient. We couldn’t have imagined a more wonderful experience. Thank you for everything.<\/p><p>We are still basking in the glorious memories of amazing temples, soulful meditations, the beautiful river Nile, incredible food, and many loving new friends. It was all perfect!<\/p><p>We are truly grateful for this journey of a lifetime.<\/p>",
+            "author": "Gina & Mark",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "7dce2a2f-2ef5-43fc-b9a1-f0bcc76544c9",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1"
+      ],
+      "custom_css": [
+        ".testimonial-stars {color: #01b4b4;}"
+      ],
+      "settings": {
+        "title": "Customer Reviews",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "3"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "custom_hikrjb": {
+          "type": "custom",
+          "settings": {
+            "code": "<a id=\"offer\" name=\"offer\" style=\"position: absolute;margin-top: -15rem;\"><\/a>"
+          }
+        },
+        "5d0eaa37-9ce3-4e70-88fb-648e9f061d06": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show-def-q": true,
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "downpay_downpay_form_D776dY": {
+          "type": "shopify:\/\/apps\/downpay\/blocks\/downpay-form\/da700d84-7ed1-410a-a8b5-5cb99a33758a",
+          "disabled": true,
+          "settings": {
+            "default_to_pay_in_full": false,
+            "show_payment_methods": false,
+            "show_deposit_amount": true,
+            "show_border": true,
+            "show_help_text2": "deposit",
+            "show_release_date2": "never",
+            "select_style": "radio",
+            "custom_css": "",
+            "section_header": "Save your spot",
+            "deposit_option_label": "Non-Refundable Deposit",
+            "full_pay_option_label": "",
+            "deposit_help_text": "You will be charged a non-refundable deposit of $1,000 USD. The remaining balance due will be charged to your account on December 1, 2024.",
+            "release_date_text": "",
+            "add_to_cart_button_label": ""
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false
+          }
+        },
+        "3f696441-480a-4872-a3b8-c275b27bb1c7": {
+          "type": "shopify:\/\/apps\/forms\/blocks\/inline\/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "disabled": true,
+          "settings": {
+            "form_id": "33594",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#ffffff",
+            "links_color": "#1878b9",
+            "errors_color": "#e02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        },
+        "separator_eeJzNN": {
+          "type": "separator",
+          "settings": {}
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "custom_hikrjb",
+        "5d0eaa37-9ce3-4e70-88fb-648e9f061d06",
+        "price",
+        "separator",
+        "variant_picker",
+        "downpay_downpay_form_D776dY",
+        "inventory_status",
+        "description",
+        "buy_buttons",
+        "3f696441-480a-4872-a3b8-c275b27bb1c7",
+        "separator_eeJzNN",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "custom_css": [
+        ".product-grid__container {padding-top: var(--indexSectionPadding); padding-bottom: var(--indexSectionPadding); margin-top: -40px;}",
+        ".product-block--header {margin: -60px 0 0;}"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": false,
+        "h1_title": false,
+        "hide_media": false,
+        "align_text": "left",
+        "image_position": "left",
+        "image_container_size": "large",
+        "product_image_size": "natural",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "columns_1_CcLrPW": {
+      "type": "columns-1",
+      "blocks": {
+        "dropdown_YYhVBp": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Tour Inclusions",
+            "text": "",
+            "dropdown_text": "<ul><li>Accommodations for 11 nights at<strong> <\/strong>5* Hotel & Cruise <strong>(FEBRUARY 3 – 14, 2026).<\/strong><\/li><li>Kryon channellings every day!<\/li><li>Sightseeing tours as described in the itinerary.<\/li><li>Tours in English-language by professional Egyptologist tour guides.<\/li><li>All site entrances fees.<\/li><li>Most meals as listed in Itinerary.<\/li><li>5-Star The Nile Ritz-Carlton Hotel.<\/li><li>A wonderful program on a deluxe chartered Nile cruise boat.  Lower Nile: 5-Star Mövenpick M\/S. Royal Lily (B,L,D).<\/li><li>Visits to all the great Temples along the Lower Nile, The Sphinx, the Great Pyramids, and the Giza Plateau and much more as listed in the itinerary.<\/li><li>Visit to the New Grand Egyptian Museum.<\/li><li>Private charter flight between Cairo\/Aswan and Aswan\/Cairo.<\/li><li>Private visit to the Sun Temple of Userkaf.<\/li><li>Private visits to the Great Pyramid, King’s Chamber and The Sphinx.<\/li><li>Private visit to the Temple of Isis at Philae.<\/li><li>Private visit to the Temple at Edfu.<\/li><li>Special visit to the Shrine of Sekhmet<\/li><li>Special visit to Queen Nefertari Tomb.<\/li><li>Private visit to The Osireion.<\/li><li>Old Cairo Markets & The Holy Family Churches.<\/li><li>Festive Welcome & Farewell Dinners.<\/li><li>Oriental Entertainment Shows (Nubian Folkloric, Whirling Dervish, Belly Dancer).<\/li><\/ul><h4><strong>Transfers:<\/strong><\/h4><ul><li>Arrival day – Cairo airport to The Nile Ritz-Carlton Hotel.<\/li><li>Private Egypt Air charter flight between Cairo\/Aswan and Aswan\/Cairo. Just for our group.<\/li><li>Private air-conditioned motor coaches for all transportations.<\/li><li>Transfer of all baggage throughout the tour.<\/li><li>Departure day – transfer from The Nile Ritz-Carlton Hotel to the airport.<\/li><\/ul><h4><strong>Other Services:<\/strong><\/h4><ul><li>Meet, assist and transfer services upon arrival\/departure to\/from Egyptian Airports.<\/li><\/ul><p>Meals mentioned in the itinerary (B breakfast, L lunch, D dinner).<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_TyNdD8": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Tour Exclusions",
+            "text": "",
+            "dropdown_text": "<p>The following items are not included in the Kryon Egypt Tour pricing:<\/p><ul><li>Airfare from your country, and back to your country<\/li><li>Entry visa to Egypt, which will cost approximately $25 USD per person<\/li><li>Passport fees or charges (if any)<\/li><li>Travel Insurance (Cancellation and Medical Insurance)<\/li><li>Personal expenses, such as laundry service, mini bar charges, drinks with meals, and health club fees, etc.<\/li><li>Gratuities: Tipping for personal items such as your housekeeper, laundry service, room services, meal gratuities, tour guides, etc.<\/li><li>Extra meals not included in itinerary. NOTE: Beverages with meals are NOT usually included. <\/li><li>Emergency evacuation.<\/li><\/ul>",
+            "dropdown_image_fill": true,
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_VCi3qr": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Cancellation and Refunds",
+            "text": "",
+            "dropdown_text": "<p><strong>CUSTOMER CANCELLATION & REFUND POLICY<\/strong><\/p><ul><li>Refundable (minus 10%) if canceling before October 1st, 2025<\/li><li>Refundable (minus 25%) if canceling before November 1st, 2025<\/li><li>Refundable (minus 50%) if canceling before January 1st, 2026<\/li><li>Non-refundable if canceling on or after Jan. 1st, 2026<\/li><\/ul><p>Note: If the event is canceled for any reason you will receive a refund minus a 5% administrative fee<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_pTjEcG": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Release of Liability and Assumption of Risk",
+            "text": "",
+            "dropdown_text": "<p>You understand and agree that during the course of the trip certain risks and dangers may occur, including but not limited to the hazards of traveling in Egypt. You agree to assume all risks associated with the journey and agree that no liability will attach to us or our outfitters, employees or agents, or to any member of the tour group in respect of death, personal injury, illness or delay, or for any loss of or damage to your property during the course of the trip, regardless of cause. You accept all risk of any walking, hikes, cable rides, motorcar, bus and boat trips. You certify that you are not ill or carrying any contagious diseases or illnesses. We reserve the right to withdraw a service or any part of it, to make alterations in the itineraries as we deem necessary or desirable. We reserve the right to decline, to accept, or to retain any person as a member of any party at any time. “Catch-up fees” are the responsibility of you in the event of missed transportation at any leg of the trip. You understand that neither <a href=\"https:\/\/shalohaproductions.com\/kryon-egypt-2026\/terms\/#travel-insurance\">traveler’s insurance<\/a> nor medical insurance is provided by us, and it is your responsibility to obtain such insurance if it is desired.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_nWaQBD": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Special Note",
+            "text": "",
+            "dropdown_text": "<p>We place great emphasis on harmony amongst the tour-goers and all other persons involved in the tour. We reserve the right to remove any disruptive attendee from the tour, without reimbursement of any fees. If an attendee chooses to leave the tour for any reason, there will be no reimbursement of any fees.<\/p><p><strong>AUDIO & VIDEO<\/strong><\/p><p><strong>Audio & Video<\/strong> recording of the lectures and channelling is NOT permitted.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "dropdown_YYhVBp",
+        "dropdown_TyNdD8",
+        "dropdown_VCi3qr",
+        "dropdown_pTjEcG",
+        "dropdown_nWaQBD"
+      ],
+      "custom_css": [
+        ".color-scheme-2 {background-color: #fff5f1;}"
+      ],
+      "name": "t:sections.columns-1.presets.name",
+      "settings": {
+        "narrow_column": false,
+        "title": "Things To Know",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "2",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_AHDfMT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_id7aYA": {
+          "type": "heading",
+          "settings": {
+            "title": "You May Also Like",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_id7aYA"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "color_scheme": "3",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "927a5fbd-9afa-4cc7-adea-fe0ab118ead0": {
+      "type": "slideshow",
+      "blocks": {
+        "deba10be-d7e0-4007-be86-86350443e5d0": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Kryon Egypt Tour",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "https:\/\/marketplace.gaia.com\/products\/kryon-returns-to-egypt-land-tour-february-1-6-2026",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/egypt-tour-cairo-great-pyramid-1200x800_646692d9-c4e2-4ab6-a9ad-c312d065df89.jpg",
+            "overlay_opacity": 50
+          }
+        },
+        "948951c4-d3cd-4923-807c-17cbc9f7edb6": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "GaiaSphere\nChanneling Conference 2025",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "https:\/\/marketplace.gaia.com\/products\/channeling-conference-2025",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/a-view-of-the-stars-on-night-sky.jpg",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "deba10be-d7e0-4007-be86-86350443e5d0",
+        "948951c4-d3cd-4923-807c-17cbc9f7edb6"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": -40,
+        "mobile_size": 0,
+        "style": "dots",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "slideshow_emL8WA",
+    "blocks_in_banner_6zdUyp",
+    "rich_text_Gcwtmz",
+    "columns_2_EdbgxP",
+    "dropdown_with_image_b39PRj",
+    "text_and_image_JPgmwm",
+    "text_and_image_EDYQVQ",
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc3",
+    "main",
+    "columns_1_CcLrPW",
+    "rich_text_AHDfMT",
+    "927a5fbd-9afa-4cc7-adea-fe0ab118ead0"
+  ]
+}

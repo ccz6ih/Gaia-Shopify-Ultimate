@@ -1,0 +1,1115 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "0ad8323c-744d-4eee-b8b9-8c9445f76413": {
+      "type": "hero-video",
+      "custom_css": [
+        ".hero__subtitle {font-size: 1.1em;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "title": "Experience the Power of Hydrogen Water with Echo Go+",
+        "h1_title": false,
+        "title_size": 40,
+        "subheading": "Elevate Your Health and Wellness with Every Sip",
+        "link_text": "Buy Now",
+        "link": "#buy-now",
+        "color_accent": "#01b4b4",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://youtu.be/lK65gNjhUFg?si=1uue25rcdeOyRQ3S",
+        "overlay_opacity": 26,
+        "height": 450,
+        "height_mobile": 300
+      }
+    },
+    "fef57e06-82db-4d32-b772-d3d360ba2799": {
+      "type": "columns-2",
+      "blocks": {
+        "template--20868296540481__fef57e06-82db-4d32-b772-d3d360ba2799-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<h2>Echo Go+™ Water Bottle</h2><p>Introducing water like you’ve never experienced it before. </p><p>Experience the benefits of advanced molecular hydrogen with hydrogen-enriched water. </p><p>Our breakthrough hydration technology delivers powerful antioxidants that optimize cellular health, improve focus, and increase longevity. Say goodbye to ordinary water and embrace a healthier lifestyle with our hydrogen-enriched water. </p><p>With the Echo Go+™, you can improve your gut health and overall health by ensuring your body gets the hydrogen it needs. </p><p>Designed for people on the go, the Echo Go+™ hydrogen water bottle allows you to have access to hydrogen-enriched water whether you are working out at the gym, running errands, taking a vacation, or simply enjoying the outdoors.</p><p>It’s time to optimize your health and wellness.</p>"
+          }
+        },
+        "template--20868296540481__fef57e06-82db-4d32-b772-d3d360ba2799-image-1": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/echo-h2o-go-plus-yoga-lady.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--20868296540481__fef57e06-82db-4d32-b772-d3d360ba2799-text-1",
+        "template--20868296540481__fef57e06-82db-4d32-b772-d3d360ba2799-image-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "2",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "64d84c3a-23a0-49a9-a3bc-6681ab7b2b60": {
+      "type": "columns-1",
+      "blocks": {
+        "6bcec0f8-01bf-4ad3-a2a5-f6749a4a38ac": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://youtu.be/F_aqBGmaxmI?si=cS9f94bk5SJ-SxKr",
+            "video_width": "66"
+          }
+        }
+      },
+      "block_order": [
+        "6bcec0f8-01bf-4ad3-a2a5-f6749a4a38ac"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "Why Drink Hydrogen Water?",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "f2691f6f-1940-49ed-8648-06c95ed90d7b": {
+      "type": "text-columns",
+      "blocks": {
+        "template--20868296540481__f2691f6f-1940-49ed-8648-06c95ed90d7b-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/GO_Over-40-Benefits-Proven-in-900-Studies.webp",
+            "image_mask": "none",
+            "image_width": 180,
+            "title": "Live Better Longer",
+            "heading_size": "h3",
+            "text": "<p>By neutralizing harmful free radicals and oxidative stress, which is the leading cause of disease, hydrogen water has been proven to help regulate heart disease, diabetes, reduce wrinkles and skin issues, and speed up wound healing.</p>",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20868296540481__f2691f6f-1940-49ed-8648-06c95ed90d7b-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/GO_Boosts-Cognitive-Performance.webp",
+            "image_mask": "none",
+            "image_width": 180,
+            "title": "Brain Health",
+            "heading_size": "h3",
+            "text": "<p>As a selective antioxidant, hydrogen water has been proven to improve mental clarity, prevent cognitive illness, reduce oxidative stress and inflammation, boost mental focus and clarity, and help with mental illnesses.</p>",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20868296540481__f2691f6f-1940-49ed-8648-06c95ed90d7b-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/GO_Improves-Gut-Function_db9c93f4-ad42-46a3-8e8c-efbe30912df2.webp",
+            "image_mask": "none",
+            "image_width": 180,
+            "title": "Increase Immune Function",
+            "heading_size": "h3",
+            "text": "<p>70% to 80% of the immune system is housed in your gut. Stress, poor diet, and pesticides weaken your gut to nearly 20% functionality. The electrical potential in Echo H2 Water™ repairs and restores the gut and improves food intolerances.</p>",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "6b50826d-ffac-4a97-af10-6dbdc0d19aa7": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/GO_Reduces-Inflammation-and-Oxidative-Stress.webp",
+            "image_mask": "none",
+            "image_width": 180,
+            "title": "Improved Energy",
+            "heading_size": "h3",
+            "text": "<p>Adequate hydrogen supply is essential for optimal energy production in the body, which can help improve energy levels and combat fatigue.</p>",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20868296540481__f2691f6f-1940-49ed-8648-06c95ed90d7b-text_block-1",
+        "template--20868296540481__f2691f6f-1940-49ed-8648-06c95ed90d7b-text_block-2",
+        "template--20868296540481__f2691f6f-1940-49ed-8648-06c95ed90d7b-text_block-3",
+        "6b50826d-ffac-4a97-af10-6dbdc0d19aa7"
+      ],
+      "settings": {
+        "title": "The Health Benefits of Hydrogen Water",
+        "heading_size": "h2",
+        "subtitle": "",
+        "align_text": "center",
+        "grid": 4,
+        "divider": false,
+        "color_scheme": "none"
+      }
+    },
+    "e2a98328-4518-42cd-a5fb-0970de2060ab": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20868296540481__e2a98328-4518-42cd-a5fb-0970de2060ab-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Why drink Hydrogen Water?",
+            "heading_size": "h2"
+          }
+        },
+        "template--20868296540481__e2a98328-4518-42cd-a5fb-0970de2060ab-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Benefits of drinking hydrogen water</p><p>Experience the benefits of advanced molecular hydrogen with hydrogen-enriched water. Our breakthrough hydration technology delivers powerful antioxidants that optimize cellular health, improve focus, and increase longevity. Say goodbye to ordinary water and embrace a healthier lifestyle with our hydrogen-enriched water. Order now and start feeling the difference!</p>"
+          }
+        },
+        "3950cba8-7061-43dd-a1db-229bd0e1346b": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "<strong>Boosts Antioxidant Activity</strong>: Hydrogen water is rich in antioxidants, which neutralize free radicals that can cause cellular damage and inflammation."
+          }
+        },
+        "022a1968-4d58-4222-b945-1f1c774d85a7": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "<strong>Reduces Inflammation</strong>: The antioxidants in hydrogen water help reduce inflammation throughout the body, which is linked to many chronic health conditions."
+          }
+        },
+        "757f0355-780b-4949-be97-278466cbbf10": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "<strong>Improves Athletic Performance</strong>: Drinking hydrogen water before and after exercise can improve endurance, reduce muscle fatigue, and speed up recovery time."
+          }
+        },
+        "9e2c197a-1f22-4883-9aab-6558f30856c0": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "<strong>Supports Brain Health</strong>: Hydrogen water has been shown to improve cognitive function, memory, and mood by reducing oxidative stress and inflammation in the brain."
+          }
+        },
+        "99aab274-c389-4bac-a685-79925d0ca475": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "<strong>Enhances Skin Health</strong>: Hydrogen water can help reduce oxidative stress and inflammation in the skin, which can lead to a more youthful and radiant appearance."
+          }
+        },
+        "4484672a-4afd-4a9c-8fe4-9580243a6331": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "<strong>Boosts Immune Function</strong>: The antioxidants in hydrogen water can help support immune function by reducing oxidative stress and inflammation throughout the body."
+          }
+        },
+        "7d6d87ef-6328-4e7b-84b6-833004d09a5b": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "<strong>Supports Weight Loss</strong>: Hydrogen water can help support weight loss efforts by reducing oxidative stress and inflammation, which are linked to obesity."
+          }
+        }
+      },
+      "block_order": [
+        "template--20868296540481__e2a98328-4518-42cd-a5fb-0970de2060ab-heading-1",
+        "template--20868296540481__e2a98328-4518-42cd-a5fb-0970de2060ab-text-1",
+        "3950cba8-7061-43dd-a1db-229bd0e1346b",
+        "022a1968-4d58-4222-b945-1f1c774d85a7",
+        "757f0355-780b-4949-be97-278466cbbf10",
+        "9e2c197a-1f22-4883-9aab-6558f30856c0",
+        "99aab274-c389-4bac-a685-79925d0ca475",
+        "4484672a-4afd-4a9c-8fe4-9580243a6331",
+        "7d6d87ef-6328-4e7b-84b6-833004d09a5b"
+      ],
+      "disabled": true,
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "4174d934-5f19-4803-851a-68ee9fdc25d2": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/BOTL-PURP-02.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "EchoGo+",
+        "heading_size": "h2",
+        "text": "<p>Designed for people on the go, the Echo Go+™ hydrogen water bottle allows you to have access to hydrogen-enriched water whether you are working out at the gym, running errands, taking a vacation, or simply enjoying the outdoors.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "af69bca5-8e70-4543-add7-1d58f267111b": {
+      "type": "icon-list-and-image",
+      "blocks": {
+        "template--20868296540481__af69bca5-8e70-4543-add7-1d58f267111b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Product Features",
+            "heading_size": "h2"
+          }
+        },
+        "template--20868296540481__af69bca5-8e70-4543-add7-1d58f267111b-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Designed for people on the go, the Echo Go+™ hydrogen water bottle allows you to have access to hydrogen-enriched water whether you are working out at the gym, running errands, taking a vacation, or simply enjoying the outdoors.</p>"
+          }
+        },
+        "template--20868296540481__af69bca5-8e70-4543-add7-1d58f267111b-sales_point-1": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "ribbon",
+            "icon_color": "",
+            "text": "<strong>State-of-the-Art Technology. </strong>As one of the best portable hydrogen water generators in the industry, the Echo Go+™ uses safe, high-quality, platinum-coated titanium electrode plates to produce hydrogen-enriched water. The Echo Go+™ uses state-of-the-art Solid Polymer Electrolysis (SPE) and Proton Exchange Membrane (PEM) technologies. As a result, the Echo Go+™ produces above the therapeutic level of 0.5 ppm of molecular hydrogen, providing 2-3 ppm of molecular hydrogen in a 5-minute cycle and up to 4.5 ppm in a 10-minute cycle. It also produces an oxidation-reduction potential (ORP) of -600mV or more."
+          }
+        },
+        "e6f8de0a-3187-4e7c-939d-4cfef18cbdb8": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "leaf",
+            "icon_color": "",
+            "text": "<strong>Safe for You and the Planet. </strong>The Echo Go+™ is made out food food-grade polycarbonate plastic, a truly BPA- and all-bisphenol-free product. It is also much lighter than glass and impact-resistant, making it easier for you to handle without the fear of breaking or cracking. PC plastic is a very tough material, which allows your Echo Go+™ to last longer while also helping you reduce long-term waste from traditional disposable water bottles. This plastic is environmentally friendly."
+          }
+        }
+      },
+      "block_order": [
+        "template--20868296540481__af69bca5-8e70-4543-add7-1d58f267111b-heading-1",
+        "template--20868296540481__af69bca5-8e70-4543-add7-1d58f267111b-text-1",
+        "template--20868296540481__af69bca5-8e70-4543-add7-1d58f267111b-sales_point-1",
+        "e6f8de0a-3187-4e7c-939d-4cfef18cbdb8"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "image_width": "50",
+        "align_text": "left",
+        "layout": "right",
+        "color_scheme": "1",
+        "hide_image": false,
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "059c9334-8ef3-49f9-92ab-6a3173bec57f": {
+      "type": "text-columns",
+      "blocks": {
+        "39e582f0-9419-44f1-9032-58e5de0f8339": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/echo-h2o-go-plus-pouring-water.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "e609dce8-2e53-4c8a-ab27-4f336daf5ac8": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/echo-h2o-go-plus-water-device.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "ebf696ee-6977-43a9-bdb1-9f6bc7b01189": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/echo-h2o-go-plus-pouring-water-2.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1b3422be-da4f-45a6-8c2b-34c944de9c6f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/echo-h2o-go-plus-dr-fab.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "78bb8806-27ae-4865-8f95-5da3e2bd2b25": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/echo-h2o-go-plus-water.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "4db13e4d-99f9-4e56-97dc-c54c3b79327a": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/echo-h2o-go-plus-top-down.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "39e582f0-9419-44f1-9032-58e5de0f8339",
+        "e609dce8-2e53-4c8a-ab27-4f336daf5ac8",
+        "ebf696ee-6977-43a9-bdb1-9f6bc7b01189",
+        "1b3422be-da4f-45a6-8c2b-34c944de9c6f",
+        "78bb8806-27ae-4865-8f95-5da3e2bd2b25",
+        "4db13e4d-99f9-4e56-97dc-c54c3b79327a"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subtitle": "",
+        "align_text": "left",
+        "grid": 3,
+        "divider": false,
+        "color_scheme": "1"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "f3ca00e9-40f8-433f-a666-63385c72b506": {
+          "type": "custom",
+          "settings": {
+            "code": "<a id=\"buy-now\" name=\"buy-now\" style=\"position: absolute;margin-top: -15rem;\"></a>"
+          }
+        },
+        "68da108d-24ab-42b1-9546-fdbdee99432a": {
+          "type": "text",
+          "settings": {
+            "text": "Made out of food grade polycarbonate plastic, a truly BPA- and all bisphenol-free product. Lighter than glass and impact-resistant, making it easier for you to handle."
+          }
+        },
+        "db1def3f-8868-4eb6-8667-ccd6f9ddc4cc": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "none",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Includes:</strong>"
+          }
+        },
+        "e92dbc3b-16fd-4acc-8808-dd9145b5f231": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Portable H2 Water Bottle"
+          }
+        },
+        "6991c22a-41a2-481b-86d7-b9521494e229": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Rechargeable Li-Ion Battery"
+          }
+        },
+        "e836f10f-d592-496b-983e-ef1e22b1c715": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "10 oz BPA Free Bottle"
+          }
+        },
+        "8039b0b0-4417-45d6-b929-aa7ec004eee5": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "5 Year Warranty"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "f3ca00e9-40f8-433f-a666-63385c72b506",
+        "68da108d-24ab-42b1-9546-fdbdee99432a",
+        "db1def3f-8868-4eb6-8667-ccd6f9ddc4cc",
+        "e92dbc3b-16fd-4acc-8808-dd9145b5f231",
+        "6991c22a-41a2-481b-86d7-b9521494e229",
+        "e836f10f-d592-496b-983e-ef1e22b1c715",
+        "8039b0b0-4417-45d6-b929-aa7ec004eee5",
+        "price",
+        "separator",
+        "variant_picker",
+        "inventory_status",
+        "buy_buttons",
+        "description",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "custom_css": [
+        ".product-grid__container {padding-top: var(--indexSectionPadding); padding-bottom: var(--indexSectionPadding); margin-top: -40px;}",
+        ".product-block--header {margin: -60px 0 0;}"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": false,
+        "h1_title": false,
+        "hide_media": false,
+        "align_text": "left",
+        "image_position": "left",
+        "image_container_size": "medium",
+        "product_image_size": "natural",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "e6fa5fae-029e-48df-a6da-fe4caef08809": {
+      "type": "columns-3",
+      "blocks": {
+        "4402376f-b093-48ab-841f-68d51ab9b7a9": {
+          "type": "image",
+          "settings": {
+            "parent_column": "left",
+            "image": "shopify://shop_images/ark-crystal-icon-star-96x96.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "8fea97b2-28e2-432c-82e8-a8dfc04a729a": {
+          "type": "image",
+          "settings": {
+            "parent_column": "center",
+            "image": "shopify://shop_images/ark-crystal-icon-research-192x192.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "ae1572b3-8361-40c9-b98a-addbbb87ab53": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/ark-crystal-icon-shipping-96x96.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "template--20197640634689__e6fa5fae-029e-48df-a6da-fe4caef08809-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<h2>30 Day Money Back Guarantee</h2>"
+          }
+        },
+        "76fa2165-a4cb-4aca-a03b-f6a545f7f60c": {
+          "type": "text",
+          "settings": {
+            "parent_column": "center",
+            "enlarge_text": false,
+            "text": "<h2>Live Customer Service</h2>"
+          }
+        },
+        "583c7003-2d98-42fd-bbae-515698196ce0": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": false,
+            "text": "<h3>Shipping</h3><p>Products ship quickly so you can start experiencing the benefits of ARK products as soon as possible.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "4402376f-b093-48ab-841f-68d51ab9b7a9",
+        "8fea97b2-28e2-432c-82e8-a8dfc04a729a",
+        "ae1572b3-8361-40c9-b98a-addbbb87ab53",
+        "template--20197640634689__e6fa5fae-029e-48df-a6da-fe4caef08809-text-1",
+        "76fa2165-a4cb-4aca-a03b-f6a545f7f60c",
+        "583c7003-2d98-42fd-bbae-515698196ce0"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".image-wrap {width: 64px; padding-bottom: 64px !important; margin-left: auto; margin-right: auto; background-color: transparent !important;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "center",
+        "column_center_align_text": "center",
+        "column_right_align_text": "center",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2": {
+      "type": "testimonials",
+      "blocks": {
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“I bought this unit so I could make my own H2 water…No problems despite extensive use. I love this sleek little unit.”</p>",
+            "author": "Marilyn",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“I wanted to say that my husband and I love this product. I highly recommend it! It is easy and convenient. We have been using the product for months and have had no issues. Thank you for making such a wonderful product.”</p>",
+            "author": "Brooke",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>\"First off, I have to say that the design of this bottle is sleek and modern and it fits easily into my bag or cup holder. Plus, the water just tastes better than regular tap water.\"</p>",
+            "author": " Echo Go+™ User",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“I just love it! Highly recommend it.”</p>",
+            "author": "Paul",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4"
+      ],
+      "custom_css": [
+        ".testimonial-stars {color: #01b4b4;}"
+      ],
+      "settings": {
+        "title": "Customer Reviews",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "1"
+      }
+    },
+    "bffed13c-f26a-4915-88fa-0f1df60ea0a6": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--20868296540481__bffed13c-f26a-4915-88fa-0f1df60ea0a6-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "#1",
+            "text": "<p>Fill the bottle with distilled, reverse osmosis, or filtered water. </p>"
+          }
+        },
+        "template--20868296540481__bffed13c-f26a-4915-88fa-0f1df60ea0a6-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "#2",
+            "text": "<p>Select your cycle. (5 or 10 minutes)</p>"
+          }
+        },
+        "template--20868296540481__bffed13c-f26a-4915-88fa-0f1df60ea0a6-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "#3",
+            "text": "<p>Sip, and enjoy the 40+ proven health benefits. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20868296540481__bffed13c-f26a-4915-88fa-0f1df60ea0a6-text_block-1",
+        "template--20868296540481__bffed13c-f26a-4915-88fa-0f1df60ea0a6-text_block-2",
+        "template--20868296540481__bffed13c-f26a-4915-88fa-0f1df60ea0a6-text_block-3"
+      ],
+      "custom_css": [
+        ".text-with-icons__block__container {text-align: start; text-align: left; height: 100%; padding: 2rem; background: #3a88c5; color: #fff;}",
+        "h3 {font-size: calc(var(--typeHeaderSize) * 0.85);}"
+      ],
+      "settings": {
+        "title": "Here’s How it Works",
+        "heading_size": "h2",
+        "heading_position": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0": {
+      "type": "columns-1",
+      "blocks": {
+        "4780af7a-efd7-4784-92b7-f254777b8620": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "What is Echo Hydrogen Water™?",
+            "text": "",
+            "dropdown_text": "<p>Hydrogen water is simply water with dissolved molecular hydrogen gas (H2). Hydrogen gas is separated from a stream of water during electrolysis. Then, we dissolve it into a second stream of water. Hydrogen has been shown to reduce oxidative stress and inflammation, which is the leading cause of disease. Hydrogen’s therapeutic benefits are displayed in nearly 1,000 scientific studies and articles, spanning over 12 years.</p>",
+            "background_color": "#ffffff",
+            "text_color": "#000000"
+          }
+        },
+        "ea4e1851-8fdb-4a81-a01a-b5921d8d359d": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "What Makes Echo Water™ Machines Better Than Other Water Machines?",
+            "text": "",
+            "dropdown_text": "<p>Molecular hydrogen, which is supported by over 1,000 scientific studies, has always been the focus of Echo Water™ Machines. The Echo Module™ sets our machines apart from the other water machines on the market. Our patented module is designed so that the electrodes are not in contact with the water that you drink, Hydrogen gas is separated from a stream of water and dissolved into a second stream of water. Our machines create hydrogen-enriched water without changing the pH of the source water. The primary purpose of Echo Antioxidant Water™ Machines is to make hydrogen-enriched water, not to create alkaline water with hydrogen-enriched water as a bonus. The cathode in our Echo Module™ is not in contact with the water you drink. Because of the way the module is designed, it can never accumulate mineral buildup on the electrodes. This means that our machines will continue to be able to dissolve hydrogen gas and produce quality Antioxidant Water™, unlike other water machines that require cleaning and maintenance every two weeks.</p>",
+            "background_color": "#ffffff",
+            "text_color": "#000000"
+          }
+        },
+        "9b497242-7af1-4791-ad3c-9f0b550271ca": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "What is electrolysis? How does it work?",
+            "text": "",
+            "dropdown_text": "<p>Electrolysis was first discovered by Dr. Anthony Carlisle when he was trying to produce hydrogen gas in the year 1800. Electrolysis happens when water is shocked with electricity. When this happens, a small amount of hydrogen and oxygen is converted to gas. Typically, electrolysis separates water into alkaline or acidic water. Echo Water™ Machines have a proprietary technology that uses electrolysis to harvest hydrogen gas (H2) without changing the pH of the water to be alkaline or acidic. Then, hydrogen gas (H2) is dissolved into a second stream of water, so the H2 water you drink never touches the electrodes.</p>",
+            "background_color": "#ffffff",
+            "text_color": "#000000"
+          }
+        },
+        "437b4417-a178-4b58-b62c-1393b080036c": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Does Echo Water™ have any taste?",
+            "text": "",
+            "dropdown_text": "<p>The addition of hydrogen into water does not add or change the taste of the water. The only thing that gives water a taste are contaminants, such as chemicals, metals, or minerals. The Echo Water™ Machines that have built-in filtration remove these contaminants, producing clean hydrogen water. Many customers say this filtered hydrogen water is the best-tasting water they’ve had because of the clean taste.</p>",
+            "background_color": "#ffffff",
+            "text_color": "#000000"
+          }
+        },
+        "186433f5-5844-4429-b32d-1accdbdb4cef": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Can I add flavoring to the hydrogen water?",
+            "text": "",
+            "dropdown_text": "<p>Yes, you can add ingredients to change the taste of the water. The amount of hydrogen that would be dislodged by this is minimal. Enjoy your water!</p>",
+            "background_color": "#ffffff",
+            "text_color": "#000000"
+          }
+        },
+        "8b57bbc7-e282-4e97-926d-b503658f8ebe": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Why should you drink Hydrogen?",
+            "text": "",
+            "dropdown_text": "<p>Drinking hydrogen water has been shown to have various health benefits, making it a popular choice among health-conscious individuals. Hydrogen water contains high levels of molecular hydrogen, which acts as a powerful antioxidant that helps to neutralize harmful free radicals in the body. By reducing oxidative stress, hydrogen water can improve overall health and reduce the risk of developing chronic diseases like heart disease, dementia, and cancer. Additionally, hydrogen water has been shown to improve athletic performance and recovery time, making it a popular choice among athletes and fitness enthusiasts. Overall, the benefits of hydrogen water make it an excellent choice for those looking to improve their health and well-being.</p>",
+            "background_color": "#ffffff",
+            "text_color": "#000000"
+          }
+        },
+        "88821dae-49aa-4b03-8a84-da1e3d258427": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Can I take medications with Echo Water™?",
+            "text": "",
+            "dropdown_text": "<p>Because Echo Hydrogen Water™ has a neutral pH, it is perfectly safe to take with medications. On the other hand, alkaline water is not the best for taking time-release medications. Time-release medications are a two-part pill designed to resist an acid environment because the stomach is very acidic. Alkaline water will dissolve tablets very quickly, so they will no longer have a time-release effect.</p>",
+            "background_color": "#ffffff",
+            "text_color": "#000000"
+          }
+        },
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "How does your Echo Go and Echo Go+ bottle work?",
+            "text": "",
+            "dropdown_text": "<p>Echo hydrogen water devices use electrolysis to separate water molecules into hydrogen and oxygen gas. The oxygen gas is sent out to atmosphere and the hydrogen gas is dissolved into the water, creating hydrogen-rich water. The Echo Go+ device has two platinum coated electrodes separated by a proton exchange membrane. Water is added to the electrolytic chamber where the water molecules are separated into hydrogen and oxygen gas. The PEM separating the electrodes prevents the hydrogen from mixing with the oxygen, allowing only hydrogen gas to be dissolved into the water. The resulting hydrogen-rich water can then be consumed. Studies have shown consumption of hydrogen gas in water to be beneficial for health and wellness.</p>",
+            "background_color": "#ffffff",
+            "text_color": "#101123"
+          }
+        },
+        "88fe273d-dad8-4fcb-8e72-e298aeffea83": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "Does hydrogen water “detox?”",
+            "text": "",
+            "dropdown_text": "",
+            "background_color": "#ffffff",
+            "text_color": "#101123"
+          }
+        },
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "What does hydrogen water taste like?",
+            "text": "",
+            "dropdown_text": "",
+            "background_color": "#ffffff",
+            "text_color": "#101123"
+          }
+        },
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab08": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "How long does Hydrogen last in water?",
+            "text": "",
+            "dropdown_text": "<p>In an open glass of water 50% of the Hydrogen will be left after about 3 to 5 hrs. In about 8 to 10 hours most, if not all of it will have dissipated into the air. </p><p>In an enclosed bottle or jug with no air inside, the hydrogen can last for up to 10 days. There will be a bit of hydrogen loss everyday. If someone were to start drinking from the bottle, leaving air in the container then the hydrogen would start dissipating into the air.</p>",
+            "background_color": "#ffffff",
+            "text_color": "#101123"
+          }
+        },
+        "5d1875e7-d8d6-4783-8bea-56f7a2c5b766": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Does the hydrogen stay in Echo Water™ if you freeze it?",
+            "text": "",
+            "dropdown_text": "<p>Hydrogen is a gas, so it can escape even when frozen. Hydrogen can get through steel, metal, glass, and plastic, so it can get through frozen water. We don’t know how much hydrogen would stay in if you made ice cubes from Echo Water™.</p>",
+            "background_color": "#ffffff",
+            "text_color": "#101123"
+          }
+        },
+        "0265833e-94d5-4498-9556-a70362df9670": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "Does hydrogen water help with weight loss?",
+            "text": "",
+            "dropdown_text": "",
+            "background_color": "#ffffff",
+            "text_color": "#101123"
+          }
+        },
+        "913e179d-c24c-4e47-9aad-78b2d2ecaed2": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "Can I add flavors and enhancers to the water?",
+            "text": "",
+            "dropdown_text": "",
+            "background_color": "#ffffff",
+            "text_color": "#101123"
+          }
+        },
+        "0256b7a8-48c5-4f86-93d7-cc8f2fcabd94": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "H2 Analytics Seal",
+            "text": "",
+            "dropdown_text": "<h2>Dissolved Hydrogen Concentration</h2><p>Using advanced gas chromatography, H2 Analytics can measure the level of hydrogen gas in water produced by virtually any type of hydrogen water product or technology. This service includes a complete laboratory report that can be used for marketing, etc. Products include hydrogen infusion machines (HIM’s), pressure HIM's, portable electric hydrogen water bottles, water ionizers, countertop pitchers, hydrogen-producing tablets & powders, passive countertop flow-through devices (magnesium-based), prepackaged hydrogen beverages (regardless of their color or consistency), reactor cartridges, H2 bubblers, and magnesium rods. </p><p><strong>Water Quality</strong></p><p>H2 Analytics offers EPA-certified testing of the water produced by H2 water devices & products to ensure that they do not add harmful contaminants such as heavy metals, chlorine, etc.. Water tests can be customized for specific devices and applications. </p><h2>H2 Analytics Seal</h2><p>The H2 Analytics Seal is awarded to those products and devices that have undergone testing at the H2 Analytics labs and passed the test. </p><p>All Echo H2O products are H2 Analytics Certified. </p>",
+            "background_color": "#ffffff",
+            "text_color": "#101123"
+          }
+        }
+      },
+      "block_order": [
+        "4780af7a-efd7-4784-92b7-f254777b8620",
+        "ea4e1851-8fdb-4a81-a01a-b5921d8d359d",
+        "9b497242-7af1-4791-ad3c-9f0b550271ca",
+        "437b4417-a178-4b58-b62c-1393b080036c",
+        "186433f5-5844-4429-b32d-1accdbdb4cef",
+        "8b57bbc7-e282-4e97-926d-b503658f8ebe",
+        "88821dae-49aa-4b03-8a84-da1e3d258427",
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281",
+        "88fe273d-dad8-4fcb-8e72-e298aeffea83",
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07",
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab08",
+        "5d1875e7-d8d6-4783-8bea-56f7a2c5b766",
+        "0265833e-94d5-4498-9556-a70362df9670",
+        "913e179d-c24c-4e47-9aad-78b2d2ecaed2",
+        "0256b7a8-48c5-4f86-93d7-cc8f2fcabd94"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "FAQs",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "b851f8fa-3ed2-4f73-b75e-992829d011a0": {
+      "type": "columns-1",
+      "blocks": {
+        "14ad7a63-b948-4bdf-9fe8-28eeed57df3f": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Shipping",
+            "text": "",
+            "dropdown_text": "<ul><li>Domestic Orders - All domestic orders are shipped within 72 hours via USPS Priority Mail and require a signature upon delivery.</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": "#0f0f0f"
+          }
+        },
+        "fb925115-1a99-4bff-b35d-17c037a0c90f": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Warranty",
+            "text": "",
+            "dropdown_text": "<p>Our lifetime warranty covers any manufacturer defects for normal, non-negligent use. This includes defects such as chains, magnets, or gems falling out on our pendant products.</p>",
+            "background_color": "#ffffff",
+            "text_color": "#0f0f0f"
+          }
+        }
+      },
+      "block_order": [
+        "14ad7a63-b948-4bdf-9fe8-28eeed57df3f",
+        "fb925115-1a99-4bff-b35d-17c037a0c90f"
+      ],
+      "disabled": true,
+      "settings": {
+        "narrow_column": false,
+        "title": "Terms and Conditions",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "bc4171ca-26be-4c20-8204-76f845b0f0fb": {
+      "type": "hero-video",
+      "settings": {
+        "full_width": true,
+        "title": "Healthy Hydrogen Water \nDesigned for Those On the Go",
+        "h1_title": false,
+        "title_size": 40,
+        "subheading": "Access the Health Benefits of Hydrogen Water Anytime, Anywhere",
+        "link_text": "Buy Now",
+        "link": "#buy-now",
+        "color_accent": "#01b4b4",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://youtu.be/lK65gNjhUFg?si=1uue25rcdeOyRQ3S",
+        "overlay_opacity": 26,
+        "height": 450,
+        "height_mobile": 300
+      }
+    }
+  },
+  "order": [
+    "0ad8323c-744d-4eee-b8b9-8c9445f76413",
+    "fef57e06-82db-4d32-b772-d3d360ba2799",
+    "64d84c3a-23a0-49a9-a3bc-6681ab7b2b60",
+    "f2691f6f-1940-49ed-8648-06c95ed90d7b",
+    "e2a98328-4518-42cd-a5fb-0970de2060ab",
+    "4174d934-5f19-4803-851a-68ee9fdc25d2",
+    "af69bca5-8e70-4543-add7-1d58f267111b",
+    "059c9334-8ef3-49f9-92ab-6a3173bec57f",
+    "main",
+    "e6fa5fae-029e-48df-a6da-fe4caef08809",
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2",
+    "bffed13c-f26a-4915-88fa-0f1df60ea0a6",
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0",
+    "b851f8fa-3ed2-4f73-b75e-992829d011a0",
+    "bc4171ca-26be-4c20-8204-76f845b0f0fb"
+  ]
+}

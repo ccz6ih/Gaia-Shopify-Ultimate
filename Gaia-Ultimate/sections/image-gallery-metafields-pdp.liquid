@@ -1,0 +1,147 @@
+{% assign count = 0 %}
+
+<div class="gallery-image-metafields-pdp-parent">
+    <div class="gallery-image-metafields-pdp-holder">
+        <div class="gallery-image-metafields-pdp-el
+         {% if product.metafields.layout-view.grid  == "one-image" %}
+         one-image-layout-view 
+         {%  elsif  product.metafields.layout-view.grid ==  "two-images" %}
+         two-images-layout-view
+         {%  elsif  product.metafields.layout-view.grid ==  "three-images" %}
+         three-images-layout-view
+         {%  elsif  product.metafields.layout-view.grid ==  "four-images" %}
+         four-images-layout-view
+         {%  elsif  product.metafields.layout-view.grid ==  "more-than-four" %}
+          more-than-four-images-layout-view
+         {% else %}
+         {% endif %}">
+          <div class="images-grid-block-in-pdp">
+        {% for imgParentGrid in product.metafields.image-block-in.grid %}
+          {% assign count = count | plus: 1 %}
+        <img loading="eager" {{count}} {% if count <= 4 %} {% else %} style="display:none;" {%endif %}  src="{{ imgParentGrid }}" alt="{{imgParentGrid.alt}}" class="imageParent-in-Grid image-position-in-the-grid-{{forloop.index}}" />
+        {% endfor %}
+        </div>
+        <button class="viewAll-items-full"><span><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none">
+        <path d="M10.9091 0H1.09091C0.801582 0 0.524105 0.114935 0.31952 0.31952C0.114935 0.524105 0 0.801582 0 1.09091V10.9091C0 11.1984 0.114935 11.4759 0.31952 11.6805C0.524105 11.8851 0.801582 12 1.09091 12H10.9091C11.1984 12 11.4759 11.8851 11.6805 11.6805C11.8851 11.4759 12 11.1984 12 10.9091V1.09091C12 0.801582 11.8851 0.524105 11.6805 0.31952C11.4759 0.114935 11.1984 0 10.9091 0ZM10.9091 5.45455H6.54545V1.09091H10.9091V5.45455ZM5.45455 1.09091V5.45455H1.09091V1.09091H5.45455ZM1.09091 6.54545H5.45455V10.9091H1.09091V6.54545ZM10.9091 10.9091H6.54545V6.54545H10.9091V10.9091Z" fill="white"/>
+      </svg></span> view all</button>
+        </div>
+     
+    </div>
+</div>
+<div class="full-width-view-slider-all-images">
+
+</div>
+
+<div class="full-cover-image-expand">
+  <div class="cover-holder-with-closing">
+  <img src="" class="imageFull-expanding"/>
+  </div>
+</div>
+
+<div class="view-all-custom-splide-slider">
+  <div class="inside-view-all-spl">
+  <div class="splide-all-images" role="group" >
+    <div class="splide__arrows">
+      <button class="splide__arrow splide__arrow--prev">
+        <svg xmlns="http://www.w3.org/2000/svg" width="17" height="28" viewBox="0 0 17 28" fill="none">
+        <path d="M14.8699 2.52173L3.39166 14L14.8699 25.4783" stroke="#251B63" stroke-width="3.47826" stroke-linecap="round"/>
+        </svg>
+      </button>
+      <button class="splide__arrow splide__arrow--next">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="28" viewBox="0 0 16 28" fill="none">
+        <path d="M1.95607 2.52173L13.4343 14L1.95607 25.4783" stroke="#251B63" stroke-width="3.47826" stroke-linecap="round"/>
+        </svg>
+      </button>
+    </div>
+  <div class="splide__track">
+		<ul class="splide__list">
+      {% for imgParentGrid in product.metafields.image-block-in.grid %}
+        <li class="splide__slide">
+        <img loading="eager" src="{{ imgParentGrid }}" alt="{{imgParentGrid.alt}}" class="image-in-splide-js" />
+        </li>
+      {% endfor %}
+
+		</ul>
+  </div>
+  <button class="close-the-interactive-slider-bot" title="Close (esc)">
+        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 64 64"><defs><style>.cls-1{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:2px}</style></defs><path class="cls-1" d="M19 17.61l27.12 27.13m0-27.13L19 44.74"></path></svg>
+      </button>
+</div>
+</div>
+</div> 
+<script>
+//   $(".imageParent-in-Grid").click(function() {
+//     // Get the src attribute of the clicked image
+//     var currentAttribute = $(this).attr("src");
+
+//     // Add the 'expandTheview' class to the '.full-cover-image-expand' element
+//     $(".full-cover-image-expand").addClass("expandTheview");
+
+//     // Set the src attribute of the 'imageFull-expanding' element
+//     $(".imageFull-expanding").attr("src", currentAttribute);
+// });
+$(".full-cover-image-expand").click(function(){
+  $(".full-cover-image-expand").removeClass("expandTheview");
+});
+$(".viewAll-items-full").click(function(){
+  $(".view-all-custom-splide-slider").addClass("expandToSlider");
+
+});
+
+$(".imageParent-in-Grid").click(function(){
+  $(".view-all-custom-splide-slider").addClass("expandToSlider");
+
+})
+
+$(".close-the-interactive-slider-bot").click(function(){
+$(".view-all-custom-splide-slider").removeClass("expandToSlider")
+});
+// Close the slider when the Escape key is pressed
+$(document).on('keydown', function(event) {
+    if (event.key === "Escape" || event.keyCode === 27) {
+      $(".view-all-custom-splide-slider").removeClass("expandToSlider")
+    }
+});
+// $(".view-all-custom-splide-slider").click(function(){
+//   $(this).removeClass("expandToSlider");
+
+// })
+
+
+</script>
+
+<script>
+
+  var splideNew = new Splide('.splide-all-images', {
+    perPage: 1,
+    arrows: true,
+    pagination: false,
+    perMove: 1,
+    type: 'fade',
+    autoplay: 'pause',
+    adaptiveHeight: true,
+    rewind: true,
+    drag: true,
+    interval: 4000,
+    speed: 2000,
+    keyboard: true
+  });
+
+  splideNew.mount();
+
+
+</script>
+{% schema %}
+    {
+      "name": "Image Grid PDP",
+      "class": "image-grid-pdps",
+      "settings": [    
+      ],
+      "presets": [
+        {
+            "name": "Image Grid PDP",
+
+        } 
+      ]
+    } 
+  {% endschema %}  

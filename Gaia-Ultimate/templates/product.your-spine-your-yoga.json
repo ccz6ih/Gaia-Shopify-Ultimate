@@ -1,0 +1,841 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_rrJBPx": {
+      "type": "slideshow",
+      "blocks": {
+        "hero_4xGTJn": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "<strong>Your Spine, Your Yoga: The Course\n</strong>",
+            "h1_title": true,
+            "title_size": 58,
+            "subheading": "<div id=\"yoga-header-subtitle\">\n<span class=\"yoga-header-feature-1\">8 Hours of Learning</span>\n<span class=\"yoga-header-feature-2\">9 Practices and Tutorials</span>\n<span class=\"yoga-header-feature-3\">Certificate of Completion</span>\n<span class=\"yoga-header-feature-4\">Unlimited Course Access</span>\n</div>",
+            "enlarge_subheading": true,
+            "link": "#offer",
+            "link_text": "Enroll Now",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#01b4b4",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Your-Spine-Your-Yoga-LP-Banner.webp",
+            "overlay_opacity": 40
+          }
+        }
+      },
+      "block_order": [
+        "hero_4xGTJn"
+      ],
+      "custom_css": [],
+      "settings": {
+        "full_width": true,
+        "desktop_size": -20,
+        "mobile_size": 40,
+        "style": "minimal",
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_jd3gcQ": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_ECbxFi": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h3>LEARN HOW TO INCREASE SPINAL STABILITY, MOBILITY, ENDURANCE, AND WELL-BEING\n</h3><p>Experts estimate that up to <strong>80 percent</strong> of the population will experience back pain at some time in their lives.</p>\n<p>\n\n<strong>It doesn’t need to be this way</strong>.<em> Your Spine, Your Yoga: The Course</em> with Bernie Clark and Dr. Stuart McGill reveals how yoga and other movement practices can be applied in a way that respects our anatomical differences and optimizes back health. </p>\n\n<p>This eight-hour course will guide you in developing a practice unique to your life and your body. It’s for those who experience back pain, yoga teachers and therapists, and movement enthusiasts from all walks of life who want to learn more about the function and mechanics of their spine.</p>\n\n<h3>SPINE STABILITY: THE CORE OF PHYSICAL WELL-BEING</h3>\n<p>The spine is a multi-faceted, multi-functional construct uniquely designed to provide both stability and mobility through our torso to our limbs. While physical yoga practices have been used for decades to increase the range of motion of the spine, the spine’s primary function is, first and foremost, to provide stability through the core of our body. Building this stability is protective for the lower back and prepares the body to endure (and adapt to) multiple forms and levels of stress.</p>",
+            "width": "75%",
+            "alignment": "center"
+          }
+        },
+        "image_BdtMTY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Stu_MultiScreen-1e45f42ca251bc7e8ccf9dce0b3d054c.png",
+            "link": "",
+            "width": "66%",
+            "alignment": "center"
+          }
+        },
+        "liquid_dNncr3": {
+          "type": "liquid",
+          "settings": {
+            "code": "Equally important in developing and maintaining spinal health is understanding how your own uniqueness dictates the nature of your practice. No one has your biology or biography, thus a standardized practice offered to every body is rarely the most effective way to work with your spine.",
+            "width": "75%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_ECbxFi",
+        "image_BdtMTY",
+        "liquid_dNncr3"
+      ],
+      "custom_css": [
+        ".custom-content {justify-content: center;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "columns_1_7zGKtb": {
+      "type": "columns-1",
+      "blocks": {
+        "button_J8cahf": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Enroll Now",
+            "link_entitled": "",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "button_J8cahf"
+      ],
+      "custom_css": [],
+      "settings": {
+        "narrow_column": true,
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "columns_1_eVRqCB": {
+      "type": "columns-1",
+      "blocks": {
+        "text_9CMDfC": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<h3>IN THIS COURSE, YOU WILL DISCOVER:</h3><p><strong>The code—the science of the spine</strong></p><p>Professor McGill and Bernie discuss back-related themes through the lenses of biology, biomechanics, and pain mechanisms, including: </p><ul><li>Spinal architecture, functioning, and what actions can cause injury</li><li>Understanding the trade-off between spinal stability and mobility </li><li>How individual variations in anatomical structure affect ranges of motion and injury mechanisms</li><li>Neuromobilization and “nerve gliding” explained, with some simple techniques that you can try right away</li><li>Fascia and its effect on the body during movement</li><li>Understanding the muscles as proprioceptors, and their role in back pain</li><li>Why the rest period is the most important part of the movement cycle and how ignoring rest can lead to injury</li><li>The common sources (and the roles) of tension, compression, and shear </li><li>Developing a working understanding of optimal stress for optimal health </li><li>The importance of proper assessment when working with back pain</li></ul><p></p><p><strong>The art—making it real</strong></p><p>Theory becomes practice! Professor McGill and Bernie demonstrate how to apply the knowledge of the spine to yoga, daily life, work, sports, and exercise. They explore:</p><ul><li>How yoga teachers can adapt their teaching to incorporate cues that are appropriate for a variety of bodies, needs, and goals </li><li>How The McGill Big Three exercises build stability for the spine in a safe, progressive manner </li><li>Demonstrations and adaptations of yoga poses and The McGill Big Three for varying bodies and strength levels  </li></ul><p></p><p><strong>Practices—taking it to the mat </strong></p><p>Bernie Clark will apply the principles discussed in the code and the art in three guided yoga classes:</p><ul><li>A one-hour yin yoga class focused on increasing spinal mobility</li><li>A one-hour active (yang) yoga class focused on building spinal strength and endurance</li><li>A one-hour yin/yang class to develop both mobility and stability for the spine</li></ul><p>At the end of the practice segment are bonus tutorials with Professor McGill where he helps several students uniquely adapt their yoga practice for their bodies.</p><p>“I’m often asked about my opinion on yoga and the answer is always ‘It depends.’ It depends on the individual, how old they are, their injury history, and their personal anatomy. That’s what really motivated me to join with Bernie and put this project together to really help guide people toward making yoga their own.” —Dr. Stuart McGill</p><p><em>This course is not intended to be medical advice. If you have back pain or spinal conditions, please check with your healthcare provider before trying any suggestions offered.</em></p>"
+          }
+        },
+        "button_qDQXzC": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Enroll Now",
+            "link_entitled": "",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        },
+        "liquid_mKdVdp": {
+          "type": "liquid",
+          "settings": {
+            "code": "<span />"
+          }
+        }
+      },
+      "block_order": [
+        "text_9CMDfC",
+        "button_qDQXzC",
+        "liquid_mKdVdp"
+      ],
+      "settings": {
+        "narrow_column": true,
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "2",
+        "show_wave": true,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "columns_1_PD73bw": {
+      "type": "columns-1",
+      "blocks": {
+        "video_mp4_wR7rVb": {
+          "type": "video_mp4",
+          "settings": {
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/0beb1544b02a4d9d9da0af9324738d93.mp4",
+            "controls": true,
+            "loop": false,
+            "autoplay": true,
+            "video_width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "video_mp4_wR7rVb"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "COURSE PREVIEW",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "testimonials_VX87ia": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_U9HT9P": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>The information that Bernie and Stu provided not only helped me as a student of yin yoga but also as a teacher of a variety of styles. They offered an approach that gave me insight into how to cater a practice specifically to a student based on what they understand, what their anatomy is, and the most accessible way to get them deeper into their practice.</p>",
+            "author": "Premadasa G.",
+            "author_info": "Registered Yoga Teacher"
+          }
+        },
+        "testimonial_LV6qtb": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>To have two leading experts in their fields, Bernie Clark and Dr. Stuart McGill, discussing spinal health as it pertains to movement and yoga was invaluable. Highlighting the importance of first establishing spinal stability before working with mobility in yoga and other types of movement is essential for the health and longevity of our practice.</p>",
+            "author": "Cathy K.",
+            "author_info": "Registered Acupuncture Practitioner and Yoga Instructor"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_U9HT9P",
+        "testimonial_LV6qtb"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "blockquote {margin-top: 40px; margin-bottom: 20px;}"
+      ],
+      "settings": {
+        "title": "WHAT STUDENTS ARE SAYING",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "1"
+      }
+    },
+    "columns_2_FwTq3k": {
+      "type": "columns-2",
+      "blocks": {
+        "liquid_fR8WFf": {
+          "type": "liquid",
+          "settings": {
+            "parent_column": "left",
+            "code": "<blockquote class=\"testimonials-slider__text\" style=\"text-align:center; padding-top: 40px\"><cite>Premadasa G.</cite><div class=\"testimonials__info\">Registered Yoga Teacher</div><div class=\"rte-setting text-spacing\"><p>The information that Bernie and Stu provided not only helped me as a student of yin yoga but also as a teacher of a variety of styles. They offered an approach that gave me insight into how to cater a practice specifically to a student based on what they understand, what their anatomy is, and the most accessible way to get them deeper into their practice.</p></div><span class=\"testimonial-stars\">★★★★★</span></blockquote>"
+          }
+        },
+        "liquid_XznizW": {
+          "type": "liquid",
+          "settings": {
+            "parent_column": "right",
+            "code": "<blockquote class=\"testimonials-slider__text\" style=\"text-align:center; padding-top: 40px\"><cite>Cathy K.</cite><div class=\"testimonials__info\">Registered Acupuncture Practitioner and Yoga Instructor</div><div class=\"rte-setting text-spacing\"><p>To have two leading experts in their fields, Bernie Clark and Dr. Stuart McGill, discussing spinal health as it pertains to movement and yoga was invaluable. Highlighting the importance of first establishing spinal stability before working with mobility in yoga and other types of movement is essential for the health and longevity of our practice.</p></div><span class=\"testimonial-stars\">★★★★★</span>\n            </blockquote>"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_fR8WFf",
+        "liquid_XznizW"
+      ],
+      "custom_css": [
+        ".grid {display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; row-gap: 22px;}"
+      ],
+      "settings": {
+        "title": "WHAT STUDENTS ARE SAYING",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_RDRbPL": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_A8Pnpq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/YA-Logo-Red-Hz-Clean_400x200__1_-dc024114f9e8eafc4ecfa5c197a06863.png",
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_U7PKbq": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h3>TEACHERS: GET 8 CONTINUING EDUCATION CREDITS\n</h3><p>Yoga Alliance requires all yoga teachers to accumulate at least 30 hours of continuing education every three years. 20 online hours are allowed to count toward this requirement.</p>\n<p>\n\nFulfilling 8 of these study hours is as easy as logging into the Yoga Alliance website and entering your hours after you’ve completed Your Spine, Your Yoga: The Course. Continue your yoga education with this course and more from the Yoga International library!</p>",
+            "width": "66%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_A8Pnpq",
+        "liquid_U7PKbq"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        }
+      },
+      "block_order": [
+        "description",
+        "tab",
+        "contact"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "product_recommendations_heading": "You may also like",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "more-products-vendor": {
+      "type": "more-products-vendor",
+      "disabled": true,
+      "settings": {
+        "products_per_row": 3,
+        "max_products": 5
+      }
+    },
+    "more-products-collection": {
+      "type": "more-products-collection",
+      "disabled": true,
+      "settings": {
+        "products_per_row": 3,
+        "max_products": 5
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {}
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "2"
+      }
+    },
+    "columns_2_98DK48": {
+      "type": "columns-2",
+      "blocks": {
+        "dropdown_z4x8PJ": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "left",
+            "reveal": false,
+            "title": "Chapter 1",
+            "text": "<p><strong>The Code</strong></p>",
+            "dropdown_text": "<ul><li>Your Spine, Your Yoga Reference Guide </li><li>Introduction</li><li>The Architecture of the Spine and Pelvis</li><li>Muscles as Proprioceptors</li><li>Spinal Stability Defined: Proximal Stiffness Creates Distal Mobility.</li><li>Optimal Stress for Optimal Health.</li><li>Why Yoga First Thing in the Morning Is Not Ideal.</li><li>Pain and Injury Pathways.</li><li>Yoga Before or After Sports?.</li><li>Size and Shape Matters.</li><li>Causes of Bulging Discs.</li><li>Spinal Hinges.</li><li>Sources of Tension and Compression.</li><li>Nerve Health: Neuromobilization.</li><li>Shear—Causes and Prevention.</li><li>A Straight Spine vs. a Neutral Spine: Finding Elastic Equilibrium.</li><li>Variations in the Hip Sockets: Ranges of Motion and Injury Mechanisms.</li><li>Variations in Lumbar Spines.</li><li>The Sacroiliac Joint.</li><li>Questions and Answers About the Code.</li><li>Questions and Answers About the Code</li></ul>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.<span>8m</span>\n</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_aCgfmG": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "left",
+            "reveal": false,
+            "title": "Chapter 2",
+            "text": "<p><strong>The Art</strong></p>",
+            "dropdown_text": "<ul><li>Bringing It to the Mat: Warrior I.</li><li>Bracing and Spacing: Creating Spinal Stability.</li><li>Bringing It to the Mat: Triangle Pose.</li><li>Sciatica.</li><li>Neuromobilization Techniques.</li><li>Maintaining Thoracic Kyphosis and Developing Thoracic Extension.</li><li>Breath Mechanics.</li><li>Safely Loading the Spine: Keep It Neutral.</li><li>McGill’s Big 3 Exercises for the Spine: Bird Dog (Balancing Cat).</li><li>McGill’s Big 3 Exercises for the Spine: Side Plank and More Accessible Variations.</li><li>McGill’s Big 3 Exercises for the Spine: The Curl Up.</li><li>Challenging the Hip Flexors With Dead Bug Pose.</li><li>The Back Bridge.</li><li>A Simple Exercise for Strengthening the Neck.</li><li>Finding and Maintaining Elastic Equilibrium.</li><li>Does Perfect Posture Exist?</li><li>Folding Forward With Straight Knees or Bent Knees.</li><li>Questions and Answers About the Art.</li><li>Summary of the Art.</li></ul>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_trVBPN": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "left",
+            "reveal": false,
+            "title": "Chapter 3",
+            "text": "<p><strong>Yoga Practices With Bernie Clark</strong></p>",
+            "dropdown_text": "<ul><li>Yin Yoga for the Spine.</li><li>Yang Yoga for the Spine.</li><li>Yin/Yang Yoga for the Spine.</li></ul>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_7LaE4g": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "right",
+            "reveal": false,
+            "title": "Chapter 4",
+            "text": "<p><strong>Tutorials with Dr. Stuart McGill</strong></p>",
+            "dropdown_text": "<ul><li>Revisit Kneeling Motion for Sore Knees.</li><li>Variation for a Half Sun Salutation.</li><li>One Deep Squat per Day.</li><li>Assessing the Hip Socket.</li><li>Joint-Sparing Stresses.</li><li>The Rolling Side Plank.</li></ul>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_gbfWKY": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "right",
+            "reveal": false,
+            "title": "Chapter 5",
+            "text": "<p><strong>Closing</strong></p>",
+            "dropdown_text": "<ul><li>Final Thoughts</li></ul>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_XVXHia": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "right",
+            "reveal": false,
+            "title": "Chapter 6",
+            "text": "<p><strong>Bonus Material</strong></p>",
+            "dropdown_text": "<ul><li>The Search for the Biological Tipping Point: Injury vs. Adaptation.</li><li>Bonus Q&A.</li></ul>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "dropdown_z4x8PJ",
+        "dropdown_aCgfmG",
+        "dropdown_trVBPN",
+        "dropdown_7LaE4g",
+        "dropdown_gbfWKY",
+        "dropdown_XVXHia"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "COURSE OUTLINE",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "2",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "columns_1_7wUm4C": {
+      "type": "columns-1",
+      "blocks": {
+        "dropdown_yb7NUr": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Chapter 1",
+            "text": "<p><strong>The Code</strong></p>",
+            "dropdown_text": "<ul><li>Your Spine, Your Yoga Reference Guide </li><li>Introduction</li><li>The Architecture of the Spine and Pelvis</li><li>Muscles as Proprioceptors</li><li>Spinal Stability Defined: Proximal Stiffness Creates Distal Mobility.</li><li>Optimal Stress for Optimal Health.</li><li>Why Yoga First Thing in the Morning Is Not Ideal.</li><li>Pain and Injury Pathways.</li><li>Yoga Before or After Sports?.</li><li>Size and Shape Matters.</li><li>Causes of Bulging Discs.</li><li>Spinal Hinges.</li><li>Sources of Tension and Compression.</li><li>Nerve Health: Neuromobilization.</li><li>Shear—Causes and Prevention.</li><li>A Straight Spine vs. a Neutral Spine: Finding Elastic Equilibrium.</li><li>Variations in the Hip Sockets: Ranges of Motion and Injury Mechanisms.</li><li>Variations in Lumbar Spines.</li><li>The Sacroiliac Joint.</li><li>Questions and Answers About the Code.</li><li>Questions and Answers About the Code</li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_xkXe8W": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Chapter 2",
+            "text": "<p><strong>The Art</strong></p>",
+            "dropdown_text": "<ul><li>Bringing It to the Mat: Warrior I.</li><li>Bracing and Spacing: Creating Spinal Stability.</li><li>Bringing It to the Mat: Triangle Pose.</li><li>Sciatica.</li><li>Neuromobilization Techniques.</li><li>Maintaining Thoracic Kyphosis and Developing Thoracic Extension.</li><li>Breath Mechanics.</li><li>Safely Loading the Spine: Keep It Neutral.</li><li>McGill’s Big 3 Exercises for the Spine: Bird Dog (Balancing Cat).</li><li>McGill’s Big 3 Exercises for the Spine: Side Plank and More Accessible Variations.</li><li>McGill’s Big 3 Exercises for the Spine: The Curl Up.</li><li>Challenging the Hip Flexors With Dead Bug Pose.</li><li>The Back Bridge.</li><li>A Simple Exercise for Strengthening the Neck.</li><li>Finding and Maintaining Elastic Equilibrium.</li><li>Does Perfect Posture Exist?</li><li>Folding Forward With Straight Knees or Bent Knees.</li><li>Questions and Answers About the Art.</li><li>Summary of the Art.</li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_D8XXPz": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Chapter 3",
+            "text": "<p><strong>Yoga Practices With Bernie Clark</strong></p>",
+            "dropdown_text": "<ul><li>Yin Yoga for the Spine.</li><li>Yang Yoga for the Spine.</li><li>Yin/Yang Yoga for the Spine.</li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_jXKehg": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Chapter 4",
+            "text": "<p><strong>Tutorials with Dr. Stuart McGill</strong></p>",
+            "dropdown_text": "<ul><li>Revisit Kneeling Motion for Sore Knees.</li><li>Variation for a Half Sun Salutation.</li><li>One Deep Squat per Day.</li><li>Assessing the Hip Socket.</li><li>Joint-Sparing Stresses.</li><li>The Rolling Side Plank.</li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_F8j6qQ": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Chapter 5",
+            "text": "<p><strong>Closing</strong></p>",
+            "dropdown_text": "<ul><li>Final Thoughts</li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "dropdown_VH6qEg": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Chapter 6",
+            "text": "<p><strong>Bonus Material</strong></p>",
+            "dropdown_text": "<ul><li>The Search for the Biological Tipping Point: Injury vs. Adaptation.</li><li>Bonus Q&A.</li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "button_YQtaLt": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Enroll Now",
+            "link_entitled": "",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "dropdown_yb7NUr",
+        "dropdown_xkXe8W",
+        "dropdown_D8XXPz",
+        "dropdown_jXKehg",
+        "dropdown_F8j6qQ",
+        "dropdown_VH6qEg",
+        "button_YQtaLt"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "COURSE OUTLINE",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "2",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "columns_2_pGHyw9": {
+      "type": "columns-2",
+      "settings": {
+        "title": "TEACHERS",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_VYrEgr": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_nYKYrg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BERNIE_HEADSHOT_1080x1080-2fabdb8614146b880ec31baca8394f5c.webp",
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "liquid_3axGWg": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h3>Bernie Clark\n</h3><p>Bernie has been travelling the yogic path for over 35 years, starting with a daily meditation practice that he established in his mid-twenties, in order to deal with stress in his business career. In his early forties, he was introduced into the physical practices of yoga through Hatha yoga, which assisted him greatly in his meditation practice.</p><p> He has a degree in science and spent 30 years as a senior executive in the high tech, space industry, but he also continued to feed his intense curiosity about psychology, mythology, anatomy and philosophy, which culminated in his writing several books about yoga, mythology and anatomy. Today, Bernie is a yoga teacher and educator offering classes, teacher trainings and workshops in Vancouver, Canada. He continues to write books and maintain his website, <a href=\"https://yinyoga.com/\">www.YinYoga.com</a>.</p>",
+            "width": "66%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_nYKYrg",
+        "liquid_3axGWg"
+      ],
+      "custom_css": [
+        "img {border-radius: 100%;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_znz7CG": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_jbzxG4": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h3>Dr. Stuart McGill\n</h3><p>Dr. McGill is a professor emeritus at the University of Waterloo, where he was a professor for 30 years. His laboratory and experimental research clinic investigated issues related to the causal mechanisms of back pain, how to rehabilitate back-pained people and enhance both injury resilience and performance. His advice is often sought by governments, corporations, legal experts, medical groups, and elite athletes and teams from around the world.</p>\n\n<p>His work produced over 240 peer-reviewed scientific journal papers, several textbooks, and many international awards. He mentored over 37 graduate students during this scientific journey.</p>\n\n<p>During this time he also taught thousands of clinicians and practitioners in professional development and continuing education courses around the world.</p>",
+            "width": "66%",
+            "alignment": "top-middle"
+          }
+        },
+        "image_HjEcGJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Stu_1.webp",
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_jbzxG4",
+        "image_HjEcGJ"
+      ],
+      "custom_css": [
+        "img {border-radius: 100%;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_DpcLJt": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_cjtEqV": {
+          "type": "liquid",
+          "settings": {
+            "code": "<span id=\"offer\" />",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_cjtEqV"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_DTHwPR": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_8E7zqL": {
+          "type": "liquid",
+          "settings": {
+            "code": "<span id=\"offer\" />",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_8E7zqL"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "sales_point3": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "icon": "leaf",
+            "icon_color": "",
+            "text": "Carbon neutral"
+          }
+        },
+        "50297793-9b3d-4867-9832-cd6689a53dfe": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "sales_point4": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "lock",
+            "icon_color": "",
+            "text": "Secure payments"
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        }
+      },
+      "block_order": [
+        "variant_picker",
+        "price",
+        "sales_point3",
+        "50297793-9b3d-4867-9832-cd6689a53dfe",
+        "sales_point4",
+        "inventory_status",
+        "buy_buttons"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": false,
+        "h1_title": true,
+        "hide_media": false,
+        "align_text": "left",
+        "image_position": "left",
+        "image_container_size": "medium",
+        "product_image_size": "square",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    }
+  },
+  "order": [
+    "slideshow_rrJBPx",
+    "advanced_content_jd3gcQ",
+    "columns_1_7zGKtb",
+    "columns_1_eVRqCB",
+    "columns_1_PD73bw",
+    "testimonials_VX87ia",
+    "columns_2_FwTq3k",
+    "advanced_content_RDRbPL",
+    "sub",
+    "recommendations",
+    "more-products-vendor",
+    "more-products-collection",
+    "recently-viewed",
+    "collection-return",
+    "columns_2_98DK48",
+    "columns_1_7wUm4C",
+    "columns_2_pGHyw9",
+    "advanced_content_VYrEgr",
+    "advanced_content_znz7CG",
+    "advanced_content_DpcLJt",
+    "advanced_content_DTHwPR",
+    "main"
+  ]
+}

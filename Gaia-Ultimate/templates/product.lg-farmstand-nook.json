@@ -1,0 +1,1031 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "5e1b3590-ca37-43ec-8b73-e26a4566391d": {
+      "type": "hero-video",
+      "custom_css": [
+        ".hero--template--21082192085313__5e1b3590-ca37-43ec-8b73-e26a4566391d {min-height: 400px;}",
+        "@media (min-width: 769px) {h1 {font-size: 40px; line-height: 1em; margin-top: 0; }}",
+        ".hero__subtitle {font-size: 1.1em;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "title": "Bring Home the Wonder of Nature\nwith the Farmstand Nook",
+        "h1_title": true,
+        "title_size": 40,
+        "subheading": "Join us in revolutionizing the food system and creating a more sustainable future.",
+        "link_text": "Buy Now",
+        "link": "#buy-now",
+        "color_accent": "#01b4b4",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/b062f722b53242929465086dd2f0547b.mp4",
+        "overlay_opacity": 26,
+        "height": 450,
+        "height_mobile": 300
+      }
+    },
+    "c9f3ed46-c975-47d1-948c-c9ceefb09420": {
+      "type": "text-and-image",
+      "custom_css": [
+        "ul {position: relative; margin-left: 0; text-indent: 0; list-style: none; padding: 2rem; background: #e2e1dd;}",
+        "ul li h4 {line-height: 1.25em;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/nook.jpg",
+        "image_mask": "portrait",
+        "image2_mask": "square",
+        "subtitle": "",
+        "title": "The Farmstand Nook",
+        "heading_size": "h2",
+        "text": "<p>Lettuce Grow CEO, Jacob Pechenik, said it best...</p><ul><li><h4><em>It’s the magic. </em></h4></li><li><h4><em>It’s sharing the feeling of growing your own food, of being a farmer.</em></h4></li><li><h4><em>Of creating and observing life. </em></h4></li><li><h4><em>Of enjoying the bees and the butterflies. </em></h4></li><li><h4><em>Of watching kids sneak off, stealing fresh produce off of the Farmstand, and popping it into their mouths between giggles.</em></h4></li></ul><p>Grow herbs, greens, flowers and more, all year long, with the Farmstand Nook: a compact, 20-plant indoor edition of our self-watering and self-fertilizing hydroponic system.</p><p>The Nook is designed to make it easy to grow produce indoors, even in tight spaces. With a smaller tank and fully-integrated lights, the Farmstand Nook empowers any home chef to grow the freshest ingredients just steps from their stove top. Prepare for the ultimate dinner table transformation.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "3c06f90b-1fea-459f-a40a-9bae23dadf3c": {
+      "type": "columns-1",
+      "blocks": {
+        "3ffcf054-4ca7-4ec2-89a1-31b377e58eda": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=ggBhAT3Sbik",
+            "video_width": "66"
+          }
+        }
+      },
+      "block_order": [
+        "3ffcf054-4ca7-4ec2-89a1-31b377e58eda"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "Meet The Farmstand Nook",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "fab304e0-7158-49a1-9b8f-444c6c85fdfa": {
+      "type": "columns-3",
+      "blocks": {
+        "template--21049407635777__fab304e0-7158-49a1-9b8f-444c6c85fdfa-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<p>I remember the first time I visited our farm in Austin, Texas and pulled a fresh turnip out of the ground. I was in awe - not only of its extraordinary taste and beauty but by the profound connection I felt to nature and the magic it holds. It made me realize how flawed our food system is. How disconnected most of us are from where our food comes from. And how much power we have to change it.</p><p>That moment inspired my journey to create Lettuce Grow and The Farmstand, so everyone could experience the transformative power of knowing where your food comes from and the joy of growing it yourself.</p>"
+          }
+        },
+        "f9f67438-b2ce-4ada-b656-e3d1a1b10681": {
+          "type": "text",
+          "settings": {
+            "parent_column": "center",
+            "enlarge_text": false,
+            "text": "<p>Lettuce Grow is more than gardening. It’s a movement designed to inspire individuals and families to demand better from our food system. To improve our health, lessen the impact of climate change, and address global resource constraints. Each time you plant a seedling or harvest your produce, you make a difference for your family and the planet.</p><p>We encourage you to engage with where your food comes from and help us move toward a system that respects our farmers and the land. Together, let's create a more sustainable and nourishing world!</p><h4><em><strong>Jacob Pechenik & Zooey Deschanel<br/>(Co-Founders) </strong></em></h4>"
+          }
+        },
+        "template--21049407635777__fab304e0-7158-49a1-9b8f-444c6c85fdfa-image-2": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/farmstand-lettuc-growing-story.jpg",
+            "link": "",
+            "image_mask": "square"
+          }
+        }
+      },
+      "block_order": [
+        "template--21049407635777__fab304e0-7158-49a1-9b8f-444c6c85fdfa-text-1",
+        "f9f67438-b2ce-4ada-b656-e3d1a1b10681",
+        "template--21049407635777__fab304e0-7158-49a1-9b8f-444c6c85fdfa-image-2"
+      ],
+      "custom_css": [
+        "h4 {margin-top: 0;}"
+      ],
+      "settings": {
+        "title": "The Lettuce Grow Story",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_center_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "2",
+        "show_wave": true,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "3fbdf3ac-a5ef-416c-9aec-5eed93731ed2": {
+      "type": "text-columns",
+      "blocks": {
+        "template--21082192085313__3fbdf3ac-a5ef-416c-9aec-5eed93731ed2-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/lg-nook-square-6.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "5191463a-2860-4b2b-b863-59c638ffa94d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/lg-nook-square-8.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "7c04b621-bf67-4ac2-9094-b2c80b667ab1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/lg-nook-square-1.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21082192085313__3fbdf3ac-a5ef-416c-9aec-5eed93731ed2-text_block-1",
+        "5191463a-2860-4b2b-b863-59c638ffa94d",
+        "7c04b621-bf67-4ac2-9094-b2c80b667ab1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subtitle": "",
+        "align_text": "left",
+        "grid": 3,
+        "divider": false,
+        "color_scheme": "none"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "f3ca00e9-40f8-433f-a666-63385c72b506": {
+          "type": "custom",
+          "settings": {
+            "code": "<a id=\"buy-now\" name=\"buy-now\" style=\"position: absolute;margin-top: -15rem;\"></a>"
+          }
+        },
+        "68da108d-24ab-42b1-9546-fdbdee99432a": {
+          "type": "text",
+          "settings": {
+            "text": "Available in the U.S. only."
+          }
+        },
+        "db1def3f-8868-4eb6-8667-ccd6f9ddc4cc": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "none",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Includes:</strong>"
+          }
+        },
+        "e92dbc3b-16fd-4acc-8808-dd9145b5f231": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Integrate LED lights"
+          }
+        },
+        "6e0402ca-2f07-42f5-9836-63724f176112": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "20 Grow Cups and Grow Sleeves"
+          }
+        },
+        "058d1858-c307-478e-897b-b00d017310cb": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Water-resistant floor mat"
+          }
+        },
+        "00d6505e-37e9-4ccf-9a81-4b55a3318559": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Water pump"
+          }
+        },
+        "0ebbac2e-ec08-4166-b8c5-b0403b5c7de4": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Digital Smart Timer"
+          }
+        },
+        "671c8c3d-c1c6-4f65-8621-a2ae8d30a755": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Plant nutrients and scoops"
+          }
+        },
+        "23fd61d3-2496-4105-9bf9-a3cc5e65ba7d": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Digital pH Pen and related supplies"
+          }
+        },
+        "998dc194-0a07-4083-b7b2-e38bf9e4b50d": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "none",
+            "icon_color": "#01b4b4",
+            "text": ""
+          }
+        },
+        "9160bdff-3e2c-42f6-b4e7-b25a1361165d": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "pH Down for optimal water"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "f3ca00e9-40f8-433f-a666-63385c72b506",
+        "68da108d-24ab-42b1-9546-fdbdee99432a",
+        "db1def3f-8868-4eb6-8667-ccd6f9ddc4cc",
+        "e92dbc3b-16fd-4acc-8808-dd9145b5f231",
+        "6e0402ca-2f07-42f5-9836-63724f176112",
+        "058d1858-c307-478e-897b-b00d017310cb",
+        "00d6505e-37e9-4ccf-9a81-4b55a3318559",
+        "0ebbac2e-ec08-4166-b8c5-b0403b5c7de4",
+        "671c8c3d-c1c6-4f65-8621-a2ae8d30a755",
+        "23fd61d3-2496-4105-9bf9-a3cc5e65ba7d",
+        "998dc194-0a07-4083-b7b2-e38bf9e4b50d",
+        "9160bdff-3e2c-42f6-b4e7-b25a1361165d",
+        "price",
+        "separator",
+        "variant_picker",
+        "inventory_status",
+        "buy_buttons",
+        "description",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "custom_css": [],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": false,
+        "h1_title": false,
+        "hide_media": false,
+        "align_text": "left",
+        "image_position": "left",
+        "image_container_size": "medium",
+        "product_image_size": "natural",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "e6fa5fae-029e-48df-a6da-fe4caef08809": {
+      "type": "columns-3",
+      "blocks": {
+        "4402376f-b093-48ab-841f-68d51ab9b7a9": {
+          "type": "image",
+          "settings": {
+            "parent_column": "left",
+            "image": "shopify://shop_images/pdp-icons-new-03.webp",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "8fea97b2-28e2-432c-82e8-a8dfc04a729a": {
+          "type": "image",
+          "settings": {
+            "parent_column": "center",
+            "image": "shopify://shop_images/pdp-icons-new-01.webp",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "ae1572b3-8361-40c9-b98a-addbbb87ab53": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/pdp-icons-new-02.webp",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "template--20197640634689__e6fa5fae-029e-48df-a6da-fe4caef08809-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<h3>90- Day Risk-Free Guarantee</h3><p>*See warranty section below for details</p><p></p>"
+          }
+        },
+        "76fa2165-a4cb-4aca-a03b-f6a545f7f60c": {
+          "type": "text",
+          "settings": {
+            "parent_column": "center",
+            "enlarge_text": false,
+            "text": "<h3>Plant Perks Rewards</h3><p></p>"
+          }
+        },
+        "583c7003-2d98-42fd-bbae-515698196ce0": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": false,
+            "text": "<h3>Free Shipping</h3><p></p>"
+          }
+        }
+      },
+      "block_order": [
+        "4402376f-b093-48ab-841f-68d51ab9b7a9",
+        "8fea97b2-28e2-432c-82e8-a8dfc04a729a",
+        "ae1572b3-8361-40c9-b98a-addbbb87ab53",
+        "template--20197640634689__e6fa5fae-029e-48df-a6da-fe4caef08809-text-1",
+        "76fa2165-a4cb-4aca-a03b-f6a545f7f60c",
+        "583c7003-2d98-42fd-bbae-515698196ce0"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".image-wrap {width: 64px; padding-bottom: 64px !important; margin-left: auto; margin-right: auto; background-color: transparent !important;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "center",
+        "column_center_align_text": "center",
+        "column_right_align_text": "center",
+        "color_scheme": "2",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "78385d1e-187c-4cf5-ab7d-445e698d20f6": {
+      "type": "dropdown-with-image",
+      "blocks": {
+        "template--21049407635777__78385d1e-187c-4cf5-ab7d-445e698d20f6-dropdown-1": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Can be Used Indoor & Outdoor",
+            "text": "<p>The farmstand's modular design can be used indoors or outdoors.</p>",
+            "dropdown_text": "",
+            "image": "shopify://shop_images/Lettuce_Grow_Indoor_Outdoor.webp",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "template--21049407635777__78385d1e-187c-4cf5-ab7d-445e698d20f6-dropdown-2": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Design for Easy Expansion",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "dropdown_text": "",
+            "image": "shopify://shop_images/LETTUCE_GROW_Modular_Design.webp",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "template--21049407635777__78385d1e-187c-4cf5-ab7d-445e698d20f6-dropdown-3": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Ability to Grow an Abundant Assortment",
+            "text": "<p>The farmstand's 20 gallon water tank was designed to keep thirsty produce thriving. </p>",
+            "dropdown_text": "",
+            "image": "shopify://shop_images/LETTUCE_GROW_Abundant_Asst.webp",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "template--21049407635777__78385d1e-187c-4cf5-ab7d-445e698d20f6-dropdown-4": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Easy Maintenance",
+            "text": "<p>The farmstand was created with convenience n mind. Maintenance only takes about 5 minutes a week.</p>",
+            "dropdown_text": "",
+            "image": "shopify://shop_images/LETTUCE_GROW_Easy_Maint.webp",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "653cf1ec-ce8b-4010-94ad-a0a54559d68b": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Self-Water for Extra Convenience",
+            "text": "<p>Grow produce with confidence thanks to our easy-to-use hydroponic system.  This design delivers the precise amount of water and nutrients and recycles excess back into the tank.</p>",
+            "dropdown_text": "",
+            "image": "shopify://shop_images/LETTUCE_GROW_Self_Watering.webp",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "32b8ffa9-655d-46b6-892d-2051b8d37177": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Self-Fertilizing so Your Plants Thrive",
+            "text": "<p>Easily add nutrient packet to your tank according to the maintenance schedule.</p>",
+            "dropdown_text": "",
+            "image": "shopify://shop_images/LETTUCE_GROW_Self_Fertilize.webp",
+            "background_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21049407635777__78385d1e-187c-4cf5-ab7d-445e698d20f6-dropdown-1",
+        "template--21049407635777__78385d1e-187c-4cf5-ab7d-445e698d20f6-dropdown-2",
+        "template--21049407635777__78385d1e-187c-4cf5-ab7d-445e698d20f6-dropdown-3",
+        "template--21049407635777__78385d1e-187c-4cf5-ab7d-445e698d20f6-dropdown-4",
+        "653cf1ec-ce8b-4010-94ad-a0a54559d68b",
+        "32b8ffa9-655d-46b6-892d-2051b8d37177"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "title": "You’ll Love the Farmstand Nook",
+        "heading_size": "h2",
+        "heading_position": "center"
+      }
+    },
+    "55987148-7552-483f-aaab-ea14268a0669": {
+      "type": "text-columns",
+      "blocks": {
+        "60ea3718-736f-4235-b1b6-c1a32759636a": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/ark-crystal-bottle-glass-of-water.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "494424aa-8470-40d7-af1e-1904527cebf3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/LG_Farmstand_Nook_Indoors.webp",
+            "image_mask": "landscape",
+            "image_width": 650,
+            "title": "Grow Indoors",
+            "heading_size": "h3",
+            "text": "<p>Grow the best ingredients anywhere you choose indoors.</p>",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20293138153793__55987148-7552-483f-aaab-ea14268a0669-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/LG_Nook_Compact_c966de96-7297-4072-8923-6b005f3faa9e.png",
+            "image_mask": "landscape",
+            "image_width": 650,
+            "title": "Compact Design for Seamless Fit",
+            "heading_size": "h3",
+            "text": "<p>Easily fits into any nook of your home.</p>",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "af2584a2-f3d9-4005-9451-1412fc80f356": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/LG_Nook_Easy_Maint.png",
+            "image_mask": "landscape",
+            "image_width": 650,
+            "title": "Easy Maintenance",
+            "heading_size": "h3",
+            "text": "<p>Specially-designed grow sleves allow for easier root control.</p>",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "07904c96-c52b-447f-9d52-cccad054940a": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/LG_Nook_Digital.png",
+            "image_mask": "landscape",
+            "image_width": 650,
+            "title": "Digital Accessories for Simple Automation ",
+            "heading_size": "h3",
+            "text": "<p>Have travel plans? Our app-enabled smart timer allows you to remotely update the watering and lighting system.</p>",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "c4ba0626-b3a3-45df-ab6c-d9177253a4dd": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/LG_Nook_Self_Watering.png",
+            "image_mask": "landscape",
+            "image_width": 650,
+            "title": "Self-Watering for Extra Convenience ",
+            "heading_size": "h3",
+            "text": "<p>Grow produce with confidence thanks to our easy-to-use hydroponic system.  This design delivers the precise amount of water and nutrients and recycles excess back into the tank.</p>",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "9b089a50-2c8d-4361-8e86-98c710445b21": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/3_eef299ea-ede1-41b5-9c9b-da1f83754370.webp",
+            "image_mask": "landscape",
+            "image_width": 650,
+            "title": "Self-Fertilizing so Your Plants Thrive",
+            "heading_size": "h3",
+            "text": "<p>Easily add nutrient packet to your tank according to the maintenance schedule.</p>",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "60ea3718-736f-4235-b1b6-c1a32759636a",
+        "494424aa-8470-40d7-af1e-1904527cebf3",
+        "template--20293138153793__55987148-7552-483f-aaab-ea14268a0669-text_block-2",
+        "af2584a2-f3d9-4005-9451-1412fc80f356",
+        "07904c96-c52b-447f-9d52-cccad054940a",
+        "c4ba0626-b3a3-45df-ab6c-d9177253a4dd",
+        "9b089a50-2c8d-4361-8e86-98c710445b21"
+      ],
+      "settings": {
+        "title": "You’ll Love the Farmstand Nook",
+        "heading_size": "h2",
+        "subtitle": "",
+        "align_text": "center",
+        "grid": 3,
+        "divider": false,
+        "color_scheme": "1"
+      }
+    },
+    "46f80a7f-b9f8-4be8-a5e0-c7d544b72c78": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--21049407635777__46f80a7f-b9f8-4be8-a5e0-c7d544b72c78-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2023-09-15_at_10.44.57_AM.png",
+            "link": "",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--21049407635777__46f80a7f-b9f8-4be8-a5e0-c7d544b72c78-image-1"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2": {
+      "type": "testimonials",
+      "blocks": {
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“I feel empowered to grow food in my apartment. Urban gardening has never felt so easy.”</p>",
+            "author": "Evan T. ",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“Easy to set up, easy to grow, easy on the eyes, and easy to upkeep.”</p>",
+            "author": "Kimberly K. ",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“My kids said the salad from the Farmstand was the best salad they’ve ever eaten.”</p>",
+            "author": "Meleisa W.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“One of the best decisions I’ve ever made - what a great investment in my health and our planet!”</p>",
+            "author": "Nina R. ",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4"
+      ],
+      "custom_css": [
+        ".testimonial-stars {color: #01b4b4;}"
+      ],
+      "settings": {
+        "title": "Customer Reviews",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "2"
+      }
+    },
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0": {
+      "type": "columns-1",
+      "blocks": {
+        "96a58abe-15e9-41be-a763-825ae0982e23": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "How do I assemble my Farmstand Nook?",
+            "text": "",
+            "dropdown_text": "<p><a href=\"https://www.youtube.com/watch?v=HLh0cc4oAus\" target=\"_blank\" title=\"https://www.youtube.com/watch?v=HLh0cc4oAus\">Here is a complete guide to assembling your Farmstand Nook. </a>We can't wait to get growing with you!</p>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "65fffa90-a1ec-4dad-a554-341bb16963cf": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "How do I reset my Farmstand Nook?",
+            "text": "",
+            "dropdown_text": "<p>Maintain healthy plant growth by resetting your Farmstand Nook every two months. Remove all of your plants and gently clean each component. <a href=\"https://www.youtube.com/watch?v=vUHBqaPNs0w\" target=\"_blank\" title=\"https://www.youtube.com/watch?v=vUHBqaPNs0w\">Follow along with our video guide here for detailed instructions.</a></p>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "59261c80-e8c7-47c3-a3f2-ff02cf967f67": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "What are the recommended watering cycles?",
+            "text": "",
+            "dropdown_text": "<p> </p>",
+            "dropdown_image": "shopify://shop_images/Mechanical_Water__Irrigation_Cycle_Chart_070623.jpg",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "71949193-2fe9-4957-8c4d-795f5bf9560b": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "How do I do weekly maintenance?",
+            "text": "",
+            "dropdown_text": "<p>Just a few minutes of maintenance each week will help your seedlings thrive. We filmed a little video to help you through the process, from adding nutrients to testing and adjusting pH levels.<a href=\"https://www.youtube.com/watch?v=mYUHU3aYvFA\" target=\"_blank\" title=\"https://www.youtube.com/watch?v=mYUHU3aYvFA\"> Watch the video for more information!</a></p>",
+            "background_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "96a58abe-15e9-41be-a763-825ae0982e23",
+        "65fffa90-a1ec-4dad-a554-341bb16963cf",
+        "59261c80-e8c7-47c3-a3f2-ff02cf967f67",
+        "71949193-2fe9-4957-8c4d-795f5bf9560b"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "FAQs",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "298ccc85-6301-46a4-a856-afe2b3f627e0": {
+      "type": "text-columns",
+      "blocks": {
+        "48df7f7b-b2c6-43a9-a6ca-4c53f6bb9efe": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/lg-nook-square-5.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "19ee335b-6fc0-48b4-bb93-bfd3ef83fbe2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/lg-nook-square-7.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "68bd10c9-9a5c-4431-b7fd-652c9581ebc5": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/lg-nook-square-3.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "48df7f7b-b2c6-43a9-a6ca-4c53f6bb9efe",
+        "19ee335b-6fc0-48b4-bb93-bfd3ef83fbe2",
+        "68bd10c9-9a5c-4431-b7fd-652c9581ebc5"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subtitle": "",
+        "align_text": "left",
+        "grid": 3,
+        "divider": false,
+        "color_scheme": "none"
+      }
+    },
+    "b851f8fa-3ed2-4f73-b75e-992829d011a0": {
+      "type": "columns-1",
+      "blocks": {
+        "14ad7a63-b948-4bdf-9fe8-28eeed57df3f": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Shipping",
+            "text": "",
+            "dropdown_text": "<ul><li>TBD</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": "#0f0f0f"
+          }
+        },
+        "8405bd39-414f-4586-b4bb-daf88dfe2afe": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Return Policy",
+            "text": "",
+            "dropdown_text": "<p><a href=\"https://www.lettucegrow.com/faq/what-is-the-return-policy\" target=\"_blank\" title=\"https://www.lettucegrow.com/faq/what-is-the-return-policy\">Please visit this page for return policy terms.</a></p>",
+            "background_color": "#ffffff",
+            "text_color": "#0f0f0f"
+          }
+        },
+        "fb925115-1a99-4bff-b35d-17c037a0c90f": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Warranty",
+            "text": "",
+            "dropdown_text": "<p><a href=\"https://www.lettucegrow.com/warranty\" target=\"_blank\" title=\"https://www.lettucegrow.com/warranty\">Please visit this page for more warranty information</a></p>",
+            "background_color": "#ffffff",
+            "text_color": "#0f0f0f"
+          }
+        }
+      },
+      "block_order": [
+        "14ad7a63-b948-4bdf-9fe8-28eeed57df3f",
+        "8405bd39-414f-4586-b4bb-daf88dfe2afe",
+        "fb925115-1a99-4bff-b35d-17c037a0c90f"
+      ],
+      "disabled": true,
+      "settings": {
+        "narrow_column": false,
+        "title": "Terms and Conditions",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "10ea6c10-d1b1-4a93-8c4e-0a9b5e3e3a3c": {
+      "type": "hero-video",
+      "settings": {
+        "full_width": true,
+        "title": "Bring Home the Wonder of Nature\nwith the the Farmstand Nook",
+        "h1_title": false,
+        "title_size": 40,
+        "subheading": "Join us in revolutionizing the food system and creating a more sustainable future",
+        "link_text": "Buy Now",
+        "link": "#buy-now",
+        "color_accent": "#01b4b4",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/5dbd3a813495438299f9fdf1c76fef5e.mp4",
+        "overlay_opacity": 26,
+        "height": 450,
+        "height_mobile": 300
+      }
+    }
+  },
+  "order": [
+    "5e1b3590-ca37-43ec-8b73-e26a4566391d",
+    "c9f3ed46-c975-47d1-948c-c9ceefb09420",
+    "3c06f90b-1fea-459f-a40a-9bae23dadf3c",
+    "fab304e0-7158-49a1-9b8f-444c6c85fdfa",
+    "3fbdf3ac-a5ef-416c-9aec-5eed93731ed2",
+    "main",
+    "e6fa5fae-029e-48df-a6da-fe4caef08809",
+    "78385d1e-187c-4cf5-ab7d-445e698d20f6",
+    "55987148-7552-483f-aaab-ea14268a0669",
+    "46f80a7f-b9f8-4be8-a5e0-c7d544b72c78",
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2",
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0",
+    "298ccc85-6301-46a4-a856-afe2b3f627e0",
+    "b851f8fa-3ed2-4f73-b75e-992829d011a0",
+    "10ea6c10-d1b1-4a93-8c4e-0a9b5e3e3a3c"
+  ]
+}

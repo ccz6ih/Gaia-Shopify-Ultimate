@@ -1,0 +1,308 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "events_hero_banner_wgmrKn": {
+      "type": "events-hero--banner",
+      "settings": {
+        "image-video": "video",
+        "v-link": "https://cdn.shopify.com/videos/c/o/v/8b8d3835ed7e41989482306ba9714247.mp4",
+        "title-intro": "Hand-Curated Experiences",
+        "title": "Whatever you seek, there's an adventure \nthat's right for you",
+        "body-text": ""
+      }
+    },
+    "blocks_in_banner_6yEdtM": {
+      "type": "blocks-in--banner",
+      "blocks": {
+        "section_YUgqiP": {
+          "type": "section",
+          "settings": {
+            "body-text": "Curated experiences by Gaia"
+          }
+        },
+        "section_HYBgAt": {
+          "type": "section",
+          "settings": {
+            "body-text": "Unique personal journeys"
+          }
+        },
+        "section_CcUAeG": {
+          "type": "section",
+          "settings": {
+            "body-text": "Vetted by our team"
+          }
+        },
+        "section_bTLCcA": {
+          "type": "section",
+          "settings": {
+            "body-text": "Book with confidence"
+          }
+        }
+      },
+      "block_order": [
+        "section_YUgqiP",
+        "section_HYBgAt",
+        "section_CcUAeG",
+        "section_bTLCcA"
+      ],
+      "settings": {
+        "title": "<p>Gaia Members Enjoy 10% OFF</p>",
+        "check-in-middle": true,
+        "btn-text": "Log In or Sign Up",
+        "btn-link": "/account/login",
+        "btn-text-c": "Learn More",
+        "btn-link-c": ""
+      }
+    },
+    "rich_text_meta_info_q79aJk": {
+      "type": "rich-text-meta-info",
+      "blocks": {
+        "section_YeFCzW": {
+          "type": "section",
+          "settings": {
+            "body-text": "Curated experiences by Gaia"
+          }
+        },
+        "section_z4Lzk4": {
+          "type": "section",
+          "settings": {
+            "body-text": "Unique personal journeys"
+          }
+        },
+        "section_phBkgF": {
+          "type": "section",
+          "settings": {
+            "body-text": "Vetted by our team"
+          }
+        },
+        "section_kbCCLi": {
+          "type": "section",
+          "settings": {
+            "body-text": "Book with confidence"
+          }
+        }
+      },
+      "block_order": [
+        "section_YeFCzW",
+        "section_z4Lzk4",
+        "section_phBkgF",
+        "section_kbCCLi"
+      ],
+      "settings": {
+        "title": "<p>Deepen your study to raise your vibration, optimize your health, and achieve self-mastery.</p>",
+        "hide-blocks": false,
+        "body-text": "Customize your learning journey with training programs and certifications tailored to Gaia member’s favorite content. Dive into world-class courses and training programs that blend ancient wisdom with cutting-edge insights, offering extraordinary opportunities for personal growth and unlocking human potential."
+      }
+    },
+    "collection-header": {
+      "type": "collection-header",
+      "disabled": true,
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    },
+    "promo-grid": {
+      "type": "promo-grid",
+      "blocks": {
+        "entitled_banner": {
+          "type": "banner",
+          "settings": {
+            "heading": "Members Enjoy 10% Off",
+            "text": "As a Gaia member, you get 10% off all Marketplace items.",
+            "link": "",
+            "label": "",
+            "color_scheme": "2"
+          }
+        },
+        "trial_banner": {
+          "type": "banner",
+          "settings": {
+            "heading": "Members Enjoy 10% Off",
+            "text": "Complete your Gaia trial to receive 10% off all Marketplace items.",
+            "link": "",
+            "label": "",
+            "color_scheme": "2"
+          }
+        },
+        "inactive_banner": {
+          "type": "banner",
+          "settings": {
+            "heading": "Members Enjoy 10% Off",
+            "text": "Reactivate your Gaia membership to get 10% off all Marketplace items.",
+            "link": "https://www-stg-4b2c19.gaia.com/account",
+            "label": "Reactivate",
+            "color_scheme": "2"
+          }
+        },
+        "anonymous_banner": {
+          "type": "banner",
+          "settings": {
+            "heading": "Members Enjoy 10% Off ",
+            "text": "Gaia members get 10% off all Marketplace items.",
+            "link": "/account/login",
+            "label": "Log In or Sign Up",
+            "color_scheme": "2"
+          }
+        }
+      },
+      "block_order": [
+        "entitled_banner",
+        "trial_banner",
+        "inactive_banner",
+        "anonymous_banner"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "collection_description": {
+          "type": "collection_description",
+          "settings": {}
+        },
+        "subcollections": {
+          "type": "subcollections",
+          "settings": {}
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "grid_style": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "collection_description",
+        "subcollections",
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapse_filters": true,
+        "enable_color_swatches": false,
+        "enable_sort": true,
+        "disable-grid-view": true,
+        "swap-counter": true,
+        "hide-price-filter": true,
+        "transform-filters": false,
+        "align-buttons": false
+      }
+    },
+    "members_block_events_page_3ejpHT": {
+      "type": "members-block-events-page",
+      "settings": {
+        "add-top-padding": false,
+        "add-bottom-padding": true,
+        "title": "Gaia Members Enjoy 10% OFF",
+        "btn-text": "Learn More",
+        "btn-link": "/account/login"
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {}
+    },
+    "review_metafields_EmwPfr": {
+      "type": "review-metafields",
+      "settings": {
+        "title": "Testimonials"
+      }
+    },
+    "custom_reviews_slider_events_ppB7aB": {
+      "type": "custom-reviews-slider-events",
+      "blocks": {
+        "section_T9FaFJ": {
+          "type": "section",
+          "settings": {
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0456.jpg",
+            "body-text": "“You have to go to Egypt with Gaia because of the special access to Giza without the crowds, it’s a completely different experience to be there alone at sunset when it’s quiet.”",
+            "name": "Dana S.",
+            "star-rate": "five"
+          }
+        },
+        "section_y4jmYE": {
+          "type": "section",
+          "settings": {
+            "image": "shopify://shop_images/GettyImages-544014430.jpg",
+            "body-text": "“The experiences that I had both inside the temples and pyramids were astounding. Physical energy increases and healings that I experienced on this trip are like non before.”",
+            "name": "Susan P.",
+            "star-rate": "five"
+          }
+        },
+        "section_4TKpDa": {
+          "type": "section",
+          "settings": {
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0341.jpg",
+            "body-text": "“An extraordinary and unforgettable tour. Can't sing the praise loud enough so many extras and special days.”",
+            "name": "Daniela S.",
+            "star-rate": "five"
+          }
+        }
+      },
+      "block_order": [
+        "section_T9FaFJ",
+        "section_y4jmYE",
+        "section_4TKpDa"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Explore your spirituality"
+      }
+    },
+    "events_page_bottom_banner_zEbHAW": {
+      "type": "events-page-bottom-banner",
+      "settings": {
+        "image": "shopify://shop_images/Group_22297.jpg",
+        "title": "Lorem Ipsum",
+        "body-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+        "btn-text": "Lorem ipsum",
+        "btn-link": ""
+      }
+    },
+    "events_page_hero_banner_bottom_88Ughx": {
+      "type": "events-page-hero-banner-bottom",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/GettyImages-1126980115_1.png",
+        "title": "Explore your spirituality",
+        "title-two": "Have you seen our hand curated experiences?",
+        "body-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+        "btn-text": "Learn More",
+        "btn-link": ""
+      }
+    }
+  },
+  "order": [
+    "events_hero_banner_wgmrKn",
+    "blocks_in_banner_6yEdtM",
+    "rich_text_meta_info_q79aJk",
+    "collection-header",
+    "promo-grid",
+    "main-collection",
+    "members_block_events_page_3ejpHT",
+    "recently-viewed",
+    "review_metafields_EmwPfr",
+    "custom_reviews_slider_events_ppB7aB",
+    "events_page_bottom_banner_zEbHAW",
+    "events_page_hero_banner_bottom_88Ughx"
+  ]
+}

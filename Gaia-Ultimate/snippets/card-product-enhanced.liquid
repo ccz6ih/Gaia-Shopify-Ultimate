@@ -1,0 +1,238 @@
+{%- comment -%}
+  Enhanced Product Card
+  =====================
+  An enhanced product card with Quick Shop, Quick Add, color swatches,
+  and hover image support.
+
+  Usage:
+  {% render 'card-product-enhanced',
+    card_product: product,
+    show_quick_shop: true,
+    show_quick_add: true,
+    show_swatches: true,
+    show_secondary_image: true,
+    lazy_load: true
+  %}
+{%- endcomment -%}
+
+{%- liquid
+  assign show_quick_shop = show_quick_shop | default: settings.quick_shop_enable
+  assign show_quick_add = show_quick_add | default: settings.quick_add_enable
+  assign show_swatches = show_swatches | default: settings.enable_swatches
+  assign show_secondary_image = show_secondary_image | default: settings.product_hover_image
+  assign image_ratio = settings.product_grid_image_size | default: 'square'
+
+  assign on_sale = false
+  if card_product.compare_at_price > card_product.price
+    assign on_sale = true
+  endif
+
+  assign has_custom_label = false
+  if card_product.metafields.theme.label and card_product.metafields.theme.label != blank
+    assign has_custom_label = true
+    assign custom_labels = card_product.metafields.theme.label.value
+  endif
+-%}
+
+<div class="card-product-enhanced grid-product" data-product-id="{{ card_product.id }}" data-product-handle="{{ card_product.handle }}">
+  <div class="card-product-enhanced__inner">
+
+    {%- comment -%} Quick Actions {%- endcomment -%}
+    {%- if show_quick_shop or show_quick_add -%}
+      <div class="card-product-enhanced__actions">
+        {%- if show_quick_shop -%}
+          <button
+            type="button"
+            class="card-product-enhanced__action card-product-enhanced__action--quick-shop"
+            data-quick-shop-open="{{ card_product.id }}"
+            data-handle="{{ card_product.handle }}"
+            aria-label="{{ 'products.product.quick_view' | t }}: {{ card_product.title }}"
+          >
+            <svg aria-hidden="true" focusable="false" class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="11" cy="11" r="8"/>
+              <path d="M21 21l-4.35-4.35"/>
+            </svg>
+          </button>
+        {%- endif -%}
+
+        {%- if show_quick_add and card_product.available -%}
+          {%- if card_product.variants.size > 1 -%}
+            <button
+              type="button"
+              class="card-product-enhanced__action card-product-enhanced__action--quick-add"
+              data-quick-add-open
+              data-product-url="{{ card_product.url }}?view=quick-add"
+              aria-label="{{ 'products.product.choose_options' | t }}: {{ card_product.title }}"
+            >
+              <svg aria-hidden="true" focusable="false" class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M12 5v14m-7-7h14"/>
+              </svg>
+            </button>
+          {%- else -%}
+            <button
+              type="button"
+              class="card-product-enhanced__action card-product-enhanced__action--quick-add"
+              data-quick-add-single
+              data-variant-id="{{ card_product.selected_or_first_available_variant.id }}"
+              aria-label="{{ 'products.product.add_to_cart' | t }}: {{ card_product.title }}"
+            >
+              <svg aria-hidden="true" focusable="false" class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M12 5v14m-7-7h14"/>
+              </svg>
+            </button>
+          {%- endif -%}
+        {%- endif -%}
+      </div>
+    {%- endif -%}
+
+    {%- comment -%} Image Container {%- endcomment -%}
+    <a href="{{ card_product.url }}" class="card-product-enhanced__media-link">
+      <div class="card-product-enhanced__media card-product-enhanced__media--{{ image_ratio }}">
+
+        {%- comment -%} Badges/Tags {%- endcomment -%}
+        <div class="card-product-enhanced__badges">
+          {%- if has_custom_label -%}
+            {%- assign labels = custom_labels | split: ',' -%}
+            {%- for label in labels -%}
+              <span class="badge badge--custom">{{ label | strip }}</span>
+            {%- endfor -%}
+          {%- endif -%}
+
+          {%- unless card_product.available -%}
+            <span class="badge badge--sold-out">{{ 'products.product.sold_out' | t }}</span>
+          {%- endunless -%}
+
+          {%- if on_sale and card_product.available -%}
+            <span class="badge badge--sale">{{ 'products.product.on_sale' | t }}</span>
+          {%- endif -%}
+        </div>
+
+        {%- comment -%} Primary Image {%- endcomment -%}
+        {%- if card_product.featured_media -%}
+          <img
+            srcset="{%- if card_product.featured_media.width >= 165 -%}{{ card_product.featured_media | image_url: width: 165 }} 165w,{%- endif -%}
+              {%- if card_product.featured_media.width >= 360 -%}{{ card_product.featured_media | image_url: width: 360 }} 360w,{%- endif -%}
+              {%- if card_product.featured_media.width >= 533 -%}{{ card_product.featured_media | image_url: width: 533 }} 533w,{%- endif -%}
+              {%- if card_product.featured_media.width >= 720 -%}{{ card_product.featured_media | image_url: width: 720 }} 720w,{%- endif -%}
+              {%- if card_product.featured_media.width >= 940 -%}{{ card_product.featured_media | image_url: width: 940 }} 940w,{%- endif -%}
+              {{ card_product.featured_media | image_url }} {{ card_product.featured_media.width }}w"
+            src="{{ card_product.featured_media | image_url: width: 533 }}"
+            sizes="(min-width: 1200px) calc((1200px - 10rem) / 4), (min-width: 750px) calc((100vw - 10rem) / 3), calc((100vw - 3rem) / 2)"
+            alt="{{ card_product.featured_media.alt | escape }}"
+            class="card-product-enhanced__image card-product-enhanced__image--primary{% unless settings.product_grid_image_fill %} card-product-enhanced__image--contain{% endunless %}"
+            {% if lazy_load %}loading="lazy"{% endif %}
+            width="{{ card_product.featured_media.width }}"
+            height="{{ card_product.featured_media.height }}"
+          >
+        {%- else -%}
+          {{ 'product-1' | placeholder_svg_tag: 'placeholder-svg card-product-enhanced__image' }}
+        {%- endif -%}
+
+        {%- comment -%} Secondary Image (Hover) {%- endcomment -%}
+        {%- if show_secondary_image and card_product.media.size > 1 -%}
+          {%- assign secondary_image = card_product.media[1] -%}
+          <img
+            srcset="{%- if secondary_image.width >= 360 -%}{{ secondary_image | image_url: width: 360 }} 360w,{%- endif -%}
+              {%- if secondary_image.width >= 533 -%}{{ secondary_image | image_url: width: 533 }} 533w,{%- endif -%}
+              {%- if secondary_image.width >= 720 -%}{{ secondary_image | image_url: width: 720 }} 720w,{%- endif -%}
+              {{ secondary_image | image_url }} {{ secondary_image.width }}w"
+            src="{{ secondary_image | image_url: width: 533 }}"
+            sizes="(min-width: 1200px) calc((1200px - 10rem) / 4), (min-width: 750px) calc((100vw - 10rem) / 3), calc((100vw - 3rem) / 2)"
+            alt="{{ secondary_image.alt | escape }}"
+            class="card-product-enhanced__image card-product-enhanced__image--secondary"
+            loading="lazy"
+            width="{{ secondary_image.width }}"
+            height="{{ secondary_image.height }}"
+          >
+        {%- endif -%}
+      </div>
+    </a>
+
+    {%- comment -%} Product Info {%- endcomment -%}
+    <div class="card-product-enhanced__info">
+
+      {%- comment -%} Color Swatches {%- endcomment -%}
+      {%- if show_swatches -%}
+        {%- liquid
+          assign swatch_trigger = 'products.general.color_swatch_trigger' | t | downcase
+          assign color_count = 0
+          assign max_colors_show = 4
+        -%}
+
+        {%- for option in card_product.options_with_values -%}
+          {%- liquid
+            assign option_name = option.name | downcase
+            assign is_color = false
+            if option_name contains swatch_trigger
+              assign is_color = true
+            elsif swatch_trigger == 'color' and option_name contains 'colour'
+              assign is_color = true
+            endif
+          -%}
+
+          {%- if is_color -%}
+            {%- assign option_index = forloop.index0 -%}
+            {%- assign values = '' -%}
+            <div class="card-product-enhanced__swatches">
+              {%- for variant in card_product.variants -%}
+                {%- assign value = variant.options[option_index] -%}
+                {%- unless values contains value -%}
+                  {%- assign values = values | join: ',' | append: ',' | append: value | split: ',' -%}
+                  {%- assign color_count = color_count | plus: 1 -%}
+
+                  {%- if color_count <= max_colors_show -%}
+                    {% render 'color-swatch',
+                      value: value,
+                      variant: variant,
+                      product: card_product,
+                      size: 'small',
+                      show_tooltip: true
+                    %}
+                  {%- endif -%}
+                {%- endunless -%}
+              {%- endfor -%}
+
+              {%- if color_count > max_colors_show -%}
+                {%- assign more_colors = color_count | minus: max_colors_show -%}
+                <span class="card-product-enhanced__swatches-more">+{{ more_colors }}</span>
+              {%- endif -%}
+            </div>
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endif -%}
+
+      {%- comment -%} Reviews Badge (if using review app) {%- endcomment -%}
+      {%- if settings.enable_product_reviews -%}
+        <div class="card-product-enhanced__reviews">
+          <span class="shopify-product-reviews-badge" data-id="{{ card_product.id }}"></span>
+        </div>
+      {%- endif -%}
+
+      {%- comment -%} Title {%- endcomment -%}
+      <h3 class="card-product-enhanced__title h5">
+        <a href="{{ card_product.url }}">{{ card_product.title | escape }}</a>
+      </h3>
+
+      {%- comment -%} Vendor {%- endcomment -%}
+      {%- if settings.vendor_enable -%}
+        <p class="card-product-enhanced__vendor">{{ card_product.vendor }}</p>
+      {%- endif -%}
+
+      {%- comment -%} Price {%- endcomment -%}
+      <div class="card-product-enhanced__price">
+        {% render 'price', product: card_product, price_class: 'price--card' %}
+
+        {%- if on_sale and settings.product_save_amount -%}
+          <span class="card-product-enhanced__savings">
+            {%- if settings.product_save_type == 'dollar' -%}
+              {%- capture saved_amount -%}{{ card_product.compare_at_price | minus: card_product.price | money }}{%- endcapture -%}
+            {%- else -%}
+              {%- capture saved_amount -%}{{ card_product.compare_at_price | minus: card_product.price | times: 100.0 | divided_by: card_product.compare_at_price | round }}%{%- endcapture -%}
+            {%- endif -%}
+            {{ 'products.product.save_amount' | t: amount: saved_amount }}
+          </span>
+        {%- endif -%}
+      </div>
+    </div>
+  </div>
+</div>

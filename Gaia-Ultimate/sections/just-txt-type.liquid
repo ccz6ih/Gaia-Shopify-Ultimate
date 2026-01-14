@@ -1,0 +1,61 @@
+<div class="book-with-confidence-parent">
+    <div class="book-with-cofidence-holder">
+      {% if product.metafields.title-just-txt.key != blank %}
+        <h2 class="title-book-with-confidence blockTitleOfWidgets">
+            {{ product.metafields.title-just-txt.key}}
+        </h2>
+      {% endif %}
+        {% comment %} Desktop {% endcomment %}
+        {% if product.metafields.ful-cap-title-j-t.key != blank %}
+          <div class="fullCapacity-modules fulCap-Desktop">
+            {{product.metafields.ful-cap-title-j-t.key}}
+        </div>
+          {% endif %}
+  {% comment %} Mobile {% endcomment %}
+          {% if product.metafields.ful-cap-title-j-t-m.key != blank %}
+            <div class="fullCapacity-modules fulCap-Mobile">
+              {{product.metafields.ful-cap-title-j-t-m.key}}
+          </div>
+            {% endif %}
+
+            <div class="book-with-cofidence-el main-module-j-text">
+            {% if product.metafields.just-text-cop.key != blank %}
+              <div class="fullCapacity-modules fulCap-Desktop">
+                {{product.metafields.just-text-cop.key}}
+            </div>
+              {% endif %}
+
+              {% if product.metafields.just-text-cop-m.key != blank %}
+                <div class="fullCapacity-modules fulCap-Mobile">
+                  {{product.metafields.just-text-cop-m.key}}
+              </div>
+                {% endif %}
+              </div>
+              
+      
+    
+    </div>
+</div>
+
+{% schema %}
+    {
+      "name": "Just Text Module",
+      "class": "book-with-confidence",
+      "settings": [
+
+      
+       {
+          "type": "text",
+          "id": "title",
+          "label": "Just Text Title",
+          "default": "Just Text Title Module"
+        }
+       
+      ],
+      "presets": [
+        {
+            "name": "Just Text Module"
+        }
+      ]
+    } 
+  {% endschema %}  

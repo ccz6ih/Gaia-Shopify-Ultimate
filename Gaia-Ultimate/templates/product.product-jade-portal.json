@@ -1,0 +1,1206 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-1": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "7 weeks. 1 Method. Enter Out-of-body States.",
+            "title": "The Portal \n<span style=\"font-weight:300;\">with Jade Shaw</span>",
+            "h1_title": false,
+            "title_size": 70,
+            "subheading": "Discover Other Worlds, Become an Astral Projector, Experience Extraordinary Possibilities.\n\nGaia Members Enjoy 10% Off!",
+            "enlarge_subheading": false,
+            "link": "#offer",
+            "link_text": "Enroll Now",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#01b4b4",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify://shop_images/JS_10.png",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-1"
+      ],
+      "custom_css": [
+        ".h1 {font-size: 50px; line-height: 1em; margin-top: 0;}",
+        ".hero__subtitle {font-size: 1.1em;}",
+        ".hero__subtitle {font-weight: bold;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": 0,
+        "mobile_size": 50,
+        "style": "arrows",
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": false
+      }
+    },
+    "blocks_in_banner_bV7jfB": {
+      "type": "blocks-in--banner",
+      "name": "Blocks Below Banner",
+      "settings": {
+        "title": "",
+        "check-in-middle": false,
+        "btn-text": "Learn More",
+        "btn-link": "",
+        "btn-text-c": "Learn More",
+        "btn-link-c": ""
+      }
+    },
+    "3124092b-a473-448b-b237-7c9b098cd472": {
+      "type": "columns-2",
+      "blocks": {
+        "template--20086275309889__3124092b-a473-448b-b237-7c9b098cd472-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": false,
+            "text": "<p>In this 7-week beginners' astral projection course, Jade Shaw guides you step by step through the essentials of out-of-body astral travel, blending neuroscience, cultural traditions, and practical tools that you can train and apply.</p><p>Whether you're drawn to psychological healing, spiritual practice, or simply everyday wellbeing, this course offers a sacred and structured path. You’ll uncover the core mechanics of<strong> Astral Projection</strong>, explore the unique states of consciousness that induce it, and begin to navigate nonphysical realities with trust, presence, and inner clarity.</p><p>Through 7 immersive modules, you’ll learn in depth what <strong>Astral Projection</strong> is, how ancient cultures have approached it, and how to enter the Out-Of-Body States using Jade’s signature S.T.A.T.E. Method, a framework applied in scientific research. You’ll receive guidance on navigating expanded states, refining your awareness, and integrating what you discover along the way.</p>"
+          }
+        },
+        "8f93800a-ce06-404f-8dc7-1fa4b80e79a3": {
+          "type": "video_mp4",
+          "settings": {
+            "parent_column": "left",
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/f815c8db15884394970e5bf678a47bcc.mp4",
+            "controls": true,
+            "loop": false,
+            "autoplay": true,
+            "video_width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__3124092b-a473-448b-b237-7c9b098cd472-text-1",
+        "8f93800a-ce06-404f-8dc7-1fa4b80e79a3"
+      ],
+      "custom_css": [
+        ".video_mp4-block {margin-bottom: 10px;}",
+        ".index-section {background-color: #fff5f1; padding-top: 40px;}"
+      ],
+      "settings": {
+        "title": "The Portal is your opening to the world of Astral Projection.",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "#offer",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "#offer",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_G76kDW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cJKCEg": {
+          "type": "heading",
+          "settings": {
+            "title": "The truth about Astral Projection ",
+            "heading_size": "h2"
+          }
+        },
+        "text_8JnWga": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>The Art of Astral Projection: The secret skill you never knew you had. </p><p><strong>What if you could access expanded states of consciousness and connect with people and places beyond space and time? Where would you go, who would you meet and what would you bring back? </strong></p><p>Did you know that Plato, the American Military and even the Dalai Lama have practised <strong>Out-Of-Body Experiences</strong>. </p><p>Why? </p><p>● Neuroscientists say it’s because your Self transcends the body, decreasing anxiety.</p><p>● Psychologists say it’s because you have epiphanies and life-changing insights. </p><p>● Buddhists say it’s because you begin to know the nature of reality and who you truly are. </p><p>● Shamans say it’s because you enter the spirit world and heal trauma. </p><p>● Spiritualists say it’s because you encounter dead loved ones and heal grief. </p><p>I say it’s because you enter incredible worlds of awe, and experience possibilities beyond your perception, finding purpose and peace. This not only elevates your life, but also helps others along the way. </p><p>In fact, I conducted a study that proved that Out-Of-Body Experiences cause 8 transformative effects on our participants' lives: It served as a motivational catalyst, reduced fear of death, enhanced inner peace, generated new life perspectives, increased self-awareness, cultivated a sense of individuality, reassessed relationships, and strengthened existing or developed new spiritual beliefs. </p><p>You are the Portal. </p><p>Travel beyond limits and return transformed. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cJKCEg",
+        "text_8JnWga"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "2cf59009-8b04-4f41-ba20-7aab7e4fe761": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20086275309889__2cf59009-8b04-4f41-ba20-7aab7e4fe761-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Is The Portal Right For You?",
+            "heading_size": "h1"
+          }
+        },
+        "023d8f51-cf4f-4212-ac76-7f6b92b56be8": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "<strong>You're feeling called to consciousness exploration, </strong>but lack the methodology to take it to the next level."
+          }
+        },
+        "b591ead6-6fc0-47fe-ab9b-d828621c8f4a": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "<strong>You're navigating a major life transition</strong> like loss, breakup, or career change and seek a spiritual practice to help you make sense of it and ground you."
+          }
+        },
+        "9e308ddc-343c-46b0-a8f1-d97289120114": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "<strong>Fear of death or the unknown is limiting your life</strong> and you want to experience what lies beyond your physical existence."
+          }
+        },
+        "abd9e4af-efcb-41a6-a8c0-55aa610184a5": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "<strong>You’re drawn to connect with otherworldly entities and spirit guides</strong> and seek to experience the realms beyond this consciousness."
+          }
+        },
+        "9db1bbaf-d802-40ea-a687-133fb0999f73": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "<strong>You're ready to commit 30 minutes daily </strong>to a practice that could fundamentally shift how you see yourself and your place in the world."
+          }
+        },
+        "heading_KknpBX": {
+          "type": "heading",
+          "settings": {
+            "title": "This masterclass is especially powerful for you if:",
+            "heading_size": "h2"
+          }
+        },
+        "sales_point_4dYF8g": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "<strong>You’re intellectually curious but spiritually dissatisfied</strong>"
+          }
+        },
+        "sales_point_MKQjVm": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "<strong>You’ve tried meditation, breathwork, or psychedelics and want a sober, trainable path</strong>"
+          }
+        },
+        "sales_point_fRtXnx": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "<strong>You feel there’s “more” to consciousness, but don’t want blind faith</strong>"
+          }
+        },
+        "sales_point_7PgQEF": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "<strong>You crave direct experience—not theory, dogma, or belief</strong>"
+          }
+        },
+        "sales_point_4YQjJr": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "<strong>You want spirituality that changes how you live, not just what you think</strong>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__2cf59009-8b04-4f41-ba20-7aab7e4fe761-heading-1",
+        "023d8f51-cf4f-4212-ac76-7f6b92b56be8",
+        "b591ead6-6fc0-47fe-ab9b-d828621c8f4a",
+        "9e308ddc-343c-46b0-a8f1-d97289120114",
+        "abd9e4af-efcb-41a6-a8c0-55aa610184a5",
+        "9db1bbaf-d802-40ea-a687-133fb0999f73",
+        "heading_KknpBX",
+        "sales_point_4dYF8g",
+        "sales_point_MKQjVm",
+        "sales_point_fRtXnx",
+        "sales_point_7PgQEF",
+        "sales_point_4YQjJr"
+      ],
+      "custom_css": [
+        "p,.sales-points {max-width: 750px; margin-left: auto; margin-right: auto;}",
+        ".sales-points {text-align: left; margin-bottom: 1rem;}"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "color_scheme": "3",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "blocks_in_banner_b4iUAc": {
+      "type": "blocks-in--banner",
+      "name": "Blocks Below Banner",
+      "settings": {
+        "title": "",
+        "check-in-middle": false,
+        "btn-text": "Learn More",
+        "btn-link": "",
+        "btn-text-c": "Learn More",
+        "btn-link-c": ""
+      }
+    },
+    "columns_1_WcC4p8": {
+      "type": "columns-1",
+      "blocks": {
+        "text_GbN3KA": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The Portal is the missing methodology for those drawn to learn astral projection but seeking structure and verification. This Astral Projection Journey, led by researcher Jade Shaw, is the only self-paced course that bridges ancient wisdom, profound spiritual longing, and a scientific framework—the S.T.A.T.E. Method—to safely enter out-of-body states. Unlock the truth that liberates you from the fear of the unknown and reveals your infinite self. Your journey to two-world mastery begins now.</p>"
+          }
+        },
+        "button_U3aFmp": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Unlock The Portal Today",
+            "link_entitled": "#offer",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "text_GbN3KA",
+        "button_U3aFmp"
+      ],
+      "custom_css": [
+        ".grid .text-block {color: #ffffff !important; text-shadow: 0 2px 8px rgba(0, 0, 0, 0.7); background: rgba(0, 0, 0, 0.4); padding: 8px 16px; border-radius: 6px; display: inline-block;}"
+      ],
+      "name": "t:sections.columns-1.presets.name",
+      "settings": {
+        "narrow_column": false,
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "center",
+        "background_image": "shopify://shop_images/Module_4.png",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "f2f16573-2553-4b00-98b9-ad9c6717eedc": {
+      "type": "icon-list-and-image",
+      "blocks": {
+        "template--20315243544897__f2f16573-2553-4b00-98b9-ad9c6717eedc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "In this 7-week class, you’ll master:",
+            "heading_size": "h1"
+          }
+        },
+        "text_J6gAE8": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<ul><li><strong>The foundations of Astral Projection</strong>: What it is, why it matters, and how to safely prepare your mind, body, and energy. You’ll come away with a personalised projection plan.</li><li><strong>Jade's science-based S.T.A.T.E. induction method: </strong>A 5-step framework used in scientific research. Gain a reliable pathway into out-of-body states.</li><li><strong>Navigation skills for new realms:</strong> Get oriented in nonphysical realities. Master your emotions to move through astral landscapes with calm confidence.</li><li><strong>Discover powerful tools,</strong> such as sensory deprivation, sound technology, energy work and herbal rituals.</li><li><strong>Get a complete ‘exit’ toolkit: </strong>Try methods like Corkscrew, Levitation, and the Phantom Limb Test.</li><li><strong>The art of integration: </strong>Give your experiences meaning, and turn extraordinary insights into permanent life upgrades.</li><li><strong>Tap into embodiment practices:</strong> Learn to apply your new awareness in daily life. </li><li><strong>Bonus Egyptian wisdom:</strong> harness ancient astral tools like Blue Lotus Tea ritual, sacred mantra, body posture, and deity guidance to enrich your practice with timeless power. </li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20315243544897__f2f16573-2553-4b00-98b9-ad9c6717eedc-heading-1",
+        "text_J6gAE8"
+      ],
+      "custom_css": [
+        ".index-section {padding-bottom: 0px;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/visual1.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "image_width": "50",
+        "align_text": "left",
+        "layout": "left",
+        "color_scheme": "none",
+        "hide_image": false,
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": false
+      }
+    },
+    "icon_list_and_image_prVgKQ": {
+      "type": "icon-list-and-image",
+      "blocks": {
+        "heading_D8De98": {
+          "type": "heading",
+          "settings": {
+            "title": "What’s included in this astral projection training course:",
+            "heading_size": "h2"
+          }
+        },
+        "text_eAiErT": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<ul><li><strong>47</strong> immersive <strong>video classes</strong>.</li><li><strong>7 guided meditations</strong> to support each step of the journey. </li><li><strong>A 90-minute guided audio journey</strong> with binaural beats to trigger altered states.</li><li><strong>15+</strong> guided <strong>experiential exercises</strong> woven throughout the modules </li><li><strong>6 printable worksheets</strong> to support the practice. </li><li><strong>A Bonus module </strong>on the ancient Egyptian approach to <strong>Astral Projection</strong>, including a guided tea ritual. </li><li><strong>A deep dive into Jade’s signature S.T.A.T.E. Method</strong> - the 5-step induction process previously used in a scientific study.</li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_D8De98",
+        "text_eAiErT"
+      ],
+      "name": "t:sections.icon-list-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/visual2_cropped.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "image_width": "50",
+        "align_text": "left",
+        "layout": "right",
+        "color_scheme": "none",
+        "hide_image": false,
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": false
+      }
+    },
+    "blocks_in_banner_hTNEHW": {
+      "type": "blocks-in--banner",
+      "custom_css": [],
+      "name": "Blocks Below Banner",
+      "settings": {
+        "title": "",
+        "check-in-middle": false,
+        "btn-text": "Learn More",
+        "btn-link": "",
+        "btn-text-c": "Learn More",
+        "btn-link-c": ""
+      }
+    },
+    "rich_text_eM6yVa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RQqKbR": {
+          "type": "heading",
+          "settings": {
+            "title": "Why The Portal Works & What You Get Inside",
+            "heading_size": "h2"
+          }
+        },
+        "text_Ead3pQ": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Unlike other approaches, The Portal bridges rigorous scientific methodology with profound wisdom traditions. The S.T.A.T.E. Method has been used in research settings, while the preparation & integration practices are informed by Jade's personal experience and professional work in diverse settings with ordinary people. </p><p>This foundational training is about building real skill through consistent practice, understanding the psychology behind altered states, and developing the foundation for a lifelong journey of consciousness exploration. </p>"
+          }
+        },
+        "heading_rMdJY8": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Modules",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RQqKbR",
+        "text_Ead3pQ",
+        "heading_rMdJY8"
+      ],
+      "custom_css": [
+        ".index-section {background-color: #fff5f1; padding-bottom: 5px;}"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "text_and_image_N3967a": {
+      "type": "text-and-image",
+      "disabled": true,
+      "custom_css": [
+        ".index-section {background-color: #fff5f1;}",
+        ".index-section h1,.index-section h2,.index-section h3 {padding-top: 40px;}"
+      ],
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Module_1.png",
+        "image_mask": "landscape",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Week 1: Open the Portal",
+        "heading_size": "h2",
+        "text": "<p>Every great journey starts with a first step, and here you’ll unlock the portal to your inner universe. This module introduces you to the essence of out-of-body exploration: what OBEs are, why they matter, and how to prepare your mind, body, and spirit for the adventure ahead. You’ll uncover the core principles that make projection possible, design your own projection plan, and practice simple yet powerful tools to calm fear, prime your consciousness, and create a safe energetic space. By the end, you’ll feel grounded, prepared, and ready to incubate your first Out-Of-Body Experience.</p><p>● Discover the core principles of Astral Projection </p><p>● Understand Out-of-Body Experiences through the lens of science, psychology & anthropology. </p><p>● Begin to incubate your first Out-of-Body Experience. </p><p>● Create Your ‘<em>Projection Plan’ (</em>where do you want to go, what would you like to do and why?) </p><p>● Learn the <em>‘Micro-Mindfulness’ </em>tool to priming consciousness for OBE states. </p><p>● Harness the <em>‘Metta Moment</em>’ to shift fear and stay calm before, during and after an OBE. </p><p>● Practise the <em>‘Energy Ball’ </em>exercise to set your energetic space, release limiting beliefs, and protect your energy during your astral adventures. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "center_top",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_EBDqkL": {
+      "type": "text-and-image",
+      "disabled": true,
+      "custom_css": [
+        ".index-section {background-color: #fff5f1;}",
+        ".index-section h1,.index-section h2,.index-section h3 {padding-top: 40px;}"
+      ],
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Module_2.png",
+        "image_mask": "landscape",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Week 2: Activate the Astral Body",
+        "heading_size": "h2",
+        "text": "<p>Awaken the subtle part of yourself that makes out-of-body exploration possible. In this module, you’ll discover the three foundational steps that every beginner must master  from entering the Mind-Awake-Body-Asleep state, to moving through the vibrational gateway, and finally, practicing your first exit from the body. Along the way, you’ll learn how to relax quickly, tap into the power of sleep states, and find the posture that works best for you. By the end, you’ll feel equipped and confident to connect with your astral body and cross the threshold beyond the physical world.</p><p>● Activate your Astral Body through ‘Parts Work’ from western psychology. </p><p>● Master the <em>Mind-Awake-Body-Asleep </em>(MABA) foundational state vital for OBEs. </p><p>● Learn to ride the transitional <em>Vibrational Gateway </em>and how to embrace it. </p><p>● Practice the <em>4-7-8 breathwork technique </em>for deep relaxation fast. </p><p>● Explore the best position for your body type to enter altered states. </p><p>● Harness sleep states, hack your hypnogogic highway, do your own <em>Beditation. </em></p><p>● Discover one of the easiest <em>exit techniques </em>to shift beyond the body. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "center_top",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_F9Wjix": {
+      "type": "text-and-image",
+      "disabled": true,
+      "custom_css": [
+        ".index-section {background-color: #fff5f1;}",
+        ".index-section h1,.index-section h2,.index-section h3 {padding-top: 40px;}"
+      ],
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Module_3.png",
+        "image_mask": "landscape",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Week 3: Discover The S.T.A.T.E. Method",
+        "heading_size": "h2",
+        "text": "<p>Discover Jade’s signature S.T.A.T.E. system - a five-step framework that blends psychology, neuroscience, and anthropology into a reliable pathway for out-of-body exploration. This structured method is developed from over a decade of teaching and used in scientific studies to trigger OBEs. In this module, you’ll learn how to prime your awareness, use energy centres and deepen your ability to drop into out-of-body states for regular astral journeys. Along the way, you’ll discover how to dissolve mental blocks, increase your tolerance for the unknown, and use sound and sensory training to expand the doorways of perception. </p><p>● Master the complete S.T.A.T.E. framework for consistent results. </p><p>● Remove blocks and barriers that prevent a successful practise. </p><p>● Build courage by increasing your uncertainty tolerance and ability to enter vast astral landscapes via the <em>‘Yes Man’ </em>challenge. </p><p>● Make a sensory deprivation chamber, a timeless technique used across worldwide traditions. </p><p>● Use sound technology to help your brain get into the right frequency, experience guided binaural meditation for OBE states. </p><p>● Train the 3rd Eye Exit Technique to leave the body and achieve your projection plan. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "center_top",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_m4j7HK": {
+      "type": "text-and-image",
+      "disabled": true,
+      "custom_css": [
+        ".index-section {background-color: #fff5f1;}",
+        ".index-section h1,.index-section h2,.index-section h3 {padding-top: 40px;}"
+      ],
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Module_4.png",
+        "image_mask": "landscape",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Week 4: Navigate Other Worlds",
+        "heading_size": "h2",
+        "text": "<p>Enter the vast landscapes beyond your physical body and learn how to orient yourself in realms that defy time and space. This module equips you with the tools to move through unfamiliar environments with calm curiosity, transforming fear into fascination for unshakable confidence. You’ll discover different types of astral realms and anchor yourself in clarity so that every journey becomes both safe and deeply transformative. </p><p>● Adopt the <em>‘Valley View’ </em>to navigate diverse realms of reality. </p><p>● Apply the <em>R.A.I.N technique </em>for better recall and emotional regulation. </p><p>● Double your chances of Astral Projection by training the <em>wake-back-to-bed method. </em></p><p>● Implement <em>Therapeutic Tremoring </em>to release anxiety, relax the body and encourage body dissolution. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "center_top",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_EJzHz6": {
+      "type": "text-and-image",
+      "disabled": true,
+      "custom_css": [
+        ".index-section {background-color: #fff5f1;}",
+        ".index-section h1,.index-section h2,.index-section h3 {padding-top: 40px;}"
+      ],
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Module_5.png",
+        "image_mask": "landscape",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Week 5: Master Exit Techniques",
+        "heading_size": "h2",
+        "text": "<p>This is where your practice starts to take flight. In this module, you’ll discover how to dramatically increase your success rate by experimenting with popular ‘exit’ techniques and learning how to combine them in ways that supercharge your results. You’ll harness sensations like spinning, floating and expanding or subtle body shifts as launchpads into the astral state.</p><p>You’ll also learn how to recognize the telltale signs that you’re ready to separate, and how to seize those fleeting windows of opportunity when the doorway to projection is wide open. By the end, you’ll have your own personalized “exit toolkit” designed to double your chances of leaving the body. </p><p>● Discover the <em>Corkscrew exit-technique</em>, harness the sensation of spinning to springboard beyond the body. </p><p>● Learn the <em>Levitation exit-technique</em>, begin to float out of your body and rise into the astral realms. </p><p>● Use the <em>‘Phantom Limb Test’ </em>to discern when you're in the correct altered state to apply an exit-technique. </p><p>● Create your own <em>‘combos’ </em>by doubling up techniques to make the most of your practise. </p><p>● Find and tap into <em>‘OBE windows’ </em>so you don't miss crucial moments that can trigger a separation from the body. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "center_top",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_qKz8bg": {
+      "type": "text-and-image",
+      "disabled": true,
+      "custom_css": [
+        ".index-section {background-color: #fff5f1;}",
+        ".index-section h1,.index-section h2,.index-section h3 {padding-top: 40px;}"
+      ],
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Module_6.png",
+        "image_mask": "landscape",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Week 6: Embody the Infinite",
+        "heading_size": "h2",
+        "text": "<p>An out-of-body experience is only as powerful as the way you bring it back into your life. Integration and embodiment is key, and in this module, you’ll master the art of turning extraordinary moments into lasting transformation through the 3 EEE’s: Embue, Encode, and Embed. Think of it like re-coding your consciousness, first, you’ll capture the raw energy of your OBE before it fades, using tools that engage memory, body, and emotion. Then, you’ll learn to interpret and frame what you discovered so it becomes meaningful in your personal life. Finally, you’ll ground the insight into your daily routine with rituals, habits, and commitments that weave the wisdom into who you are. </p><p>● Connect with the memory of your journey through embodied recall, sensory anchoring, and authentic expression. </p><p>● Remember and track your experiences through the <em>White Rabbit Recall </em>task. </p><p>● Explore <em>Symbolic Sketching </em>and <em>Free Writing </em>to bypass left brain rationality and reveal hidden insight and messages from your journeys. </p><p>● Translate your insights through the <em>The 3 Whys Journaling </em>exercise to uncover purpose and relevance. </p><p>● Make a <em>Ritual Offering </em>to release emotions, heal a trauma or close a chapter linked to astral experience. </p><p>● Implement the <em>Headline & Hashtag </em>task to distill your journey into a powerful intentional statement. </p><p>● Learn <em>Habit Stacking </em>and attach new practices to your existing routines.</p><p>● Do a <em>Life Audit </em>and make an <em>Integration Commitment </em>to realign choices and step into your new sense of self. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "center_top",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_LAMETk": {
+      "type": "text-and-image",
+      "disabled": true,
+      "custom_css": [
+        ".index-section {background-color: #fff5f1;}",
+        ".index-section h1,.index-section h2,.index-section h3 {padding-top: 40px;}"
+      ],
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Module_7.png",
+        "image_mask": "landscape",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Week 7: Bonus: Secret Portal: Astral Tools of Ancient Egypt ",
+        "heading_size": "h2",
+        "text": "<p>We’re the pyramids a Portal? Uncover the astral secrets of one of the world’s most mysterious and spiritually advanced civilizations. The Ancient Egyptians viewed the cosmos as a living temple and practiced powerful methods to move beyond the body. In this bonus module, you’ll discover how they approached the astral planes, from sound and posture to plant rituals and deity invocations. These are not just relics of the past, but timeless technologies that honour a beautiful culture, and take your astral practise to the next level. </p><p>● Understand how the Ancient Egyptians perceived the cosmos and consciousness beyond the body. </p><p>● Practice age-old out-of-body techniques, including the distinct body posture used for projection. </p><p>● Harness a mantra rooted in Egyptian symbolism, using vibration to dissolve boundaries of awareness. </p><p>● Create and harness a Blue Lotus Tea ritual to relax deeply, be guided by the plant and open doorways into out-of-body states. </p><p>● Call in guidance and protection from an Egyptian deity to support and empower your journeys. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "50",
+        "layout": "center_top",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "d2f3e665-9bf4-4aee-8b67-425b66d670c6": {
+      "type": "columns-1",
+      "blocks": {
+        "75f8a537-55ac-4222-9783-a4fd0477d5b9": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Week 1: Open the Portal",
+            "text": "",
+            "image": "shopify://shop_images/Module_1.png",
+            "dropdown_text": "<p>Every great journey starts with a first step, and here you’ll unlock the portal to your inner universe. This module introduces you to the essence of out-of-body exploration: what OBEs are, why they matter, and how to prepare your mind, body, and spirit for the adventure ahead. You’ll uncover the core principles that make projection possible, design your own projection plan, and practice simple yet powerful tools to calm fear, prime your consciousness, and create a safe energetic space. By the end, you’ll feel grounded, prepared, and ready to incubate your first Out-Of-Body Experience.</p><p>● Discover the core principles of Astral Projection </p><p>● Understand Out-of-Body Experiences through the lens of science, psychology & anthropology. </p><p>● Begin to incubate your first Out-of-Body Experience. </p><p>● Create Your ‘<em>Projection Plan’ (</em>where do you want to go, what would you like to do and why?) </p><p>● Learn the <em>‘Micro-Mindfulness’ </em>tool to priming consciousness for OBE states. </p><p>● Harness the <em>‘Metta Moment</em>’ to shift fear and stay calm before, during and after an OBE. </p><p>● Practise the <em>‘Energy Ball’ </em>exercise to set your energetic space, release limiting beliefs, and protect your energy during your astral adventures. </p>",
+            "dropdown_image_fill": true,
+            "background_color": "#422068",
+            "text_color": "#ffffff"
+          }
+        },
+        "4c239ee9-479d-4f81-b5b6-a7c9750699a5": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Week 2: Activate the Astral Body",
+            "text": "",
+            "image": "shopify://shop_images/Module_2.png",
+            "dropdown_text": "<p>Awaken the subtle part of yourself that makes out-of-body exploration possible. In this module, you’ll discover the three foundational steps that every beginner must master  from entering the Mind-Awake-Body-Asleep state, to moving through the vibrational gateway, and finally, practicing your first exit from the body. Along the way, you’ll learn how to relax quickly, tap into the power of sleep states, and find the posture that works best for you. By the end, you’ll feel equipped and confident to connect with your astral body and cross the threshold beyond the physical world.</p><p>● Activate your Astral Body through ‘Parts Work’ from western psychology. </p><p>● Master the <em>Mind-Awake-Body-Asleep </em>(MABA) foundational state vital for OBEs. </p><p>● Learn to ride the transitional <em>Vibrational Gateway </em>and how to embrace it. </p><p>● Practice the <em>4-7-8 breathwork technique </em>for deep relaxation fast. </p><p>● Explore the best position for your body type to enter altered states. </p><p>● Harness sleep states, hack your hypnogogic highway, do your own <em>Beditation. </em></p><p>● Discover one of the easiest <em>exit techniques </em>to shift beyond the body. </p>",
+            "dropdown_image_fill": true,
+            "background_color": "#422068",
+            "text_color": "#ffffff"
+          }
+        },
+        "0a6fb51b-ba50-461a-992b-45e0e72261a5": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Week 3: Discover The S.T.A.T.E. Method",
+            "text": "",
+            "image": "shopify://shop_images/Module_3.png",
+            "dropdown_text": "<p>Discover Jade’s signature S.T.A.T.E. system - a five-step framework that blends psychology, neuroscience, and anthropology into a reliable pathway for out-of-body exploration. This structured method is developed from over a decade of teaching and used in scientific studies to trigger OBEs. In this module, you’ll learn how to prime your awareness, use energy centres and deepen your ability to drop into out-of-body states for regular astral journeys. Along the way, you’ll discover how to dissolve mental blocks, increase your tolerance for the unknown, and use sound and sensory training to expand the doorways of perception. </p><p>● Master the complete S.T.A.T.E. framework for consistent results. </p><p>● Remove blocks and barriers that prevent a successful practise. </p><p>● Build courage by increasing your uncertainty tolerance and ability to enter vast astral landscapes via the <em>‘Yes Man’ </em>challenge. </p><p>● Make a sensory deprivation chamber, a timeless technique used across worldwide traditions. </p><p>● Use sound technology to help your brain get into the right frequency, experience guided binaural meditation for OBE states. </p><p>● Train the 3rd Eye Exit Technique to leave the body and achieve your projection plan. </p>",
+            "dropdown_image_fill": true,
+            "background_color": "#422068",
+            "text_color": "#ffffff"
+          }
+        },
+        "d5af11b3-e1d0-4ae7-aef9-b21af820cfff": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Week 4: Navigate Other Worlds",
+            "text": "",
+            "image": "shopify://shop_images/Module_4.png",
+            "dropdown_text": "<p>Enter the vast landscapes beyond your physical body and learn how to orient yourself in realms that defy time and space. This module equips you with the tools to move through unfamiliar environments with calm curiosity, transforming fear into fascination for unshakable confidence. You’ll discover different types of astral realms and anchor yourself in clarity so that every journey becomes both safe and deeply transformative. </p><p>● Adopt the <em>‘Valley View’ </em>to navigate diverse realms of reality. </p><p>● Apply the <em>R.A.I.N technique </em>for better recall and emotional regulation. </p><p>● Double your chances of Astral Projection by training the <em>wake-back-to-bed method. </em></p><p>● Implement <em>Therapeutic Tremoring </em>to release anxiety, relax the body and encourage body dissolution. </p>",
+            "dropdown_image_fill": true,
+            "background_color": "#422068",
+            "text_color": "#ffffff"
+          }
+        },
+        "d2c67790-d1b5-4bce-8784-42372bc6dc67": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Week 5: Master Exit Techniques",
+            "text": "",
+            "image": "shopify://shop_images/Module_5.png",
+            "dropdown_text": "<p>This is where your practice starts to take flight. In this module, you’ll discover how to dramatically increase your success rate by experimenting with popular ‘exit’ techniques and learning how to combine them in ways that supercharge your results. You’ll harness sensations like spinning, floating and expanding or subtle body shifts as launchpads into the astral state.</p><p>You’ll also learn how to recognize the telltale signs that you’re ready to separate, and how to seize those fleeting windows of opportunity when the doorway to projection is wide open. By the end, you’ll have your own personalized “exit toolkit” designed to double your chances of leaving the body. </p><p>● Discover the <em>Corkscrew exit-technique</em>, harness the sensation of spinning to springboard beyond the body. </p><p>● Learn the <em>Levitation exit-technique</em>, begin to float out of your body and rise into the astral realms. </p><p>● Use the <em>‘Phantom Limb Test’ </em>to discern when you're in the correct altered state to apply an exit-technique. </p><p>● Create your own <em>‘combos’ </em>by doubling up techniques to make the most of your practise. </p><p>● Find and tap into <em>‘OBE windows’ </em>so you don't miss crucial moments that can trigger a separation from the body. </p>",
+            "dropdown_image_fill": true,
+            "background_color": "#422068",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_6U9e9d": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Week 6: Embody the Infinite",
+            "text": "",
+            "image": "shopify://shop_images/Module_6_0a4c1dea-cfdb-468e-9942-9a9291414a5e.png",
+            "dropdown_text": "<p>An out-of-body experience is only as powerful as the way you bring it back into your life. Integration and embodiment is key, and in this module, you’ll master the art of turning extraordinary moments into lasting transformation through the 3 EEE’s: Embue, Encode, and Embed. Think of it like re-coding your consciousness, first, you’ll capture the raw energy of your OBE before it fades, using tools that engage memory, body, and emotion. Then, you’ll learn to interpret and frame what you discovered so it becomes meaningful in your personal life. Finally, you’ll ground the insight into your daily routine with rituals, habits, and commitments that weave the wisdom into who you are. </p><p>● Connect with the memory of your journey through embodied recall, sensory anchoring, and authentic expression. </p><p>● Remember and track your experiences through the <em>White Rabbit Recall </em>task. </p><p>● Explore <em>Symbolic Sketching </em>and <em>Free Writing </em>to bypass left brain rationality and reveal hidden insight and messages from your journeys. </p><p>● Translate your insights through the <em>The 3 Whys Journaling </em>exercise to uncover purpose and relevance. </p><p>● Make a <em>Ritual Offering </em>to release emotions, heal a trauma or close a chapter linked to astral experience. </p><p>● Implement the <em>Headline & Hashtag </em>task to distill your journey into a powerful intentional statement. </p><p>● Learn <em>Habit Stacking </em>and attach new practices to your existing routines.</p><p>● Do a <em>Life Audit </em>and make an <em>Integration Commitment </em>to realign choices and step into your new sense of self. </p>",
+            "dropdown_image_fill": true,
+            "background_color": "#422068",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_69NeXh": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Week 7: Bonus: Secret Portal: Astral Tools of Ancient Egypt",
+            "text": "",
+            "image": "shopify://shop_images/Module_7.png",
+            "dropdown_text": "<p>We’re the pyramids a Portal? Uncover the astral secrets of one of the world’s most mysterious and spiritually advanced civilizations. The Ancient Egyptians viewed the cosmos as a living temple and practiced powerful methods to move beyond the body. In this bonus module, you’ll discover how they approached the astral planes, from sound and posture to plant rituals and deity invocations. These are not just relics of the past, but timeless technologies that honour a beautiful culture, and take your astral practise to the next level. </p><p>● Understand how the Ancient Egyptians perceived the cosmos and consciousness beyond the body. </p><p>● Practice age-old out-of-body techniques, including the distinct body posture used for projection. </p><p>● Harness a mantra rooted in Egyptian symbolism, using vibration to dissolve boundaries of awareness. </p><p>● Create and harness a Blue Lotus Tea ritual to relax deeply, be guided by the plant and open doorways into out-of-body states. </p><p>● Call in guidance and protection from an Egyptian deity to support and empower your journeys. </p>",
+            "dropdown_image_fill": true,
+            "background_color": "#422068",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "75f8a537-55ac-4222-9783-a4fd0477d5b9",
+        "4c239ee9-479d-4f81-b5b6-a7c9750699a5",
+        "0a6fb51b-ba50-461a-992b-45e0e72261a5",
+        "d5af11b3-e1d0-4ae7-aef9-b21af820cfff",
+        "d2c67790-d1b5-4bce-8784-42372bc6dc67",
+        "dropdown_6U9e9d",
+        "dropdown_69NeXh"
+      ],
+      "custom_css": [
+        ".index-section {background-color: #fff5f1; padding-top: 10px;}"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "blocks_in_banner_tDqaLc": {
+      "type": "blocks-in--banner",
+      "name": "Blocks Below Banner",
+      "settings": {
+        "title": "",
+        "check-in-middle": false,
+        "btn-text": "Learn More",
+        "btn-link": "",
+        "btn-text-c": "Learn More",
+        "btn-link-c": ""
+      }
+    },
+    "b1e017d0-0cb2-4059-b854-c122e1dd779e": {
+      "type": "text-columns",
+      "blocks": {
+        "9c459782-e688-4c91-b2f9-22e7ba873d45": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "rounded",
+            "image_width": 320,
+            "title": "",
+            "heading_size": "h3",
+            "text": "<p>I’m Jade Shaw, an <strong>Astral Projection </strong>researcher, teacher, and international speaker.<br/><br/>A life-changing Out-Of-Body Experience over a decade ago set me on a path of deep study and practice. Since then, I’ve been on a whirlwind journey which involves…<br/><br/>⟡ <strong>Netflix</strong>: Taught the cast and consulted for the NO1 Netflix show ‘Behind her Eyes’.<br/>⟡ <strong>Amazon Prime</strong>: Produced and hosted the film ‘Insight Out’ on Amazon Prime and Gaia TV.<br/>⟡ <strong>Masters</strong>: Undertook a Msc Transpersonal Psychology and Mindfulness Teacher Training.<br/>⟡ <strong>Forbes</strong>: Published peer-reviewed scientific paper on OBEs featured in Forbes.<br/>⟡<strong> World 1st:</strong> Leading 1st long-term scientific study on OBEs and self change, with Institute of Noetic Sciences.<br/>⟡ <strong>National Press</strong>: Mindfulness approach to OBEs for wellbeing covered for 1st time in UK press.<br/>⟡ <strong>Celebrities</strong>: Advised Fortune 500 CEOs, Hollywood Actors, TV Hosts, NY Times bestselling authors.<br/>⟡ <strong>Cultural Traditions</strong>: Lived and studied in a Tibetan Buddhist temple for 5 years, undertook pilgrimage around India and attended shamanic retreats around the world.<br/><br/><strong>Guided thousands worldwide to access out-of-body states for transformation.</strong><br/><br/>Astral projection is one of the most eye-opening, liberating experiences you can have, and I’m honored to help you begin your journey.<br/></p>",
+            "align_text": "left",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20086275309889__b1e017d0-0cb2-4059-b854-c122e1dd779e-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Jade_Shaw_Primary_Headshot.jpg",
+            "image_mask": "rounded",
+            "image_width": 650,
+            "title": "Jade Shaw",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "9c459782-e688-4c91-b2f9-22e7ba873d45",
+        "template--20086275309889__b1e017d0-0cb2-4059-b854-c122e1dd779e-text_block-1"
+      ],
+      "custom_css": [
+        "@media (min-width: 768px) {.grid {display: flex; align-items: center; } .index-section {background-color: #fff5f1; }}"
+      ],
+      "settings": {
+        "title": "Meet Your Teacher",
+        "heading_size": "h1",
+        "subtitle": "",
+        "align_text": "center",
+        "grid": 2,
+        "divider": false,
+        "color_scheme": "3"
+      }
+    },
+    "testimonials_efYLMM": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_jVxqXP": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Learning with Jade has changed my life, and led me down so many other rabbit holes. It's a journey of joy and connection, and has given me a sense of immeasurable meaning in my life.</p>",
+            "author": "",
+            "author_info": ""
+          }
+        },
+        "testimonial_qEf6WM": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I’ve been through a very difficult few years. Learning from Jade, and from my friends in her community, has been life altering in the most meaningful, expansive, positive way. I feel liberated from most fears, positive about my own passing, and I have seriously shifted my perspective on this life and what waits for me beyond. I feel intense gratitude every single day, even after a desperately sad time. You seemed to magic up at exactly the right time in my life.</p>",
+            "author": "",
+            "author_info": ""
+          }
+        },
+        "testimonial_Kxk9TB": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I love Jade’s energy and enthusiasm. It’s been an eye-opening journey, I have learned something in every session with Jade. I know I am here for a reason. </p>",
+            "author": "",
+            "author_info": ""
+          }
+        },
+        "testimonial_KfPbCq": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "testimonial_wEBdVe": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_jVxqXP",
+        "testimonial_qEf6WM",
+        "testimonial_Kxk9TB",
+        "testimonial_KfPbCq",
+        "testimonial_wEBdVe"
+      ],
+      "name": "t:sections.testimonials.presets.testimonials.name",
+      "settings": {
+        "title": "Testimonials",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "2"
+      }
+    },
+    "featured_product_jnVjrE": {
+      "type": "main-product",
+      "blocks": {
+        "86318638-9bad-4d65-96fe-3b801dd2b185": {
+          "type": "custom",
+          "settings": {
+            "code": "<a id=\"offer\" name=\"offer\" style=\"position: absolute;margin-top: -15rem;\"></a>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "show-def-q": false,
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "86318638-9bad-4d65-96fe-3b801dd2b185",
+        "price",
+        "separator",
+        "variant_picker",
+        "inventory_status",
+        "buy_buttons",
+        "description",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "custom_css": [
+        ".image-wrap {background: transparent;}",
+        ".product-grid__container {padding-bottom: 40px;}",
+        ".variant__label {display: none;}",
+        ".product-block,.product-block h2 {margin-bottom: 15px;}"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": false,
+        "h1_title": false,
+        "hide_media": false,
+        "align_text": "left",
+        "image_position": "left",
+        "image_container_size": "medium",
+        "product_image_size": "natural",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": false,
+        "product_video_style": "muted"
+      }
+    },
+    "rich_text_CKpgQf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3U4edA": {
+          "type": "heading",
+          "settings": {
+            "title": "Members Enjoy 10% off!",
+            "heading_size": "h2"
+          }
+        },
+        "text_kajkGy": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Not a member? Join to save on products, courses, events and retreats!</p>"
+          }
+        },
+        "button_7YCV4i": {
+          "type": "button",
+          "settings": {
+            "link": "/account/login",
+            "link_text": "Log In or Sign Up Here"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3U4edA",
+        "text_kajkGy",
+        "button_7YCV4i"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "color_scheme": "3",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0": {
+      "type": "columns-1",
+      "blocks": {
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "What is included in this course?",
+            "text": "",
+            "dropdown_text": "<p>47 immersive video classes.</p><p>7 guided meditations to support each step of the journey.</p><p>A 90-minute guided audio journey with binaural beats to trigger altered states.</p><p>15+ guided experiential exercises woven throughout the modules.</p><p>6 printable worksheets to support the practice.</p><p>A Bonus module on the ancient Egyptian approach to astral projection, including a guided tea ritual.</p><p>A deep dive into Jade’s signature S.T.A.T.E. Method, the 5-step induction process previously used in a scientific study.</p>",
+            "dropdown_image_fill": true,
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_V8YmcL": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "What is the S.T.A.T.E. Method?",
+            "text": "",
+            "dropdown_text": "<p>This method breaks down out-of-body states into trainable stages, rather than treating them as spontaneous or mystical accidents.</p><p>Instead of “hoping something happens,” you learn how to:</p><ul><li>Recognize the physiological markers of altered states</li><li>Enter them intentionally</li><li>Stabilize awareness once inside</li><li>Exit safely and integrate meaningfully</li></ul>",
+            "dropdown_image_fill": true,
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_V78rTz": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "What will I be able to do by Week 7 of this course?",
+            "text": "",
+            "dropdown_text": "<p>By the end of The Portal, you will be able to:</p><ul><li>Enter altered states of consciousness intentionally</li><li>Recognize and stabilize the threshold between body and awareness</li><li>Induce out-of-body states using a repeatable framework</li><li>Navigate fear, excitement, or disorientation during nonphysical experiences</li><li>Extract insight and meaning from experiences rather than chasing phenomena</li><li>Apply expanded awareness to relationships, creativity, grief, and life direction</li></ul>",
+            "dropdown_image_fill": true,
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        },
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "What is the refund and cancellation policy?",
+            "text": "",
+            "dropdown_text": "<p>⟡ The customer is eligible for a refund by written request within 48 hours from purchasing the course, and the customer hasn’t begun the course.</p><p>⟡ Other refund requests will be reviewed on an individual basis.</p>",
+            "dropdown_image_fill": true,
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        },
+        "36d254e6-c118-4eb9-868e-c7838412525e": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "4",
+            "text": "",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        },
+        "64c54989-1338-47b7-bd63-ddfa422511b7": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "5",
+            "text": "",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d",
+        "dropdown_V8YmcL",
+        "dropdown_V78rTz",
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281",
+        "36d254e6-c118-4eb9-868e-c7838412525e",
+        "64c54989-1338-47b7-bd63-ddfa422511b7"
+      ],
+      "custom_css": [
+        "h2 {margin-bottom: 4rem;}",
+        ".dropdown-with-image-block {box-shadow: none; max-width: 1200px; margin: 0 auto 0.5rem auto;}",
+        ".button-block {margin-top: 2rem;}"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "FAQ’s",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "blocks_in_banner_bV7jfB",
+    "3124092b-a473-448b-b237-7c9b098cd472",
+    "rich_text_G76kDW",
+    "2cf59009-8b04-4f41-ba20-7aab7e4fe761",
+    "blocks_in_banner_b4iUAc",
+    "columns_1_WcC4p8",
+    "f2f16573-2553-4b00-98b9-ad9c6717eedc",
+    "icon_list_and_image_prVgKQ",
+    "blocks_in_banner_hTNEHW",
+    "rich_text_eM6yVa",
+    "text_and_image_N3967a",
+    "text_and_image_EBDqkL",
+    "text_and_image_F9Wjix",
+    "text_and_image_m4j7HK",
+    "text_and_image_EJzHz6",
+    "text_and_image_qKz8bg",
+    "text_and_image_LAMETk",
+    "d2f3e665-9bf4-4aee-8b67-425b66d670c6",
+    "blocks_in_banner_tDqaLc",
+    "b1e017d0-0cb2-4059-b854-c122e1dd779e",
+    "testimonials_efYLMM",
+    "featured_product_jnVjrE",
+    "rich_text_CKpgQf",
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0"
+  ]
+}

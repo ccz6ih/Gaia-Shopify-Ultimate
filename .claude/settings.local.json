@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Gaia-Fetch \")",
+      "Bash(dir:*)",
+      "Bash(robocopy:*)",
+      "Bash(powershell -Command:*)",
+      "Bash(comm:*)",
+      "Bash(wc:*)",
+      "Bash(Select-Object -ExpandProperty InputObject)",
+      "Bash(\")",
+      "Bash(powershell -ExecutionPolicy Bypass -File:*)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}

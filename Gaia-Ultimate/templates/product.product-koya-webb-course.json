@@ -1,0 +1,1056 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-1": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "<strong>Become a Certified Yoga Teacher with Our 200-Hour Holistic Health and Yoga Teacher Training<\/strong>",
+            "h1_title": true,
+            "title_size": 80,
+            "subheading": "Led by Koya Webb",
+            "enlarge_subheading": true,
+            "link": "#offer",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#01b4b4",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify:\/\/shop_images\/CS14807_Marketplace_Koya_Webb_Hero_Contextual_Promo_en_US_Hero_Banner.jpg",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-1"
+      ],
+      "custom_css": [
+        "[class^=\"hero-natural--template-\"] {min-height: 600px;}",
+        "@media (min-width: 769px) {.hero__text-shadow {max-width: 700px; } h1 {font-size: 50px; line-height: 1em; margin-top: 0; } .hero__subtitle {font-size: 1.1em; }}",
+        ".hero__subtitle {font-weight: bold;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_f6YeBn": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_gqrAQP": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h1 class=\"yoga-title\">Yoga Alliance Accredited<\/h1><style>\n    .yoga-title {\n      font-size: 80px;\n      font-weight: bold;\n      text-align: center;\n    }\n  <\/style>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_3tJA3V": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/yoga-nidra-yoga-alliance_a857313e-75ed-42d9-a8e4-535b2d70e9f3.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_gqrAQP",
+        "image_3tJA3V"
+      ],
+      "custom_css": [],
+      "name": "t:sections.advanced-content.presets.custom_content.name",
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "spacing_sec_YfTaBF": {
+      "type": "spacing-sec",
+      "name": "Spacer Section",
+      "settings": {
+        "title": "Customer Reviews"
+      }
+    },
+    "3499c891-490d-4c18-9d41-a7c8fe591536": {
+      "type": "rich-text",
+      "blocks": {
+        "a5c74000-1b77-4b3f-8cd8-e2b144865401": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<h4>“I'm so grateful to have participated in the Get Loved Up LA Yoga Teaching Training. The training is like none other, it goes beyond the basics you'd find in a typical yoga training program to include a social justice component. Koya Webb is an outstanding teacher who has provided quality instruction while nurturing and fostering community among her students in an intensive setting. Hands down there's no one else I would want to receive this training from.”<\/h4><p><strong> - Kerri Sawyer<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "a5c74000-1b77-4b3f-8cd8-e2b144865401"
+      ],
+      "custom_css": [
+        "h3 {font-weight: normal;}"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "color_scheme": "3",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "3124092b-a473-448b-b237-7c9b098cd472": {
+      "type": "columns-2",
+      "blocks": {
+        "template--20086275309889__3124092b-a473-448b-b237-7c9b098cd472-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": true,
+            "text": "<p><\/p><p><\/p><p><strong>{{ product.title }}<\/strong><\/p><p>Our 200-hour Yoga Teacher Training is designed for anyone ready to deepen their personal practice and learn the art of teaching yoga. With a focus on alignment, breathwork and mindfulness, this certification will empower you with the tools to lead inspiring yoga classes and live a life of wellness and balance. Whether you want to teach professionally or enrich your own practice, this training offers a holistic foundation in yoga philosophy, anatomy and self-care. At Get Loved Up, we help you connect with your true purpose and use yoga as a tool for personal and collective transformation.<\/p>"
+          }
+        },
+        "image_kBdpF9": {
+          "type": "image",
+          "settings": {
+            "parent_column": "left",
+            "image": "shopify:\/\/shop_images\/Koya-Webb-Group-Certificate.jpg",
+            "link": "",
+            "image_mask": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__3124092b-a473-448b-b237-7c9b098cd472-text-1",
+        "image_kBdpF9"
+      ],
+      "custom_css": [
+        ".video_mp4-block {margin-bottom: 11px;}"
+      ],
+      "settings": {
+        "title": "Deepen your practice, master the fundamentals and step into your role as a yoga teacher with our transformative 200-hour training.",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "#offer",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "#offer",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "2cf59009-8b04-4f41-ba20-7aab7e4fe761": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20086275309889__2cf59009-8b04-4f41-ba20-7aab7e4fe761-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "This Course Is For You If…",
+            "heading_size": "h1"
+          }
+        },
+        "023d8f51-cf4f-4212-ac76-7f6b92b56be8": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "You’re passionate about yoga and ready to deepen your understanding of the practice."
+          }
+        },
+        "b591ead6-6fc0-47fe-ab9b-d828621c8f4a": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "You want to become a certified yoga teacher and share the benefits of yoga with others."
+          }
+        },
+        "9e308ddc-343c-46b0-a8f1-d97289120114": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "You’re seeking to develop a stronger mind-body connection through breathwork and meditation."
+          }
+        },
+        "abd9e4af-efcb-41a6-a8c0-55aa610184a5": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "You desire a holistic approach to yoga, including physical, mental and spiritual wellbeing."
+          }
+        },
+        "9db1bbaf-d802-40ea-a687-133fb0999f73": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "You want to be part of a supportive, uplifting community of like-minded individuals."
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__2cf59009-8b04-4f41-ba20-7aab7e4fe761-heading-1",
+        "023d8f51-cf4f-4212-ac76-7f6b92b56be8",
+        "b591ead6-6fc0-47fe-ab9b-d828621c8f4a",
+        "9e308ddc-343c-46b0-a8f1-d97289120114",
+        "abd9e4af-efcb-41a6-a8c0-55aa610184a5",
+        "9db1bbaf-d802-40ea-a687-133fb0999f73"
+      ],
+      "custom_css": [
+        "p,.sales-points {max-width: 750px; margin-left: auto; margin-right: auto;}",
+        ".sales-points {text-align: left; margin-bottom: 1rem;}"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "color_scheme": "1",
+        "show_wave": true,
+        "divider": false
+      }
+    },
+    "9c2f86b0-f860-458d-92ac-934766786e09": {
+      "type": "icon-list-and-image",
+      "blocks": {
+        "template--20086275309889__9c2f86b0-f860-458d-92ac-934766786e09-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "You'll Learn...",
+            "heading_size": "h1"
+          }
+        },
+        "template--20086275309889__9c2f86b0-f860-458d-92ac-934766786e09-sales_point-1": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "The fundamentals of yoga postures (asanas) and how to teach them safely and effectively."
+          }
+        },
+        "e30652cc-07c9-4164-b046-4482b7110f74": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Yoga philosophy, including the Yoga Sutras, Eight Limbs of Yoga and key principles."
+          }
+        },
+        "8a2c60cf-d11e-42af-8aa9-c04c84436248": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Anatomy and alignment for injury prevention and body awareness."
+          }
+        },
+        "388ed7e5-4b63-437c-b161-1f9733cf1519": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Breathwork (pranayama) techniques to enhance your practice and teaching."
+          }
+        },
+        "fd6cf1bd-87b8-406d-9e2a-06b824e61e0a": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "The art of sequencing yoga classes for all levels, from beginner to advanced."
+          }
+        },
+        "sales_point_XKt4m9": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Meditation techniques to cultivate inner peace and mindfulness."
+          }
+        },
+        "sales_point_w3QfDD": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "How to create inclusive, empowering and accessible yoga classes."
+          }
+        },
+        "sales_point_nk3URE": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "How to find your unique voice as a yoga teacher, become a successful wellness entrepreneur and lead with confidence."
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__9c2f86b0-f860-458d-92ac-934766786e09-heading-1",
+        "template--20086275309889__9c2f86b0-f860-458d-92ac-934766786e09-sales_point-1",
+        "e30652cc-07c9-4164-b046-4482b7110f74",
+        "8a2c60cf-d11e-42af-8aa9-c04c84436248",
+        "388ed7e5-4b63-437c-b161-1f9733cf1519",
+        "fd6cf1bd-87b8-406d-9e2a-06b824e61e0a",
+        "sales_point_XKt4m9",
+        "sales_point_w3QfDD",
+        "sales_point_nk3URE"
+      ],
+      "custom_css": [
+        "h2 {margin-bottom: 2rem;}",
+        ".feature-row__images {align-self: start;}",
+        ".sales-points {margin-bottom: 1rem;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Koya-Webb-Viparita-Virabadrasana_b4b0f4bc-efeb-4738-9226-d9c58d4934a3.jpg",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "image_width": "50",
+        "align_text": "left",
+        "layout": "right",
+        "color_scheme": "none",
+        "hide_image": false,
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "b1e017d0-0cb2-4059-b854-c122e1dd779e": {
+      "type": "text-columns",
+      "blocks": {
+        "9c459782-e688-4c91-b2f9-22e7ba873d45": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image": "shopify:\/\/shop_images\/yoga-nidra-stephanie.jpg",
+            "image_mask": "rounded",
+            "image_width": 320,
+            "title": "",
+            "heading_size": "h3",
+            "text": "<p>Koya Webb is an internationally recognized yoga teacher, personal trainer, holistic health and wellness coach, author, motivational speaker, and professional fitness model revolutionizing the holistic living landscape. She is known as a “transformational specialist” when it comes to helping people reach their goals—by encouraging sustainable positive lifestyle changes that maximize their ability to cultivate self-love, lose weight, increase energy, reverse life-threatening conditions and experience optimal health. Koya believes the most important element in health is Self-Love; from this belief came the creation of Get Loved Up. Get Loved Up encourages clients to practice daily self-care and make healthy living a priority in a fun and accessible way. Get Loved Up aims to lower the number of people with chronic diseases associated with an unhealthy diet and sedentary lifestyle. With over a decade of holistic studies at her command – RYT 500, with certifications in Ashtanga, Rayoka, SUP, AcroVinyasa, and AYfit, as well as NASM and IIN – Koya is dedicated to making a positive impact in the world of healthy living. This former competitive track and field athlete combines the work ethic and dedication of an athlete with simple practical holistic health practices that anyone can follow to live a healthy and active lifestyle.<\/p>",
+            "align_text": "left",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20086275309889__b1e017d0-0cb2-4059-b854-c122e1dd779e-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Koya-Webb-Business.jpg",
+            "image_mask": "rounded",
+            "image_width": 400,
+            "title": "Koya Webb",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "9c459782-e688-4c91-b2f9-22e7ba873d45",
+        "template--20086275309889__b1e017d0-0cb2-4059-b854-c122e1dd779e-text_block-1"
+      ],
+      "custom_css": [
+        "@media (min-width: 768px) {.grid {display: flex; align-items: center; }}"
+      ],
+      "settings": {
+        "title": "Meet Your Teacher",
+        "heading_size": "h1",
+        "subtitle": "",
+        "align_text": "center",
+        "grid": 2,
+        "divider": false,
+        "color_scheme": "1"
+      }
+    },
+    "f2f16573-2553-4b00-98b9-ad9c6717eedc": {
+      "type": "icon-list-and-image",
+      "blocks": {
+        "template--20315243544897__f2f16573-2553-4b00-98b9-ad9c6717eedc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "This training will give you a clear understanding of how the body moves and works as a whole",
+            "heading_size": "h1"
+          }
+        },
+        "template--20315243544897__f2f16573-2553-4b00-98b9-ad9c6717eedc-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong>You’ll learn: <\/strong><\/p>"
+          }
+        },
+        "template--20315243544897__f2f16573-2553-4b00-98b9-ad9c6717eedc-sales_point-1": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "How movement practices can serve as messengers to cellular systems in the body that serve to regulate and support resilience"
+          }
+        },
+        "8f257190-9135-4e9c-a4b2-16778ea7e59a": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "How this layer of connective tissue as a biotensegrity system creates a body-wide intelligence system with important communication roles both with and beyond the nervous system"
+          }
+        },
+        "45620b84-4a9a-49d0-b129-024c6cbe5742": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "How the body's muscles and systems work together based on new research and findings"
+          }
+        },
+        "7e23352f-dd8a-4d71-9209-75f9e603533c": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "What this means for your work in yoga and movement and how you can help your students better regulate their pain"
+          }
+        }
+      },
+      "block_order": [
+        "template--20315243544897__f2f16573-2553-4b00-98b9-ad9c6717eedc-heading-1",
+        "template--20315243544897__f2f16573-2553-4b00-98b9-ad9c6717eedc-text-1",
+        "template--20315243544897__f2f16573-2553-4b00-98b9-ad9c6717eedc-sales_point-1",
+        "8f257190-9135-4e9c-a4b2-16778ea7e59a",
+        "45620b84-4a9a-49d0-b129-024c6cbe5742",
+        "7e23352f-dd8a-4d71-9209-75f9e603533c"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/yoga-international-functional-anatomy-learn-hero.jpg",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "image_width": "50",
+        "align_text": "left",
+        "layout": "left",
+        "color_scheme": "none",
+        "hide_image": false,
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "3a932ba1-36cb-44c6-abcf-49cc382b9b3e": {
+      "type": "icon-list-and-image",
+      "blocks": {
+        "74639dea-c061-4239-9dcd-c23cbe256242": {
+          "type": "heading",
+          "settings": {
+            "title": "This training introduces you to the principals,practices, and historical background that underlie iRest Yoga Nidra as a comprehensivepath of mediation.",
+            "heading_size": "h1"
+          }
+        },
+        "43f60cfc-5d20-42d4-9008-f863931b04d4": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong>You’ll learn: <\/strong><\/p>"
+          }
+        },
+        "8d2cb095-136c-4a83-8f19-f388b6643486": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Eastern and Western psycho-spiritual perspectives that form the foundation of iRest Yoga Nidra."
+          }
+        },
+        "89ba8538-8598-4a52-9e15-e336d32dcd6a": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Background information on how iRest is drawn from a 38 stage map of meditation that integrates the philosophies of Samkhya, Patanjali, Advaita, and Unqualified Nondual Realization."
+          }
+        },
+        "ecde982d-b265-4d9a-9d45-9930a23b5531": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "About the evidence-based research showing the efficacy of iRest and its use with various psycho-physical issues and populations."
+          }
+        },
+        "c0441649-f49d-4518-bd5a-91a8be8ac72d": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "How to understand iRest as a comprehensive approach to meditation."
+          }
+        },
+        "126b4575-ab8b-4651-a00b-2606b6bb53ac": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Guidelines regarding the teacher-student relationship and ethical considerations."
+          }
+        },
+        "a1bf180e-6d2e-47e5-b691-c948d3bcfcd8": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "How to work one-on-one with people in what we call “iRest Co-Meditation Dyads.”"
+          }
+        },
+        "2ad230b4-5581-46d8-9996-59367300a74e": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "An introduction to the common language that is used in iRest meditation."
+          }
+        }
+      },
+      "block_order": [
+        "74639dea-c061-4239-9dcd-c23cbe256242",
+        "43f60cfc-5d20-42d4-9008-f863931b04d4",
+        "8d2cb095-136c-4a83-8f19-f388b6643486",
+        "89ba8538-8598-4a52-9e15-e336d32dcd6a",
+        "ecde982d-b265-4d9a-9d45-9930a23b5531",
+        "c0441649-f49d-4518-bd5a-91a8be8ac72d",
+        "126b4575-ab8b-4651-a00b-2606b6bb53ac",
+        "a1bf180e-6d2e-47e5-b691-c948d3bcfcd8",
+        "2ad230b4-5581-46d8-9996-59367300a74e"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {margin-bottom: 2rem;}",
+        ".feature-row__images {align-self: start;}",
+        ".sales-points {margin-bottom: 1rem;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cert-happy-woman-on-a-scooter-with-fresh-groceries.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "image_width": "50",
+        "align_text": "left",
+        "layout": "left",
+        "color_scheme": "none",
+        "hide_image": false,
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1c97dcc5-84af-4b74-9bf7-fc68e0f6db49": {
+      "type": "background-image-text",
+      "disabled": true,
+      "custom_css": [
+        ".background-media-text__image {object-position: top center;}",
+        "@media (min-width: 768px) {.background-media-text--left {position: relative; left: calc((100% - 500px) \/ 2); }}"
+      ],
+      "settings": {
+        "subtitle": "",
+        "title": "“You can't put a price on health, and there is nothing more empowering than having the knowledge to be able to help yourself and your loved ones if the need arises.”",
+        "heading_size": "h3",
+        "heading_position": "left",
+        "text": "<p><em>Michelle Pedula, Founder of Harvest & Wellness - Ontario, Canada.<\/em><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/cert-testimonial-michelle-p.jpg",
+        "layout": "left",
+        "height": 550,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "e0fdec47-b573-4fe2-b147-79c741ea1db9": {
+      "type": "columns-2",
+      "blocks": {
+        "template--21447284883777__e0fdec47-b573-4fe2-b147-79c741ea1db9-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": true,
+            "text": "<p><strong>This course brings the deeper layers of anatomy to life<\/strong> in a way that’s both realistic and valuable for movement professionals and will provide you with tools to support your practice and work with your clients.<\/p>"
+          }
+        },
+        "template--21447284883777__e0fdec47-b573-4fe2-b147-79c741ea1db9-image-1": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify:\/\/shop_images\/yoga-international-functional-anatomy-online-training-hero_3dba3281-e4e7-488d-bda9-e09caf0c0652.webp",
+            "link": "",
+            "image_mask": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--21447284883777__e0fdec47-b573-4fe2-b147-79c741ea1db9-text-1",
+        "template--21447284883777__e0fdec47-b573-4fe2-b147-79c741ea1db9-image-1"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "@media (min-width: 768px) {.grid {display: flex; align-items: center; }}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "center",
+        "column_right_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "d2f3e665-9bf4-4aee-8b67-425b66d670c6": {
+      "type": "columns-1",
+      "blocks": {
+        "75f8a537-55ac-4222-9783-a4fd0477d5b9": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Foundations of Yoga",
+            "text": "<ul><li>Yoga History & Philosophy: Learn about the roots of yoga, the Yoga Sutras, and the Eight Limbs of Yoga to build a strong foundation.<\/li><li>Asana Practice & Alignment: Dive deep into the key yoga postures, focusing on alignment, anatomy, and modifications for different body types and abilities.<\/li><\/ul>",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "4c239ee9-479d-4f81-b5b6-a7c9750699a5": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Breathwork & Meditation",
+            "text": "<ul><li>Pranayama Techniques: Study various breathwork techniques that enhance energy, relaxation, and focus.<\/li><li>Mindfulness & Meditation: Develop a consistent meditation practice and learn to guide others in mindfulness.<\/li><\/ul>",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "0a6fb51b-ba50-461a-992b-45e0e72261a5": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Teaching Methodology",
+            "text": "<ul><li>Class Sequencing & Theming: Learn to structure well-balanced yoga classes with thoughtful themes and creative sequences.<\/li><li>Hands-On Adjustments: Safely assist your students with hands-on adjustments and verbal cues.<\/li><li>Teaching with Confidence: Practice teaching in a supportive environment, refining your voice, presence, and communication skills.<\/li><\/ul>",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "d5af11b3-e1d0-4ae7-aef9-b21af820cfff": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Anatomy & Physiology",
+            "text": "<ul><li>Yoga Anatomy: Understand the body’s structure, common injuries, and how to prevent them through intelligent sequencing and alignment.<\/li><li>Energetic Anatomy: Explore the subtle body, including chakras, nadis, and energetic alignment in yoga practice.<\/li><\/ul>",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "75f8a537-55ac-4222-9783-a4fd0477d5b9",
+        "4c239ee9-479d-4f81-b5b6-a7c9750699a5",
+        "0a6fb51b-ba50-461a-992b-45e0e72261a5",
+        "d5af11b3-e1d0-4ae7-aef9-b21af820cfff"
+      ],
+      "custom_css": [],
+      "settings": {
+        "narrow_column": false,
+        "title": "Important Pillars",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "3",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "86318638-9bad-4d65-96fe-3b801dd2b185": {
+          "type": "custom",
+          "settings": {
+            "code": "<span id=\"offer\" style=\"position:absolute; top:-40px;\"><\/span>\n<h3 style=\"font-weight: normal;\">For Yoga, Movement, Performance, and Pain Specialists<\/h3>\n<h3>Your Price:<\/h3>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "show-def-q": false,
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "86318638-9bad-4d65-96fe-3b801dd2b185",
+        "price",
+        "separator",
+        "variant_picker",
+        "inventory_status",
+        "buy_buttons",
+        "description",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "custom_css": [
+        ".image-wrap {background: transparent;}",
+        ".product-grid__container {padding-bottom: 40px;}",
+        ".variant__label {display: none;}",
+        ".product-block,.product-block h2 {margin-bottom: 15px;}"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": false,
+        "h1_title": false,
+        "hide_media": false,
+        "align_text": "left",
+        "image_position": "left",
+        "image_container_size": "medium",
+        "product_image_size": "natural",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": false,
+        "product_video_style": "muted"
+      }
+    },
+    "97c60256-5344-47c3-8219-8f86b7826d60": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20315243544897__97c60256-5344-47c3-8219-8f86b7826d60-hero-1": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "h1_title": false,
+            "title_size": 70,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/yoga-nidra-level-1.jpg",
+            "overlay_opacity": 0
+          }
+        },
+        "template--20315243544897__97c60256-5344-47c3-8219-8f86b7826d60-hero-2": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "h1_title": false,
+            "title_size": 70,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/yoga-nidra-training.jpg",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--20315243544897__97c60256-5344-47c3-8219-8f86b7826d60-hero-1",
+        "template--20315243544897__97c60256-5344-47c3-8219-8f86b7826d60-hero-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "desktop_size": -70,
+        "mobile_size": 0,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0": {
+      "type": "columns-1",
+      "blocks": {
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Do I need to be an advanced yoga practitioner to enroll?",
+            "text": "",
+            "dropdown_text": "<p>No, this training is designed for practitioners of all levels. Whether you’re new to yoga or have years of experience, this course will deepen your practice and teaching skills.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Is the 200-hour training recognized by Yoga Alliance?",
+            "text": "",
+            "dropdown_text": "<p>Yes, upon successful completion, you’ll be eligible to register with Yoga Alliance as a RYT-200 (Registered Yoga Teacher, 200-hour level).<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Will I be qualified to teach yoga after completing this course?",
+            "text": "",
+            "dropdown_text": "<p>Yes, you will be fully certified to teach yoga and equipped with the skills to lead classes confidently in studios, online, or privately.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "36d254e6-c118-4eb9-868e-c7838412525e": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "How long does the course take to complete?",
+            "text": "",
+            "dropdown_text": "<p>The training typically spans 4-8 weeks.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "64c54989-1338-47b7-bd63-ddfa422511b7": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "What if I can’t finish in 8 weeks or even a year because life happens?",
+            "text": "",
+            "dropdown_text": "<p>Don’t worry. We understand life happens You’ll have lifetime access to the materials, so you can revisit the certification at your convenience.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d",
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281",
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07",
+        "36d254e6-c118-4eb9-868e-c7838412525e",
+        "64c54989-1338-47b7-bd63-ddfa422511b7"
+      ],
+      "custom_css": [
+        "h2 {margin-bottom: 4rem;}",
+        ".dropdown-with-image-block {box-shadow: none; max-width: 1200px; margin: 0 auto 0.5rem auto;}",
+        ".button-block {margin-top: 2rem;}"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "FAQ’s",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "99d54df7-cc44-4ce9-9ad6-3869e40a74ab": {
+      "type": "text-columns",
+      "blocks": {
+        "template--20315243544897__99d54df7-cc44-4ce9-9ad6-3869e40a74ab-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Koya6621_387.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20315243544897__99d54df7-cc44-4ce9-9ad6-3869e40a74ab-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Koya-Webb-Group-Poses.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20315243544897__99d54df7-cc44-4ce9-9ad6-3869e40a74ab-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Koya-Webb-Headstand.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20315243544897__99d54df7-cc44-4ce9-9ad6-3869e40a74ab-text_block-1",
+        "template--20315243544897__99d54df7-cc44-4ce9-9ad6-3869e40a74ab-text_block-2",
+        "template--20315243544897__99d54df7-cc44-4ce9-9ad6-3869e40a74ab-text_block-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subtitle": "",
+        "align_text": "left",
+        "grid": 3,
+        "divider": false,
+        "color_scheme": "3"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "advanced_content_f6YeBn",
+    "spacing_sec_YfTaBF",
+    "3499c891-490d-4c18-9d41-a7c8fe591536",
+    "3124092b-a473-448b-b237-7c9b098cd472",
+    "2cf59009-8b04-4f41-ba20-7aab7e4fe761",
+    "9c2f86b0-f860-458d-92ac-934766786e09",
+    "b1e017d0-0cb2-4059-b854-c122e1dd779e",
+    "f2f16573-2553-4b00-98b9-ad9c6717eedc",
+    "3a932ba1-36cb-44c6-abcf-49cc382b9b3e",
+    "1c97dcc5-84af-4b74-9bf7-fc68e0f6db49",
+    "e0fdec47-b573-4fe2-b147-79c741ea1db9",
+    "d2f3e665-9bf4-4aee-8b67-425b66d670c6",
+    "main",
+    "97c60256-5344-47c3-8219-8f86b7826d60",
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0",
+    "99d54df7-cc44-4ce9-9ad6-3869e40a74ab"
+  ]
+}

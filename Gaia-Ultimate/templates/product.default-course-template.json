@@ -1,0 +1,1025 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-1": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "<strong>Title<\/strong>",
+            "h1_title": false,
+            "title_size": 80,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "#offer",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#01b4b4",
+            "text_align": "vertical-bottom horizontal-left",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-1"
+      ],
+      "custom_css": [
+        "[class^=\"hero-natural--template-\"] {min-height: 600px;}",
+        "@media (min-width: 769px) {.hero__text-shadow {max-width: 700px; } h1 {font-size: 50px; line-height: 1em; margin-top: 0; } .hero__subtitle {font-size: 1.1em; }}",
+        ".hero__subtitle {font-weight: bold;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": -30,
+        "mobile_size": 0,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "blocks_in_banner_YKf6aq": {
+      "type": "blocks-in--banner",
+      "name": "Blocks Below Banner",
+      "settings": {
+        "title": "",
+        "check-in-middle": false,
+        "btn-text": "Learn More",
+        "btn-link": "",
+        "btn-text-c": "Learn More",
+        "btn-link-c": ""
+      }
+    },
+    "3124092b-a473-448b-b237-7c9b098cd472": {
+      "type": "columns-2",
+      "blocks": {
+        "template--20086275309889__3124092b-a473-448b-b237-7c9b098cd472-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": false,
+            "text": "<p>Learn The LifeLine Technique®, an integrative holistic self-healing therapeutic system, to help identify the root cause of symptoms, stress, and disease.<\/p><p>We will guide you step-by-step through the science and philosophy of LifeLine sessions and teach you how to process trauma, alchemize subconscious limiting beliefs, increase emotional intelligence, and equip you with real tools to thrive and awaken the greatness that you hold within you. <\/p>"
+          }
+        },
+        "8f93800a-ce06-404f-8dc7-1fa4b80e79a3": {
+          "type": "video_mp4",
+          "settings": {
+            "parent_column": "left",
+            "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c587b96802cf4ee69079846d36cd5381.mp4",
+            "controls": true,
+            "loop": false,
+            "autoplay": true,
+            "video_width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__3124092b-a473-448b-b237-7c9b098cd472-text-1",
+        "8f93800a-ce06-404f-8dc7-1fa4b80e79a3"
+      ],
+      "custom_css": [
+        ".video_mp4-block {margin-bottom: 11px;}",
+        ".index-section {background-color: #fff5f1; padding-top: 40px;}"
+      ],
+      "settings": {
+        "title": "In Conscious Evolution You Will...",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "#offer",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "#offer",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "2cf59009-8b04-4f41-ba20-7aab7e4fe761": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20086275309889__2cf59009-8b04-4f41-ba20-7aab7e4fe761-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "What You'll Get",
+            "heading_size": "h1"
+          }
+        },
+        "023d8f51-cf4f-4212-ac76-7f6b92b56be8": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "Instant Access to 16 Program Modules"
+          }
+        },
+        "b591ead6-6fc0-47fe-ab9b-d828621c8f4a": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "Workbook & Resources"
+          }
+        },
+        "9e308ddc-343c-46b0-a8f1-d97289120114": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "12 Weeks of Live Member Webinars"
+          }
+        },
+        "abd9e4af-efcb-41a6-a8c0-55aa610184a5": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "Weekly Group Coaching"
+          }
+        },
+        "9db1bbaf-d802-40ea-a687-133fb0999f73": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "Exclusive Conscious Evolution Community"
+          }
+        },
+        "sales_point_bkjWw6": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "The LifeLine Technique® Flow Chart Poster (Digital)"
+          }
+        },
+        "sales_point_YcGjqY": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "The LifeLine Technique® Tri-Fold Flow Chart (Digital)"
+          }
+        },
+        "sales_point_pxB3Vr": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "5 Elements Emotions Charts & Tri-Fold Chart (Digital)"
+          }
+        },
+        "sales_point_jpmYUp": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "B.O.M.B – Bring Out My Best Poster (​Digital)"
+          }
+        },
+        "sales_point_z8LU4J": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "<strong>BONUS:<\/strong> 12-Week Access to The LifeLine Healing Circle"
+          }
+        },
+        "sales_point_K6fdLN": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "Opportunity to Become a Certified LifeLine Practitioner"
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__2cf59009-8b04-4f41-ba20-7aab7e4fe761-heading-1",
+        "023d8f51-cf4f-4212-ac76-7f6b92b56be8",
+        "b591ead6-6fc0-47fe-ab9b-d828621c8f4a",
+        "9e308ddc-343c-46b0-a8f1-d97289120114",
+        "abd9e4af-efcb-41a6-a8c0-55aa610184a5",
+        "9db1bbaf-d802-40ea-a687-133fb0999f73",
+        "sales_point_bkjWw6",
+        "sales_point_YcGjqY",
+        "sales_point_pxB3Vr",
+        "sales_point_jpmYUp",
+        "sales_point_z8LU4J",
+        "sales_point_K6fdLN"
+      ],
+      "custom_css": [
+        "p,.sales-points {max-width: 750px; margin-left: auto; margin-right: auto;}",
+        ".sales-points {text-align: left; margin-bottom: 1rem;}"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "color_scheme": "3",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "blocks_in_banner_e6pWEA": {
+      "type": "blocks-in--banner",
+      "name": "Blocks Below Banner",
+      "settings": {
+        "title": "",
+        "check-in-middle": false,
+        "btn-text": "Learn More",
+        "btn-link": "",
+        "btn-text-c": "Learn More",
+        "btn-link-c": ""
+      }
+    },
+    "columns_1_P9eyPz": {
+      "type": "columns-1",
+      "blocks": {
+        "text_AqVnyC": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_AqVnyC"
+      ],
+      "custom_css": [
+        ".grid .text-block {color: #ffffff !important; text-shadow: 0 2px 8px rgba(0, 0, 0, 0.7); background: rgba(0, 0, 0, 0.4); padding: 8px 16px; border-radius: 6px; display: inline-block;}"
+      ],
+      "name": "t:sections.columns-1.presets.name",
+      "settings": {
+        "narrow_column": false,
+        "title": "",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "background_image": "shopify:\/\/shop_images\/Module_4.png",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "f2f16573-2553-4b00-98b9-ad9c6717eedc": {
+      "type": "icon-list-and-image",
+      "blocks": {
+        "template--20315243544897__f2f16573-2553-4b00-98b9-ad9c6717eedc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "What you will receive",
+            "heading_size": "h1"
+          }
+        },
+        "template--20315243544897__f2f16573-2553-4b00-98b9-ad9c6717eedc-sales_point-1": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "Get immediate access to on-demand course videos, workbook, and tools to learn a process to shift any challenging circumstance by guiding your emotions to create a clear path forward."
+          }
+        },
+        "8f257190-9135-4e9c-a4b2-16778ea7e59a": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "You'll benefit from 12 weeks of LifeLine Sessions through the Group Healing Circles. To kickstart your transformational journey, feel free to watch the replay sessions in your Dashboard Library. Join LIVE each week via Zoom."
+          }
+        },
+        "45620b84-4a9a-49d0-b129-024c6cbe5742": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#f45d47",
+            "text": "Unlock access to the exclusive Conscious Evolution community through Group Coaching with others who are actively expanding their consciousness and personal development. Learn alongside each other and gain new friends!"
+          }
+        }
+      },
+      "block_order": [
+        "template--20315243544897__f2f16573-2553-4b00-98b9-ad9c6717eedc-heading-1",
+        "template--20315243544897__f2f16573-2553-4b00-98b9-ad9c6717eedc-sales_point-1",
+        "8f257190-9135-4e9c-a4b2-16778ea7e59a",
+        "45620b84-4a9a-49d0-b129-024c6cbe5742"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/184d4-0446-5153-7606-25cc7c37a6d6_2.webp",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "image_width": "50",
+        "align_text": "left",
+        "layout": "left",
+        "color_scheme": "none",
+        "hide_image": false,
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "blocks_in_banner_6WCBpq": {
+      "type": "blocks-in--banner",
+      "name": "Blocks Below Banner",
+      "settings": {
+        "title": "",
+        "check-in-middle": false,
+        "btn-text": "Learn More",
+        "btn-link": "",
+        "btn-text-c": "Learn More",
+        "btn-link-c": ""
+      }
+    },
+    "d2f3e665-9bf4-4aee-8b67-425b66d670c6": {
+      "type": "columns-1",
+      "blocks": {
+        "75f8a537-55ac-4222-9783-a4fd0477d5b9": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "1. WE ARE ALL ONE",
+            "text": "",
+            "dropdown_text": "<p>Our LifeLine journey begins with end in mind. You will learn a daily practice for creating present time consciousness so you can manifest optimal health and meaningful relationships all through the 4 steps of setting an intention. I will show you how to raise the consciousness of your body and relationships.  As a result of evolving your own consciousness, you'll be contributing with raising the consciousness of humanity.<\/p>",
+            "dropdown_image_fill": false,
+            "background_color": "#e1e8ff",
+            "text_color": ""
+          }
+        },
+        "4c239ee9-479d-4f81-b5b6-a7c9750699a5": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "2. RETURN TO NATURE",
+            "text": "",
+            "dropdown_text": "<p>Mother Nature is your nature. Through a simple process adapted from the Five Element Theory of Chinese Medicine, you are able to harmonize the dormant life force of nature living within you.  As a direct result – like a river flowing towards the ocean – your emotional channels naturally begin to flow with inner peace and freedom.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#e1e8ff",
+            "text_color": ""
+          }
+        },
+        "0a6fb51b-ba50-461a-992b-45e0e72261a5": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "3. AWAKENING GRATITUDE",
+            "text": "",
+            "dropdown_text": "<p>Your body, behavior, and relationships are a direct reflection of your mind. Change your mindset and you directly and positively impact the health of your life on all levels. Symptoms, stress, and disease are gifts in strange wrapping paper.  Through gratitude we evolve subconscious reactive patterns into a meaningful dialogue.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#e1e8ff",
+            "text_color": ""
+          }
+        },
+        "d5af11b3-e1d0-4ae7-aef9-b21af820cfff": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "4. REMEMBER WHAT YOU'VE BEEN PROGRAMED TO FORGET",
+            "text": "",
+            "dropdown_text": "<p>Transforming limiting beliefs, processing body memory, and trauma holding patterns will empower you to create new neural chemistry and pathways. Post-traumatic stress evolves into post traumatic growth.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#e1e8ff",
+            "text_color": ""
+          }
+        },
+        "d2c67790-d1b5-4bce-8784-42372bc6dc67": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "5. CHOOSING LOVE",
+            "text": "",
+            "dropdown_text": "<p>It’s now time to water the garden of the heart seeds you’ve planted. As a result of this evolutionary journey of awakening your spirit, you will notice deeper states of peace and confidence, commitment and patience within you. You will notice a change from surviving to thriving and clarity when it comes to creating healthy boundaries and making important decisions in your life.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#e1e8ff",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "75f8a537-55ac-4222-9783-a4fd0477d5b9",
+        "4c239ee9-479d-4f81-b5b6-a7c9750699a5",
+        "0a6fb51b-ba50-461a-992b-45e0e72261a5",
+        "d5af11b3-e1d0-4ae7-aef9-b21af820cfff",
+        "d2c67790-d1b5-4bce-8784-42372bc6dc67"
+      ],
+      "custom_css": [
+        ".index-section {background-color: #fff5f1;}"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "CURRICULUM OVERVIEW",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "b1e017d0-0cb2-4059-b854-c122e1dd779e": {
+      "type": "text-columns",
+      "blocks": {
+        "9c459782-e688-4c91-b2f9-22e7ba873d45": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "rounded",
+            "image_width": 320,
+            "title": "",
+            "heading_size": "h3",
+            "text": "<p>Dr. Darren R. Weissman, D.C., is a renowned chiropractic holistic physician, visionary thinker, and leading expert in consciousness. As the Developer of The LifeLine Technique®, he empowers individuals to transform their emotional programs and unlock their innate healing potential. With best- selling books such as The Power of Infinite Love & Gratitude, Awakening to the Secret Code of Your Mind, The Heart of the Matter, and his children's book, The Daily Lessons of Infinite Love & Gratitude, Dr. Weissman's insightful writings have touched the lives of many seeking personal growth and healing.<br\/><br\/>Through coaching, online courses, and certifications, Dr. Weissman equips others with the tools and knowledge to facilitate profound shifts and lasting healing. His comprehensive resources provide in-depth understanding and<br\/>practical techniques for those interested in mastering The LifeLine Technique® and becoming Certified Practitioners. With his expertise, guidance, and compassionate approach, Dr. Weissman empowers individuals to embrace their true potential to awaken the dormant greatness within.<\/p>",
+            "align_text": "left",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20086275309889__b1e017d0-0cb2-4059-b854-c122e1dd779e-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/41ddeb-d8ed-f87-efce-52a70110fa2b_1.webp",
+            "image_mask": "rounded",
+            "image_width": 410,
+            "title": "Dr. Darren Weissman",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "9c459782-e688-4c91-b2f9-22e7ba873d45",
+        "template--20086275309889__b1e017d0-0cb2-4059-b854-c122e1dd779e-text_block-1"
+      ],
+      "custom_css": [
+        "@media (min-width: 768px) {.grid {display: flex; align-items: center; }}"
+      ],
+      "settings": {
+        "title": "Meet Your Teacher",
+        "heading_size": "h1",
+        "subtitle": "",
+        "align_text": "center",
+        "grid": 2,
+        "divider": false,
+        "color_scheme": "3"
+      }
+    },
+    "e0fdec47-b573-4fe2-b147-79c741ea1db9": {
+      "type": "columns-2",
+      "blocks": {
+        "template--21447284883777__e0fdec47-b573-4fe2-b147-79c741ea1db9-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": true,
+            "text": "<p><strong>As you heal your own life, you become a light in the world of others<\/strong><\/p><p>Have you ever noticed how some people are stuck in patterns of emotional and physical pain, loss and trauma and don’t know what to do to move forward?<\/p><p>This course is for people who are seeking deep healing and personal transformation.<\/p>"
+          }
+        },
+        "template--21447284883777__e0fdec47-b573-4fe2-b147-79c741ea1db9-image-1": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify:\/\/shop_images\/6e1a1a8-e1ce-f8a-c8b-bcde7c8c7c3_3.webp",
+            "link": "",
+            "image_mask": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--21447284883777__e0fdec47-b573-4fe2-b147-79c741ea1db9-text-1",
+        "template--21447284883777__e0fdec47-b573-4fe2-b147-79c741ea1db9-image-1"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "@media (min-width: 768px) {.grid {display: flex; align-items: center; }}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "center",
+        "column_right_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "testimonials_RJ7WUP": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_QmaPnj": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "testimonial_8TEPjH": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "testimonial_493Uz9": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_QmaPnj",
+        "testimonial_8TEPjH",
+        "testimonial_493Uz9"
+      ],
+      "name": "t:sections.testimonials.presets.testimonials.name",
+      "settings": {
+        "title": "From our customers",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "2"
+      }
+    },
+    "3a932ba1-36cb-44c6-abcf-49cc382b9b3e": {
+      "type": "icon-list-and-image",
+      "blocks": {
+        "74639dea-c061-4239-9dcd-c23cbe256242": {
+          "type": "heading",
+          "settings": {
+            "title": "This training introduces you to the principals,practices, and historical background that underlie iRest Yoga Nidra as a comprehensivepath of mediation.",
+            "heading_size": "h1"
+          }
+        },
+        "43f60cfc-5d20-42d4-9008-f863931b04d4": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong>You’ll learn: <\/strong><\/p>"
+          }
+        },
+        "8d2cb095-136c-4a83-8f19-f388b6643486": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Eastern and Western psycho-spiritual perspectives that form the foundation of iRest Yoga Nidra."
+          }
+        },
+        "89ba8538-8598-4a52-9e15-e336d32dcd6a": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Background information on how iRest is drawn from a 38 stage map of meditation that integrates the philosophies of Samkhya, Patanjali, Advaita, and Unqualified Nondual Realization."
+          }
+        },
+        "ecde982d-b265-4d9a-9d45-9930a23b5531": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "About the evidence-based research showing the efficacy of iRest and its use with various psycho-physical issues and populations."
+          }
+        },
+        "c0441649-f49d-4518-bd5a-91a8be8ac72d": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "How to understand iRest as a comprehensive approach to meditation."
+          }
+        },
+        "126b4575-ab8b-4651-a00b-2606b6bb53ac": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Guidelines regarding the teacher-student relationship and ethical considerations."
+          }
+        },
+        "a1bf180e-6d2e-47e5-b691-c948d3bcfcd8": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "How to work one-on-one with people in what we call “iRest Co-Meditation Dyads.”"
+          }
+        },
+        "2ad230b4-5581-46d8-9996-59367300a74e": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "An introduction to the common language that is used in iRest meditation."
+          }
+        }
+      },
+      "block_order": [
+        "74639dea-c061-4239-9dcd-c23cbe256242",
+        "43f60cfc-5d20-42d4-9008-f863931b04d4",
+        "8d2cb095-136c-4a83-8f19-f388b6643486",
+        "89ba8538-8598-4a52-9e15-e336d32dcd6a",
+        "ecde982d-b265-4d9a-9d45-9930a23b5531",
+        "c0441649-f49d-4518-bd5a-91a8be8ac72d",
+        "126b4575-ab8b-4651-a00b-2606b6bb53ac",
+        "a1bf180e-6d2e-47e5-b691-c948d3bcfcd8",
+        "2ad230b4-5581-46d8-9996-59367300a74e"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {margin-bottom: 2rem;}",
+        ".feature-row__images {align-self: start;}",
+        ".sales-points {margin-bottom: 1rem;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cert-happy-woman-on-a-scooter-with-fresh-groceries.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "image_width": "50",
+        "align_text": "left",
+        "layout": "left",
+        "color_scheme": "none",
+        "hide_image": false,
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1c97dcc5-84af-4b74-9bf7-fc68e0f6db49": {
+      "type": "background-image-text",
+      "disabled": true,
+      "custom_css": [
+        ".background-media-text__image {object-position: top center;}",
+        "@media (min-width: 768px) {.background-media-text--left {position: relative; left: calc((100% - 500px) \/ 2); }}"
+      ],
+      "settings": {
+        "subtitle": "",
+        "title": "“You can't put a price on health, and there is nothing more empowering than having the knowledge to be able to help yourself and your loved ones if the need arises.”",
+        "heading_size": "h3",
+        "heading_position": "left",
+        "text": "<p><em>Michelle Pedula, Founder of Harvest & Wellness - Ontario, Canada.<\/em><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/cert-testimonial-michelle-p.jpg",
+        "layout": "left",
+        "height": 550,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "97c60256-5344-47c3-8219-8f86b7826d60": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20315243544897__97c60256-5344-47c3-8219-8f86b7826d60-hero-1": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "h1_title": false,
+            "title_size": 70,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/yoga-nidra-level-1.jpg",
+            "overlay_opacity": 0
+          }
+        },
+        "template--20315243544897__97c60256-5344-47c3-8219-8f86b7826d60-hero-2": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "h1_title": false,
+            "title_size": 70,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/yoga-nidra-training.jpg",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--20315243544897__97c60256-5344-47c3-8219-8f86b7826d60-hero-1",
+        "template--20315243544897__97c60256-5344-47c3-8219-8f86b7826d60-hero-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "desktop_size": -70,
+        "mobile_size": 0,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "featured_product_jnVjrE": {
+      "type": "main-product",
+      "blocks": {
+        "86318638-9bad-4d65-96fe-3b801dd2b185": {
+          "type": "custom",
+          "settings": {
+            "code": "<\/h3>\n<h3>Your Price:<\/h3>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "show-def-q": false,
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "86318638-9bad-4d65-96fe-3b801dd2b185",
+        "price",
+        "separator",
+        "variant_picker",
+        "inventory_status",
+        "buy_buttons",
+        "description",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "custom_css": [
+        ".image-wrap {background: transparent;}",
+        ".product-grid__container {padding-bottom: 40px;}",
+        ".variant__label {display: none;}",
+        ".product-block,.product-block h2 {margin-bottom: 15px;}"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": false,
+        "h1_title": false,
+        "hide_media": false,
+        "align_text": "left",
+        "image_position": "left",
+        "image_container_size": "medium",
+        "product_image_size": "natural",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": false,
+        "product_video_style": "muted"
+      }
+    },
+    "rich_text_CKpgQf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3U4edA": {
+          "type": "heading",
+          "settings": {
+            "title": "Members Enjoy 10% off!",
+            "heading_size": "h2"
+          }
+        },
+        "text_kajkGy": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Not a member? Join to save on products, courses, events and retreats!<\/p>"
+          }
+        },
+        "button_7YCV4i": {
+          "type": "button",
+          "settings": {
+            "link": "\/account\/login",
+            "link_text": "Log In or Sign Up Here"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3U4edA",
+        "text_kajkGy",
+        "button_7YCV4i"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "color_scheme": "3",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0": {
+      "type": "columns-1",
+      "blocks": {
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "1",
+            "text": "",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        },
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "2",
+            "text": "",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        },
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "3",
+            "text": "",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        },
+        "36d254e6-c118-4eb9-868e-c7838412525e": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "4",
+            "text": "",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        },
+        "64c54989-1338-47b7-bd63-ddfa422511b7": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "5",
+            "text": "",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d",
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281",
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07",
+        "36d254e6-c118-4eb9-868e-c7838412525e",
+        "64c54989-1338-47b7-bd63-ddfa422511b7"
+      ],
+      "custom_css": [
+        "h2 {margin-bottom: 4rem;}",
+        ".dropdown-with-image-block {box-shadow: none; max-width: 1200px; margin: 0 auto 0.5rem auto;}",
+        ".button-block {margin-top: 2rem;}"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "FAQ’s",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "blocks_in_banner_YKf6aq",
+    "3124092b-a473-448b-b237-7c9b098cd472",
+    "2cf59009-8b04-4f41-ba20-7aab7e4fe761",
+    "blocks_in_banner_e6pWEA",
+    "columns_1_P9eyPz",
+    "f2f16573-2553-4b00-98b9-ad9c6717eedc",
+    "blocks_in_banner_6WCBpq",
+    "d2f3e665-9bf4-4aee-8b67-425b66d670c6",
+    "b1e017d0-0cb2-4059-b854-c122e1dd779e",
+    "e0fdec47-b573-4fe2-b147-79c741ea1db9",
+    "testimonials_RJ7WUP",
+    "3a932ba1-36cb-44c6-abcf-49cc382b9b3e",
+    "1c97dcc5-84af-4b74-9bf7-fc68e0f6db49",
+    "97c60256-5344-47c3-8219-8f86b7826d60",
+    "featured_product_jnVjrE",
+    "rich_text_CKpgQf",
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0"
+  ]
+}

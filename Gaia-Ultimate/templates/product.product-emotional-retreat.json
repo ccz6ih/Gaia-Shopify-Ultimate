@@ -1,0 +1,890 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "e1f81617-24a5-444c-b24c-d475bf39eddf": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20197640634689__e1f81617-24a5-444c-b24c-d475bf39eddf-hero-1": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Unleash the Power of E-Motional Healing Retreat",
+            "h1_title": true,
+            "title_size": 40,
+            "subheading": "with Dr. Bradley Nelson & Dr. Darren Weissman in Guanacaste, Costa Rica | December 1 - 7, 2024\n\nGaia members save 10%!",
+            "enlarge_subheading": true,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/gallery-1.jpg",
+            "overlay_opacity": 24
+          }
+        }
+      },
+      "block_order": [
+        "template--20197640634689__e1f81617-24a5-444c-b24c-d475bf39eddf-hero-1"
+      ],
+      "custom_css": [
+        ".hero-natural--template--20314778796353__e1f81617-24a5-444c-b24c-d475bf39eddf {min-height: 400px;}",
+        "@media (min-width: 769px) {h1 {font-size: 40px; line-height: 1em; margin-top: 0; }}"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": -30,
+        "mobile_size": 30,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "4dd0df47-16d9-4d25-8562-49859fd15b78": {
+      "type": "background-image-text",
+      "disabled": true,
+      "custom_css": [
+        ".background-media-text__text {width: 100%; max-width: 500px;}"
+      ],
+      "settings": {
+        "subtitle": "",
+        "title": "Gaia Exclusive Pre-Diluvian Egypt Tour",
+        "heading_size": "h1",
+        "heading_position": "left",
+        "text": "<p>Awaken your inner explorer on this expedition through ancient Egyptian history. Exclusive Pre-Diluvian Egypt Tour for Gaia members only! </p>",
+        "button_label": "",
+        "button_link": "#shopify-section-template--20197640634689__main",
+        "image": "shopify://shop_images/egypt-tour-bg-3-desktop.jpg",
+        "layout": "left",
+        "height": 550,
+        "parallax": true,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "4174d934-5f19-4803-851a-68ee9fdc25d2": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Occidental_Papagayo_Adults_Only-Bagaces-Aussenansicht-6-388889.jpg",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Embark on a Life-Changing Journey of Self-Discovery & Holistic Healing",
+        "heading_size": "h2",
+        "text": "<p>Join us for an extraordinary 7-day retreat in the breathtaking paradise of Costa Rica, guided by two renowned experts in the field of E-motional Healing: Dr. Darren Weissman and Dr. Bradley Nelson.<br/><br/>Dr. Bradley Nelson and Dr. Darren Weissman are internationally acclaimed experts renowned for their holistic approach to understanding the intricate relationship between emotions and physical health. With decades of experience and a deep passion for personal development, they have helped countless individuals worldwide overcome emotional blocks and achieve lasting transformation. In a nurturing environment, they guide participants on a journey of self-discovery and empowerment.</p><p>Get ready to unlock the hidden potential within yourself and create a profound shift in your emotional well-being!</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "e1d0bb1b-bb60-450c-a94d-8d8545954d56": {
+      "type": "columns-1",
+      "blocks": {
+        "5d055b20-c5b7-4cf8-bdb4-99733ea28ac9": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/rythmia-video-thumbnail-1200x800.jpg",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "3c68abd1-1f11-4c5c-a53f-2569586063c6": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://youtu.be/V9IEQT9eOQk",
+            "video_width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "5d055b20-c5b7-4cf8-bdb4-99733ea28ac9",
+        "3c68abd1-1f11-4c5c-a53f-2569586063c6"
+      ],
+      "settings": {
+        "narrow_column": true,
+        "title": "Click on the video below to get insightful information about this event from Dr. Bradley and Dr. Darren.",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_XR93g7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CCqdra": {
+          "type": "heading",
+          "settings": {
+            "title": "Discover the Power of E-motional Healing",
+            "heading_size": "h2"
+          }
+        },
+        "text_Q9PaM7": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Emotions play a significant role in our daily lives, influencing our thoughts, actions, and overall well-being. But what if you could harness the transformative energy of your emotions and use it for trauma healing, personal growth, and life’s challenges? That’s precisely what E-motional Healing is all about.</p><p>A groundbreaking approach that combines cutting-edge science, ancient wisdom, and practical techniques to help you release emotional baggage, break free from self-limiting patterns, and live a life of true authenticity and joy.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_CCqdra",
+        "text_Q9PaM7"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "061b0d20-e98a-47d8-9f35-f44f31d51acc": {
+      "type": "columns-2",
+      "blocks": {
+        "2916552a-4524-4aff-acbc-634e4afb6d00": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "left",
+            "reveal": true,
+            "title": "The Resort",
+            "text": "",
+            "dropdown_text": "<p>The Occidental Papagayo is an adults-only resort and is part of the Barceló Hotel Group. It is situated on a stunning beach, surrounded by exceptional natural beauty. The biodiversity of this magnificent country is at your fingertips.</p><p>The hotel is conveniently located about 45 minutes from the Liberia airport. The location is ideal for enjoying the warm waters of the Pacific, in addition to being the perfect place for a retreat in paradise. It has a fabulous spa that offers endless therapeutic and beauty treatments.</p><p>The Occidental Papagayo is the perfect blend of relaxation and adventure, luxury and comfort, jungle and sea—a truly magical place just waiting to be discovered.</p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "dropdown_image": "shopify://shop_images/Occid-Papagayo.webp",
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "bd48c292-e8fb-405b-9fc2-3e92ec363226": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "left",
+            "reveal": false,
+            "title": "Dining",
+            "text": "",
+            "dropdown_text": "<p>There are three restaurants, four bars, and a snack bar that serve a variety of local and international dishes intended to satisfy the palate of every guest. All breakfasts, lunches, dinners, snacks, and drinks are included, as are alcoholic beverages after daily sessions are completed.<br/><br/><strong>L’Buffet</strong></p><p>This is the main restaurant that serves its meals buffet style. You will find a wide variety of food choices that are specifically designed to meet the dietary needs of all participants. Breakfast, lunch, and dinner will be served here daily.</p><p><strong>The Italian </strong></p><p>This boutique restaurant is open for dinner only and serves delicious pastas, pizzas, and other Italian delicacies. You will enjoy the cuisine and wines of this delicious restaurant in the midst of a tropical haven.</p><p><strong>D’Oriental Restaurant</strong></p><p>Enjoy thisJapanese and Asian fusion restaurant with private tatami rooms and a teppanyaki table. The dishes are exquisite and offer fresh, delicious choices of varieties of seafood and vegetables prepared with elegance and care to delight your palate.</p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "dropdown_image": "shopify://shop_images/The-Italian-Restaurant.jpg",
+            "background_color": "#7e4592",
+            "text_color": "#f4f5f7"
+          }
+        },
+        "643bace9-4996-4be4-b931-2de728a157a3": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "left",
+            "reveal": false,
+            "title": "Spa",
+            "text": "",
+            "dropdown_text": "<p>During this retreat, treat yourself to the luxurious offerings of the spa, available at your own cost. Enhance your body, mind, and spirit with soothing whirlpool baths, invigorating saunas, Vichy showers, Turkish baths, and private cabins for ultimate relaxation. Enjoy therapeutic treatments and facial massages designed to elevate your well-being.</p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "dropdown_image": "shopify://shop_images/Spa.jpg",
+            "background_color": "#7e4592",
+            "text_color": "#f4f5f7"
+          }
+        },
+        "aaa35b1a-8f7f-40b4-88b2-307c26dd6c43": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "right",
+            "reveal": true,
+            "title": "World's Biggest Labyrinth",
+            "text": "",
+            "dropdown_text": "<p>On one of the days, we’ll explore La Senda, the world’s biggest labyrinth. It is located in the middle of the dry tropical forest of Guanacaste and offers you a perfect gateway to another realm.</p><p>The labyrinth measures above 2.5 acres (over 1 hectare), and the path is almost 2 miles (3 km) long. It took 6 years to develop, and now it is fully planted with over 5,000 cacti. All sentient beings, like humans, animals, and plants in La Senda, constantly live under the upbeat influence of this big, pulsing heart of energy.</p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "dropdown_image": "shopify://shop_images/labyrinth-aerial-min-1920x1288.jpg",
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "cab40b70-71f5-4157-900c-344ccf2d5e06": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "right",
+            "reveal": false,
+            "title": "Yoga Classes",
+            "text": "",
+            "dropdown_text": "<p>Although this isn’t exclusively a yoga retreat, we offer optional yoga classes followed by breakfast on days 2, 3, 5, and 6 of our emotional wellness retreat. They’re a great way to practice your breathwork and be in the present moment.</p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "dropdown_image": "shopify://shop_images/La-Senda-Yoga.jpg",
+            "background_color": "#7e4592",
+            "text_color": "#f4f5f7"
+          }
+        },
+        "3add13bf-0d42-4859-bb63-8001878aaaff": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "right",
+            "reveal": false,
+            "title": "Intensive Workshops",
+            "text": "",
+            "dropdown_text": "<p>Engage in profound workshops led by Dr. Bradley Nelson and Dr. Darren Weissman, where they will share their wisdom, insights, and practical techniques from the LifeLine Technique and the Emotion Code. These workshops will provide you with the tools and knowledge to transform your emotional landscape and create lasting change in your everyday life.</p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "background_color": "#7e4592",
+            "text_color": "#f4f5f7"
+          }
+        },
+        "ebdfe271-9b08-404d-b048-054040ddfafd": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "left",
+            "reveal": false,
+            "title": "Group Healing Sessions",
+            "text": "",
+            "dropdown_text": "<p>Experience the power of collective healing as you participate in group sessions facilitated by experts. Through the LifeLine Technique and the Emotion Code, you will have the opportunity to release emotional blocks, gain clarity, and cultivate a deep sense of inner peace.</p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "background_color": "#7e4592",
+            "text_color": "#f4f5f7"
+          }
+        },
+        "891e006f-618e-4b78-ba35-8dfacd4d4274": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "right",
+            "reveal": false,
+            "title": "Rejuvenation Activities",
+            "text": "",
+            "dropdown_text": "<p>Indulge in a variety of activities, such as excursions, spa treatments, beachside massages, poolside relaxation, jet skiing, and playing in the waves. These experiences are available at your own cost.</p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "dropdown_image": "shopify://shop_images/2021-06-04.jpg",
+            "background_color": "#7e4592",
+            "text_color": "#f4f5f7"
+          }
+        }
+      },
+      "block_order": [
+        "2916552a-4524-4aff-acbc-634e4afb6d00",
+        "bd48c292-e8fb-405b-9fc2-3e92ec363226",
+        "643bace9-4996-4be4-b931-2de728a157a3",
+        "aaa35b1a-8f7f-40b4-88b2-307c26dd6c43",
+        "cab40b70-71f5-4157-900c-344ccf2d5e06",
+        "3add13bf-0d42-4859-bb63-8001878aaaff",
+        "ebdfe271-9b08-404d-b048-054040ddfafd",
+        "891e006f-618e-4b78-ba35-8dfacd4d4274"
+      ],
+      "settings": {
+        "title": "A Retreat Experience Like No Other",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "2361b47e-2d3c-4af7-ac24-f7c696a5389f": {
+      "type": "columns-2",
+      "blocks": {
+        "template--20314778796353__2361b47e-2d3c-4af7-ac24-f7c696a5389f-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": true,
+            "text": "<h1>Located in one of the<br/>Blue Zones, where people<br/>live happier, longer lives.</h1>"
+          }
+        },
+        "template--20314778796353__2361b47e-2d3c-4af7-ac24-f7c696a5389f-image-1": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/rythmia-map-bluezones-1200x800.jpg",
+            "link": "",
+            "image_mask": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--20314778796353__2361b47e-2d3c-4af7-ac24-f7c696a5389f-text-1",
+        "template--20314778796353__2361b47e-2d3c-4af7-ac24-f7c696a5389f-image-1"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "@media (min-width: 768px) {.grid {display: flex; align-items: center; width: calc(80px + 100%); margin: 0 -40px; overflow: hidden; } .text-block {margin: calc(40px + 2rem); }}",
+        ".index-section {padding: 0;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_4iphpU": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Bradley-Nelson-photo.jpg",
+        "image_mask": "square",
+        "image2_mask": "rounded",
+        "subtitle": "Our Wellness Retreat Experts",
+        "title": "About Dr. Bradley Nelson",
+        "heading_size": "h2",
+        "text": "<p>Veteran holistic physician Dr. Bradley Nelson (D.C., ret.) is<strong> </strong>one of the world’s foremost experts on natural methods of achieving wellness<strong> </strong>and the creator of The Emotion Code and The Body Code systems.</p><p>Dr. Nelson is also the CEO of Discover Healing, a holistic education platform that provides training and certifies practitioners worldwide. His best-selling book, <em>The Emotion Code</em>, provides step-by-step instructions for working with the body’s energy healing power.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_wj69X7": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/darren-weissman-hand-up.jpg",
+        "image_mask": "square",
+        "image2_mask": "rounded",
+        "subtitle": "",
+        "title": "About Dr. Darren Weissman",
+        "heading_size": "h2",
+        "text": "<p>Darren R. Weissman, D.C., is a chiropractic holistic physician, developer of The LifeLine Technique®, and best-selling Hay House author of <em>The Power of Infinite Love & Gratitude</em>, <em>Awakening to the Secret Code of Your Mind</em>, <em>The Heart of the Matter</em>, and his children’s book, <em>The Daily Lessons of Infinite Love & Gratitude</em>. He has been featured in the films <em>E-Motion</em>, <em>Making Mankind</em>, <em>Beyond Belief</em>, <em>The Truth</em>, and the award-winning documentary <em>HEAL</em>, as well as in a series on GAIA.</p><p>Dr. Weissman has written for numerous magazines including Natural Health, The Huffington Post, Prevention, and InStyle. He was named the Thought Leader for the United Breast Cancer Foundation and United Women’s Health Alliance. He’s been featured on Hay House Radio with his acclaimed radio show, The Heart of the Matter. His passion is teaching people how to intentionally change the emotional programs of the subconscious mind. As a natural by-product, clients directly enhance their body’s and relationships' natural potential to heal and thrive.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_columns_QteUwf": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_dyz3ft": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Screenshot_2024-06-06_at_12.41.05_PM.jpg",
+            "image_mask": "landscape",
+            "image_width": 650,
+            "title": "Deluxe Garden View Room",
+            "heading_size": "h3",
+            "text": "<p>Fully equipped bathroom, work corner, and one king-size bed or 2 double beds, subject to availability. Wi-Fi connection free of charge, minibar at no cost, garden view.</p>",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_APcgmg": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/deluxe-bay-view-1.jpg",
+            "image_mask": "landscape",
+            "image_width": 650,
+            "title": "Deluxe Bay View Room",
+            "heading_size": "h3",
+            "text": "<p>A spacious and comfortable room, with one king-size bed or 2 double beds, subject to availability. Wi-Fi connection free of charge, minibar at no cost, ocean view.</p>",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_dyz3ft",
+        "text_block_APcgmg"
+      ],
+      "settings": {
+        "title": "Room Accommodation Options",
+        "heading_size": "h2",
+        "subtitle": "",
+        "align_text": "center",
+        "grid": 2,
+        "divider": false,
+        "color_scheme": "none"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "ac453a10-5faf-4218-bba1-0dc7f195e324": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "price_ia9Tb6": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "ac453a10-5faf-4218-bba1-0dc7f195e324",
+        "separator",
+        "price_ia9Tb6",
+        "variant_picker",
+        "inventory_status",
+        "buy_buttons",
+        "description",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "custom_css": [
+        ".product-grid__container {padding-top: var(--indexSectionPadding); padding-bottom: var(--indexSectionPadding); margin-top: -40px;}",
+        ".product-block--header {margin: -60px 0 0;}"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": false,
+        "h1_title": false,
+        "hide_media": false,
+        "align_text": "left",
+        "image_position": "left",
+        "image_container_size": "large",
+        "product_image_size": "natural",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "e6fa5fae-029e-48df-a6da-fe4caef08809": {
+      "type": "columns-3",
+      "blocks": {
+        "5c1d294c-9915-4022-b460-e1f736bb4135": {
+          "type": "liquid",
+          "settings": {
+            "parent_column": "left",
+            "code": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"87.864\" height=\"63.966\" viewBox=\"0 0 87.864 55.914\" style=\"margin: 0 auto 15px; display: block;\"><path d=\"M61.407,31.463A11.981,11.981,0,1,0,49.426,19.481,11.931,11.931,0,0,0,61.407,31.463Zm-31.951,0A11.981,11.981,0,1,0,17.475,19.481,11.931,11.931,0,0,0,29.457,31.463Zm0,7.988C20.151,39.451,1.5,44.123,1.5,53.429v9.985H57.414V53.429C57.414,44.123,38.762,39.451,29.457,39.451Zm31.951,0c-1.158,0-2.476.08-3.874.2,4.633,3.355,7.868,7.868,7.868,13.779v9.985H89.364V53.429C89.364,44.123,70.713,39.451,61.407,39.451Z\" transform=\"translate(-1.5 -7.5)\" fill=\"#02b5b4\"/></svg>"
+          }
+        },
+        "583c7003-2d98-42fd-bbae-515698196ce0": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<h3><strong>Travel with a Like-Minded Community</strong></h3><p>This is your opportunity to embark on a life transformation with others who are ready to do the same.</p>"
+          }
+        },
+        "5f9f4cc3-2ea8-4cd4-9626-a8036b722fe6": {
+          "type": "image",
+          "settings": {
+            "parent_column": "center",
+            "image": "shopify://shop_images/rythmia-icon-brain-192x192.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "76fa2165-a4cb-4aca-a03b-f6a545f7f60c": {
+          "type": "text",
+          "settings": {
+            "parent_column": "center",
+            "enlarge_text": false,
+            "text": "<h3><strong>Transformational Retreat with You in Mind</strong></h3><p>This retreat has been curated with you in mind. With a focus on mind, body, and soul, we know you will walk away from this retreat feeling encouraged and refreshed.</p>"
+          }
+        },
+        "fc95136e-6654-4876-b0f3-83619982e36b": {
+          "type": "liquid",
+          "settings": {
+            "parent_column": "right",
+            "code": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"63.951\" height=\"63.966\" viewBox=\"0 0 63.951 63.966\" style=\"margin: 0 auto 15px; display: block;\"><path d=\"M62.913,3.375h-18.9a2.223,2.223,0,0,0-1.568.646L4.667,41.8a4.436,4.436,0,0,0,0,6.258L22.657,66.05a4.436,4.436,0,0,0,6.258,0L66.68,28.285a2.223,2.223,0,0,0,.646-1.568V7.8A4.407,4.407,0,0,0,62.913,3.375ZM55.578,20.566a4.919,4.919,0,1,1,4.352-4.352A4.925,4.925,0,0,1,55.578,20.566Z\" transform=\"translate(-3.375 -3.375)\" fill=\"#02b5b4\"/></svg>"
+          }
+        },
+        "template--20197640634689__e6fa5fae-029e-48df-a6da-fe4caef08809-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": false,
+            "text": "<h3><strong>Gaia Members Save 10%</strong></h3><p>Just for being a Gaia member, you will save 10% when you purchase.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "5c1d294c-9915-4022-b460-e1f736bb4135",
+        "583c7003-2d98-42fd-bbae-515698196ce0",
+        "5f9f4cc3-2ea8-4cd4-9626-a8036b722fe6",
+        "76fa2165-a4cb-4aca-a03b-f6a545f7f60c",
+        "fc95136e-6654-4876-b0f3-83619982e36b",
+        "template--20197640634689__e6fa5fae-029e-48df-a6da-fe4caef08809-text-1"
+      ],
+      "custom_css": [
+        ".image-wrap {background: none; max-width: 80px; margin: auto; padding-bottom: 80px !important;}"
+      ],
+      "settings": {
+        "title": "Book with Confidence",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "center",
+        "column_center_align_text": "center",
+        "column_right_align_text": "center",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "466373a9-a132-4322-a67b-de3c3368ef0a": {
+      "type": "text-columns",
+      "blocks": {
+        "template--20314778796353__466373a9-a132-4322-a67b-de3c3368ef0a-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/133424031.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20314778796353__466373a9-a132-4322-a67b-de3c3368ef0a-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/DOriental.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20314778796353__466373a9-a132-4322-a67b-de3c3368ef0a-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/image_e0726f27-195a-4a12-baf8-269d9ccc42ad.png",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20314778796353__466373a9-a132-4322-a67b-de3c3368ef0a-text_block-1",
+        "template--20314778796353__466373a9-a132-4322-a67b-de3c3368ef0a-text_block-2",
+        "template--20314778796353__466373a9-a132-4322-a67b-de3c3368ef0a-text_block-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subtitle": "",
+        "align_text": "left",
+        "grid": 3,
+        "divider": false,
+        "color_scheme": "none"
+      }
+    },
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0": {
+      "type": "columns-1",
+      "blocks": {
+        "ced5bdc3-cbd0-4d38-8816-9d58a157be58": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Exclusions",
+            "text": "",
+            "dropdown_text": "<p>The cost does not include air-fare, optional excursions or spa treatments.</p>",
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "88fe273d-dad8-4fcb-8e72-e298aeffea83": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Cancellation and Refunds",
+            "text": "",
+            "dropdown_text": "<p>If you choose to cancel your participation in this retreat, we will not refund any deposits or subsequent payments, regardless of circumstances. Given this policy, we strongly suggest that you purchase travel insurance in case of emergencies or unforeseen circumstances.</p><p>Travel insurance will protect your investment in case of unforeseen situations or emergencies. If you choose to purchase travel insurance, which we highly recommend, you must do so on your own. We have been working with <a href=\"https://www.travelguard.com/\"><span style=\"text-decoration:underline\">Travel Guard International</span></a> at 800-826-1300 and have received positive feedback. When you purchase this insurance, please take some time to double-check what is covered. Each state has slightly different policies. Be sure that you are getting coverage that includes a refund if the host of the retreat is unavailable to attend if you wish to apply that option.</p><p>In the unlikely event that Global Journeys Inc. is forced to cancel or postpone this retreat, we can apply the total amount you have paid towards a future retreat with Global Journeys within one year of the start date of this retreat, or you can receive a full refund.</p><p>If one of the presenters is not able to attend the event due to serious illness or emergency, the other presenter will deliver the sessions and the retreat will continue as scheduled. If both presenters are unable to attend, they will either choose an appropriate substitute or deliver the program virtually if possible.</p>",
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "7095d1c2-5359-4f1f-a1e0-070d2644f848": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Disclosure",
+            "text": "",
+            "dropdown_text": "<p>Global Journeys Inc. offers various travel opportunities to the general public. Global Journeys Inc., its owners, and contracted personnel have taken what they believe to be reasonable precautions to create and conduct safe trips.</p><p>As a participant, you must recognize that any trip may have inherent dangers, including but not limited to flying on commercial airlines over U.S. land, other countries, and ocean waters; traveling in vehicles on crowded streets and mountain highways; swimming in pools without lifeguards; eating and drinking food that may be foreign and different from what you are normally used to; exposure to intense sun and hot, humid conditions; and encountering other unpredictable situations that may arise in Costa Rica. If you choose to participate in yoga sessions, please be responsible and move at your own pace. If you choose to swim, note that there is no lifeguard, so you are responsible for your swimming safety.</p><p>Your decision to participate in this retreat means that you are physically, mentally, and emotionally capable of safely handling this trip to Costa Rica. If you have any suspicion, no matter how slight, that you may have a physical or mental health condition that may prevent you from participating safely, it is your responsibility to seek medical treatment or consultation to verify whether you should participate. Please do not go on this trip if you do not believe you have the appropriate skills or physical/emotional/mental capabilities to safely participate. We highly recommend that you have medical insurance and bring your insurance card on the trip, as well as purchase travel insurance.</p>",
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "36d254e6-c118-4eb9-868e-c7838412525e": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Insurance",
+            "text": "",
+            "dropdown_text": "<p>We strongly suggest that you purchase travel insurance in case of emergencies or unforeseen circumstances that may arise. Travel insurance will protect your investment in case of unforeseen situations or emergencies. If you choose to purchase travel insurance, which we highly recommend, you must do so on your own. We have been working with <a href=\"https://www.travelguard.com/\"><span style=\"text-decoration:underline\">Travel Guard International</span></a> at 800-826-1300 and have received positive feedback. When you purchase this insurance, please take some time to double-check what is covered. Each state has slightly different policies. Be sure that you are getting coverage that includes a refund if the host of the retreat is unavailable to attend if you wish to apply that option.</p>",
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "8fef7e85-3dbd-4573-b556-4afbf969813d": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Travel Booking Details",
+            "text": "",
+            "dropdown_text": "<p>Make flight reservations to fly into Liberia, Costa Rica (LIR). Schedule your flight to arrive in Liberia between 1 pm and 3 pm on December 1st, 2024. For your departure, schedule your flight to leave after 1 pm from the Liberia Airport (LIR) to your home airport on December 7th, 2024. If you arrive and depart within these time frames, we will cover your transportation costs. If you arrive and/or depart at different times, we are happy to help you with your transportation arrangements, but please note this will be at your own cost.</p>",
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "92831aaa-ae05-420c-9600-67e471449e46": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "Contact Rythmia",
+            "text": "",
+            "dropdown_text": "<p>Contact the Rythmia team directly at (833) 217-7032 anytime during their normal business hours (Monday - Friday 6 am - 6 pm PST, Saturday & Sunday 6am - 5pm PST).</p>",
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "ced5bdc3-cbd0-4d38-8816-9d58a157be58",
+        "88fe273d-dad8-4fcb-8e72-e298aeffea83",
+        "7095d1c2-5359-4f1f-a1e0-070d2644f848",
+        "36d254e6-c118-4eb9-868e-c7838412525e",
+        "8fef7e85-3dbd-4573-b556-4afbf969813d",
+        "92831aaa-ae05-420c-9600-67e471449e46"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "Additional Information",
+        "heading_size": "h2",
+        "subheading": "Before booking your healing journey, here are some very important things you need to know.",
+        "align_heading": "left",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "05a6ccb4-5008-4aea-bd7b-71a71b3b7286": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "What accommodation should I expect?",
+            "text": "<p>Embark on an expedition that unveils the enigmatic layers of Ancient Egyptian history, starting your journey in the effervescent capital, Cairo.</p>"
+          }
+        },
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "What service can I expect when traveling with Saba Tours?",
+            "text": "<p>Embark on an expedition that unveils the enigmatic layers of Ancient Egyptian history, starting your journey in the effervescent capital, Cairo.t</p>"
+          }
+        },
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "What if I have dietary restrictions / special requirements?",
+            "text": "<p>Embark on an expedition that unveils the enigmatic layers of Ancient Egyptian history, starting your journey in the effervescent capital, Cairo.</p>"
+          }
+        },
+        "6e1bb5b9-a23a-45c9-8e92-9901daf5cff1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "How many people will I travel with?",
+            "text": "<p>Embark on an expedition that unveils the enigmatic layers of Ancient Egyptian history, starting your journey in the effervescent capital, Cairo.</p>"
+          }
+        },
+        "d901edc2-94ba-415c-a6ab-becc9a08dbb2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "What level of fitness is required?",
+            "text": "<p>Embark on an expedition that unveils the enigmatic layers of Ancient Egyptian history, starting your journey in the effervescent capital, Cairo.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-1",
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-2",
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-3",
+        "6e1bb5b9-a23a-45c9-8e92-9901daf5cff1",
+        "d901edc2-94ba-415c-a6ab-becc9a08dbb2"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "title": "FAQ's",
+        "heading_size": "h1",
+        "heading_position": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    }
+  },
+  "order": [
+    "e1f81617-24a5-444c-b24c-d475bf39eddf",
+    "4dd0df47-16d9-4d25-8562-49859fd15b78",
+    "4174d934-5f19-4803-851a-68ee9fdc25d2",
+    "e1d0bb1b-bb60-450c-a94d-8d8545954d56",
+    "rich_text_XR93g7",
+    "061b0d20-e98a-47d8-9f35-f44f31d51acc",
+    "2361b47e-2d3c-4af7-ac24-f7c696a5389f",
+    "text_and_image_4iphpU",
+    "text_and_image_wj69X7",
+    "text_columns_QteUwf",
+    "main",
+    "e6fa5fae-029e-48df-a6da-fe4caef08809",
+    "466373a9-a132-4322-a67b-de3c3368ef0a",
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0",
+    "05a6ccb4-5008-4aea-bd7b-71a71b3b7286"
+  ]
+}

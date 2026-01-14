@@ -1,0 +1,62 @@
+{%- assign newsletter_form_id = 'newsletter-' | append: section_id -%}
+{% form 'customer', id: newsletter_form_id %}
+  {%- if form.posted_successfully? -%}
+    <div class="note note--success">
+      {{ 'general.newsletter_form.newsletter_confirmation' | t }}
+    </div>
+  {%- endif -%}
+  {%- if form.errors and form.context == snippet_context -%}
+    {{ form.errors | default_errors }}
+  {%- endif -%}
+
+  {%- unless form.posted_successfully? -%}
+    <label for="Email-{{ section_id }}" class="hidden-label">{{ 'general.newsletter_form.newsletter_email' | t }}</label>
+    <label for="FirstName-{{ section_id }}" class="hidden-label">{{ 'general.newsletter_form.newsletter_first_name' | t }}</label>
+    <label for="Phone-{{ section_id }}" class="hidden-label">{{ 'general.newsletter_form.newsletter_phone' | t }}</label>
+    <label for="newsletter-form-submit-{{ section_id }}" class="hidden-label">{{ 'general.newsletter_form.submit' | t }}</label>
+    <input type="hidden" name="contact[tags]" value="prospect,newsletter,consent:yes">
+    <input type="hidden" name="contact[context]" value="{{ snippet_context }}">
+    <div class="input-group newsletter__input-group">
+      <div><input type="first_name" value="{% if customer %}{{ customer.first_name }}{% endif %}" placeholder="{{ 'general.newsletter_form.newsletter_first_name' | t }}" name="contact[first_name]" id="FirstName-{{ section_id }}" class="input-group-field newsletter__input" autocorrect="off" autocapitalize="off"></div>
+      <div><input type="email" value="{% if customer %}{{ customer.email }}{% endif %}" placeholder="{{ 'general.newsletter_form.newsletter_email' | t }}" name="contact[email]" id="Email-{{ section_id }}" class="input-group-field newsletter__input" autocorrect="off" autocapitalize="off"></div>
+      <div><input
+        type="tel"
+        value="{% if customer %}{{ customer.phone }}{% endif %}"
+        placeholder="{{ 'general.newsletter_form.newsletter_phone' | t }}"
+        name="contact[phone]"
+        id="Phone-{{ section_id }}"
+        class="input-group-field newsletter__input"
+        autocorrect="off"
+        autocapitalize="off"
+        pattern="^\+?[1-9]\d{0,2}(?:[- ]?(\(\d{1,4}\)|\d{1,4}))[- ]?\d{1,9}$"
+        title="Required mobile number format: +COUNTRY CODE AREA CODE-PHONE NUMBER"
+      ></div>
+      <div style="display: flex">
+        <input
+          type="checkbox"
+          id="email-consent"
+          name="email_consent"
+          value="yes"
+          aria-label="By submitting your email, you agree to receive marketing emails from us.
+          You can unsubscribe at any time."
+          required
+        >
+        <label for="email-consent"><p class="newsletter-opt-in-checkbox">
+          By submitting your email, you agree to receive marketing emails from us.
+          You can unsubscribe at any time.</p>
+        </label>
+      </div>
+      <div class="input-group-btn">
+        <button style="width:100%" type="submit" id="newsletter-form-submit-{{ section_id }}" class="btn" name="commit" aria-label="{{ 'general.newsletter_form.submit' | t }}">
+          <span>{{ 'general.newsletter_form.submit' | t }}</span>
+<!--
+          <span class="form__submit--large">{{ 'general.newsletter_form.submit' | t }}</span>
+          <span class="form__submit--small">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide icon-arrow-right" viewBox="0 0 50 15"><path d="M0 9.63V5.38h35V0l15 7.5L35 15V9.63z"/></svg>
+          </span>
+-->
+        </button>
+      </div>
+    </div>
+  {%- endunless -%}
+{% endform %}

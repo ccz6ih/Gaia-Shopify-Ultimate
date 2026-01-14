@@ -1,0 +1,627 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-1": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Pure Human Workshop",
+            "h1_title": false,
+            "title_size": 78,
+            "subheading": "One-Day Event with Gregg Braden \nChoose March 13 or 15, 2026 - Austin, TX\n<p style=\"font-style: italic;\">Gaia Members enjoy 10% off!</p>",
+            "enlarge_subheading": false,
+            "link": "#offer",
+            "link_text": "Reserve Your Seat",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#01b4b4",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/CS17495_Marketplace_GB_0326_Hero_Desktop_3840x2000_0b20404e-b26e-44de-8735-12a790b0e586.jpg",
+            "image_mobile": "shopify://shop_images/CS17495_Marketplace_GB_0326_Hero_Mobile_750x1200_7f8b9d7c-0600-49ab-ad51-f3c5d451de31.jpg",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-1"
+      ],
+      "custom_css": [
+        "[class^=\"hero-natural--template-\"] {min-height: 400px;}",
+        "@media (min-width: 769px) {h1 {font-size: 40px; line-height: 1em; margin-top: 0; } .hero__subtitle {font-size: 1.1em; }}",
+        ".hero__subtitle {font-weight: bold;}",
+        ".hero__text-shadow {max-width: 700px; margin: 0 auto; text-align: center; position: relative; transform: translateY(-50px);}"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "blocks_in_banner_Dk4eD6": {
+      "type": "blocks-in--banner",
+      "name": "Blocks Below Banner",
+      "settings": {
+        "title": "",
+        "check-in-middle": false,
+        "btn-text": "Learn More",
+        "btn-link": "",
+        "btn-text-c": "Learn More",
+        "btn-link-c": ""
+      }
+    },
+    "columns_1_Yj96te": {
+      "type": "columns-1",
+      "blocks": {
+        "text_XFHT4i": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>We are living at a turning point in human evolution. New discoveries in neuroscience, biology, and the field of human potential reveal a truth long preserved in ancient wisdom traditions: <br/><strong>you already possess extraordinary capacities for healing, intuition, resilience, and creation.</strong></p><p>In this intimate, one-day workshop, Gregg Braden guides you through the science and practices that awaken these natural abilities—empowering you to navigate life with greater clarity, coherence, and purpose.</p><p>This is your invitation to remember who you truly are.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_XFHT4i"
+      ],
+      "custom_css": [],
+      "name": "t:sections.columns-1.presets.name",
+      "settings": {
+        "narrow_column": false,
+        "title": "You Were Designed for More Than Survival",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "center",
+        "color_scheme": "3",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "columns_1_EnYfhf": {
+      "type": "columns-1",
+      "blocks": {
+        "text_eMaWRp": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>This program is an opportunity to join Gregg as he goes beyond the typical keynote presentations, to become proficient in the language and applications of heart-based wisdom. Gregg and his team have chosen this intimate theater venue for this immersive experience. Don’t miss this rare opportunity to join Gregg, and an international community of heart-based pioneers, in Austin, TX 2026.</p>"
+          }
+        },
+        "image_xwpcCn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Gregg_Braden_-_Audience_2_-_hi_res.jpg",
+            "link": "",
+            "image_mask": "none"
+          }
+        }
+      },
+      "block_order": [
+        "text_eMaWRp",
+        "image_xwpcCn"
+      ],
+      "custom_css": [
+        ".index-section {color: white; background-color: #1e1747;}",
+        ".grid .text-block {color: #e8e6ff !important; text-shadow: 0 2px 8px rgba(0, 0, 0, 0.7); background: rgba(0, 0, 0, 0.4); padding: 8px 16px; border-radius: 6px; display: inline-block;}"
+      ],
+      "name": "t:sections.columns-1.presets.name",
+      "settings": {
+        "narrow_column": false,
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "columns_1_Cw8haF": {
+      "type": "columns-1",
+      "blocks": {
+        "text_hrMEHV": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>For the first time in human history, we’re being asked to hand over aspects of our intelligence; to consider integrating our biology with machines, and to navigate systems designed to make decisions for us.</p><p>Scientists suggest we may be the final generation of naturally evolving humans. Within one generation, our biology could merge with technology. Our emotions… altered. Our instincts… redirected. Our potential… bypassed.</p>"
+          }
+        },
+        "image_arnXMq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GB-stage25.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        }
+      },
+      "block_order": [
+        "text_hrMEHV",
+        "image_arnXMq"
+      ],
+      "name": "t:sections.columns-1.presets.name",
+      "settings": {
+        "narrow_column": false,
+        "title": "Why This Event Is Different",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "center",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "2cf59009-8b04-4f41-ba20-7aab7e4fe761": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20086275309889__2cf59009-8b04-4f41-ba20-7aab7e4fe761-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "WHAT YOU WILL EXPERIENCE",
+            "heading_size": "h1"
+          }
+        },
+        "text_mdcQYb": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong>A One-Day Immersion Into Your Highest Potential</strong></p><p>Through a blend of leading-edge science, ancient wisdom, and experiential techniques, you’ll learn how to activate the deeper intelligence within your body and mind. During your time together, you will:</p>"
+          }
+        },
+        "023d8f51-cf4f-4212-ac76-7f6b92b56be8": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Activate your natural healing response</strong> through heart–brain coherence practices"
+          }
+        },
+        "b591ead6-6fc0-47fe-ab9b-d828621c8f4a": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Access heightened intuition & perception</strong> supported by modern neuroscience"
+          }
+        },
+        "9e308ddc-343c-46b0-a8f1-d97289120114": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Explore the new story of human origins</strong> and what it reveals about your innate abilities"
+          }
+        },
+        "sales_point_qmH43k": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Discover your biology as advanced technology</strong>—built for resilience, adaptability, and insight"
+          }
+        },
+        "sales_point_JKNBqT": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Learn five-minute techniques</strong> to shift internal states, support immunity, and elevate vitality"
+          }
+        },
+        "sales_point_44jArh": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Strengthen cognitive clarity</strong>—memory, focus, creativity, and problem-solving"
+          }
+        },
+        "sales_point_ncdtcj": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Rewire old patterns</strong> using the power of neuroplasticity"
+          }
+        },
+        "sales_point_yAHKmz": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Integrate ancient wisdom with science</strong> for real, lasting transformation"
+          }
+        },
+        "sales_point_FWaapy": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Connect with a community of like-hearted seekers</strong> on the path of awakening"
+          }
+        },
+        "text_UXJmGF": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><em>Same workshop on both days! Select the day that works for you best!</em></p>"
+          }
+        },
+        "c57ecc7c-c30f-4205-a51b-fdce9878fa85": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Choose Your Date"
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__2cf59009-8b04-4f41-ba20-7aab7e4fe761-heading-1",
+        "text_mdcQYb",
+        "023d8f51-cf4f-4212-ac76-7f6b92b56be8",
+        "b591ead6-6fc0-47fe-ab9b-d828621c8f4a",
+        "9e308ddc-343c-46b0-a8f1-d97289120114",
+        "sales_point_qmH43k",
+        "sales_point_JKNBqT",
+        "sales_point_44jArh",
+        "sales_point_ncdtcj",
+        "sales_point_yAHKmz",
+        "sales_point_FWaapy",
+        "text_UXJmGF",
+        "c57ecc7c-c30f-4205-a51b-fdce9878fa85"
+      ],
+      "custom_css": [
+        "h2 {margin-bottom: 1rem;}",
+        "p,.sales-points {max-width: 750px; margin-left: auto; margin-right: auto;}",
+        ".sales-points {text-align: left; margin-bottom: 1rem;}"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "text_and_image_YKGDdc": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Gregg_braden_Photo_new_2025.jpg",
+        "image_mask": "none",
+        "image2_mask": "portrait",
+        "subtitle": "",
+        "title": "Gregg Braden",
+        "heading_size": "h2",
+        "text": "<p><a href=\"https://www.gaia.com/person/gregg-braden\" title=\"https://www.gaia.com/person/gregg-braden\"><strong>Gregg Braden</strong></a> is a five-time New York Times best-selling author, scientist, and a pioneer in the emerging paradigm bridging science, social policy, and human potential.</p><p>His research resulted in the 2003 discovery of intelligent information encoded into the human genome and the 2010 application of fractal time to predict future occurrences of past events. Gregg’s work has led to 15 film credits, 12 award-winning books now published in over 40 languages, and he was a 2020 nominee for the prestigious <strong>Templeton Prize</strong>. He has presented his discoveries in over 34 countries on six continents, and has been invited to speak to the United Nations, Fortune 500 companies, and the U.S. military.</p><p>Gregg is a member of scientific and visionary organizations, including the <em><strong>American Association for the Advancement of Science</strong></em><strong> (AAAS)</strong>, the Institute of HeartMath’s <em><strong>Global Coherence Initiative,</strong></em> and <em><strong>The Arlington Institute</strong></em>, as well as an original signatory of the <em><strong>2017 Fuji Declaration</strong></em>, the international call to collectively catalyze a timely shift in the course of human history.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "right",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "blocks_in_banner_bh7tdK": {
+      "type": "blocks-in--banner",
+      "name": "Blocks Below Banner",
+      "settings": {
+        "title": "",
+        "check-in-middle": false,
+        "btn-text": "Learn More",
+        "btn-link": "",
+        "btn-text-c": "Learn More",
+        "btn-link-c": ""
+      }
+    },
+    "testimonials_CACYfD": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_wRQTRe": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“There are not enough words to express how amazing this event was… My wish is that every human could experience the wisdom and intelligence of their true hearts!”</p>",
+            "author": "Queenie L.",
+            "author_info": ""
+          }
+        },
+        "testimonial_fqrwyP": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“Over the last 30 years I have attended nearly 100 workshops, and this was by far the best and most impactful.”</p>",
+            "author": "Karen H.",
+            "author_info": ""
+          }
+        },
+        "testimonial_iPXgRA": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“This event was above and beyond my expectations. Thank you for the lasting change in my perception of life.”</p>",
+            "author": "Jezabel R.",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_wRQTRe",
+        "testimonial_fqrwyP",
+        "testimonial_iPXgRA"
+      ],
+      "name": "t:sections.testimonials.presets.testimonials.name",
+      "settings": {
+        "title": "Testimonials",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "3"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "custom_jBpHJy": {
+          "type": "custom",
+          "settings": {
+            "code": "<a id=\"offer\" name=\"offer\" style=\"position: absolute;margin-top: -15rem;\"></a>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show-def-q": false,
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "text_L6cWL8": {
+          "type": "text",
+          "settings": {
+            "text": "Please take a moment to read the things to know below."
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "custom_jBpHJy",
+        "price",
+        "separator",
+        "variant_picker",
+        "inventory_status",
+        "text_L6cWL8",
+        "buy_buttons",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "custom_css": [
+        ".variant__label {display: none !important;}",
+        ".product-block--header {margin: -60px 0 0;}"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": false,
+        "h1_title": false,
+        "hide_media": false,
+        "align_text": "center",
+        "image_position": "left",
+        "image_container_size": "medium",
+        "product_image_size": "natural",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0": {
+      "type": "columns-1",
+      "blocks": {
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Attendee Information",
+            "text": "",
+            "dropdown_text": "<p><strong>This is an IN-PERSON event only. The program is NOT broadcast online.</strong></p><p>Airfare, transportation, accommodation, meals and extra services are NOT included in the price.</p><p><strong>VENUE: </strong>Texas Spirit Theater at Bullock Texas State History Museum.</p><p><strong>ADDRESS: </strong>1800 N. Congress, Austin, TX, 78701</p><p><strong>TIMES:</strong> 9:00 AM to 5:00 PM (Doors open 8.00 AM)</p><p><strong>PROVIDED: </strong>Pocket Folder + Note Pad + Pen</p><p><strong>BREAKS:</strong> Morning 30 mins. Lunch 90 mins. Afternoon 30 mins.</p><p><strong>SEATING: </strong>First-Come, First-Served.</p><p>YOUR NAME will be on the event check-in list, and you will receive a pre-printed Name Tag.</p><p>TRANSLATION is not provided. The event is in English only.</p><p>✦ By completing your payment, you confirm your registration and acknowledge your agreement to the event’s Terms & Conditions.</p><p>✦ Payments are to be made via credit card or the payment options displayed on the Gaia Marketplace site when purchasing.</p>",
+            "dropdown_image_fill": true,
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Cancellation and Refund Policy",
+            "text": "",
+            "dropdown_text": "<p>Refundable (minus 10%) if canceling before Feb. 13th, 2026</p><p>Refundable (minus 20%) if canceling after Feb. 13th, 2026</p><p><strong>Non-refundable if canceling after March 1st, 2026</strong></p><p><strong>Note: </strong>If the event is canceled for any reason, you will receive a refund minus a 5% administrative fee. Please submit your cancellation requests in writing via email.</p>",
+            "dropdown_image_fill": true,
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "36d254e6-c118-4eb9-868e-c7838412525e": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Event Terms and Conditions Summary",
+            "text": "",
+            "dropdown_text": "<p>By completing your registration, you acknowledge and agree to the event terms and conditions.</p><p><strong>Event Changes & Cancellations</strong><br/><br/>Event dates, schedules, or programming may change due to circumstances beyond our control, including severe weather, travel disruptions, public health restrictions, or other unforeseen events. Gaia and its partners reserve the right to postpone or cancel the event if necessary.<br/><br/>If the event is canceled, payments will be refunded <strong>minus a 5% administrative fee</strong>. No additional compensation, reimbursements, or claims for damages, loss of time, or inconvenience will be granted.</p><p>If the event is postponed, your payment will be applied to the new dates. If you are unable to attend the rescheduled date, the same cancellation fee applies.</p><p>If an interruption occurs <strong>during</strong> the event (e.g., government shutdown, emergency conditions), unused portions of the event are <strong>not refundable</strong>.</p><p><strong>Presenter Availability</strong><br/><br/>In the unlikely event that Gregg Braden cannot participate due to circumstances outside his control, the presenter and his representatives will make every effort to reschedule.<br/><br/>If the event ultimately must be canceled, the standard cancellation policy applies.</p><p><strong>Liability & Participant Responsibility</strong><br/><br/>Participation in this event involves inherent risks. By registering, you agree to assume all risks associated with attendance and release Gaia, its partners, and affiliates from liability for injury, illness, death, loss, or damages to person or property, regardless of cause.<br/><br/>Gaia is not responsible for delays, schedule changes, transportation issues, natural events, political conditions, or acts of third parties.<br/><br/>You are responsible for your own medical and travel insurance; none is provided by Gaia.</p><p><strong>Behavior & Participation</strong><br/><br/>The event organizer reserves the right to refuse or remove any participant whose behavior disrupts the event. No refunds will be issued in such cases. If a participant chooses to leave the event early, no refunds are provided.</p><p>*This workshop is delivered by our event partner. Completing your purchase confirms your agreement to the provider’s Terms & Conditions and acknowledges that all onsite workshop operations are managed by the event organizer.</p>",
+            "dropdown_image_fill": true,
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d",
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281",
+        "36d254e6-c118-4eb9-868e-c7838412525e"
+      ],
+      "custom_css": [
+        "h2 {margin-bottom: 4rem; color: #ffffff;}",
+        "p {text-align: left;}",
+        ".dropdown-with-image-block {box-shadow: none; max-width: 1200px; margin: 0 auto 0.5rem auto;}",
+        ".button-block {margin-top: 2rem;}",
+        ".index-section {background-color: #1e1747;}"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "Things To Know",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "center",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_QyX8nG": {
+      "type": "rich-text",
+      "blocks": {
+        "text_xCNqUj": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Refund Policy: Gene Keys Ltd. Refund Policy (genekeys.com) We understand these teachings may not be for everyone. If you are dissatisfied with your purchase of one of our online digital courses or the purchase of a place on one of our virtual retreats, you can cancel your purchase and request a refund up to 30 days from the date of your purchase (online digital course) or 30 days from the start of the retreat (virtual retreats). We may offer you the option of either a refund or a coupon to redeem in our web shop at a later date.</p>"
+          }
+        },
+        "heading_mRgf36": {
+          "type": "heading",
+          "settings": {
+            "title": "Members Enjoy 10% Off!",
+            "heading_size": "h2"
+          }
+        },
+        "text_k8Cig4": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Not a member? Join to save on products, courses, events and retreats!</p>"
+          }
+        },
+        "button_E87kcm": {
+          "type": "button",
+          "settings": {
+            "link": "/account/login",
+            "link_text": "Log In or Sign Up"
+          }
+        }
+      },
+      "block_order": [
+        "text_xCNqUj",
+        "heading_mRgf36",
+        "text_k8Cig4",
+        "button_E87kcm"
+      ],
+      "custom_css": [],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "blocks_in_banner_Dk4eD6",
+    "columns_1_Yj96te",
+    "columns_1_EnYfhf",
+    "columns_1_Cw8haF",
+    "2cf59009-8b04-4f41-ba20-7aab7e4fe761",
+    "text_and_image_YKGDdc",
+    "blocks_in_banner_bh7tdK",
+    "testimonials_CACYfD",
+    "main",
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0",
+    "rich_text_QyX8nG"
+  ]
+}

@@ -1,0 +1,61 @@
+<div class="book-with-confidence-parent">
+    <div class="book-with-cofidence-holder">
+      {% if product.metafields.title-just-txt-v.key != blank %}
+        <h2 class="title-book-with-confidence blockTitleOfWidgets">
+            {{product.metafields.title-just-txt-v.key}}
+        </h2>
+      {% endif %}
+        {% comment %} Desktop {% endcomment %}
+        {% if product.metafields.ful-cap-title-j-t-v.key != blank %}
+          <div class="fullCapacity-modules fulCap-Desktop">
+            {{product.metafields.ful-cap-title-j-t-v.key}}
+        </div>
+          {% endif %}
+  {% comment %} Mobile {% endcomment %}
+          {% if product.metafields.ful-cap-title-j-t-v-m.key != blank %}
+            <div class="fullCapacity-modules fulCap-Mobile">
+                {{product.metafields.ful-cap-title-j-t-v-m.key}}
+          </div>
+            {% endif %}
+
+            <div class="book-with-cofidence-el main-module-j-text">
+            {% if product.metafields.just-text-cop-v-v-d.key != blank %}
+              <div class="fullCapacity-modules fulCap-Desktop">
+                {{product.metafields.just-text-cop-v-v-d.key}}
+            </div>
+              {% endif %}
+
+              {% if product.metafields.just-text-cop-v-v-m.key != blank %}
+                <div class="fullCapacity-modules fulCap-Mobile">
+                    {{product.metafields.just-text-cop-v-v-m.key}}
+              </div>
+                {% endif %}
+              </div>
+              
+      
+    
+    </div>
+</div>
+
+{% schema %}
+    {
+      "name": "Just Text Module v2",
+      "class": "book-with-confidence",
+      "settings": [
+
+      
+       {
+          "type": "text",
+          "id": "title",
+          "label": "Just Text Title",
+          "default": "Just Text Title Module"
+        }
+       
+      ],
+      "presets": [
+        {
+            "name": "Just Text Module v2"
+        }
+      ]
+    } 
+  {% endschema %}  

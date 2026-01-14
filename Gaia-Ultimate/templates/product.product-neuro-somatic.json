@@ -1,0 +1,1142 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "advanced_content_wzRUwN": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_6gwPCE": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>GET $700 OFF! SUMMER SALE ENDS <span style=\"text-wrap: nowrap;\">11:59PM PT, JUNE 30.</span></h2>\n<a href=\"#offer\"></a>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_6gwPCE"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".custom__item one-whole align--center,.index-section {position: relative; padding: 0; margin: 0; background: #d85a5a;}",
+        "h2 {font-size: 1em; line-height: 1.25em; color: #fff; margin: 0; text-align: center; padding: 10px 0;}",
+        "a {position: absolute; top: 0; left: 0; right: 0; bottom: 0; z-index: 1;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-1": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "THE FOUNDATION COURSE",
+            "title": "<strong>Neuro-Somatic Mindfulness</strong>",
+            "h1_title": true,
+            "title_size": 72,
+            "subheading": "A deeply embodied, heart-centered practice for awakening and meeting life's challenges with compassion and resilience.",
+            "enlarge_subheading": false,
+            "link": "#offer",
+            "link_text": "ENROLL NOW",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#01b4b4",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Heart-Mind-Digital-Brain.jpg",
+            "overlay_opacity": 42
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-1"
+      ],
+      "custom_css": [
+        "[class^=\"hero-natural--template-\"] {min-height: 400px;}",
+        "@media (min-width: 769px) {h1 {font-size: 40px; line-height: 1em; margin-top: 0; } .hero__subtitle {font-size: 1.1em; }}",
+        ".hero__subtitle {font-weight: bold;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": -20,
+        "mobile_size": 0,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "3499c891-490d-4c18-9d41-a7c8fe591536": {
+      "type": "rich-text",
+      "blocks": {
+        "d7c111a0-1854-4c09-91e5-a6dd318fd1a2": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Rich text",
+            "heading_size": "h2"
+          }
+        },
+        "a5c74000-1b77-4b3f-8cd8-e2b144865401": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<h3>“I am so thankful for this program! I started it because I needed to make some changes in my life since I was having some of the same health problems my mother had…. So many things I already knew and had ignored for years. Now I’m on a healthy path and am amazed by how quickly my body has adjusted to the changes, as well the pounds I’ve shed and how energized I feel.”</h3><p><em><strong>- Terri, Food Matters Nutrition Certification Program Graduate</strong></em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "d7c111a0-1854-4c09-91e5-a6dd318fd1a2",
+        "a5c74000-1b77-4b3f-8cd8-e2b144865401"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h3 {font-weight: normal;}"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "color_scheme": "2",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "3124092b-a473-448b-b237-7c9b098cd472": {
+      "type": "columns-2",
+      "blocks": {
+        "template--20086275309889__3124092b-a473-448b-b237-7c9b098cd472-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<p><strong>Imagine being deeply in tune with the full spectrum of your moment-to-moment experience and able to self-regulate easily and self-compassionately to accomplish your daily tasks and life goals.<br/></strong><br/>With Neuro-Somatic Mindfulness™ or NSM™ we combine deep attunement and self-regulation to help sustain peace, wellbeing and joy in your daily life.</p><p>When trying to practice mindfulness meditation, we often find ourselves struggling, engaged in mental gymnastics to remain focused on the object of our mindfulness practice.<br/><br/><strong>Would you like to learn a simple and reliable technique to stabilize your attention with greater ease?<br/></strong><br/>Through the deeply embodied approach of NSM™, your mind is able to settle more quickly and effortlessly access mindful presence and awareness.</p><p>With NSM™, you place your attention on the body’s innate capacity to feel and perceive, and anchor it in nowness. <br/><br/>The practice of deep embodiment enables you to tap into an internal resonance within your body that enhances healing and resilience. You will also develop greater emotional awareness and access the body’s innate wisdom while avoiding emotional hijacking.</p><p>By stabilizing this deeply embodied presence, we gain access to the physical, mental, emotional, and social information we need to compassionately self-regulate and skillfully interact with our world.</p><p>The profound level of presence and embodied awareness you will develop through NSM™ is the key to awakening to the greater dimension of our intersubjective being, or what the Zen Master Thich Nhat Hahn calls <em>interbeing.</em></p><p><em>For those of us who choose to serve humanity as mindfulness instructors, counselors, or coaches, NSM™ will support you both by enhancing your effectiveness and deepening your resilience.</em></p>"
+          }
+        },
+        "image_7PyfCY": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/Heart-Mind-Fleet-Maull-Wide-Headshot.jpg",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "fa08757f-2101-435f-8705-4d0dca893254": {
+          "type": "video_mp4",
+          "disabled": true,
+          "settings": {
+            "parent_column": "right",
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/79057ac221e64fa58d128d875155e0f0.mp4",
+            "controls": true,
+            "loop": false,
+            "autoplay": false,
+            "video_width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__3124092b-a473-448b-b237-7c9b098cd472-text-1",
+        "image_7PyfCY",
+        "fa08757f-2101-435f-8705-4d0dca893254"
+      ],
+      "custom_css": [
+        "h2 {margin-bottom: 4rem;}"
+      ],
+      "settings": {
+        "title": "Increase wellbeing and resilience, accelerate emotional and spiritual growth, optimize life performance and enhance the quality of your personal and professional relationships through practicing with NSM™ techniques.",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "left",
+        "cta_button": "",
+        "cta_button_url": "#offer",
+        "cta_button_entitled": "Enroll Now",
+        "cta_button_url_entitled": "#offer",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "columns_2_aNpKMf": {
+      "type": "columns-2",
+      "blocks": {
+        "text_qMM7Vf": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": false,
+            "text": "<p>Neuro-Somatic Mindfulness™ emphasizes rigorous clarity and precision in both its methodologies and terminology to further the scientific investigation of mindfulness-awareness meditation and its impact on human health, resilience and performance. This clarity and precision makes NSM™ easily accessible for beginning, intermediate and advanced practitioners alike.</p><p> Whether you are just learning to meditate, looking to rekindle a lapsed practice, or feeling like your practice has plateaued with questionable results after many years, NSM™ will provide you with a clear pathway to establish, enhance and/or deepen an optimally effective, beneficial and ultimately liberating meditation practice. NSM™ fully supports our aspirations to live a courageous and fully-engaged life grounded in our innate capacities for kindness, compassion, fearlessness and generosity.<br/> <br/>As we further develop these innate capacities and qualities through practice, we naturally begin to experience greater personal freedom and empowerment, increasing confidence in our own and others' intrinsic goodness, enhanced altruistic motivation, and joyful gratitude for life's blessings and challenges.</p><p>NSM™ is particularly well-suited for clinicians, business consultants, executive coaches and life coaches wishing to integrate mindfulness into their work with clients. After completing the full course of NSM™ training outlined below, qualified candidates may apply to begin an advanced, year-long training program to become certified NSM™ practitioners and coaches.</p>"
+          }
+        },
+        "image_McVeik": {
+          "type": "image",
+          "settings": {
+            "parent_column": "left",
+            "image": "shopify://shop_images/Heart-Mind-Black-Digital-Brain.jpg",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "video_mp4_bnDjXU": {
+          "type": "video_mp4",
+          "disabled": true,
+          "settings": {
+            "parent_column": "right",
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/79057ac221e64fa58d128d875155e0f0.mp4",
+            "controls": true,
+            "loop": false,
+            "autoplay": false,
+            "video_width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "text_qMM7Vf",
+        "image_McVeik",
+        "video_mp4_bnDjXU"
+      ],
+      "settings": {
+        "title": "WHO IS NEURO-SOMATIC MINDFULNESS  FOR?",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "Enroll Today",
+        "cta_button_url": "#offer",
+        "cta_button_entitled": "Enroll Now",
+        "cta_button_url_entitled": "#offer",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_9fTxbA": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_FTGExR": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "How does it work?",
+            "text": "<p>Neuro-Somatic Mindfulness™ integrates techniques and insights from classic mindfulness-awareness and compassion training practices (anapansati, vipassana, metta, samatha-vipashyana, tonglen, mahamudra, dzogchen, shikantaza) with the latest advances in neuroscience research.</p><p> NSM™ increases your capacity for self-regulation and your ability to cultivate empathy and compassion with yourself, others and the natural world.</p><p>NSM™ uses enhanced interoceptive awareness-based neuro-biofeedback. With these self-empowering techniques you enhance and deepen your practice of classic mindfulness-awareness meditation.</p>"
+          }
+        },
+        "text_block_qyHLB3": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "What is interoceptive awareness?",
+            "text": "<p>Interoceptive awareness is your body’s natural ability to feel itself from the inside-out. It is how you know when you are thirsty, hungry, tired or needing to use a restroom. It is the sensory faculty through which you experience discomfort or pain in your body.</p><p>Your whole body is sensory, all the way down to the bones, including not just the sensory organ of our skin but the skeletal structure, musculature, connective tissues, major organs, etc., which are all made of sensory tissue connected to the central nervous system.</p><p>Generally, we are only aware of this capacity for interoceptive awareness when we experience discomfort; however, we can develop an enhanced and abiding interoceptive awareness that translates into embodied presence, emotional awareness and spiritual depth. Current science indicates that enhanced interoceptive awareness increases our capacity for emotion-regulation.</p>"
+          }
+        },
+        "text_block_WC8dBT": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "What is neuro-bio-feedback?",
+            "text": "<p><strong>Biofeedback</strong> is a mind-body technique that uses some form of visual or auditory feedback to self-regulate autonomic bodily functions like heart rate, blood pressure, muscle tension or pain perception.</p><p><strong>Neurofeedback</strong> is a form of biofeedback making use of some form of audio or visual feedback of the brain’s electrical activity to self-regulate brain wave frequencies and cognitive and emotional states. </p><p><strong>Interoceptive Neuro-biofeedback</strong> makes use of interoceptive physiological and neurological sensory feedback to self-regulate brain activity and physiological and emotional states, without the need for external sources of audio or video feedback. NSM™ is based on developing this internal, self-regulatory capacity.  <br/> </p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_FTGExR",
+        "text_block_qyHLB3",
+        "text_block_WC8dBT"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "heading_position": "left",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": true
+      }
+    },
+    "columns_2_kQQ8AL": {
+      "type": "columns-2",
+      "blocks": {
+        "text_pFFgnh": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": true,
+            "text": "<p>NSM™ anchors your attention and awareness in a deeply felt, embodied presence that supports healing, resilience, emotional intelligence and intimate connection with ourselves, others and the natural world.</p><p>By grounding ourselves in nowness and presence through NSM™, we develop the peace of mind, confidence and resilience needed to free ourselves of anxiety, worry, and the fear- and scarcity-based habitual patterns and coping strategies from our past. Instead we will live in the now with an abiding sense of freshness, aliveness and possibility. </p>"
+          }
+        },
+        "image_bLCJWy": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/Heart-Mind-Vector-Smart-Object.jpg",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "video_mp4_yGg4jz": {
+          "type": "video_mp4",
+          "disabled": true,
+          "settings": {
+            "parent_column": "right",
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/79057ac221e64fa58d128d875155e0f0.mp4",
+            "controls": true,
+            "loop": false,
+            "autoplay": false,
+            "video_width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "text_pFFgnh",
+        "image_bLCJWy",
+        "video_mp4_yGg4jz"
+      ],
+      "settings": {
+        "title": "Powerful Anchor",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "left",
+        "cta_button": "",
+        "cta_button_url": "#offer",
+        "cta_button_entitled": "Enroll Now",
+        "cta_button_url_entitled": "#offer",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "columns_2_e4JiLi": {
+      "type": "columns-2",
+      "blocks": {
+        "text_WqBrjU": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": true,
+            "text": "<p>NSM™ is a trauma-sensitive and self-compassionate approach to classical mindfulness and awareness practices in which we learn, in a self-directed manner, to gradually and safely expand our window of tolerance (or zone of resilience) in order to navigate challenging circumstances with greater ease, equanimity and skillfulness.</p>"
+          }
+        },
+        "image_aQhTYN": {
+          "type": "image",
+          "settings": {
+            "parent_column": "left",
+            "image": "shopify://shop_images/Heart-Mind-Network-Image-Wide.jpg",
+            "link": "",
+            "image_mask": "square"
+          }
+        },
+        "video_mp4_7NREJY": {
+          "type": "video_mp4",
+          "disabled": true,
+          "settings": {
+            "parent_column": "right",
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/79057ac221e64fa58d128d875155e0f0.mp4",
+            "controls": true,
+            "loop": false,
+            "autoplay": false,
+            "video_width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "text_WqBrjU",
+        "image_aQhTYN",
+        "video_mp4_7NREJY"
+      ],
+      "settings": {
+        "title": "Trauma Sensitive",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "right",
+        "cta_button": "",
+        "cta_button_url": "#offer",
+        "cta_button_entitled": "Enroll Now",
+        "cta_button_url_entitled": "#offer",
+        "align_cta_button": "center",
+        "column_left_align_text": "right",
+        "column_right_align_text": "right",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "columns_2_AcekRj": {
+      "type": "columns-2",
+      "blocks": {
+        "text_RchdEW": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": true,
+            "text": "<p>NSM™ represents a journey of deep healing in which we learn to be with our experiences (sensory, cognitive and emotional) in a non-judgmental and self-compassionate way, allowing our mind and body to heal and release past traumas.</p>"
+          }
+        },
+        "image_8cdD6Q": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/Heart-Mind-Deep-Healing.jpg",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "video_mp4_aF9AjY": {
+          "type": "video_mp4",
+          "disabled": true,
+          "settings": {
+            "parent_column": "right",
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/79057ac221e64fa58d128d875155e0f0.mp4",
+            "controls": true,
+            "loop": false,
+            "autoplay": false,
+            "video_width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "text_RchdEW",
+        "image_8cdD6Q",
+        "video_mp4_aF9AjY"
+      ],
+      "settings": {
+        "title": "Deep Healing",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "left",
+        "cta_button": "",
+        "cta_button_url": "#offer",
+        "cta_button_entitled": "Enroll Now",
+        "cta_button_url_entitled": "#offer",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "ddf6a3fb-b88c-41ec-bee6-e9c9e57a998b": {
+      "type": "icon-list-and-image",
+      "blocks": {
+        "heading_AjfxYH": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "heading_size": "h2"
+          }
+        },
+        "template--20086275309889__ddf6a3fb-b88c-41ec-bee6-e9c9e57a998b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "What You’ll Receive",
+            "heading_size": "h1"
+          }
+        },
+        "template--20086275309889__ddf6a3fb-b88c-41ec-bee6-e9c9e57a998b-sales_point-1": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>5 In-depth, research-supported video modules </strong>to guide you step by step in beginning your own journey toward presence, wisdom and wellbeing."
+          }
+        },
+        "318f9139-5efe-4c05-9719-bc59a3473cfc": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Downloadable handouts​ </strong>with key takeaways and reflections to help reinforce and embody the practices"
+          }
+        },
+        "25ccc8eb-c966-4ea4-af3c-7afde6d38733": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Downloadable transcripts </strong>deeping your learning by reading the material"
+          }
+        },
+        "8f26a528-2e64-493b-88f4-8239a287deff": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Downloadable audio </strong>to take these meditations with you anywhere"
+          }
+        },
+        "613bc7c6-0d64-4135-9a97-5e529fd8be22": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>Lifetime Access </strong>to come back again anytime"
+          }
+        },
+        "0a13a1e5-da54-4316-b098-10833ef32569": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>A 30-day money back guarantee </strong>to try it risk-free"
+          }
+        },
+        "59b06d10-950f-4940-9851-c69faa496560": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link": "#offer",
+            "link_text": "Enroll Now"
+          }
+        }
+      },
+      "block_order": [
+        "heading_AjfxYH",
+        "template--20086275309889__ddf6a3fb-b88c-41ec-bee6-e9c9e57a998b-heading-1",
+        "template--20086275309889__ddf6a3fb-b88c-41ec-bee6-e9c9e57a998b-sales_point-1",
+        "318f9139-5efe-4c05-9719-bc59a3473cfc",
+        "25ccc8eb-c966-4ea4-af3c-7afde6d38733",
+        "8f26a528-2e64-493b-88f4-8239a287deff",
+        "613bc7c6-0d64-4135-9a97-5e529fd8be22",
+        "0a13a1e5-da54-4316-b098-10833ef32569",
+        "59b06d10-950f-4940-9851-c69faa496560"
+      ],
+      "custom_css": [
+        "h2 {max-width: 500px; margin: 0 auto 2rem auto;}",
+        ".sales-points {text-align: left; max-width: 700px; margin: 0 auto 1rem auto;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Heart-Mind-NSM-Modules-Multiple-Devices.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "image_width": "50",
+        "align_text": "center",
+        "layout": "left",
+        "color_scheme": "none",
+        "hide_image": false,
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "d2f3e665-9bf4-4aee-8b67-425b66d670c6": {
+      "type": "columns-1",
+      "blocks": {
+        "75f8a537-55ac-4222-9783-a4fd0477d5b9": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Module #1 - Introduction",
+            "text": "",
+            "dropdown_text": "<p>Introduction to Neuro-Somatic Mindfulness® Meditations and how to get the most out of the course.</p>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "4c239ee9-479d-4f81-b5b6-a7c9750699a5": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Module #2 - Interoceptive Awareness",
+            "text": "",
+            "dropdown_text": "<p>Exploring your body's wisdom and ability to feel itself from the inside out, becoming more deeply embodied, heart-centered and earth-connected. Cultivating interoceptive awareness supports healing, emotion regulation and self-leadership.</p>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "0a6fb51b-ba50-461a-992b-45e0e72261a5": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Module #3 - Skeletal System & Interoception​",
+            "text": "",
+            "dropdown_text": "<p>Growing the capacity to sense yourself all the way down to your bones. The entire human body is sensory, all living tissue with neuronal cells connected to the central nervous system, including both the outer white hard layer of the bones and the bone marrow.</p>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "d5af11b3-e1d0-4ae7-aef9-b21af820cfff": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Module #4 - Musculature System & Interoception​​",
+            "text": "",
+            "dropdown_text": "<p>Learn to embody and feel your entire muscular structure from head to toe, developing a deeply embodied presence that you can carry into motion for enhanced kinetic awareness.</p>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "d2c67790-d1b5-4bce-8784-42372bc6dc67": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Module #5 - NSM Review & Deep Organ Scan",
+            "text": "",
+            "dropdown_text": "<p>Explore your entire body through the power of interoception. Including the skeletal structure, musculature, connective tissue, circulatory and lymphatic systems and your vital organs.</p>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "0d994665-23ef-4419-a4cc-14881133d12e": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link": "#offer",
+            "link_text": "",
+            "link_entitled": "#offer",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "75f8a537-55ac-4222-9783-a4fd0477d5b9",
+        "4c239ee9-479d-4f81-b5b6-a7c9750699a5",
+        "0a6fb51b-ba50-461a-992b-45e0e72261a5",
+        "d5af11b3-e1d0-4ae7-aef9-b21af820cfff",
+        "d2c67790-d1b5-4bce-8784-42372bc6dc67",
+        "0d994665-23ef-4419-a4cc-14881133d12e"
+      ],
+      "custom_css": [],
+      "settings": {
+        "narrow_column": false,
+        "title": "Course Structure",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonials-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>\"This course brought everything together for me. I’ve been studying mindfulness throughout the years, and the science behind neuro-somatic mindfulness explained how awakening transpires neuro- biologically.<br/><br/>Fleet embodied a warm, friendly and open presence which is important when learning mindfulness. Cultivating these qualities helps to be resilient and create a better world.\"</p>",
+            "image": "shopify://shop_images/Heart-Mind-Testimonial-Eri-Conklin.jpg",
+            "author": "Eri C.",
+            "author_info": ""
+          }
+        },
+        "eb8e6586-7771-45c1-868d-aef4fbc266eb": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>“The Neuro-Somatic Meditations seem to settle my mind faster. As someone with chronic pain issues, NSM also seems to help my pain because I can separate my mood/mental state from the physical pain better with practice. I’m finding that having my body as the object of meditation helps me get to the goal of quieting my mind faster, more directly.“</p>",
+            "image": "shopify://shop_images/Heart-Mind-Testimonial-Nicole-Bloam.jpg",
+            "author": "Nicole Bloam",
+            "author_info": ""
+          }
+        },
+        "426eeede-fdfd-4b82-8eda-ba2d62d68ac6": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>“I'm really noticing how profound working with embodiment is for meditation. For me, it seems to help bypass all the various gymnastics that my mind goes through to keep from being present. A very useful tool.\"</p>",
+            "image": "shopify://shop_images/Heart-Mind-Testimonial-Bonnie-Povolny.jpg",
+            "author": "Bonnie Povolny",
+            "author_info": ""
+          }
+        },
+        "e12e6b0b-43b4-4723-987f-e7322d904069": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>“In my opinion, Fleet Maull is one of the clearest, most grounded, most compassionate thinkers and implementers of the principles of mindfulness and emotional intelligence in the world. He has a gift for translating inner work into relevant action, and an unparalleled generosity of spirit.\"</p>",
+            "image": "shopify://shop_images/Heart-Mind-Testimonial-Gabriel-Kram.jpg",
+            "author": "Gabriel Kram",
+            "author_info": ""
+          }
+        },
+        "testimonials-1": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>When I started the Food Matters Nutrition Certification Program, I was doing so to heal my own chronic illness. I was blown away with the amount of information that was provided and have discovered so many ways to improve my health. I love the printed workbook and find studying from reading very helpful. One thing that has surprised me the most is where my studies have taken me! I have used the knowledge I have gained to create Chronic Illness Healing Workbooks, for mental and physical health. I hope to help and inspire others struggling with their health to make changes and see improvements. I’m so grateful I decided to take the course and highly recommend it to everyone!</p>",
+            "author": "Sarah",
+            "author_info": ""
+          }
+        },
+        "testimonials-2": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>I loved every minute of the training, and am grateful for the support of the Food Matters tribe: the awesome, responsive staff, and the savvy, passionate students. The experience was like a fire hose of information, so I'm really happy that all of the course materials are available for me to go back and review again and again. All of the Resources at the end of each module are also really helpful. I'm eager now to jump into the Bonuses and learn how to parlay my newfound knowledge into a business so I can help others live their healthiest, most vibrant lives possible. Thank you!!!</p>",
+            "author": "Kasia",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonials-0",
+        "eb8e6586-7771-45c1-868d-aef4fbc266eb",
+        "426eeede-fdfd-4b82-8eda-ba2d62d68ac6",
+        "e12e6b0b-43b4-4723-987f-e7322d904069",
+        "testimonials-1",
+        "testimonials-2"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "Testimonials",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "1"
+      }
+    },
+    "2d08876f-ca1c-4c3c-aee2-80cedae8f271": {
+      "type": "columns-1",
+      "blocks": {
+        "template--20086275309889__2d08876f-ca1c-4c3c-aee2-80cedae8f271-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": false,
+            "text": ""
+          }
+        },
+        "15ef83ff-fe30-4afe-9b77-1b9abe756e55": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Enroll Now",
+            "link_entitled": "",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__2d08876f-ca1c-4c3c-aee2-80cedae8f271-text-1",
+        "15ef83ff-fe30-4afe-9b77-1b9abe756e55"
+      ],
+      "custom_css": [
+        "h2,p {max-width: 800px; margin-left: auto; margin-right: auto;}"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "center",
+        "color_scheme": "1",
+        "show_wave": true,
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_ej9Mfn": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Heart-Mind-Fleet-Headshot.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "More About Fleet",
+        "heading_size": "h2",
+        "text": "<p>Fleet Maull, PhD, CMT-P, is an author, meditation teacher, management consultant, trainer and executive coach who facilitates deep transformation for individuals and organizations through his philosophy and program of Radical Responsibility® and Neuro-Somatic Mindfulness (NSM)™. He is a tireless and dedicated peacemaker and servant leader working for positive, social transformation and a more just and sustainable, global society. </p><p>He is the founder of Prison Dharma Network, Prison Mindfulness Institute, National Prison Hospice Association, Windhorse Seminars and Heart Mind Institute.</p><p>He is also the co-founder of Engaged Mindfulness Institute, Center for Mindfulness in Public Safety, the Rwanda Bearing Witness Retreat & Peace Initiative, and the Center for Contemplative End-of-Life Care at Naropa University. </p><p>He currently serves as the CEO of Heart Mind Institute, CEO and Director of Training, Research & Development for Prison Mindfulness Institute, Center for Mindfulness in Public Safety and the Engaged Mindfulness Institute; as well as CEO and senior consultant and trainer for Windhorse Seminars & Consulting.</p><p>Dr. Maull has been practicing mindfulness-awareness meditation for more than 50 years, training in the Tibetan, Zen, Vipassana Buddhist traditions. He was a close, senior student of therenowned Tibetan meditation master, Chögyam Trungpa Rinpoche and a close student and Dharma Successor of the renowned Zen master, social entrepreneur and peacemaker, Roshi Bernie Glassman.</p><p>He is a fully empowered, senior meditation and Dharma teacher in both the Tibetan and Zen Buddhist traditions. Dr. Maull is a Roshi (Zen master and lineage holder) in the Zen Peacemaker Order and Soto Zen tradition. He is also a fully ordained, senior Zen priest ordained in the Soto Zen lineage of Maezumi Roshi. </p><p>Dr. Maull is also a pioneer and thought leader in the mainstream mindfulness movement who has developed cutting edge mindfulness-based and trauma-informed leadership trainings, transformational seminars, and consulting and coaching programs that he delivers in diverse business, nonprofit and government settings, including his pioneering work in developing mindfulness-based emotional intelligence (MBEI) and mindfulness-based wellness & resiliency (MBWR)® training programs. Dr. Maull is a certified professional mindfulness teacher and advisory board member with the International Mindfulness Teachers Association (IMTA) and an organizing committee member with the Institute for Organizational Mindfulness. He is also an advisory board member with the Frederick P. Lenz Foundation for American Buddhism.</p><p>Dr. Maull is the author of <em>Radical Responsibility: How to Move Beyond Blame, Fearlessly Live Your Highest Purpose and Become an Unstoppable Force for Good</em> (2019), <em>Dharma in Hell: The Prison Writings of Fleet Maull</em> (2000), and <em>The Resilient C.O.: Neuroscience Informed Mindfulness-Based Wellness & Resiliency )MBWR) for Corrections Professionals (2021), </em>along with numerous book chapters and research articles in peer-reviewed professional journals.<br/> <br/>Dr. Maull offers mindfulness retreats, transformational seminars, leadership training, prison programs, first responder training, and bearing witness retreats around the world. His online summits and courses have enrolled more than <span style=\"text-decoration:underline\">one million</span> participants worldwide. </p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "center_top",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_i3zgUP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_BDJByM": {
+          "type": "heading",
+          "settings": {
+            "title": "Start rewiring your brain now to cultivate the presence, resilience and confidence you need to master life.",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_BDJByM"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "86318638-9bad-4d65-96fe-3b801dd2b185": {
+          "type": "custom",
+          "settings": {
+            "code": "<a id=\"offer\" name=\"offer\" style=\"position: absolute;margin-top: -15rem;\"></a>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "custom_FGJzwy": {
+          "type": "custom",
+          "disabled": true,
+          "settings": {
+            "code": "<h2><em>Total Value of Program & Bonuses: <s>$8,961</s></em></h2>\n<h2>Normal Price <s>$2,290 USD</s></h2>\n<h3 style=\"color: #cb4a3a;\">GAIA MEMBERS SAVE OVER $700</h3>\n\n<h3 style=\"background:#cb4a3a; color: #fff; padding: 5px; 0;\">SUMMER SALE ENDS <span style=\"text-wrap: nowrap\">11:59PM PT, JUNE 30</h3>\n\n\n<p>Non-Member Price: $1,660 USD  (Save $630)<br/>Gaia Members: $1,494 USD (Save $796)</p>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "86318638-9bad-4d65-96fe-3b801dd2b185",
+        "price",
+        "custom_FGJzwy",
+        "variant_picker",
+        "inventory_status",
+        "buy_buttons",
+        "description",
+        "tab",
+        "contact",
+        "share",
+        "separator"
+      ],
+      "custom_css": [
+        ".variant__label {display: none !important;}",
+        ".product-block--header {margin: -60px 0 0;}"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": false,
+        "h1_title": false,
+        "hide_media": false,
+        "align_text": "center",
+        "image_position": "left",
+        "image_container_size": "medium",
+        "product_image_size": "natural",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0": {
+      "type": "columns-1",
+      "blocks": {
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "What happens after I have paid?",
+            "text": "",
+            "dropdown_text": "<p>Once you have paid via credit card, you’ll be emailed all the details for accessing the course online. If you can’t find the email, please check your Junk Mail folder or contact the Biddy Tarot team <a href=\"https://www.biddytarot.com/contact-faq/\"><span style=\"text-decoration:underline\">here</span></a>. If you have paid using the payment plan, your credit card will be billed automatically each week, until the installments have been fully paid. You’ll also receive access to 1 Module per weekly installment.</p>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "It’s a big investment. I’m not sure I can afford the course.",
+            "text": "",
+            "dropdown_text": "<p>I hear you – I really do. I know I have felt nervous in the past when I have made such a big investment in my future, too. But think of it this way. You could easily spend hundreds of dollars buying Tarot books or taking a local class, but you may very well still feel confused and uncertain about what the Tarot cards really mean. What I know from the students who have completed the Master the Tarot Card Meanings course is that this course WILL provide you the clarity you’re looking for. You won’t need to buy all of those books or take extra classes, because everything you need is in this one course. Plus, imagine if you were able to take what you learn in the course and apply it in a way that you could earn an income doing something you love – reading Tarot! With just 5 readings at $60 each, you have paid off the course!</p>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Do you offer refunds?",
+            "text": "",
+            "dropdown_text": "<p>Yes – test drive the Master the Tarot Card Meanings for 14 Days – 100% risk free</p><p>I want to give you the best opportunity to create a financially and spiritually abundant Tarot business. That’s why I’m inviting you to fully participate in the Master the Tarot Card Meanings  program for 14 days and if you don’t feel I’ve delivered on my promise, I’ll happily refund 100% of your money.</p>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "36d254e6-c118-4eb9-868e-c7838412525e": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "How much time do I need to commit for each module?",
+            "text": "",
+            "dropdown_text": "<p>You will need to devote from 60 – 100 minutes to watch the video lessons in each module. In addition to the video lessons, you’ll also need to set aside another 1-2 hours per module for the activities and study in between. Of course, it’s up to you, but the more you invest, the more you’ll get out of it. The advantage of the home study program is that you can study and learn at your own pace.</p>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "64c54989-1338-47b7-bd63-ddfa422511b7": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "How long is the course material available for?",
+            "text": "",
+            "dropdown_text": "<p>You'll get lifetime access to the course materials.</p>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "19434ac0-1bc8-4fa7-9407-033dd509cb20": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "What if I’m not tech savvy? Will I be able to access the course?",
+            "text": "",
+            "dropdown_text": "<p>We’ve made everything super easy to access, via the MTCM Learning Hub. You’ll find all the webinars, course materials and more, all in the one place. We’ve also got clear instructions for how to access and download everything. And if you get stuck, we are here to help. Just reach out to the Biddy team here.</p><p>I’ve already worked through Intuitive Tarot: 31 Days to Learn to Read Tarot Cards. Will I benefit?</p><p>Absolutely. We will cover some of the material that’s already in the Intuitive Tarot eBook, but I also like to keep things dynamic and interesting, so I’ve added even more content and activities to the online classes.</p>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "195adf6e-7d69-4458-9adb-eaa295bb77f4": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Will we cover every card?",
+            "text": "",
+            "dropdown_text": "<p>Yes. And better yet, we will cover techniques that you can apply to the Tarot cards so you can easily interpret a card on the spot.</p>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "78097ffe-c976-4945-a965-5f25431986b6": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "I’m a total beginner when it comes to Tarot. Will I still benefit?",
+            "text": "",
+            "dropdown_text": "<p>Absolutely! That’s what the course is about – to help you build a personal and intuitive connection with the Tarot cards. What better way to get started with learning the Tarot? I’ve included a special “Tarot 101” video series especially for Tarot beginners so that you can hit the ground running before we start the formal classes. I also recommend that you work through the modules every 2-3 weeks, rather than every week, so you have some more time to get to know the Tarot cards and explore the activities in more depth.</p>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "ba6c8e79-47b1-4fea-9b1b-6118ceaef2f2": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "I’ve been reading the Tarot cards for a while. Is there value in the course for someone like me?",
+            "text": "",
+            "dropdown_text": "<p>What you’ll find is that there are some things in the course that you already know. For example, when we go through each card’s meaning or we go through what each suit means, you’ll probably have a good idea of what I’m talking about. However, this is just a part of the course content. What I want to do in this course is really focus on the different techniques that you can use to develop your own meanings for the cards and create a personal and intuitive connection with the cards. So what you might do is use the ‘theory’ as confirmation of what you already know, but then fully invest yourself in the activities and the techniques I share so that you can expand what you already know and make the cards’ meanings truly yours (that’s where the magic happens). So, in short, yes, I do think you’ll benefit particularly if you’re ready to go deeper with the Tarot cards. Here’s what one experienced student wrote about the program: “<em>Brigit’s Master the Tarot Card Meanings was exactly what I needed at exactly the right time. Although I have been working with the tarot for many years, I felt it was time to go back in and look at the cards from a fresh perspective. I learned so much from the beginners, too! I wish this course had been offered twenty years ago when I was new to the cards. I’ve already signed up for Read Tarot with Confidence!</em>” – Linda Thompson-Mills</p>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "2d40ad68-b191-42bf-8bea-0cc545f7f945": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "I don’t use Rider Waite. Will I still benefit?",
+            "text": "",
+            "dropdown_text": "<p>Yes. The techniques I’ll teach are more about interpreting the card than learning the meanings. So while I use the Rider Waite deck for teaching, you can still work just as effectively with other Tarot decks. And if you want to invest in a Rider-Waite deck, you will find it's a wonderful deck to learn with and then segue to other decks.</p>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "2d640ced-1117-4913-99c0-156ddce29838": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Enroll Now",
+            "link_entitled": "#offer",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d",
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281",
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07",
+        "36d254e6-c118-4eb9-868e-c7838412525e",
+        "64c54989-1338-47b7-bd63-ddfa422511b7",
+        "19434ac0-1bc8-4fa7-9407-033dd509cb20",
+        "195adf6e-7d69-4458-9adb-eaa295bb77f4",
+        "78097ffe-c976-4945-a965-5f25431986b6",
+        "ba6c8e79-47b1-4fea-9b1b-6118ceaef2f2",
+        "2d40ad68-b191-42bf-8bea-0cc545f7f945",
+        "2d640ced-1117-4913-99c0-156ddce29838"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {margin-bottom: 4rem;}",
+        "p {text-align: left;}",
+        ".dropdown-with-image-block {box-shadow: none; max-width: 1200px; margin: 0 auto 0.5rem auto;}",
+        ".button-block {margin-top: 2rem;}"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "Common Questions About\nMaster The Tarot Card Meanings: Tarot Course",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "center",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_7fc7Cc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_aUKMqK": {
+          "type": "heading",
+          "settings": {
+            "title": "Our mission at Heart Mind Institute is to support our individual and collective efforts to become more deeply embodied, heart-centered, resilient and earth connected at this time when there is such a clear and critical need to heal and repair our relationship with the earth, our fellow species and each other.​",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aUKMqK"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "advanced_content_wzRUwN",
+    "slideshow",
+    "3499c891-490d-4c18-9d41-a7c8fe591536",
+    "3124092b-a473-448b-b237-7c9b098cd472",
+    "columns_2_aNpKMf",
+    "text_with_icons_9fTxbA",
+    "columns_2_kQQ8AL",
+    "columns_2_e4JiLi",
+    "columns_2_AcekRj",
+    "ddf6a3fb-b88c-41ec-bee6-e9c9e57a998b",
+    "d2f3e665-9bf4-4aee-8b67-425b66d670c6",
+    "testimonials",
+    "2d08876f-ca1c-4c3c-aee2-80cedae8f271",
+    "text_and_image_ej9Mfn",
+    "rich_text_i3zgUP",
+    "main",
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0",
+    "rich_text_7fc7Cc"
+  ]
+}

@@ -1,0 +1,82 @@
+<div class="metafields-faq-product-info-parent">
+    <div class="metafields-faq-product-info-holder">
+        {% if product.metafields.sec-f-title.key != blank %}
+        <h2 class="FaqTitleMetaInfo">
+             {{ product.metafields.sec-f-title.key }} 
+        </h2>
+    {% endif %}
+    
+    {% comment %} 
+    {% if product.metafields.faq-custom-ful.cap-key != blank %}
+        <div class=" fullCapacity-modules fulCap-Desktop">
+            {{product.metafields.faq-custom-ful.cap-key}}
+            
+        </div>
+    {% endif %}
+
+ {% if product.metafields.faq-custom-ful-m.cap-key != blank %}
+    <div class=" fullCapacity-modules fulCap-Mobile">
+        {{product.metafields.faq-custom-ful-m.cap-key}}
+    </div>
+{% endif %}
+{% endcomment %}
+
+        <div class="metafields-faq-product-info-el">
+            <ul class="FaqTypeList">
+            {% for faqType in product.metafields.faq-question-type.key %}
+             <li class="faqInfoAccordion faqss">
+                {%if faqType != blank %}
+                <div class="Faq-type-question-info fullCapacity-modules fulCap-Desktop
+                ">{{ faqType }} <span class="plusSignOpenFAQ">+</span></div>
+                {% endif %}
+               
+              {% if product.metafields.faq-answer-type.key[forloop.index0] != blank %}
+                <p class="InfoOfTheAccordion">{{product.metafields.faq-answer-type.key[forloop.index0]}}</p>
+                {%endif %} 
+
+             </li>  
+            {% endfor %} 
+            </ul>
+        </div>
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+<style>
+    .showExpandedInfoFaq{
+        display:block !important;
+    }
+    .transformRotatePlus{
+        transform: rotate(315deg);
+    }
+</style>
+<script>
+    $(".faqss").click(function(){
+$(this).children(".InfoOfTheAccordion").toggleClass("showExpandedInfoFaq");
+$(this).children(".all-type-f").toggleClass("showExpandedInfoFaq");
+
+$(this).children(".Faq-type-question-info").children(".plusSignOpenFAQ").toggleClass("transformRotatePlus");
+    });
+</script>
+
+{% schema %}
+    {
+      "name": "FAQ's Product Metafields",
+      "class": "book-with-confidence",
+      "settings": [
+
+      
+       {
+          "type": "text",
+          "id": "title",
+          "label": "Book With Confidence Section title",
+          "default": "Book With Confidence"
+        }
+       
+      ],
+      "presets": [
+        {
+            "name": "FAQ's Product Metafields",
+        }
+      ]
+    } 
+  {% endschema %}  

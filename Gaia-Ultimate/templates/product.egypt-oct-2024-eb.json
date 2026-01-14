@@ -1,0 +1,1758 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_BHCBx9": {
+      "type": "slideshow",
+      "blocks": {
+        "hero_WCmwrV": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "<h1>Private Tour Package of Pre-Diluvian Egypt with a 4-Night Nile River Cruise </h1>",
+            "h1_title": true,
+            "title_size": 70,
+            "subheading": "Awaken your inner explorer on this 12-day adventure with special guest speaker, Erich von Däniken | October 17 - 28, 2024\nGaia members save 10%",
+            "enlarge_subheading": false,
+            "link": "#offer",
+            "link_text": "Reserve Your Spot",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#01b4b4",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Hero_Banner_Gaia_Exclusive_Tour_of_Pre-Diluvian_Egypt___4_Night_Nile_Cruise.jpg",
+            "overlay_opacity": 20
+          }
+        }
+      },
+      "block_order": [
+        "hero_WCmwrV"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "rich_text_dKWrzD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YazmVN": {
+          "type": "heading",
+          "settings": {
+            "title": "Early Bird Special Ends August 16th!",
+            "heading_size": "h2"
+          }
+        },
+        "text_T4RprC": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Sign up by midnight to receive early bird pricing!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YazmVN",
+        "text_T4RprC"
+      ],
+      "disabled": true,
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "061b0d20-e98a-47d8-9f35-f44f31d51acc": {
+      "type": "columns-2",
+      "blocks": {
+        "25924d21-e6eb-4634-9fb3-74174334f5a8": {
+          "type": "heading",
+          "settings": {
+            "parent_column": "left",
+            "title": "What’s Included:",
+            "heading_size": "h3"
+          }
+        },
+        "b8c1312f-b1b8-40c3-900b-e160b4005f4c": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Professional English-speaking Egyptologists and travel guides"
+          }
+        },
+        "template--20197640634689__061b0d20-e98a-47d8-9f35-f44f31d51acc-sales_point-1": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Event with special guest speaker Erich von Däniken"
+          }
+        },
+        "sales_point_wUFbED": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "5-star accommodation at hand-selected hotels"
+          }
+        },
+        "sales_point_KLHphD": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Luxury 4-night Nile cruise"
+          }
+        },
+        "a8081e08-ab6c-43f5-a21e-8cc447547627": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Two domestic flights (CAI/LXR and ASW/CAI)"
+          }
+        },
+        "b2be6884-0915-4620-b2e6-ff16008554ab": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Transportation to and from the airport"
+          }
+        },
+        "89d3b5a2-857a-41aa-a311-2e4e8f86129d": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Private group tours of the Sphinx and the Great Pyramid"
+          }
+        },
+        "6a56ee84-0167-4993-8048-43fbb072343b": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Entrance fees to all sites on the itinerary"
+          }
+        },
+        "5bcc93be-e73c-4b39-bcdf-3770ebce414d": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Transportation to all sites on the itinerary"
+          }
+        },
+        "efc7ecc6-d7c7-491b-87b2-c9126ee9e9e6": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "2 bottles of water daily in Cairo"
+          }
+        },
+        "sales_point_EWxXmY": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Tipping for hotels, restaurants, and drivers"
+          }
+        },
+        "0e175e8f-70ac-4d1d-9d94-33e0466bfb9f": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<p> </p>"
+          }
+        },
+        "95a1abe8-4797-4c53-8cb3-3d7d6384e62d": {
+          "type": "heading",
+          "settings": {
+            "parent_column": "left",
+            "title": "Dining Summary:",
+            "heading_size": "h3"
+          }
+        },
+        "template--20197640634689__061b0d20-e98a-47d8-9f35-f44f31d51acc-sales_point-3": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Daily breakfast (excluding arrival day)"
+          }
+        },
+        "46e398c5-1ee7-41de-bb33-ad10c56dc2ee": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Daily lunch (excluding arrival and departure days)"
+          }
+        },
+        "7da16b5a-30d9-4dc1-b1ce-1acce219312e": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Select dinners"
+          }
+        },
+        "7f90e356-b9b1-4d55-8da8-844f4a75e7f0": {
+          "type": "heading",
+          "settings": {
+            "parent_column": "right",
+            "title": "Iconic Sightseeing Experiences:",
+            "heading_size": "h3"
+          }
+        },
+        "2916552a-4524-4aff-acbc-634e4afb6d00": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "right",
+            "reveal": true,
+            "title": "Cairo",
+            "text": "",
+            "dropdown_text": "<p>With a history that spans millennia and home to some of the world's most extraordinary ancient wonders like the Great Pyramid of Giza and the Great Sphinx, Cairo is Egypt's bustling capital. It radiates timeless charm and holds immense cultural, historical, and political significance.</p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "dropdown_image": "shopify://shop_images/egypt-tour-day-cairo.jpg",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "aaa35b1a-8f7f-40b4-88b2-307c26dd6c43": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "right",
+            "reveal": false,
+            "title": "Luxor",
+            "text": "",
+            "dropdown_text": "<p>Luxor is renowned for its incredible wealth of ancient Egyptian temples and monuments, essentially making it a living museum. Dubbed the \"world's greatest open-air museum,\" Luxor's historical richness and grandeur continue to awe and inspire visitors globally.</p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "dropdown_image": "shopify://shop_images/luxor-1200x800.jpg",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "643bace9-4996-4be4-b931-2de728a157a3": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "right",
+            "reveal": false,
+            "title": "Valley of the Kings",
+            "text": "",
+            "dropdown_text": "<p>This ancient necropolis is famous as the final resting place of numerous Egyptian pharaohs, including the legendary Tutankhamun. The discovery of beautifully adorned tombs filled with treasures has long captivated the world's imagination.</p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "dropdown_image": "shopify://shop_images/Valley_of_the_Kings.jpg",
+            "background_color": "#2e2767",
+            "text_color": "#f4f5f7"
+          }
+        },
+        "cab40b70-71f5-4157-900c-344ccf2d5e06": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "right",
+            "reveal": false,
+            "title": "Giza Plateau",
+            "text": "",
+            "dropdown_text": "<p>Apart from the pyramids, the Giza Plateau features several remarkable megaliths, notably the Great Sphinx. Researchers have identified signs of water erosion on the bedrock surrounding the Sphinx, suggesting a possible pre-diluvian origin and hinting at an alternative history.</p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "dropdown_image": "shopify://shop_images/Giza_Plateau_2.jpg",
+            "background_color": "#2e2767",
+            "text_color": "#f4f5f7"
+          }
+        },
+        "bd48c292-e8fb-405b-9fc2-3e92ec363226": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "right",
+            "reveal": false,
+            "title": "The Great Pyramid",
+            "text": "",
+            "dropdown_text": "<p>The Great Pyramid is an architectural marvel, precisely aligned to Earth's cardinal directions within a fraction of a degree. Although attributed to Pharaoh Khufu (Cheops) of the Old Kingdom, the absence of any remains found inside adds to the enigma surrounding its construction.</p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "dropdown_image": "shopify://shop_images/Great_Pyramid_2.jpg",
+            "background_color": "#2e2767",
+            "text_color": "#f4f5f7"
+          }
+        },
+        "dropdown_mdGFNt": {
+          "type": "dropdown",
+          "settings": {
+            "parent_column": "right",
+            "reveal": false,
+            "title": "The Nile River",
+            "text": "",
+            "dropdown_text": "<p>Embark on a journey through the heart of Egypt on a cruise ship tour down the Nile River. Enjoy breathtaking vistas of ancient temples, bustling villages, and fertile landscapes. Each day trip is unique, offering new discoveries on this unforgettable odyssey. Experience a guided tour of Egypt—from ancient historical sites to the beauty of the Red Sea—all the while immersing yourself in the rich tapestry of Egyptian history. </p>",
+            "dropdown_html": "<ul>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n<li>Use this text to answer questions in as much detail as possible for your customers.</li>\n</ul>",
+            "dropdown_image": "shopify://shop_images/nile-capital-cruises_14137_g1_2dd015f1-7c29-4fcd-a770-10bd77c12051.jpg",
+            "background_color": "#2e2767",
+            "text_color": "#f4f5f7"
+          }
+        }
+      },
+      "block_order": [
+        "25924d21-e6eb-4634-9fb3-74174334f5a8",
+        "b8c1312f-b1b8-40c3-900b-e160b4005f4c",
+        "template--20197640634689__061b0d20-e98a-47d8-9f35-f44f31d51acc-sales_point-1",
+        "sales_point_wUFbED",
+        "sales_point_KLHphD",
+        "a8081e08-ab6c-43f5-a21e-8cc447547627",
+        "b2be6884-0915-4620-b2e6-ff16008554ab",
+        "89d3b5a2-857a-41aa-a311-2e4e8f86129d",
+        "6a56ee84-0167-4993-8048-43fbb072343b",
+        "5bcc93be-e73c-4b39-bcdf-3770ebce414d",
+        "efc7ecc6-d7c7-491b-87b2-c9126ee9e9e6",
+        "sales_point_EWxXmY",
+        "0e175e8f-70ac-4d1d-9d94-33e0466bfb9f",
+        "95a1abe8-4797-4c53-8cb3-3d7d6384e62d",
+        "template--20197640634689__061b0d20-e98a-47d8-9f35-f44f31d51acc-sales_point-3",
+        "46e398c5-1ee7-41de-bb33-ad10c56dc2ee",
+        "7da16b5a-30d9-4dc1-b1ce-1acce219312e",
+        "7f90e356-b9b1-4d55-8da8-844f4a75e7f0",
+        "2916552a-4524-4aff-acbc-634e4afb6d00",
+        "aaa35b1a-8f7f-40b4-88b2-307c26dd6c43",
+        "643bace9-4996-4be4-b931-2de728a157a3",
+        "cab40b70-71f5-4157-900c-344ccf2d5e06",
+        "bd48c292-e8fb-405b-9fc2-3e92ec363226",
+        "dropdown_mdGFNt"
+      ],
+      "custom_css": [
+        "h2 {max-width: 750px; margin-left: auto; margin-right: auto;}"
+      ],
+      "settings": {
+        "title": "Visit Ancient Sites with Exclusive Behind-The-Scenes Access!",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "85e20baa-20e7-4e15-961d-dc2232ca0e16": {
+      "type": "map",
+      "settings": {
+        "map_title": "",
+        "heading_size": "h3",
+        "heading_position": "left",
+        "address": "",
+        "map_address": "Cairo",
+        "api_key": "AIzaSyCGvtT63CU5qr-RVFMbrPgnOENoN9EKmdA",
+        "map_zoom": 6,
+        "map_style": "retro",
+        "map_simplified": true,
+        "map_control": "draggable_onclick",
+        "show_button": false,
+        "background_image": "shopify://shop_images/egypt-cairo-map_ab053abb-c115-45fc-8865-308d8ddf3d63.jpg",
+        "lazyload_images": true
+      }
+    },
+    "e050c6d5-44c1-45b8-88c2-e0650f6f4b08": {
+      "type": "columns-1",
+      "disabled": true,
+      "settings": {
+        "narrow_column": false,
+        "title": "Itinerary & Map",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "7aed34aa-1760-4d6f-8ff3-2be2dc756274": {
+      "type": "background-image-text",
+      "disabled": true,
+      "settings": {
+        "subtitle": "",
+        "title": "",
+        "heading_size": "h1",
+        "heading_position": "center",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify://shop_images/egypt-cairo-map_ab053abb-c115-45fc-8865-308d8ddf3d63.jpg",
+        "layout": "left",
+        "height": 550,
+        "parallax": true,
+        "parallax_direction": "left",
+        "lazyload_images": true
+      }
+    },
+    "6db691b5-0534-45ec-97a0-e4a6c1dcff87": {
+      "type": "columns-1",
+      "blocks": {
+        "b3aeaf69-97a6-4e33-af39-c15ac9f01b04": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/egypt-cairo-map.jpg",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "cf73ead0-1d61-4710-911f-92abbd89cd91": {
+          "type": "heading",
+          "settings": {
+            "title": "Travel Itinerary",
+            "heading_size": "h1"
+          }
+        },
+        "57393d7c-eaea-43e6-934b-e35643791451": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 1: Cairo - Thursday, October 17th",
+            "text": "<p>Upon arriving at Cairo Airport, you'll be greeted by a Saba Tours representative and escorted to your hotel. Depending on your arrival time, you can relax and rejuvenate. In the evening, join your fellow travelers for an introductory meeting and a preview of the upcoming adventures.</p>",
+            "image": "shopify://shop_images/egypt-tour-day-1-1200x800.jpg",
+            "dropdown_text": "<h4><strong>Inclusions:</strong></h4><ul><li>Arrival at Cairo Airport</li><li>Meet with Saba Tours assistant and transfer to Marriott Mena House Hotel</li><li>Introductory meeting at 6 PM</li><li>Welcome dinner at 7 PM</li><li>Accommodation at Marriott Mena House Hotel</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "46f98c92-e505-4141-a9a0-fa35c3e1337c": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 2: Giza Plateau - Friday, October 18th",
+            "text": "<p>Start your day with a private sunrise visit to the Sphinx. Then, embark on a comprehensive tour of the Giza Plateau, exploring the majestic Great Pyramids of Giza and the intriguing Valley Temple. The afternoon includes visits to popular shopping sites in Cairo.</p>",
+            "image": "shopify://shop_images/Giza_Plateau.jpg",
+            "dropdown_text": "<h4><strong>Inclusions:</strong></h4><ul><li>Private sunrise visit to the Sphinx around 6:00 AM</li><li>Return to the hotel for breakfast</li><li>Presentation on the <strong>Lost Technologies of Ancient Egypt</strong> by Mohamed Ibrahim</li><li>Tour of Giza Plateau</li><li>Special guest speaker, <strong>Erich von Däniken</strong></li><li>Lunch at BBQ Mawlana restaurant</li><li>Visit to the Valley Temple</li><li>Visit to the Papyrus Store</li><li>Accommodations at Marriott Mena House Hotel</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "af9886df-0842-456c-a4da-f86a8fae9128": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 3: Cairo/Luxor - Saturday, October 19th",
+            "text": "<p>Fly to Luxor and explore the legendary Karnak Temple and its Open-Air Museum, as well as the Chapel of the Seven Gates.</p>",
+            "image": "shopify://shop_images/Karnak.jpg",
+            "dropdown_text": "<h4><strong>Inclusions:</strong></h4><ul><li>Breakfast box </li><li>Morning flight to Luxor</li><li>Visit to Karnak Temple</li><li>Visit to the Open-Air Museum at Karnak</li><li>Visit to the Chapel of Seven Gates</li><li>Special guest speaker, <strong>Erich von Däniken</strong></li><li>Lunch at Al Kersh restaurant</li><li>Transfer to Steigenberger Luxor for check-in</li><li><strong>Presentation on the Star Gates of Ancient Egypt</strong> by Mohamed Ibrahim</li><li>Overnight at Steigenberger Luxor</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "665f407f-c58f-4cfe-8e14-b0c7e48b8013": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 4: Dendera & Abydos - Sunday, October 20th",
+            "text": "<p>Delve into the divine beauty of the Hathor Temple at Dendera, followed by a visit to Abydos Temple and the Osirion Temple.</p>",
+            "image": "shopify://shop_images/Dendera_Luxor-min.jpg",
+            "dropdown_text": "<h4><strong>Inclusions:</strong></h4><ul><li>Early breakfast</li><li>Drive to Dendera at 6:30AM</li><li>Visit to Hathor Temple</li><li>Drive to Abydos</li><li>Lunch at El Shahat Local House </li><li>Visit to Abydos Temple</li><li><strong>Private visit to the Osirion Temple</strong></li><li>Special guest speaker, <strong>Erich von Däniken</strong></li><li>Drive back to Luxor (4-hour drive)</li><li>Overnight at Steigenberger<br/>Luxor</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "a0ac19a9-eb3f-4293-b194-c7a3b463e4f6": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 5: West Bank & Nile Cruise - Monday, October 21st",
+            "text": "<p>Embark on a Nile cruise, enjoying views of ancient temples, bustling villages, and fertile landscapes. Explore the West Bank of Luxor, including the Valley of the Kings and Hatshepsut Temple.</p>",
+            "image": "shopify://shop_images/nile-capital-cruises_14137_g1.jpg",
+            "dropdown_text": "<h4><strong>Inclusions:</strong></h4><ul><li>Breakfast</li><li>Check-out from Steigenberger Luxor</li><li>Drive to the West Bank of Luxor</li><li>Visit the Valley of the Kings</li><li>Visit Hatshepsut Temple</li><li>Visit the Alabaster Factory</li><li>Visit the Colossi of Memnon</li><li>Check-in at the Nile Capital Cruise</li><li>Lunch on the M/S Nile Capital</li><li>Dinner on the Nile Cruise</li><li>Overnight on the Nile Cruise</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "356bfe06-89e2-457a-a782-ada1263e0d36": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 6: Luxor Temple/Sailing - Tuesday, October 22nd",
+            "text": "<p>Explore the Valley of the Kings and Luxor Temple. Enjoy sailing to Esna on the Nile Cruise.</p>",
+            "image": "shopify://shop_images/WestBank-min.jpg",
+            "dropdown_text": "<h4><strong>Inclusions:</strong></h4><ul><li>Optional hot air balloon ride ($150)</li><li>Breakfast</li><li>Visit to Luxor Temple</li><li>Return to the Nile Cruise</li><li>Lunch on the Nile Cruise</li><li>Sail to Esna</li><li>Dinner on the Nile Cruise</li><li>Overnight on the Nile Cruise</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "66db8b2b-fdc9-4434-bd63-38c72353b779": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 7: Edfu-kom Ombo - Wednesday, October 23rd",
+            "text": "<p>Visit the ancient temple complexes of Edfu and Kom Ombo along the Nile. Marvel at the Ptolemaic architecture and the unique double design of Kom Ombo Temple.</p>",
+            "image": "shopify://shop_images/Edfu_Temple-min.jpg",
+            "dropdown_text": "<h4><strong>Inclusions:</strong></h4><ul><li>Breakfast</li><li>Bus to Edfu Temple</li><li>Visit to Edfu Temple</li><li>Return to Nile Cruise</li><li>Sail to Kom Ombo</li><li>Lunch on the Nile Cruise</li><li>Visit to Kom Ombo</li><li>Dinner on the Nile Cruise</li><li>Sail to Aswan</li><li>Overnight on the Nile Cruise</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "dd20cdd8-6dc0-42a2-91c4-c110a0716601": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 8: Aswan - Thursday, October 24th",
+            "text": "<p>Discover the Unfinished Obelisk and the majestic temples on Philae Island, including the Isis Temple.</p>",
+            "image": "shopify://shop_images/Satet_Temple_1_-min.jpg",
+            "dropdown_text": "<h4><strong>Inclusions:</strong></h4><ul><li>Breakfast</li><li>Visit to the Unfinished Obelisk</li><li>Visit to Philae Island and Isis Temple</li><li>Lunch on the Nile Cruise</li><li>Motorboat to Elephantine Island</li><li>Visit to Satet Temple and Khnum Temple</li><li>Return to the Nile Cruise</li><li>Dinner on the Nile Cruise</li><li>Overnight on the Nile Cruise</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "fe9d9b01-84d8-42dd-aa2f-b13bfa9cb5a5": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 9: Cairo/Egyptian Museum - Friday, October 25th",
+            "text": "<p>Fly back to Cairo and tour the Egyptian Museum, exploring artifacts like the Pre-diluvian Jars and the Schist Disc.</p>",
+            "image": "shopify://shop_images/Cairo_9e35e516-9ce1-474e-be9a-3f0e22556efc.jpg",
+            "dropdown_text": "<h4><strong>Inclusions:</strong></h4><ul><li>Breakfast</li><li>Transfer to Aswan Airport for flight to Cairo</li><li>Visit to the Egyptian Museum in Cairo</li><li>Lunch at Blue Nile restaurant</li><li>Transfer to the Four Seasons Plaza Hotel</li><li>Check-in at the Four Seasons Plaza</li><li>Overnight at the Four Seasons Plaza</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "61cfa1f6-c4f1-446d-a5ef-2f4486dc1020": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 10: Sakkara / Dahshur - Saturday, October 26th",
+            "text": "<p>Explore the Step Pyramid Complex in Sakkara and the Red Pyramid in Dahshur.</p>",
+            "image": "shopify://shop_images/sakkara.jpg",
+            "dropdown_text": "<h4><strong>Inclusions:</strong></h4><ul><li>Breakfast</li><li>Drive to Sakkara</li><li>Visit to Imhotep Museum</li><li>Visit to the Step Pyramid Complex and the southern entrance</li><li>Lunch at Sakkara restaurant</li><li>Drive to Dahshur</li><li>Visit to the Red Pyramid</li><li>Overnight at the Four Seasons Plaza</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "5126e38e-daf5-4953-a36a-6c08bdde1ba3": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 11: Old Cairo - Sunday, October 27th",
+            "text": "<p>Enjoy an evening visit to the Great Pyramid of Giza, including a private visit inside the Great Pyramid.</p>",
+            "image": "shopify://shop_images/Dashur-min.jpg",
+            "dropdown_text": "<h4><strong>Inclusions:</strong></h4><ul><li>Breakfast</li><li>Free morning</li><li>Optional trip to Old Cairo or the Civilizations Museum</li><li>Farewell dinner at BBQ Mawlana</li><li>Private 2-hour visit inside the Great Pyramid (7-9 PM)</li><li>Overnight at the Four Seasons Plaza</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "8e38bacb-2f1f-4c94-b100-a63b49eba045": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Day 12: Cairo - Monday, October 28th",
+            "text": "<p>Bid farewell to Egypt, carrying memories of its ancient wonders.</p>",
+            "image": "shopify://shop_images/Cairo-01-min.jpg",
+            "dropdown_text": "<h4><strong>Inclusions:</strong></h4><ul><li>Breakfast</li><li>Departure</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": ""
+          }
+        },
+        "button_DppG3L": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Sign Up Now",
+            "link_entitled": "",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "b3aeaf69-97a6-4e33-af39-c15ac9f01b04",
+        "cf73ead0-1d61-4710-911f-92abbd89cd91",
+        "57393d7c-eaea-43e6-934b-e35643791451",
+        "46f98c92-e505-4141-a9a0-fa35c3e1337c",
+        "af9886df-0842-456c-a4da-f86a8fae9128",
+        "665f407f-c58f-4cfe-8e14-b0c7e48b8013",
+        "a0ac19a9-eb3f-4293-b194-c7a3b463e4f6",
+        "356bfe06-89e2-457a-a782-ada1263e0d36",
+        "66db8b2b-fdc9-4434-bd63-38c72353b779",
+        "dd20cdd8-6dc0-42a2-91c4-c110a0716601",
+        "fe9d9b01-84d8-42dd-aa2f-b13bfa9cb5a5",
+        "61cfa1f6-c4f1-446d-a5ef-2f4486dc1020",
+        "5126e38e-daf5-4953-a36a-6c08bdde1ba3",
+        "8e38bacb-2f1f-4c94-b100-a63b49eba045",
+        "button_DppG3L"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_JPgmwm": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/MohamehIbrahim_a3ba3b43-ea03-44a4-a2cc-5d8ef4d0a5b4.jpg",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Meet Your Local Guides",
+        "heading_size": "h1",
+        "text": "<h3>Mohamed Ibrahim</h3><p>Mohamed Ibrahim is an Egyptologist, hieroglyphics expert, and tour guide driven by his deep passion for ancient Egypt. His quest for answers to questions overlooked by mainstream Egyptology began in his hometown of Memphis, Egypt, surrounded by the enigmatic pyramid complexes of Giza, Saqqara, Dahshur, and Abusir. Ibrahim specializes in legendary star gates, ancient Egyptian healing practices, and energy modalities, with a particular focus on sharing insights into his country's lost technology and civilization.</p><p>In his role as a tour guide, Ibrahim has led numerous tours, consistently exceeding travelers' expectations by meticulously attending to every detail, including exclusive behind-the-scenes access, luxurious accommodations, and exceptional service. He provides an immersive and authentic historical journey that challenges visitors to reconsider their understanding of the world.</p><p>From your arrival in Cairo to your departure, the Saba Tours team ensures an unforgettable exploration of Egypt's ancient mysteries.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_wGD7Qm": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/CS4060_Events_Ancient_Civilizations_Conference_2023_headshots_Erich.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Meet Our Special Guest Speaker",
+        "heading_size": "h1",
+        "text": "<h3><strong>Erich von Däniken</strong></h3><p>For over 50 years, Erich von Däniken has pursued the theory which postulates that Earth might have been visited by extraterrestrials in the remote past. Erich von Däniken, the world's most successful non-fiction writer of all time, has written 45 books and e-media on the topic and has sold over 73 million copies worldwide. His books have been translated into 32 languages. In the United States Erich von Däniken won instant fame as a result of the television special \"In Search of Ancient Astronauts,\" based upon his first book Chariots of the Gods. In addition, Erich von Däniken has participated and contributed in numerous film and TV productions, has written countless articles and compilations. Fluent in four languages, Erich von Däniken is an avid researcher and an energetic traveller, averaging 100'000 miles per year to visit remote places of the Earth. This enables him to closely examine the phenomena about which he writes. His research organization, the A.A.S. R.A. / legendarytimes.com (Archaeology, Astronautics & SETI Research Association), comprises laymen and academics from all walks of life. Internationally, there are about 10,000 members.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_6dhgPK": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Screenshot_2024-06-03_at_9.42.05_AM.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Supporting Guides",
+        "heading_size": "h1",
+        "text": "<h3><strong>Ahmed Nady</strong></h3><p>Professional Tour Guide to Egypt since 2003. Over 20 year experience in guiding English speakers from different countries around the globe.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_9Ditee": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Screenshot_2024-06-03_at_9.41.56_AM.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "",
+        "heading_size": "h1",
+        "text": "<h3><strong>Hanaa Abd Elkhaleq</strong></h3><p>Graduated from the Faculty of Archaeology at Cairo University, specializing in Egyptian Antiquities. Discovered that working in the field of archaeology is not her passion and would not significantly add to her career growth. Consequently, she pursued a diploma in Tourist Guidance from the Faculty of Tourism and Hotels at Helwan University. She has been working as a tour guide since 2003, gaining extensive experience in the field and thoroughly enjoying the journey.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "color_scheme": "1",
+        "show_wave": true,
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "custom_hikrjb": {
+          "type": "custom",
+          "settings": {
+            "code": "<a id=\"offer\" name=\"offer\" style=\"position: absolute;margin-top: -15rem;\"></a>"
+          }
+        },
+        "5d0eaa37-9ce3-4e70-88fb-648e9f061d06": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "show-def-q": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false
+          }
+        },
+        "3f696441-480a-4872-a3b8-c275b27bb1c7": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "33594",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#ffffff",
+            "links_color": "#1878b9",
+            "errors_color": "#e02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        },
+        "downpay_downpay_form_RppJYi": {
+          "type": "shopify://apps/downpay/blocks/downpay-form/da700d84-7ed1-410a-a8b5-5cb99a33758a",
+          "settings": {
+            "default_to_pay_in_full": false,
+            "show_payment_methods": false,
+            "show_deposit_amount": true,
+            "show_border": true,
+            "show_help_text2": "deposit",
+            "show_release_date2": "never",
+            "custom_css": "",
+            "section_header": "",
+            "deposit_option_label": "",
+            "full_pay_option_label": "",
+            "deposit_help_text": "",
+            "release_date_text": "",
+            "add_to_cart_button_label": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "custom_hikrjb",
+        "5d0eaa37-9ce3-4e70-88fb-648e9f061d06",
+        "price",
+        "separator",
+        "variant_picker",
+        "inventory_status",
+        "buy_buttons",
+        "3f696441-480a-4872-a3b8-c275b27bb1c7",
+        "downpay_downpay_form_RppJYi",
+        "description",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "custom_css": [
+        ".product-grid__container {padding-top: var(--indexSectionPadding); padding-bottom: var(--indexSectionPadding); margin-top: -40px;}",
+        ".product-block--header {margin: -60px 0 0;}"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": false,
+        "h1_title": false,
+        "hide_media": false,
+        "align_text": "left",
+        "image_position": "left",
+        "image_container_size": "large",
+        "product_image_size": "natural",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "ce45914b-7a52-48d4-9e05-4cf5a5c05566": {
+      "type": "text-columns",
+      "blocks": {
+        "template--21409734426945__ce45914b-7a52-48d4-9e05-4cf5a5c05566-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0295.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--21409734426945__ce45914b-7a52-48d4-9e05-4cf5a5c05566-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0332.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "32a6e963-2a78-4115-84e8-067fd0f81b90": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0474.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "0f5ecf6e-6bb1-4750-b9ef-6d74ace362cb": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0524.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "ce1ea62c-7a37-47f6-9c8d-b726960b8da2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0424.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "19dfce67-12b7-4372-bc97-025f614e7184": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0540.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "0ef2cdf0-19c1-4546-b207-33ea6a75f078": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0582.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "2f47a106-59f6-4814-9631-6ae15e721253": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0592.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "66ab4d68-7f4f-494d-9adb-09cbc660cb5f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0631.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "978a8d75-ae3c-4301-bdd0-ef58bd7c264b": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0639.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "9dc8ec66-9f2b-4b32-b504-580202f76244": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0611.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "bf833179-5973-4834-907c-3807c4e6f43f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0666.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "69602440-d990-4384-bdd3-5852a0bafb0d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0673.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "b446b4be-06e4-46d0-950c-b2d454075a5e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0707.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "9d9acacd-e2de-4370-a192-28684f7d68ca": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0947.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "02c6f28e-50a0-474f-b63c-daaf10287a41": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A1026.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "31b13caf-a917-4abe-88c8-9577eeb1478c": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A0822.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "cb72d020-a665-4279-bb7f-439783a2c658": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A1073.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "2f4b50e8-b4ab-483c-81bc-3998e8cf802b": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A1089.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "169ab764-8651-46b0-a348-133c301f544a": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/Dana_Sabre_boat_W4A1178_8939a70c-e7d2-4298-a894-cd8f40373506.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21409734426945__ce45914b-7a52-48d4-9e05-4cf5a5c05566-text_block-1",
+        "template--21409734426945__ce45914b-7a52-48d4-9e05-4cf5a5c05566-text_block-2",
+        "32a6e963-2a78-4115-84e8-067fd0f81b90",
+        "0f5ecf6e-6bb1-4750-b9ef-6d74ace362cb",
+        "ce1ea62c-7a37-47f6-9c8d-b726960b8da2",
+        "19dfce67-12b7-4372-bc97-025f614e7184",
+        "0ef2cdf0-19c1-4546-b207-33ea6a75f078",
+        "2f47a106-59f6-4814-9631-6ae15e721253",
+        "66ab4d68-7f4f-494d-9adb-09cbc660cb5f",
+        "978a8d75-ae3c-4301-bdd0-ef58bd7c264b",
+        "9dc8ec66-9f2b-4b32-b504-580202f76244",
+        "bf833179-5973-4834-907c-3807c4e6f43f",
+        "69602440-d990-4384-bdd3-5852a0bafb0d",
+        "b446b4be-06e4-46d0-950c-b2d454075a5e",
+        "9d9acacd-e2de-4370-a192-28684f7d68ca",
+        "02c6f28e-50a0-474f-b63c-daaf10287a41",
+        "31b13caf-a917-4abe-88c8-9577eeb1478c",
+        "cb72d020-a665-4279-bb7f-439783a2c658",
+        "2f4b50e8-b4ab-483c-81bc-3998e8cf802b",
+        "169ab764-8651-46b0-a348-133c301f544a"
+      ],
+      "settings": {
+        "title": "Photos from Our Last Trip",
+        "heading_size": "h0",
+        "subtitle": "Photo Credit: Dana Sabre, Gaia Member",
+        "align_text": "center",
+        "grid": 4,
+        "divider": false,
+        "color_scheme": "none"
+      }
+    },
+    "e6fa5fae-029e-48df-a6da-fe4caef08809": {
+      "type": "columns-3",
+      "blocks": {
+        "fc95136e-6654-4876-b0f3-83619982e36b": {
+          "type": "liquid",
+          "settings": {
+            "parent_column": "right",
+            "code": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"63.951\" height=\"63.966\" viewBox=\"0 0 63.951 63.966\" style=\"margin: 0 auto 15px; display: block;\"><path d=\"M62.913,3.375h-18.9a2.223,2.223,0,0,0-1.568.646L4.667,41.8a4.436,4.436,0,0,0,0,6.258L22.657,66.05a4.436,4.436,0,0,0,6.258,0L66.68,28.285a2.223,2.223,0,0,0,.646-1.568V7.8A4.407,4.407,0,0,0,62.913,3.375ZM55.578,20.566a4.919,4.919,0,1,1,4.352-4.352A4.925,4.925,0,0,1,55.578,20.566Z\" transform=\"translate(-3.375 -3.375)\" fill=\"#02b5b4\"/></svg>"
+          }
+        },
+        "template--20197640634689__e6fa5fae-029e-48df-a6da-fe4caef08809-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": false,
+            "text": "<h3>Gaia Members Save 10%</h3><p>Just for being a Gaia member, you will save 10% when you purchase.</p>"
+          }
+        },
+        "cba03462-9fce-46b7-8667-581fdde037aa": {
+          "type": "liquid",
+          "settings": {
+            "parent_column": "center",
+            "code": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"55.914\" height=\"63.966\" viewBox=\"0 0 55.914 55.914\" style=\"margin: 0 auto 15px; display: block;\"><path d=\"M53.322,3H8.591A5.572,5.572,0,0,0,3,8.591V39.344a5.572,5.572,0,0,0,5.591,5.591H19.774V58.914l11.183-5.591L42.14,58.914V44.935H53.322a5.572,5.572,0,0,0,5.591-5.591V8.591A5.572,5.572,0,0,0,53.322,3Zm0,36.344H8.591V33.752H53.322Zm0-13.978H8.591V8.591H53.322Z\" transform=\"translate(-3 -3)\" fill=\"#02b5b4\"/></svg>"
+          }
+        },
+        "76fa2165-a4cb-4aca-a03b-f6a545f7f60c": {
+          "type": "text",
+          "settings": {
+            "parent_column": "center",
+            "enlarge_text": false,
+            "text": "<h3>Exclusive Pre-Diluvian Egypt Tour.</h3><p>The Gaia team has hand-curated this one-of-a-kind experience and it's only available through the Gaia Marketplace.</p>"
+          }
+        },
+        "5c1d294c-9915-4022-b460-e1f736bb4135": {
+          "type": "liquid",
+          "settings": {
+            "parent_column": "left",
+            "code": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"87.864\" height=\"63.966\" viewBox=\"0 0 87.864 55.914\" style=\"margin: 0 auto 15px; display: block;\"><path d=\"M61.407,31.463A11.981,11.981,0,1,0,49.426,19.481,11.931,11.931,0,0,0,61.407,31.463Zm-31.951,0A11.981,11.981,0,1,0,17.475,19.481,11.931,11.931,0,0,0,29.457,31.463Zm0,7.988C20.151,39.451,1.5,44.123,1.5,53.429v9.985H57.414V53.429C57.414,44.123,38.762,39.451,29.457,39.451Zm31.951,0c-1.158,0-2.476.08-3.874.2,4.633,3.355,7.868,7.868,7.868,13.779v9.985H89.364V53.429C89.364,44.123,70.713,39.451,61.407,39.451Z\" transform=\"translate(-1.5 -7.5)\" fill=\"#02b5b4\"/></svg>"
+          }
+        },
+        "583c7003-2d98-42fd-bbae-515698196ce0": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<h3>Travel with a Like-Minded Community</h3><p>Because this tour is limited to the Gaia community, you will have the opportunity to embark on this journey with others who share your curiosity and sense of adventure.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "fc95136e-6654-4876-b0f3-83619982e36b",
+        "template--20197640634689__e6fa5fae-029e-48df-a6da-fe4caef08809-text-1",
+        "cba03462-9fce-46b7-8667-581fdde037aa",
+        "76fa2165-a4cb-4aca-a03b-f6a545f7f60c",
+        "5c1d294c-9915-4022-b460-e1f736bb4135",
+        "583c7003-2d98-42fd-bbae-515698196ce0"
+      ],
+      "settings": {
+        "title": "Book with Confidence",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "center",
+        "column_center_align_text": "center",
+        "column_right_align_text": "center",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2": {
+      "type": "testimonials",
+      "blocks": {
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“An extraordinary and unforgettable tour. Can't sing the praise loud enough so many extras and special days.”</p>",
+            "author": "Daniela S.",
+            "author_info": ""
+          }
+        },
+        "899314c4-90a9-4ace-b175-23f42f03347c": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The experiences that I had both inside the temples and pyramids were astounding.  Physical energy increases and healings that I experienced on this trip are like none before.”</p>",
+            "author": "Susan P.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“Wonderful to not to worry about any type of logistics; I would recommend 100% the tour to everybody” </p>",
+            "author": "Jorge F.",
+            "author_info": ""
+          }
+        },
+        "30ee8aed-c331-49b8-a501-04a969da42bf": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“You  have to go to Egypt with Gaia because of the special access to Giza without the crowds, it’s a completely different experience to be there alone at sunset when it’s quiet.”</p>",
+            "author": "Dana S.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The accommodations in Giza and Luxor exceeded all our expectations! The food was fabulous.”</p>",
+            "author": "Carmen S.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The trip was life changing for me... it was a spiritual calling to be there and the entire experience, people included, was ineffable from start to finish. Life will never be the same for me.”</p>",
+            "author": "James C. ",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1",
+        "899314c4-90a9-4ace-b175-23f42f03347c",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2",
+        "30ee8aed-c331-49b8-a501-04a969da42bf",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".testimonial-stars {color: #01b4b4;}"
+      ],
+      "settings": {
+        "title": "Customer Reviews",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "2"
+      }
+    },
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0": {
+      "type": "columns-1",
+      "blocks": {
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Exclusions",
+            "text": "",
+            "dropdown_text": "<ul><li>International flights (before and after the tour).</li><li>Visas: Travelers must ensure they have the necessary entry visas for the countries visited. Assistance may be provided at Cairo airport for visa processing, depending on your country of origin.</li><li>Tipping for Saba Tours Team.</li><li>Personal expenses and optional activities.</li><li>Traveler's insurance.</li><li>Laundry services.</li><li>Any additional or optional services/tours not mentioned in the itinerary.</li></ul>",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Reservation and Payment",
+            "text": "",
+            "dropdown_text": "<p>To confirm your booking, full payment is required at the time of booking. Your booking will be considered confirmed only upon receipt of payment.</p>",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "88fe273d-dad8-4fcb-8e72-e298aeffea83": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Cancellation and Refunds",
+            "text": "",
+            "dropdown_text": "<p>Given the complexities of travel coordination, we understand cancellations may occur. All cancellations must be made in writing. Refund details are as follows:</p><ul><li>Before August 15, 2024: Full refund.</li><li>August 16 to August 30, 2024: 50% refund.</li><li>August 31 to September 14, 2024: 25% refund.</li><li>After September 14, 2024: No refund. Please note, no refunds will be provided for unused services voluntarily foregone, such as transfers, city tours, accommodations, meals, or transportation.</li></ul><p>We recommend travelers consider travel insurance to protect against unforeseen changes.</p>",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "8fef7e85-3dbd-4573-b556-4afbf969813d": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Waiver of Responsibility",
+            "text": "",
+            "dropdown_text": "<p>By joining the tour, you agree to our Terms, Cancellation and Refunds Policy, and Waiver. While we have made every effort to arrange a smooth journey, Guide of Egypt & Saba Tours are not liable for delays, theft, injury, or other irregularities during the journey. This includes changes to airline schedules, missed connections, additional expenses due to currency fluctuations or itinerary changes, transportation issues, illness, weather conditions, protests, war, terrorism, quarantine, or other causes.</p>",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Changes",
+            "text": "",
+            "dropdown_text": "<p>The itinerary may be adjusted due to unforeseen circumstances such as flight changes. The content will remain largely unchanged and may include pleasant surprises.</p>",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "36d254e6-c118-4eb9-868e-c7838412525e": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Insurance",
+            "text": "",
+            "dropdown_text": "<p>We strongly recommend all participants obtain travel insurance covering trip costs, cancellation, interruption, and unforeseen incidents such as illness, injury, or missed connections. Travel Insured International offers comprehensive coverage, including baggage delays, medical expenses, and emergency assistance.</p>",
+            "background_color": "#2e2767",
+            "text_color": "#ffffff"
+          }
+        },
+        "button_GkTfbb": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Register Now",
+            "link_entitled": "",
+            "link_text_entitled": "",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d",
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281",
+        "88fe273d-dad8-4fcb-8e72-e298aeffea83",
+        "8fef7e85-3dbd-4573-b556-4afbf969813d",
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07",
+        "36d254e6-c118-4eb9-868e-c7838412525e",
+        "button_GkTfbb"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "Important Information",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "left",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "05a6ccb4-5008-4aea-bd7b-71a71b3b7286": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "What accommodations should I expect?",
+            "text": "<p>Throughout your Egypt trip, you will enjoy 5-star accommodations every night.</p>"
+          }
+        },
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "What's the difference between Double and Single occupancy?",
+            "text": "<p>Single occupancy ensures you will have your own room at all accommodations during the trip. Double occupancy means you will share a room with another tour participant at all accommodations. Room pairings are based on compatibility within the tour group.</p>"
+          }
+        },
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-4": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "Do I need vaccinations to travel to Egypt?",
+            "text": "<p>No vaccinations are required upon arrival in Egypt. It's recommended to consult with your healthcare provider before traveling.</p>"
+          }
+        },
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-5": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "Do you cater to Vegetarians or Vegans?",
+            "text": "<p>The upscale hotels and restaurants we visit offer a variety of Egyptian and Western dishes, including plentiful vegetarian options and some vegan choices.</p>"
+          }
+        },
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-7": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "What service can I expect when traveling with Mohamed Ibrahim?",
+            "text": "<p>Mohamed Ibrahim’s company, Saba Tours, has been operating for 15 years and is a member of the Egyptian Travel Agents Association (E.T.A.A.) and the International Air Transport Association (IATA). You can anticipate a professional team with extensive experience in tourism and touring.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-1",
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-3",
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-4",
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-5",
+        "template--20197640634689__05a6ccb4-5008-4aea-bd7b-71a71b3b7286-text_block-7"
+      ],
+      "settings": {
+        "title": "FAQ's",
+        "heading_size": "h1",
+        "heading_position": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    },
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc3": {
+      "type": "testimonials",
+      "blocks": {
+        "7dce2a2f-2ef5-43fc-b9a1-f0bcc76544c9": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The experiences that I had both inside the temples and pyramids were astounding.  Physical energy increases and healings that I experienced on this trip are like non before.”</p>",
+            "author": "Susan P.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“You have to go to Egypt with Gaia because of the special access to Giza without the crowds, it’s a completely different experience to be there alone at sunset when it’s quiet.”</p>",
+            "author": "Dana S.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“An extraordinary and unforgettable tour. Can't sing the praise loud enough so many extras and special days.”</p>",
+            "author": "Daniela S.",
+            "author_info": ""
+          }
+        },
+        "5a6a0c29-9918-45f2-a760-c3d787a8a462": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“Wonderful to not to worry about any type of logistics; I would recommend 100% the tour to everybody”</p>",
+            "author": "Jorge F.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The accommodations in Giza and Luxor exceeded all our expectations! The food was fabulous.”</p>",
+            "author": "Carmen S.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The trip was life changing for me... it was a spiritual calling to be there and the entire experience, people included, was ineffable from start to finish. Life will never be the same for me.”</p>",
+            "author": "James C. ",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "7dce2a2f-2ef5-43fc-b9a1-f0bcc76544c9",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1",
+        "5a6a0c29-9918-45f2-a760-c3d787a8a462",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4"
+      ],
+      "custom_css": [
+        ".testimonial-stars {color: #01b4b4;}"
+      ],
+      "settings": {
+        "title": "Customer Reviews",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "2"
+      }
+    },
+    "927a5fbd-9afa-4cc7-adea-fe0ab118ead0": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20197640634689__927a5fbd-9afa-4cc7-adea-fe0ab118ead0-hero-2": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Gaia Exclusive \nPre-Diluvian Egypt Tour",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/3JrZnwP8C8_4522fd15-d82a-4f39-bded-3d998aea3e40.jpg",
+            "overlay_opacity": 50
+          }
+        },
+        "d3ffef74-d615-4ac2-afea-12aec6607ff7": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Gaia Exclusive \nPre-Diluvian Egypt Tour",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/cairo-1200x800.jpg",
+            "overlay_opacity": 50
+          }
+        },
+        "d8d4958c-b42f-4913-9be9-2e5f382fdd57": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Gaia Exclusive \nPre-Diluvian Egypt Tour",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/egypt-tour-bg-3-desktop.jpg",
+            "overlay_opacity": 50
+          }
+        },
+        "deba10be-d7e0-4007-be86-86350443e5d0": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Gaia Exclusive \nPre-Diluvian Egypt Tour",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/ldjNflmUKF_e626b68d-5854-4743-8303-f493b42c78c5.jpg",
+            "overlay_opacity": 50
+          }
+        },
+        "948951c4-d3cd-4923-807c-17cbc9f7edb6": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Gaia Exclusive \nPre-Diluvian Egypt Tour",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/03dHa7KS51_3188c4e0-a2c6-49bb-9131-cfa7c00b69da.jpg",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--20197640634689__927a5fbd-9afa-4cc7-adea-fe0ab118ead0-hero-2",
+        "d3ffef74-d615-4ac2-afea-12aec6607ff7",
+        "d8d4958c-b42f-4913-9be9-2e5f382fdd57",
+        "deba10be-d7e0-4007-be86-86350443e5d0",
+        "948951c4-d3cd-4923-807c-17cbc9f7edb6"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": -40,
+        "mobile_size": 0,
+        "style": "dots",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "slideshow_BHCBx9",
+    "rich_text_dKWrzD",
+    "061b0d20-e98a-47d8-9f35-f44f31d51acc",
+    "85e20baa-20e7-4e15-961d-dc2232ca0e16",
+    "e050c6d5-44c1-45b8-88c2-e0650f6f4b08",
+    "7aed34aa-1760-4d6f-8ff3-2be2dc756274",
+    "6db691b5-0534-45ec-97a0-e4a6c1dcff87",
+    "text_and_image_JPgmwm",
+    "text_and_image_wGD7Qm",
+    "text_and_image_6dhgPK",
+    "text_and_image_9Ditee",
+    "main",
+    "ce45914b-7a52-48d4-9e05-4cf5a5c05566",
+    "e6fa5fae-029e-48df-a6da-fe4caef08809",
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2",
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0",
+    "05a6ccb4-5008-4aea-bd7b-71a71b3b7286",
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc3",
+    "927a5fbd-9afa-4cc7-adea-fe0ab118ead0"
+  ]
+}

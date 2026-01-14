@@ -1,0 +1,437 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "events_hero_banner_wgmrKn": {
+      "type": "events-hero--banner",
+      "settings": {
+        "image-video": "image",
+        "v-link": "",
+        "image": "shopify://shop_images/GettyImages-1710516915.jpg",
+        "title-intro": "Conscious Products",
+        "title": "Sacred Tools, Conscious Savings",
+        "body-text": ""
+      }
+    },
+    "events_hero_banner_b8FAiD": {
+      "type": "events-hero--banner",
+      "disabled": true,
+      "settings": {
+        "image-video": "video",
+        "v-link": "",
+        "image": "shopify://shop_images/GettyImages-1710516915.jpg",
+        "title-intro": "Conscious Products",
+        "title": "Products designed to elevate, uplift and heal",
+        "body-text": ""
+      }
+    },
+    "blocks_in_banner_6yEdtM": {
+      "type": "blocks-in--banner",
+      "blocks": {
+        "section_YUgqiP": {
+          "type": "section",
+          "settings": {
+            "body-text": "Curated experiences by Gaia"
+          }
+        },
+        "section_HYBgAt": {
+          "type": "section",
+          "settings": {
+            "body-text": "Unique personal journeys"
+          }
+        },
+        "section_CcUAeG": {
+          "type": "section",
+          "settings": {
+            "body-text": "Vetted by our team"
+          }
+        },
+        "section_bTLCcA": {
+          "type": "section",
+          "settings": {
+            "body-text": "Book with confidence"
+          }
+        }
+      },
+      "block_order": [
+        "section_YUgqiP",
+        "section_HYBgAt",
+        "section_CcUAeG",
+        "section_bTLCcA"
+      ],
+      "settings": {
+        "title": "<p>Gaia Members Enjoy 10% OFF</p>",
+        "check-in-middle": true,
+        "btn-text": "Log In or Sign Up",
+        "btn-link": "/account/login",
+        "btn-text-c": "Learn More",
+        "btn-link-c": ""
+      }
+    },
+    "rich_text_meta_info_q79aJk": {
+      "type": "rich-text-meta-info",
+      "blocks": {
+        "section_YeFCzW": {
+          "type": "section",
+          "settings": {
+            "body-text": "Hand curated products"
+          }
+        },
+        "section_z4Lzk4": {
+          "type": "section",
+          "settings": {
+            "body-text": "Vetted by the Gaia team"
+          }
+        },
+        "section_phBkgF": {
+          "type": "section",
+          "settings": {
+            "body-text": "Premium quality"
+          }
+        },
+        "section_kbCCLi": {
+          "type": "section",
+          "settings": {
+            "body-text": "Unique brand"
+          }
+        },
+        "section_fndtzN": {
+          "type": "section",
+          "settings": {
+            "body-text": "Purchase with confidence"
+          }
+        }
+      },
+      "block_order": [
+        "section_YeFCzW",
+        "section_z4Lzk4",
+        "section_phBkgF",
+        "section_kbCCLi",
+        "section_fndtzN"
+      ],
+      "settings": {
+        "title": "<p>Elevate your home and lifestyle</p>",
+        "hide-blocks": false,
+        "body-text": "Choose from a hand-curated and exclusive array of health-conscious home essentials, vibrational therapy tools, biohacking technology, and a wide variety of conscious merchandise. Each item is backed by research, undergoes thorough testing, and is endorsed for its exceptional quality. Elevate your journey toward holistic well-being and mindful living with these premium products."
+      }
+    },
+    "discover_conscious_products_3dt7rV": {
+      "type": "discover-conscious-products",
+      "blocks": {
+        "section_P7rKhi": {
+          "type": "section",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2024-06-10_at_4.02_1.png",
+            "title": "Apparel & Accessories",
+            "btn-link": ""
+          }
+        },
+        "section_QNmLwh": {
+          "type": "section",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2024-06-10_at_4.01_1.jpg",
+            "title": "Health & Wellness",
+            "btn-link": ""
+          }
+        },
+        "section_qNH3en": {
+          "type": "section",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2024-06-10_at_3.53_1_92dfb3cc-d7e9-47d1-a807-d7c183c60a28.jpg",
+            "title": "Home & Lifestyle",
+            "btn-link": ""
+          }
+        },
+        "section_bzUAzD": {
+          "type": "section",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2024-06-10_at_3.58_1.jpg",
+            "title": "Meditation & Yoga",
+            "btn-link": ""
+          }
+        },
+        "section_XyPXLw": {
+          "type": "section",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/image_20.jpg",
+            "title": "Hot and Cold Therapy",
+            "btn-link": ""
+          }
+        },
+        "section_4P4gz8": {
+          "type": "section",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2024-05-30_at_10.02_2.png",
+            "title": "Light, Sound &Vibration Therapy",
+            "btn-link": ""
+          }
+        },
+        "section_EHXkAm": {
+          "type": "section",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/InHarmonyShootJan22-7_63288125-f5de-405a-a81d-1f4c6f056afd_1.png",
+            "title": "Meditation & Yoga",
+            "btn-link": ""
+          }
+        },
+        "section_VJk9Vr": {
+          "type": "section",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2024-05-30_at_9.56_1.png",
+            "title": "Sacred Jewelry & Geometry",
+            "btn-link": ""
+          }
+        },
+        "section_rrQ9jM": {
+          "type": "section",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2024-06-04_at_10.16_1.png",
+            "title": "Self Care & Beauty",
+            "btn-link": ""
+          }
+        }
+      },
+      "block_order": [
+        "section_P7rKhi",
+        "section_QNmLwh",
+        "section_qNH3en",
+        "section_bzUAzD",
+        "section_XyPXLw",
+        "section_4P4gz8",
+        "section_EHXkAm",
+        "section_VJk9Vr",
+        "section_rrQ9jM"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "rm-bottom-padding": true
+      }
+    },
+    "collection-header": {
+      "type": "collection-header",
+      "disabled": true,
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": false,
+        "parallax_direction": "top"
+      }
+    },
+    "promo-grid": {
+      "type": "promo-grid",
+      "blocks": {
+        "entitled_banner": {
+          "type": "banner",
+          "settings": {
+            "heading": "Members Enjoy 10% Off",
+            "text": "As a Gaia member, you get 10% off all Marketplace items.",
+            "link": "",
+            "label": "",
+            "color_scheme": "2"
+          }
+        },
+        "trial_banner": {
+          "type": "banner",
+          "settings": {
+            "heading": "Members Enjoy 10% Off",
+            "text": "Complete your Gaia trial to receive 10% off all Marketplace items.",
+            "link": "",
+            "label": "",
+            "color_scheme": "2"
+          }
+        },
+        "inactive_banner": {
+          "type": "banner",
+          "settings": {
+            "heading": "Members Enjoy 10% Off",
+            "text": "Reactivate your Gaia membership to get 10% off all Marketplace items.",
+            "link": "https://www-stg-4b2c19.gaia.com/account",
+            "label": "Reactivate",
+            "color_scheme": "2"
+          }
+        },
+        "anonymous_banner": {
+          "type": "banner",
+          "settings": {
+            "heading": "Members Enjoy 10% Off",
+            "text": "Gaia members get 10% off all Marketplace items.",
+            "link": "/account/login",
+            "label": "Log In or Sign Up",
+            "color_scheme": "2"
+          }
+        }
+      },
+      "block_order": [
+        "entitled_banner",
+        "trial_banner",
+        "inactive_banner",
+        "anonymous_banner"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "collection_description": {
+          "type": "collection_description",
+          "settings": {}
+        },
+        "subcollections": {
+          "type": "subcollections",
+          "settings": {}
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "grid_style": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "collection_description",
+        "subcollections",
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapse_filters": true,
+        "enable_color_swatches": true,
+        "enable_sort": true,
+        "disable-grid-view": true,
+        "swap-counter": true,
+        "hide-price-filter": false,
+        "transform-filters": false,
+        "align-buttons": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {}
+    },
+    "custom_reviews_slider_events_ppB7aB": {
+      "type": "custom-reviews-slider-events",
+      "blocks": {
+        "section_T9FaFJ": {
+          "type": "section",
+          "settings": {
+            "image": "shopify://shop_images/Cairo-01-min_1.jpg",
+            "body-text": "“During my retreat, not only did I develop more vulnerability, openness, and empathy, but I was also inspired by the sense of community.”",
+            "name": "Lorem Ipsum",
+            "star-rate": "five"
+          }
+        },
+        "section_y4jmYE": {
+          "type": "section",
+          "settings": {
+            "body-text": "",
+            "name": "",
+            "star-rate": "five"
+          }
+        },
+        "section_4TKpDa": {
+          "type": "section",
+          "settings": {
+            "body-text": "",
+            "name": "",
+            "star-rate": "five"
+          }
+        }
+      },
+      "block_order": [
+        "section_T9FaFJ",
+        "section_y4jmYE",
+        "section_4TKpDa"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Explore your spirituality"
+      }
+    },
+    "see_reviews_block_events_3rpDMm": {
+      "type": "see-reviews-block-events",
+      "disabled": true,
+      "settings": {
+        "title": "See reviews",
+        "btn-text": "Write a Review",
+        "btn-link": ""
+      }
+    },
+    "events_page_bottom_banner_zEbHAW": {
+      "type": "events-page-bottom-banner",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Group_22297.jpg",
+        "title": "Lorem Ipsum",
+        "body-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+        "btn-text": "Lorem ipsum",
+        "btn-link": ""
+      }
+    },
+    "events_page_hero_banner_bottom_RhdnqT": {
+      "type": "events-page-hero-banner-bottom",
+      "settings": {
+        "image": "shopify://shop_images/GettyImages-1126980115_1.png",
+        "title": "Explore your spirituality",
+        "title-two": "Have you seen our upcoming retreats & tours?",
+        "body-text": "Immerse yourself in sacred sites and unique journeys alongside your global soul family.",
+        "btn-text": "Learn More",
+        "btn-link": "/account/login"
+      }
+    },
+    "members_block_events_page_3ejpHT": {
+      "type": "members-block-events-page",
+      "settings": {
+        "add-top-padding": true,
+        "add-bottom-padding": true,
+        "title": "Gaia Members Enjoy 10% OFF",
+        "btn-text": "Learn More",
+        "btn-link": "/account/login"
+      }
+    },
+    "review_metafields_TptBgj": {
+      "type": "review-metafields",
+      "disabled": true,
+      "settings": {
+        "title": "Explore your spirituality"
+      }
+    }
+  },
+  "order": [
+    "events_hero_banner_wgmrKn",
+    "events_hero_banner_b8FAiD",
+    "blocks_in_banner_6yEdtM",
+    "rich_text_meta_info_q79aJk",
+    "discover_conscious_products_3dt7rV",
+    "collection-header",
+    "promo-grid",
+    "main-collection",
+    "recently-viewed",
+    "custom_reviews_slider_events_ppB7aB",
+    "see_reviews_block_events_3rpDMm",
+    "events_page_bottom_banner_zEbHAW",
+    "events_page_hero_banner_bottom_RhdnqT",
+    "members_block_events_page_3ejpHT",
+    "review_metafields_TptBgj"
+  ]
+}

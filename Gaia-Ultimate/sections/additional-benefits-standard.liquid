@@ -1,0 +1,62 @@
+{% if product.metafields.additional-bl.title-key != blank %}
+
+<div class="about-blocks-standard-pdp-parent">
+    <div class="about-blocks-standard-pdp-holder" id="additional-benefits-block">
+        
+        <h2 class="aboutBlockStandardPdpTitle addT">{{product.metafields.additional-bl.title-key}}
+ 
+        <span class="toggle-the-about adInfo">
+            <svg class="desktop-expand-arrow" xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" fill="none">
+            <rect x="0.5" y="0.5" width="33" height="32.8167" rx="16.4083" stroke="#4A4A4A"/>
+            <path d="M23.6957 10.2809C23.5084 10.0936 23.2742 10 22.9933 10C22.7124 10 22.4783 10.0936 22.291 10.2809L17 15.5719L11.709 10.2809C11.5217 10.0936 11.2876 10 11.0067 10C10.7258 10 10.4916 10.0936 10.3043 10.2809C10.1015 10.4838 10 10.7219 10 10.995C10 11.2681 10.1015 11.4983 10.3043 11.6856L16.2977 17.6789C16.3913 17.7882 16.5006 17.8662 16.6254 17.913C16.7503 17.9599 16.8751 17.9833 17 17.9833C17.1249 17.9833 17.2497 17.9599 17.3746 17.913C17.4994 17.8662 17.6087 17.7882 17.7023 17.6789L23.6957 11.6856C23.8986 11.4983 24 11.2681 24 10.995C24 10.7219 23.8986 10.4838 23.6957 10.2809Z" fill="#4A4A4A"/>
+            <path d="M10.3043 23.5357C10.4916 23.723 10.7258 23.8166 11.0067 23.8166C11.2876 23.8166 11.5217 23.723 11.709 23.5357L17 18.2447L22.291 23.5357C22.4783 23.723 22.7124 23.8166 22.9933 23.8166C23.2742 23.8166 23.5084 23.723 23.6957 23.5357C23.8986 23.3328 24 23.0948 24 22.8217C24 22.5485 23.8986 22.3183 23.6957 22.131L17.7023 16.1377C17.6087 16.0285 17.4994 15.9504 17.3746 15.9036C17.2497 15.8568 17.1249 15.8334 17 15.8334C16.8751 15.8334 16.7503 15.8568 16.6254 15.9036C16.5006 15.9504 16.3913 16.0285 16.2977 16.1377L10.3043 22.131C10.1014 22.3183 10 22.5485 10 22.8217C10 23.0948 10.1014 23.3328 10.3043 23.5357Z" fill="#4A4A4A"/>
+            </svg>
+
+            <svg class="mobile-expand-arrow" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+            <rect x="15.5564" y="0.707107" width="21" height="21" rx="10.5" transform="rotate(45 15.5564 0.707107)" stroke="#4A4A4A"/>
+            <path d="M10.5564 13.0564L15.5564 18.0564L20.5564 13.0564" stroke="#4A4A4A" stroke-width="1.5" stroke-linecap="round"/>
+            </svg>
+
+            <svg class="mobile-expanded-close" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" fill="none">
+<rect x="0.5" y="0.5" width="21" height="20.869" rx="10.4345" stroke="#4A4A4A"/>
+<path d="M15.7826 6.20067C15.6488 6.06689 15.4816 6 15.2809 6C15.0803 6 14.913 6.06689 14.7793 6.20067L11 9.97993L7.22074 6.20067C7.08696 6.06689 6.91973 6 6.71906 6C6.5184 6 6.35117 6.06689 6.21739 6.20067C6.07246 6.3456 6 6.51561 6 6.7107C6 6.9058 6.07246 7.07023 6.21739 7.20401L10.4983 11.4849C10.5652 11.563 10.6433 11.6187 10.7324 11.6522C10.8216 11.6856 10.9108 11.7023 11 11.7023C11.0892 11.7023 11.1784 11.6856 11.2676 11.6522C11.3567 11.6187 11.4348 11.563 11.5017 11.4849L15.7826 7.20401C15.9275 7.07023 16 6.9058 16 6.7107C16 6.51561 15.9275 6.3456 15.7826 6.20067Z" fill="#4A4A4A"/>
+<path d="M6.21739 15.6684C6.35117 15.8021 6.51839 15.869 6.71906 15.869C6.91973 15.869 7.08696 15.8021 7.22074 15.6684L11 11.8891L14.7793 15.6684C14.913 15.8021 15.0803 15.869 15.2809 15.869C15.4816 15.869 15.6488 15.8021 15.7826 15.6684C15.9275 15.5234 16 15.3534 16 15.1583C16 14.9632 15.9275 14.7988 15.7826 14.665L11.5017 10.3841C11.4348 10.306 11.3567 10.2503 11.2676 10.2169C11.1784 10.1834 11.0892 10.1667 11 10.1667C10.9108 10.1667 10.8216 10.1834 10.7324 10.2169C10.6433 10.2503 10.5652 10.306 10.4983 10.3841L6.21739 14.665C6.07246 14.7988 6 14.9632 6 15.1583C6 15.3534 6.07246 15.5234 6.21739 15.6684Z" fill="#4A4A4A"/>
+</svg>
+        </span>
+        </h2>
+        <div class="about-blocks-standard-pdp-el addI">
+            {{product.metafields.add-section-info.key}}
+        </div>
+    </div>
+</div>
+
+
+<script>
+    $(".adInfo").click(function(){
+        if (window.innerWidth > 767) { // Check if the screen width is greater than 767px
+        $(".addT").toggleClass("removeMargin");
+        $(".addI").toggleClass("hideTheEntireContent")
+        $(this).children("svg").toggleClass("rotateTheX");
+        }else{
+            $(".addT").toggleClass("giveMargin");
+        $(".addI").toggleClass("showContentFully");
+            $(this).children(".mobile-expand-arrow").toggleClass("hideTheArrow");  
+            $(this).children(".mobile-expanded-close").toggleClass("showTheClose");  
+        }
+    });
+</script>
+{% endif %}
+{% schema %}
+    {
+      "name": "Additional Block Standard",
+      "class": "itenarary-pdp-tabs",
+      "settings": [
+
+      ],
+      "presets": [
+        {
+            "name": "Additional Block Standard"
+            }
+      ]
+    } 
+{% endschema %}  

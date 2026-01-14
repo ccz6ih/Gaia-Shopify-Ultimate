@@ -1,0 +1,847 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-1": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "Are you ready to know your power?",
+            "title": "<strong>The Intuitive Development Course & Reader Certification<\/strong>",
+            "h1_title": true,
+            "title_size": 80,
+            "subheading": "Led by Yulyeosa Lawrinnce of Sedona Healing Arts",
+            "enlarge_subheading": false,
+            "link": "#offer",
+            "link_text": "Enroll Now",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#01b4b4",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify:\/\/shop_images\/CS12931_CO_Marketplace_Intuitive_Development_Course_and_Reader_Certification_en_US_Hero_Banner.jpg",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "2cf59009-8b04-4f41-ba20-7aab7e4fe761": {
+      "type": "rich-text",
+      "blocks": {
+        "text_HTHDAe": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>What if you had total confidence to follow your heart, and it worked, every single time?<\/strong><\/p><p>What if you could discern your feelings and thoughts from the feelings and thoughts of others, and gain control over your empathic reactions?<\/p><p>What if you could get an accurate reading on any situation, to find the best course of action at any given moment?<\/p><p>Your intuition has only one goal: <br\/><strong>to make you happy. <\/strong><\/p><p>It has your very best interests at heart. <\/p><p>It is your best friend because it is your true self in action. <\/p>"
+          }
+        },
+        "button_4DAzFK": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Enroll Now"
+          }
+        }
+      },
+      "block_order": [
+        "text_HTHDAe",
+        "button_4DAzFK"
+      ],
+      "custom_css": [
+        "p,.sales-points {max-width: 750px; margin-left: auto; margin-right: auto;}",
+        ".sales-points {text-align: left; margin-bottom: 1rem;}"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "color_scheme": "3",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "background_image_text_WALwU7": {
+      "type": "background-image-text",
+      "name": "t:sections.background-image-text.presets.large_image_with_text_box.name",
+      "settings": {
+        "subtitle": "",
+        "title": "",
+        "heading_size": "h3",
+        "heading_position": "left",
+        "text": "<p>Learn how to use inner resonance to <strong>sharpen your intuition<\/strong>, reading yourself, other people and your environment with astonishing accuracy and decisive confidence. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/Intuitive-Course-Beach.jpg",
+        "layout": "left",
+        "height": 550,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "3124092b-a473-448b-b237-7c9b098cd472": {
+      "type": "columns-2",
+      "blocks": {
+        "template--20086275309889__3124092b-a473-448b-b237-7c9b098cd472-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": true,
+            "text": "<p>When you develop your intuition you’ll realize who you are, own it, and apply that authenticity and a sharp eye for discernment in every area of their life. You’ll stop hesitating to make decisions, so you attract changes 10x faster. You start making good decisions. You come to realize that you are not crazy or deluded, that in fact, you have incredible abilities of perception, and are perceiving correctly. You stop mistaking other peoples’ negative energy for your own. You develop the inner knowledge to process tough emotions and eliminate dissonance you may have endured your entire life, and you’ll help people, in a sustainable, energizing way that feeds you joy! <\/p><p>- <strong>Yolessa K. Lawrinnce, 17+ Years as a professional Psychic-Medium and lawyer.<\/strong><\/p>"
+          }
+        },
+        "image_kBdpF9": {
+          "type": "image",
+          "settings": {
+            "parent_column": "left",
+            "image": "shopify:\/\/shop_images\/Intuitive-Course-Yolessa-Westfork.jpg",
+            "link": "",
+            "image_mask": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__3124092b-a473-448b-b237-7c9b098cd472-text-1",
+        "image_kBdpF9"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".video_mp4-block {margin-bottom: 11px;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "#offer",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "#offer",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "columns_2_FAwBqa": {
+      "type": "columns-2",
+      "blocks": {
+        "sales_point_MrHXLi": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "If you've been thinking about changing your life, then you need to arm yourself with the power inherent in this course. Nearly all my students come to a significant transition in their life path when I meet them. This is no accident. The energy and spiritual guidance given during the course provides tremendous support to move the needle. The Intuitive Development Course and Reader Certification is a landmark course. It is an important course designed to develop intuition quickly and powerfully."
+          }
+        },
+        "sales_point_FmR6Gb": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "A lot of people think that famous singers are born with immaculate voices. I found out at 25 years old that was a lie. They work hard at it. Their voices are instruments, and they spent a lot of energy from a very young age to tune it. That's why they are amazing. Intuition is no different. The perception is that you just have it, but that's just not true, it’s developed, when encouraged, from birth."
+          }
+        },
+        "sales_point_AKfe9T": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "Consistent clarity, discernment, powerful decision-making skills, trust and wisdom are the result of developing your intuitive inner knowledge."
+          }
+        },
+        "sales_point_nMNjEB": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "left",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "We are being inundated with information 24\/7 from electronic devices, our relationship with people and their moods and changes, from books, institutions, you name it. All of this information is energy that is consistently drawing your attention, your focus, your energy, many times without you even being conscious of what is happening to you. "
+          }
+        },
+        "sales_point_prkAzM": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "right",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "On a daily basis you may be subjected to an emotional rollercoaster and left wondering what’s wrong with you, why you lack energy, why you are so prone to moods. You are trying to process an overwhelm of information."
+          }
+        },
+        "sales_point_rBHi7j": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "right",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "Becoming skilled with your intuition is less about predicting the future, though it helps, and more about training your focus, and gaining the power to know what’s what. To know what feelings truly belong to you and what you are picking up from your environment. With this super power you no longer burden yourself with attempting to process other people’s stuff, becoming powerfully connected to yourself, your impulses and desires will act as a GPS to guide you in fulfilling your purpose in the best way possible."
+          }
+        },
+        "sales_point_Gz6ebR": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "right",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "In the Intuitive Reader Certification Course you will truly master your Clairsenses, your 6th sense and beyond. The culmination of this course is total confidence in your ability to discern energy, information and be grounded in your True Self. You will actually practice reading others and be validated in your abilities, and would be qualified to be promoted as a reader for Sedona Healing Arts. "
+          }
+        },
+        "sales_point_WE4qca": {
+          "type": "sales_point",
+          "settings": {
+            "parent_column": "right",
+            "icon": "checkmark-no-circle",
+            "icon_color": "",
+            "text": "Your intuition is part of your human design, and is the KEY to freedom, abundance, peace, love, and fulfillment. If you are cut off from your intuition, it is impossible to be happy. I’m not kidding. That’s because your intuition aims to satisfy the heart and soul, and if you live against it, well, enough said."
+          }
+        }
+      },
+      "block_order": [
+        "sales_point_MrHXLi",
+        "sales_point_FmR6Gb",
+        "sales_point_AKfe9T",
+        "sales_point_nMNjEB",
+        "sales_point_prkAzM",
+        "sales_point_rBHi7j",
+        "sales_point_Gz6ebR",
+        "sales_point_WE4qca"
+      ],
+      "name": "t:sections.columns-2.presets.name",
+      "settings": {
+        "title": "This Course Is For You If...",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "b1e017d0-0cb2-4059-b854-c122e1dd779e": {
+      "type": "text-columns",
+      "blocks": {
+        "9c459782-e688-4c91-b2f9-22e7ba873d45": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image": "shopify:\/\/shop_images\/yoga-nidra-stephanie.jpg",
+            "image_mask": "rounded",
+            "image_width": 320,
+            "title": "",
+            "heading_size": "h3",
+            "text": "<p>Yulyeosa is a psychic-medium, healer and director and trainer at Sedona Healing Arts, a center for spiritual awakening. She has over 17 years of experience, has guided more than 10,000 people on their healing journey through readings and training programs, and is featured in “Love Heals” and “Going Om” documentaries featured on Gaia.<\/p><p>She is committed to raising consciousness on the planet. She pours her heart into helping people become free, know their value, express it, and know unconditional love for themselves and the sake of humanity.  Utilizing her exceptional abilities (clairsentience, clairvoyance and clairaudience), she pinpoints the core source of depleting beliefs and self-sabotaging patterns giving people the ability to free themselves to live authentically.  Her wisdom and deep understanding of the universal laws and principles are at the core of her training programs that activate innate psychic & intuitive abilities for self-empowerment.  <\/p><p>She is a Tao Master and a lawyer.<\/p>",
+            "align_text": "left",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20086275309889__b1e017d0-0cb2-4059-b854-c122e1dd779e-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Intuitive-Course-Yolessa-Headshot.jpg",
+            "image_mask": "rounded",
+            "image_width": 400,
+            "title": "Yulyeosa Lawrinnce",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "9c459782-e688-4c91-b2f9-22e7ba873d45",
+        "template--20086275309889__b1e017d0-0cb2-4059-b854-c122e1dd779e-text_block-1"
+      ],
+      "custom_css": [
+        "@media (min-width: 768px) {.grid {display: flex; align-items: center; }}"
+      ],
+      "settings": {
+        "title": "Meet Your Teacher",
+        "heading_size": "h1",
+        "subtitle": "",
+        "align_text": "center",
+        "grid": 2,
+        "divider": false,
+        "color_scheme": "3"
+      }
+    },
+    "text_and_video_nkz6Vh": {
+      "type": "text-and-video",
+      "name": "t:sections.text-and-video.presets.video_with_text.name",
+      "settings": {
+        "video_url": "https:\/\/www.youtube.com\/watch?v=0o9xJHWB2jg",
+        "subtitle": "",
+        "title": "Step Into The Classroom",
+        "heading_size": "h2",
+        "text": "<p>We believe we’ve created the world’s best intuitive development program. Combining principle with practice, secret and ancient sensitization techniques, we know you will come through transformed. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "video_width": "66",
+        "layout": "right",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false
+      }
+    },
+    "rich_text_AJBEbd": {
+      "type": "rich-text",
+      "blocks": {
+        "button_jGD7mK": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Enroll Now"
+          }
+        }
+      },
+      "block_order": [
+        "button_jGD7mK"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "rich_text_pxeEeW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_c4wkr3": {
+          "type": "heading",
+          "settings": {
+            "title": "Core Pillars Covered in Course:",
+            "heading_size": "h0"
+          }
+        },
+        "sales_point_b8KmNn": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "icon_color": "#01b4b4",
+            "text": "10+ modules devoted to energetic development that open and stabilize your Spiritual Gifts - audio and visual recordings available."
+          }
+        },
+        "sales_point_Gygy9w": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "icon_color": "#01b4b4",
+            "text": "Complete 19+ exercises and meditations that activate your core energy centers. "
+          }
+        },
+        "sales_point_wA6TkY": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "icon_color": "#01b4b4",
+            "text": "Complete each module in your own time - average 6 hours per module."
+          }
+        },
+        "sales_point_UArx4n": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "icon_color": "#01b4b4",
+            "text": "Complete homework at the end of each lesson reviewed by your instructor."
+          }
+        },
+        "sales_point_69XUqQ": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "icon_color": "#01b4b4",
+            "text": "Attend 30 minute 1 on 1 check ins with your instructor via zoom monthly to help you progress."
+          }
+        },
+        "sales_point_bMqdAT": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "icon_color": "#01b4b4",
+            "text": "Additional support resources like a physical workbook, transcripts, and practicals."
+          }
+        },
+        "sales_point_cFzXLK": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "icon_color": "#01b4b4",
+            "text": "2 Hour Live Practicum dedicated to your first live intuitive readings."
+          }
+        },
+        "sales_point_jULLFn": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "icon_color": "#01b4b4",
+            "text": "Complete 40 30-minute live readings curated by your mentor."
+          }
+        },
+        "sales_point_4QaPxG": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "icon_color": "#01b4b4",
+            "text": "2 Interim Sessions at the 20 reading mark and upon completion to ensure you understand your reading process and progress in ability."
+          }
+        },
+        "sales_point_TNnUKD": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "icon_color": "#01b4b4",
+            "text": "Revisit the program with lifetime access & support - including access to new content bonuses, and opportunities to receive readings and healings by students in progress."
+          }
+        }
+      },
+      "block_order": [
+        "heading_c4wkr3",
+        "sales_point_b8KmNn",
+        "sales_point_Gygy9w",
+        "sales_point_wA6TkY",
+        "sales_point_UArx4n",
+        "sales_point_69XUqQ",
+        "sales_point_bMqdAT",
+        "sales_point_cFzXLK",
+        "sales_point_jULLFn",
+        "sales_point_4QaPxG",
+        "sales_point_TNnUKD"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "testimonials_nz46ae": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_JYHYjJ": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<h4>“Within the first 1 or 2 readings I just knew what to do. It’s like the energy just carried me. Yolessa gives you steps, and explains what to do, then as you go along you just develop your own system that works for you. It is truly a magical experience.”<\/h4>",
+            "author": "Diana",
+            "author_info": "Certified Intuitive Reader"
+          }
+        },
+        "testimonial_Yrbhw8": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<h4><strong>“I wanted to learn about myself and how to interact with other people. I know myself more. I can see patterns that I couldn’t see previously. I’ve been able to adjust my behavior in my interactions to complement and move together with others. I now understand that people often act out of pain. I’m able to act more kindly and softly and no longer assume the worst. ”<\/strong><\/h4>",
+            "author": "Amye",
+            "author_info": "Intuitive Development Course Graduate"
+          }
+        },
+        "testimonial_qcim6L": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<h4>“I was looking for something different in my way of connecting with source and found this course. Yolessa gave me a reading and I could not understand the meaning in the message, but as I went through a transformation, all the pieces came together. I would never have had that foresight without Yolessa as a spiritual guide.”<\/h4>",
+            "author": "Genine",
+            "author_info": "Certified Intuitive Reader"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_JYHYjJ",
+        "testimonial_Yrbhw8",
+        "testimonial_qcim6L"
+      ],
+      "name": "t:sections.testimonials.presets.testimonials.name",
+      "settings": {
+        "title": "Testimonials",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "3"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "86318638-9bad-4d65-96fe-3b801dd2b185": {
+          "type": "custom",
+          "settings": {
+            "code": "<a id=\"offer\" name=\"offer\" style=\"position: absolute;margin-top: -15rem;\"><\/a>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "show-def-q": false,
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "86318638-9bad-4d65-96fe-3b801dd2b185",
+        "price",
+        "separator",
+        "variant_picker",
+        "inventory_status",
+        "buy_buttons",
+        "description",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "custom_css": [
+        ".image-wrap {background: transparent;}",
+        ".product-grid__container {padding-bottom: 40px;}",
+        ".variant__label {display: none;}",
+        ".product-block,.product-block h2 {margin-bottom: 15px;}"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": false,
+        "h1_title": false,
+        "hide_media": false,
+        "align_text": "left",
+        "image_position": "left",
+        "image_container_size": "medium",
+        "product_image_size": "natural",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": false,
+        "product_video_style": "muted"
+      }
+    },
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0": {
+      "type": "columns-1",
+      "blocks": {
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Do I need to be in Sedona to attend classes?",
+            "text": "",
+            "dropdown_text": "<p>No, the course material is fully remote. The course is fully automated, which means that you can watch the videos from anywhere. Meetings with your Mentor, Q & As, and the practicum portion can all be completed via Zoom.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "What if I need more time to complete my practicum readings?",
+            "text": "",
+            "dropdown_text": "<p>No worries! If you need more time, let us know and we will work with you.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Can I make payments?",
+            "text": "",
+            "dropdown_text": "<p>Yes! Select <strong>ShopPay<\/strong> option at checkout to explore payment plan options.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "36d254e6-c118-4eb9-868e-c7838412525e": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Why should I take this?",
+            "text": "",
+            "dropdown_text": "<p>Benefits of taking this course:<\/p><p>• Learn to understand the clair senses & how they work to understand your spiritual gifts<\/p><p>• Experience a sense of community with like minded people<\/p><p>• Learn to explain the unexplainable by understanding energy<\/p><p>• Make sense of your gut feeling<\/p><p>• Gain validation & confidence<\/p><p>• Enhance your manifestation skills<\/p><p>• Boost discernment<\/p><p>You know you're psychic and afraid of it. This represents an opportunity to get command over an area of your life you may feel is controlling you, but you have no idea what to do about it.<\/p><p>• You want to master psychic protection<\/p><p>• You want to accelerate abundance<\/p><p>• You want to be an accurate psychic<\/p><p>Consistent clarity, discernment, powerful decision-making skills, trust and wisdom are the result of developing your psychic energetic abilities.  <\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "64c54989-1338-47b7-bd63-ddfa422511b7": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "How is this course different from others?",
+            "text": "",
+            "dropdown_text": "<p>In the Intuitive Reader Certification Course you will truly master your Clairsenses, your 6th sense and beyond. The culmination of this course is total confidence in your ability to discern energy, spiritual information and be grounded in your True Self. You will actually practice reading others and be validated in your abilities as a true psychic intuitive, and would be qualified to be promoted as a reader for Sedona Healing Arts. <\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_gWwKEH": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "How would this tangibly allow me to use my abilities?",
+            "text": "",
+            "dropdown_text": "<p>Through your biweekly meetings with your mentor, homework assessments., and through the practicum, you will be able to ready the energy of others, and be able to discern the root causes of issues.This initially begins with YOU and your experience as you move through the course. Your own roots issues will come to light. The key is experience! The more you open yourself and experience, the easier it is to guide others through an intuitive healing and reading experience.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_UGtfzU": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "How have prior students utilized their certification?",
+            "text": "",
+            "dropdown_text": "<p>One of the biggest changes I see consistently in my Intuitive Reader Certification students is confidence. <\/p><p>I used to think of confidence as something that you had to develop. You do something repeatedly and become successful and accomplished in it, then you have confidence. In reality, babies are confident. Confidence is inborn, and then slowly eroded by difficult life experiences. My students realize who they are, own it, and apply that authenticity and a sharp eye for discernment in every area of their life. They stop hesitating to make decisions, so they manifest 100x faster. They start making good decisions. They come to realize that they are not crazy or deluded, that in fact, they have incredible abilities of perception, and are perceiving energy correctly. They stop mistaking other peoples’ negative energy for their own. They develop the energetic ability to process tough emotions and move on from stuckness they may have endured their whole life, and THEY HELP PEOPLE, in a sustainable, energizing way that feeds them joy!<\/p><p>Your intuition is part of your human design, and is the KEY to freedom, abundance, peace, love, and fulfillment. If you are cut off from your intuition, it is impossible to by happy. I’m not kidding. That’s because your intuition aims to satisfy the heart and soul, and if you live against it, well, enough said. <\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_TCjGxG": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "How will moving through this course allow me to help others?",
+            "text": "",
+            "dropdown_text": "<p>Becoming a skilled intuitive is less about predicting the future, though it helps in this aspect, and more about training your energetic discernment, gaining the power to know what’s what. To know what feelings truly belong to your true self and are authentic and what you are picking up from your environment. With this super power you no longer burden yourself with attempting to process unnecessarily other people’s stuff, becoming powerfully connected to yourself, your impulses and desires that act as a GPS to guide you to fulfilling your purpose in the best way possible. When this happens, it’s easy to convey to others what they need to hear to begin to walk their own path.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_yHwdbg": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Will I actually be able to meet Yolessa for guidance?",
+            "text": "",
+            "dropdown_text": "<p>YES! Yolessa is one of the mentors in the program. You have access to her in the student Q & As, as well. Appointments are necessary to meet with her one-on-one in mentoring.<\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_bbCaR9": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "What if I don’t want to be in the What’s App group?",
+            "text": "",
+            "dropdown_text": "<p>It is suggested to be a part of it, and we can help you set it up, but it is not required. <\/p>",
+            "dropdown_image_fill": true,
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d",
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281",
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07",
+        "36d254e6-c118-4eb9-868e-c7838412525e",
+        "64c54989-1338-47b7-bd63-ddfa422511b7",
+        "dropdown_gWwKEH",
+        "dropdown_UGtfzU",
+        "dropdown_TCjGxG",
+        "dropdown_yHwdbg",
+        "dropdown_bbCaR9"
+      ],
+      "custom_css": [
+        "h2 {margin-bottom: 4rem;}",
+        ".dropdown-with-image-block {box-shadow: none; max-width: 1200px; margin: 0 auto 0.5rem auto;}",
+        ".button-block {margin-top: 2rem;}"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "FAQ’s",
+        "heading_size": "h0",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "99d54df7-cc44-4ce9-9ad6-3869e40a74ab": {
+      "type": "text-columns",
+      "blocks": {
+        "template--20315243544897__99d54df7-cc44-4ce9-9ad6-3869e40a74ab-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Intuitive-Course-Friends_84fcb5b0-9dab-4f00-909f-909975d0d3fe.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20315243544897__99d54df7-cc44-4ce9-9ad6-3869e40a74ab-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Intuitive-Course-Bedroom.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20315243544897__99d54df7-cc44-4ce9-9ad6-3869e40a74ab-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Intuitive-Course-Greta-Hoffman-Family.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20315243544897__99d54df7-cc44-4ce9-9ad6-3869e40a74ab-text_block-1",
+        "template--20315243544897__99d54df7-cc44-4ce9-9ad6-3869e40a74ab-text_block-2",
+        "template--20315243544897__99d54df7-cc44-4ce9-9ad6-3869e40a74ab-text_block-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subtitle": "",
+        "align_text": "left",
+        "grid": 3,
+        "divider": false,
+        "color_scheme": "3"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "2cf59009-8b04-4f41-ba20-7aab7e4fe761",
+    "background_image_text_WALwU7",
+    "3124092b-a473-448b-b237-7c9b098cd472",
+    "columns_2_FAwBqa",
+    "b1e017d0-0cb2-4059-b854-c122e1dd779e",
+    "text_and_video_nkz6Vh",
+    "rich_text_AJBEbd",
+    "rich_text_pxeEeW",
+    "testimonials_nz46ae",
+    "main",
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0",
+    "99d54df7-cc44-4ce9-9ad6-3869e40a74ab"
+  ]
+}

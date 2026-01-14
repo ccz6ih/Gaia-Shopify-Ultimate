@@ -1,0 +1,1034 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "0ad8323c-744d-4eee-b8b9-8c9445f76413": {
+      "type": "hero-video",
+      "custom_css": [
+        ".hero--template--20293138153793__0ad8323c-744d-4eee-b8b9-8c9445f76413 {min-height: 400px;}",
+        "@media (min-width: 769px) {h1 {font-size: 40px; line-height: 1em; margin-top: 0; }}",
+        ".hero__subtitle {font-size: 1.1em;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "title": "ARK Crystal + Pendant",
+        "h1_title": false,
+        "title_size": 40,
+        "subheading": "Experience greater well-being, connection, and awareness than ever before",
+        "link_text": "Buy Now",
+        "link": "#buy-now",
+        "color_accent": "#01b4b4",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/749b027e4f0646b2ad0ac045f9bcfe37.mp4",
+        "overlay_opacity": 26,
+        "height": 450,
+        "height_mobile": 300
+      }
+    },
+    "4174d934-5f19-4803-851a-68ee9fdc25d2": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/ark-crystal-pendant-in-wooden-box-3.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "ARK Crystal and Pendant",
+        "heading_size": "h2",
+        "text": "<p>Introducing the globally renowned Advanced Resonance Kinetics (ARK) crystal - a powerful breakthrough made of high-purity lab-grown quartz. This extraordinary product is engineered to couple seamlessly with the quantum field, unlocking unparalleled access to quantum energy like never before!<br/><br/>The ARK crystal seamlessly offers a way to enhance your well-being like never before. You can use it independently for meditation, energy work, and blissful sound baths or pair it with our wearable pendant necklace to stay connected to quantum energy all day long. <br/><br/>Unlock the true potential of quantum energy with the ARK crystal - your key to a life of enhanced vitality and harmony. <br/><br/>Be a part of setting a new standard for personally experiencing connectedness, resonance, and improving the human condition.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "2d889965-b786-4a6b-85bc-5c0769289d77": {
+      "type": "columns-1",
+      "blocks": {
+        "f5863447-aa1a-4cd2-a343-8e44e7c8ccbe": {
+          "type": "video_mp4",
+          "settings": {
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/a6f5d138c8de493cb040e16f5979fb47.mp4",
+            "controls": true,
+            "loop": false,
+            "autoplay": false,
+            "video_width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "f5863447-aa1a-4cd2-a343-8e44e7c8ccbe"
+      ],
+      "settings": {
+        "narrow_column": true,
+        "title": "What are ARK crystals?",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "b1824fa4-7b50-489c-89ae-2e04d94807cf": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/ark-crystal-nassim-haramein.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Meet the Inventor",
+        "heading_size": "h2",
+        "text": "<p>Nassim Haramein is a visionary scientist, philosopher, and inventor whose groundbreaking research has reshaped our understanding of the universe. With an unyielding passion for exploring the deepest mysteries of existence, Haramein’s work delves into the realms of theoretical physics, cosmology, and consciousness. His pioneering unified field theory, which blends quantum physics, gravity, and the structure of space-time, has garnered widespread acclaim for its potential to transform our fundamental understanding of reality. <br/><br/>Haramein continues to inspire and educate audiences worldwide through his captivating lectures, thought-provoking publications, and innovative technologies that promise to bridge the gap between unified science and spirituality.<br/><br/>With a commitment to fostering a new era of unified thinking, Nassim Haramein’s work serves as a beacon of hope and inspiration for those seeking to unveil the profound mysteries of existence and unlock the limitless potential of human consciousness.<br/></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "color_scheme": "2",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "a04aee96-7d7d-4690-babe-73c69a1168b0": {
+      "type": "text-columns",
+      "blocks": {
+        "da3917b9-db95-48d3-841f-ec4616445b08": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/ark-crystal-pendant-solo-hero-3.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "37e3cb35-11b4-4de3-82a7-328c0835fc4e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/ark-crystal-pendant-with-wooden-box-hero-4.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1c488cef-6c3a-4196-939e-e085144a5b88": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/ark-crystal-pendant-with-geode.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "09c35c82-bb2b-4a8e-b72f-1fd4b3e4808d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/ark-crystal-pendant-solo-hero-1.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "3dd43173-e464-42e9-a7a6-a684995cd850": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/ark-crystal-pendant-on-womans-neck.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "82c7c11c-41b8-43d2-9932-2103e3bf9d49": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/ark-crystal-pendant-with-wooden-box-hero-1.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "da3917b9-db95-48d3-841f-ec4616445b08",
+        "37e3cb35-11b4-4de3-82a7-328c0835fc4e",
+        "1c488cef-6c3a-4196-939e-e085144a5b88",
+        "09c35c82-bb2b-4a8e-b72f-1fd4b3e4808d",
+        "3dd43173-e464-42e9-a7a6-a684995cd850",
+        "82c7c11c-41b8-43d2-9932-2103e3bf9d49"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subtitle": "",
+        "align_text": "left",
+        "grid": 3,
+        "divider": false,
+        "color_scheme": "none"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "f3ca00e9-40f8-433f-a666-63385c72b506": {
+          "type": "custom",
+          "settings": {
+            "code": "<a id=\"buy-now\" name=\"buy-now\" style=\"position: absolute;margin-top: -15rem;\"></a>"
+          }
+        },
+        "68da108d-24ab-42b1-9546-fdbdee99432a": {
+          "type": "text",
+          "settings": {
+            "text": "Available in classic, gold, and black."
+          }
+        },
+        "93e4cd4b-fd22-4a0c-9a23-aed104bb16d4": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "none",
+            "icon_color": "",
+            "text": "<strong>Includes:</strong>"
+          }
+        },
+        "bbc2a6a3-c358-4c27-b554-bde453ff038a": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "1 x ARK Crystal"
+          }
+        },
+        "04704c67-da73-4d24-927e-e682169318e3": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "1 x Classic Titanium Pendant Necklace"
+          }
+        },
+        "0dec039e-69c1-4aaa-a105-061fbc8bf63b": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "1 x Certificate of Authenticity"
+          }
+        },
+        "9ce3c34a-5dac-4802-81bf-fabb0902bf6b": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "1 x Wooden Display Case"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "f3ca00e9-40f8-433f-a666-63385c72b506",
+        "68da108d-24ab-42b1-9546-fdbdee99432a",
+        "93e4cd4b-fd22-4a0c-9a23-aed104bb16d4",
+        "bbc2a6a3-c358-4c27-b554-bde453ff038a",
+        "04704c67-da73-4d24-927e-e682169318e3",
+        "0dec039e-69c1-4aaa-a105-061fbc8bf63b",
+        "9ce3c34a-5dac-4802-81bf-fabb0902bf6b",
+        "price",
+        "separator",
+        "variant_picker",
+        "inventory_status",
+        "buy_buttons",
+        "description",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "custom_css": [
+        ".product-grid__container {padding-top: var(--indexSectionPadding); padding-bottom: var(--indexSectionPadding); margin-top: -40px;}",
+        ".product-block--header {margin: -60px 0 0;}"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": false,
+        "h1_title": false,
+        "hide_media": false,
+        "align_text": "left",
+        "image_position": "left",
+        "image_container_size": "large",
+        "product_image_size": "natural",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "e6fa5fae-029e-48df-a6da-fe4caef08809": {
+      "type": "columns-3",
+      "blocks": {
+        "4402376f-b093-48ab-841f-68d51ab9b7a9": {
+          "type": "image",
+          "settings": {
+            "parent_column": "left",
+            "image": "shopify://shop_images/ark-crystal-icon-star-96x96.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "8fea97b2-28e2-432c-82e8-a8dfc04a729a": {
+          "type": "image",
+          "settings": {
+            "parent_column": "center",
+            "image": "shopify://shop_images/ark-crystal-icon-research-192x192.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "ae1572b3-8361-40c9-b98a-addbbb87ab53": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/ark-crystal-icon-shipping-96x96.png",
+            "link": "",
+            "image_mask": "none"
+          }
+        },
+        "template--20197640634689__e6fa5fae-029e-48df-a6da-fe4caef08809-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": false,
+            "text": "<h3>Lifetime Warranty</h3><p>Backed by a lifetime warranty, experience the power of the ARK crystal as a wearable technology with complete peace of mind.</p>"
+          }
+        },
+        "76fa2165-a4cb-4aca-a03b-f6a545f7f60c": {
+          "type": "text",
+          "settings": {
+            "parent_column": "center",
+            "enlarge_text": false,
+            "text": "<h3>Backed By Over 30 Years of Research</h3><p>The ARK crystal has been shown to increase the bio-availability of water, optimize system coherence, and increase energy coupling via the quantum vacuum.</p>"
+          }
+        },
+        "583c7003-2d98-42fd-bbae-515698196ce0": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": false,
+            "text": "<h3>Shipping</h3><p>Products ship quickly so you can start experiencing the benefits of ARK products as soon as possible.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "4402376f-b093-48ab-841f-68d51ab9b7a9",
+        "8fea97b2-28e2-432c-82e8-a8dfc04a729a",
+        "ae1572b3-8361-40c9-b98a-addbbb87ab53",
+        "template--20197640634689__e6fa5fae-029e-48df-a6da-fe4caef08809-text-1",
+        "76fa2165-a4cb-4aca-a03b-f6a545f7f60c",
+        "583c7003-2d98-42fd-bbae-515698196ce0"
+      ],
+      "custom_css": [
+        ".image-wrap {width: 64px; padding-bottom: 64px !important; margin-left: auto; margin-right: auto; background-color: transparent !important;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "center",
+        "column_center_align_text": "center",
+        "column_right_align_text": "center",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "55987148-7552-483f-aaab-ea14268a0669": {
+      "type": "text-columns",
+      "blocks": {
+        "494424aa-8470-40d7-af1e-1904527cebf3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/ark-crystal-woman-wearing-pendant.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20293138153793__55987148-7552-483f-aaab-ea14268a0669-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/ark-crystal-pendant-solo-hero-5.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "07904c96-c52b-447f-9d52-cccad054940a": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/ark-crystal-with-jewellers-eye.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "60ea3718-736f-4235-b1b6-c1a32759636a": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/ark-crystal-energy-healing-cube.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1f5c6acc-4006-4ac9-b13c-c2b5aba66da0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/ark-crystal-pendant-with-wooden-box-and-water-bottle.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "049195c7-45ae-45d8-b10e-d6dc3f302635": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/ark-crystal-pendant-with-wooden-box-1.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "494424aa-8470-40d7-af1e-1904527cebf3",
+        "template--20293138153793__55987148-7552-483f-aaab-ea14268a0669-text_block-2",
+        "07904c96-c52b-447f-9d52-cccad054940a",
+        "60ea3718-736f-4235-b1b6-c1a32759636a",
+        "1f5c6acc-4006-4ac9-b13c-c2b5aba66da0",
+        "049195c7-45ae-45d8-b10e-d6dc3f302635"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subtitle": "",
+        "align_text": "left",
+        "grid": 3,
+        "divider": false,
+        "color_scheme": "none"
+      }
+    },
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2": {
+      "type": "testimonials",
+      "blocks": {
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“I feel more comfortable and grounded when I have it on.”</p>",
+            "author": "Julie R.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“Love this so much! I absolutely love my crystal! I use it with clients and definitely notice more ease, harmony, coherence. Every interaction I’ve have with the ARK team has been great.”</p>",
+            "author": "Michelle H.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“It has been a wonderful experience. I feel peacefully, aligned, unbelievable well. Thank you!”</p>",
+            "author": "Cristina R.",
+            "author_info": ""
+          }
+        },
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>”Great design. Most of the water I drink now spends time in the ARK bottle and exposure to the field in close quarters thanks to the awesome design. I carry the bottle with me in the case it came in. I feel like the exposure is helping me get through this challenging time. Thank you ARK team!”</p>",
+            "author": "Robert R.",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-1",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-2",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-3",
+        "template--20293138153793__5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2-testimonial-4"
+      ],
+      "custom_css": [
+        ".testimonial-stars {color: #01b4b4;}"
+      ],
+      "settings": {
+        "title": "Customer Reviews",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "none"
+      }
+    },
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0": {
+      "type": "columns-1",
+      "blocks": {
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "How do I know if the quartz crystal is “working”?",
+            "text": "",
+            "dropdown_text": "<p>Simply “feeling” the crystal’s field and interactions is not an accurate representation of the crystal at work. The technology's effect on water and plant biology has been proven, and the technology maintains a coherent field of interaction from its modulation by our Harmonic Flux Resonator (HFR) technology indefinitely. So, you can rest assured your crystal is working unless it is damaged.</p>",
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        },
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Can I put the crystal in water?",
+            "text": "",
+            "dropdown_text": "<p>Placing the crystal in water without using proper protective methods can cause oxidation on the magnets in the ARK crystal’s saddle and result in staining the clear quartz. Please do NOT place the crystal in any sort of liquid. </p>",
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        },
+        "88fe273d-dad8-4fcb-8e72-e298aeffea83": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Can I adjust the pendant chain length?",
+            "text": "",
+            "dropdown_text": "<p>Simply pinch the disk that has the ARK logo on it, and slide it along the chain.</p>",
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        },
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Can I remove the crystal from the pendant?",
+            "text": "",
+            "dropdown_text": "<p>The set arrives with the crystal pre-mounted in the pendant's magnetic docking cavity. Gentle pressure applied to the top of the ARK crystal will dislodge it from the pendant.</p>",
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        },
+        "36d254e6-c118-4eb9-868e-c7838412525e": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Can my ARK crystal get wet?",
+            "text": "",
+            "dropdown_text": "<p>General use is okay - such as getting caught in the rain wearing your crystal.  Simply air dry it, or touch up with a cloth. Please remove your crystal before swimming or showering. Please do not submerge the crystal in any liquid. </p>",
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        },
+        "8fef7e85-3dbd-4573-b556-4afbf969813d": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "How do I clean the crystal?",
+            "text": "",
+            "dropdown_text": "<p>We recommend using a high-grade natural vinegar solution or a jewelry cleaning spray. Use a spray bottle to apply and let everything air dry, touching up with a polishing cloth as needed. Do not submerge in any sort of cleaning solution. </p>",
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        },
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab10": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "What is ARK’s Return Policy?",
+            "text": "",
+            "dropdown_text": "<p>ARK offers a full 30-day satisfaction guarantee for which you may return your ARK crystal in its original packaging and original condition for any reason with a full refund.</p><p>Upon inspection of the returned item(s), ARK Crystal will process your refund to the original payment method.</p>",
+            "background_color": "#01b4b4",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d",
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281",
+        "88fe273d-dad8-4fcb-8e72-e298aeffea83",
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07",
+        "36d254e6-c118-4eb9-868e-c7838412525e",
+        "8fef7e85-3dbd-4573-b556-4afbf969813d",
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab10"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "FAQs",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "8670e05a-d757-4f7a-a6a9-c2d5f7854371": {
+      "type": "text-columns",
+      "blocks": {
+        "1592cd34-21ae-4da2-952c-df4e31675204": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/ark-crystal-pendant-with-vase.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "562f8a9b-cacd-478e-bcdc-21fd5b6136d0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/ark-crystal-solo.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "652b36f8-2b37-4d91-8f68-c466ccc23f61": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/ark-crystal-pendant-solo-hero-2.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "e7f3b037-ab48-48e2-94b3-ed379b9287e6": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/ark-crystal-pendant-in-wooden-box-4.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "68771716-669d-4ce3-a6af-ee90abdfe90b": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/ark-crystal-formation-hero.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "d871a293-830c-41c9-81ba-385af0a18c37": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/ark-crystal-pendant-with-wooden-box-hero-5.jpg",
+            "image_mask": "square",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1592cd34-21ae-4da2-952c-df4e31675204",
+        "562f8a9b-cacd-478e-bcdc-21fd5b6136d0",
+        "652b36f8-2b37-4d91-8f68-c466ccc23f61",
+        "e7f3b037-ab48-48e2-94b3-ed379b9287e6",
+        "68771716-669d-4ce3-a6af-ee90abdfe90b",
+        "d871a293-830c-41c9-81ba-385af0a18c37"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subtitle": "",
+        "align_text": "left",
+        "grid": 3,
+        "divider": false,
+        "color_scheme": "none"
+      }
+    },
+    "b851f8fa-3ed2-4f73-b75e-992829d011a0": {
+      "type": "columns-1",
+      "blocks": {
+        "14ad7a63-b948-4bdf-9fe8-28eeed57df3f": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Shipping",
+            "text": "",
+            "dropdown_text": "<ul><li>Domestic Orders - All domestic orders are shipped within 72 hours via USPS Priority Mail and require a signature upon delivery.</li></ul>",
+            "background_color": "#ffffff",
+            "text_color": "#0f0f0f"
+          }
+        },
+        "fb925115-1a99-4bff-b35d-17c037a0c90f": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Warranty",
+            "text": "",
+            "dropdown_text": "<p>Our lifetime warranty covers any manufacturer defects for normal, non-negligent use. This includes defects such as chains, magnets, or gems falling out on our pendant products.</p>",
+            "background_color": "#ffffff",
+            "text_color": "#0f0f0f"
+          }
+        }
+      },
+      "block_order": [
+        "14ad7a63-b948-4bdf-9fe8-28eeed57df3f",
+        "fb925115-1a99-4bff-b35d-17c037a0c90f"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "Terms and Conditions",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "927a5fbd-9afa-4cc7-adea-fe0ab118ead0": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20197640634689__927a5fbd-9afa-4cc7-adea-fe0ab118ead0-hero-2": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Optimize Your Quantum Energy\nwith the ARK Crystal and Pendant",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "#buy-now",
+            "link_text": "Buy Now",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#01b4b4",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Screenshot_2023-07-31_at_12.08.05_pm.png",
+            "overlay_opacity": 50
+          }
+        },
+        "d3ffef74-d615-4ac2-afea-12aec6607ff7": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Optimize Your Quantum Energy\nwith the ARK Crystal and Pendant",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "#buy-now",
+            "link_text": "Buy Now",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#01b4b4",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/ark-crystal-cube-close-up.jpg",
+            "overlay_opacity": 50
+          }
+        },
+        "d8d4958c-b42f-4913-9be9-2e5f382fdd57": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Optimize Your Quantum Energy\nwith the ARK Crystal and Pendant",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "#buy-now",
+            "link_text": "Buy Now",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#01b4b4",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/ark-crystal-pendant-solo-hero-5.jpg",
+            "overlay_opacity": 50
+          }
+        },
+        "deba10be-d7e0-4007-be86-86350443e5d0": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Optimize Your Quantum Energy\nwith the ARK Crystal and Pendant",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "#buy-now",
+            "link_text": "Buy Now",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#01b4b4",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/ark-crystal-with-jewellers-eye.jpg",
+            "overlay_opacity": 50
+          }
+        },
+        "948951c4-d3cd-4923-807c-17cbc9f7edb6": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Optimize Your Quantum Energy\nwith the ARK Crystal and Pendant",
+            "h1_title": false,
+            "title_size": 40,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "#buy-now",
+            "link_text": "Buy Now",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#01b4b4",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/ark-crystal-header.jpg",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "template--20197640634689__927a5fbd-9afa-4cc7-adea-fe0ab118ead0-hero-2",
+        "d3ffef74-d615-4ac2-afea-12aec6607ff7",
+        "d8d4958c-b42f-4913-9be9-2e5f382fdd57",
+        "deba10be-d7e0-4007-be86-86350443e5d0",
+        "948951c4-d3cd-4923-807c-17cbc9f7edb6"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": -30,
+        "mobile_size": 0,
+        "style": "dots",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "0ad8323c-744d-4eee-b8b9-8c9445f76413",
+    "4174d934-5f19-4803-851a-68ee9fdc25d2",
+    "2d889965-b786-4a6b-85bc-5c0769289d77",
+    "b1824fa4-7b50-489c-89ae-2e04d94807cf",
+    "a04aee96-7d7d-4690-babe-73c69a1168b0",
+    "main",
+    "e6fa5fae-029e-48df-a6da-fe4caef08809",
+    "55987148-7552-483f-aaab-ea14268a0669",
+    "5a7cb87a-96ea-4e6b-be7d-e8cbd28c4fc2",
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0",
+    "8670e05a-d757-4f7a-a6a9-c2d5f7854371",
+    "b851f8fa-3ed2-4f73-b75e-992829d011a0",
+    "927a5fbd-9afa-4cc7-adea-fe0ab118ead0"
+  ]
+}

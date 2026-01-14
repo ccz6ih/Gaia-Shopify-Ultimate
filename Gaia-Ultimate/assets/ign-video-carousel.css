@@ -1,0 +1,367 @@
+/* ============================================
+   IGN VIDEO CAROUSEL
+   Flickity-powered video carousel
+   Prefixed with 'ign-' for Gaia theme isolation
+   ============================================ */
+
+/* Flickity Styles */
+.flickity-enabled {
+  position: relative;
+}
+
+.flickity-enabled:focus {
+  outline: 0;
+  box-shadow: none;
+}
+
+.flickity-viewport {
+  overflow: hidden;
+  position: relative;
+  height: 100%;
+}
+
+.flickity-slider {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.flickity-enabled.is-draggable {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.flickity-enabled.is-draggable .flickity-viewport {
+  cursor: move;
+  cursor: -webkit-grab;
+  cursor: grab;
+}
+
+.flickity-enabled.is-draggable .flickity-viewport.is-pointer-down {
+  cursor: -webkit-grabbing;
+  cursor: grabbing;
+}
+
+/* Global Styles */
+[id^="IGN-DP--"] {
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  z-index: 1;
+}
+
+.ign-wbs-pck__section * {
+  box-sizing: border-box !important;
+}
+
+.ign-wbs-pck__section img {
+  max-width: 100%;
+  height: auto;
+}
+
+.ign-wbs-pck__section h1,
+.ign-wbs-pck__section h2,
+.ign-wbs-pck__section h3,
+.ign-wbs-pck__section h4,
+.ign-wbs-pck__section h5,
+.ign-wbs-pck__section h6 {
+  color: inherit;
+  text-transform: none;
+  letter-spacing: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.ign-wbs-pck__rte,
+.ign-wbs-pck__rte p,
+.ign-wbs-pck__rte a,
+.ign-wbs-pck__rte a:hover,
+.ign-wbs-pck__rte a:visited,
+.ign-wbs-pck__rte a:focus {
+  color: inherit;
+  text-transform: none;
+  letter-spacing: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.ign-wbs-pck__rte a {
+  text-decoration: underline;
+}
+
+.ign-wbs-pck__rte p {
+  margin-bottom: 0.8em;
+}
+
+.ign-wbs-pck__rte p:last-of-type {
+  margin-bottom: 0;
+}
+
+.ign-wbs-pck__rte ul {
+  margin: 1em 0;
+  padding-left: 40px;
+}
+
+.ign-wbs-pck__rte li {
+  list-style: disc;
+}
+
+/* Section Structure */
+.ign-wbs-pck__videos-slider {
+  overflow: hidden;
+}
+
+.ign-wbs-pck__sizer {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ign-wbs-pck__videos {
+  position: relative;
+}
+
+.ign-wbs-pck__video-slider {
+  margin: 0 auto;
+  overflow: visible;
+}
+
+/* Video Items */
+.ign-wbs-pck__item {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.ign-wbs-pck__video {
+  height: 100%;
+  display: flex;
+  text-align: center;
+  align-items: flex-start;
+  position: relative;
+  overflow: hidden;
+}
+
+.ign-wbs-pck__video-inner {
+  width: 100%;
+}
+
+.ign-wbs-pck__video-wrapper {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Hosted Video */
+.ign-wbs-pck__hosted-video {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+/* Sound Button */
+.ign-wbs-pck__sound-button {
+  cursor: pointer;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  width: 35px;
+  height: 35px;
+  padding: 0;
+  border: none;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
+.ign-wbs-pck__sound-button:hover {
+  background-color: rgba(255, 255, 255, 0.95);
+  transform: scale(1.1);
+}
+
+/* Video Content Box */
+.ign-wbs-pck__video-content {
+  width: 100%;
+  margin: 10px auto 0;
+  display: flex;
+  gap: 15px;
+  padding: 15px;
+  position: relative;
+  transition: all 0.2s linear;
+  align-items: center;
+}
+
+/* Text Area */
+.ign-wbs-pck__text-area {
+  flex: 1;
+  display: flex;
+  width: 100%;
+  align-items: center;
+}
+
+.ign-wbs-pck__text-area-inner {
+  width: 100%;
+}
+
+.ign-wbs-pck__small-heading {
+  font-family: inherit;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0 0 0.5rem 0;
+}
+
+/* Image Thumbnail */
+.ign-wbs-pck__image {
+  flex-shrink: 0;
+  overflow: hidden;
+}
+
+.ign-wbs-pck__image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Navigation */
+.ign-wbs-pck__videos-nav {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.ign-wbs-pck__nav-button {
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  padding: 0;
+  background: none;
+  border: 2px solid;
+}
+
+.ign-wbs-pck__nav-button svg {
+  width: 24px;
+  height: 24px;
+}
+
+/* Stretch Height */
+.ign-wbs-pck__stretch-height .ign-wbs-pck__item {
+  height: 100%;
+}
+
+/* Animation Transitions */
+.ign-wbs-pck__item {
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.ign-wbs-pck__item:not(.is-selected) {
+  opacity: 0.5;
+  transform: scale(0.9);
+}
+
+.ign-wbs-pck__item.is-selected {
+  opacity: 1;
+  transform: scale(1);
+}
+
+/* Warning Message */
+.ign-wbs-pck__no-app-warning {
+  position: relative;
+  overflow: hidden;
+  padding: 1em;
+}
+
+.ign-wbs-pck__no-app-warning-text {
+  position: relative;
+  background: #ff0;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 10px;
+  max-width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  z-index: 1;
+}
+
+.ign-wbs-pck__no-app-warning-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 130%;
+  background: repeating-linear-gradient(-45deg, #ff0, #ff0 20px, #000 20px, #000 40px);
+  animation: ign-wbs-pck__warning-background 1s linear infinite;
+}
+
+@keyframes ign-wbs-pck__warning-background {
+  to {
+    transform: translateX(-56px);
+  }
+}
+
+/* Anchor ID */
+.ign-wbs-pck__anchor-id {
+  position: absolute;
+  top: -100px;
+  visibility: hidden;
+}
+
+/* Mobile Responsive */
+@media (max-width: 749px) {
+  .ign-wbs-pck__videos-nav {
+    margin-top: 15px;
+  }
+
+  .ign-wbs-pck__nav-button {
+    width: 36px;
+    height: 36px;
+  }
+
+  .ign-wbs-pck__video-content {
+    padding: 10px;
+  }
+
+  .ign-wbs-pck__item:not(.is-selected) {
+    transform: scale(0.95);
+  }
+
+  .ign-wbs-pck__no-app-warning-text {
+    max-width: 80%;
+    font-size: 0.875rem;
+  }
+}
+
+/* Accessibility */
+.ign-wbs-pck__nav-button:focus,
+.ign-wbs-pck__sound-button:focus {
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Print Styles */
+@media print {
+  .ign-wbs-pck__videos-nav,
+  .ign-wbs-pck__sound-button {
+    display: none;
+  }
+}

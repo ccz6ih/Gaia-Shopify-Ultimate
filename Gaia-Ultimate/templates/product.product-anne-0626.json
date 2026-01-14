@@ -1,0 +1,922 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_i38Qbz": {
+      "type": "slideshow",
+      "blocks": {
+        "hero_TnQ6Cr": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "Conscious Connection with Dolphins Retreat",
+            "h1_title": false,
+            "title_size": 70,
+            "subheading": "Led by Anne Gordon\nJune 14 - 20, 2026 in Bimini, The Bahamas \nGaia Members get 10% off!",
+            "enlarge_subheading": false,
+            "link": "#offer",
+            "link_text": "Save Your Spot",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#5ff1f1",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify://shop_images/CS17276_Marketplace_Anne_Gordon_Dolphins_Retreat_2026_en_US_Hero_Banner_desktop_v2.jpg",
+            "image_mobile": "shopify://shop_images/CS17276_Marketplace_Anne_Gordon_Dolphins_Retreat_2026_en_US_Hero_Banner_mobile_v2.jpg",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "hero_TnQ6Cr"
+      ],
+      "name": "t:sections.slideshow.presets.hero_optional_slides.name",
+      "settings": {
+        "full_width": true,
+        "desktop_size": 0,
+        "mobile_size": -20,
+        "style": "arrows",
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "blocks_in_banner_fze6BE": {
+      "type": "blocks-in--banner",
+      "blocks": {
+        "section_Aifeqh": {
+          "type": "section",
+          "settings": {
+            "body-text": ""
+          }
+        }
+      },
+      "block_order": [
+        "section_Aifeqh"
+      ],
+      "name": "Blocks Below Banner",
+      "settings": {
+        "title": "",
+        "check-in-middle": false,
+        "btn-text": "",
+        "btn-link": "",
+        "btn-text-c": "",
+        "btn-link-c": ""
+      }
+    },
+    "rich_text_jngJQR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Wt7yU7": {
+          "type": "heading",
+          "settings": {
+            "title": "Dive Deep Swimming with Wild Dolphins",
+            "heading_size": "h2"
+          }
+        },
+        "text_ziF69K": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>A Transformational Journey into Joy, Presence & Oceanic Wisdom</strong></p><p>Step into a world where time slows down, the water glows crystalline turquoise, and the wild dolphins of Bimini invite you into their playground of pure joy, intelligence, and heart-centered presence. In this intimate, life-changing retreat, your guides Anne Gordon and Jillian Rutledge will lead you into conscious, respectful, and deeply soulful encounters with the resident Atlantic spotted dolphins.</p><p>This is more than a retreat.</p><p>It is a passageway into play, flow, unity, and unconditional love — the frequency dolphins live by and teach so gracefully.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Wt7yU7",
+        "text_ziF69K"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "color_scheme": "3",
+        "show_wave": true,
+        "divider": false
+      }
+    },
+    "featured_video_8qUtkt": {
+      "type": "featured-video",
+      "disabled": true,
+      "custom_css": [],
+      "name": "t:sections.featured-video.presets.video.name",
+      "settings": {
+        "title": "",
+        "video_url": "https://youtu.be/qszZ8ZjiJxs",
+        "divider": false
+      }
+    },
+    "rich_text_t4H4rL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7ixc7R": {
+          "type": "heading",
+          "settings": {
+            "title": "Iconic Sightseeing Experiences",
+            "heading_size": "h0"
+          }
+        },
+        "text_kNHJiC": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The world-famous dolphin grounds.</p><p>Snorkel Bimini Road said to be the Road to Atlantis.</p><p>Possibly we will visit Sapona a local shipwreck snorkel spot.</p>"
+          }
+        },
+        "button_xgR3mf": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Join the Dolphin Retreat"
+          }
+        },
+        "text_kyCnDc": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong>Questions? </strong>Connect with our travel manager. 👉 <a href=\"http://www.gaia.com/travelmanager\" target=\"_blank\" title=\"http://www.gaia.com/travelmanager\">Reserve a time.</a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_7ixc7R",
+        "text_kNHJiC",
+        "button_xgR3mf",
+        "text_kyCnDc"
+      ],
+      "name": "t:sections.rich-text.presets.rich_text.name",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "columns_1_xUtgUC": {
+      "type": "columns-1",
+      "blocks": {
+        "dropdown_UDRJYr": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 1 · Sunday, June 14, 2026",
+            "text": "<p><strong>Arrive in Ft. Lauderdale</strong></p><p>Gather with your retreat pod for a relaxed welcome dinner and begin shifting into the peaceful, joyful energy of the journey ahead.</p>",
+            "image": "shopify://shop_images/ft_lauderdale.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#03045e",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_m6Bgrp": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 2 · Monday, June 15, 2026",
+            "text": "<p><strong>Travel to Bimini & First Dolphin Encounter</strong></p><p>Fly together to the island of Bimini, settle into WildQuest Retreat Center, enjoy orientation, and head out on the boat for your first magical meeting with the wild dolphins.</p>",
+            "image": "shopify://shop_images/Anne_dolphin_itinerary1.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#023e8a",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_ybWNAH": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 3 · Tuesday, June 16, 2026",
+            "text": "<p><strong>Swim with the Dolphins</strong></p><p>Enjoy a morning of ease before heading out on the catamaran for a full day of connection, snorkeling, play, and deep presence with the dolphins. Evening meditation and wisdom circle.</p>",
+            "image": "shopify://shop_images/Anne_dolphin_itinerary3.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#0077b6",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_keHFDe": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 4 · Wednesday, June 17, 2026",
+            "text": "<p><strong>Celebrate with the Dolphins</strong></p><p>Another beautiful day on the water with the dolphins, followed by an evening out on the island for dinner and dancing with your retreat community.</p>",
+            "image": "shopify://shop_images/Anne_dolphin_itinerary6.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#0096c7",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_LQRUQw": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 5 · Thursday, June 18, 2026",
+            "text": "<p><strong>Swim with the Dolphins</strong></p><p>A day devoted to ocean exploration, dolphin encounters, and integrating their teachings of joy, flow, and unity. Evening gathering and meditation.</p>",
+            "image": "shopify://shop_images/Anne_dolphin_itinerary5.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#0077b6",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_WfUBR8": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 6 · Friday, June 19, 2026",
+            "text": "<p><strong>Farewell Dolphin Journey</strong></p><p>Your final dolphin swim invites gratitude, reflection, and heartfelt connection as you soak in the last full day on the water. Closing circle in the evening.</p>",
+            "image": "shopify://shop_images/Anne_dolphin_itinerary2.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#023e8a",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_zkKE87": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Day 7 · Saturday, June 20, 2026",
+            "text": "<p><strong>Departure from Bimini</strong></p><p>Say goodbye to the island and your new pod of friends as you fly back to Ft. Lauderdale, carrying the dolphins’ joy and wisdom home with you.</p>",
+            "image": "shopify://shop_images/Anne_dolphin_itinerary4.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#03045e",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_yN3NJi": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "Day 8: Edfu - Monday, April 6th",
+            "text": "<p>Edfu is next as we continue our exploration of the incredible collection of Ptolemaic temples that encode the secrets of the Starwalkers. Breakfast, lunch & dinner included.</p>",
+            "image": "shopify://shop_images/Carved_relief_Temple_of_Edfu.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#500c86",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_LEWRH7": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "Day 9: Aswan - Tuesday, April 7th",
+            "text": "<p>Today, we visit Philae to receive the blessings of Isis-Hathor, the goddess of love and joy, at her beautiful island temple. Breakfast, lunch & dinner included.</p>",
+            "image": "shopify://shop_images/Temple_of_Hathor_Aswan.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#500c86",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_CPpRce": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "Day 10: Giza - Wednesday, April 8th",
+            "text": "<p>Today, we fly to Cairo. Upon landing, we follow the path of the Holy Family with a visit to Old Cairo. This evening we have a special private visit to the Great Pyramid, including the King’s Chamber. Overnight Mena House Hotel, Giza. Breakfast and lunch included.</p>",
+            "image": "shopify://shop_images/Group_picture_Pyramid_background.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#500c86",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_RAmpQz": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "Day 11: Giza - Thursday, April 9th",
+            "text": "<p>The Sphinx welcomes us as we enjoy a private visit to integrate all the wonders we have seen. Farewell dinner. Overnight Mena House Hotel, Giza. Breakfast and dinner included.</p>",
+            "image": "shopify://shop_images/Group_pictures_Great_Sphinx_of_Gaza-2.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#500c86",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_MaPNb9": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "Day 12: Departure - Friday, April 10th",
+            "text": "<p>Journey home.</p>",
+            "image": "shopify://shop_images/Cairo_Airport_2.jpg",
+            "dropdown_text": "",
+            "dropdown_image_fill": true,
+            "background_color": "#500c86",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "dropdown_UDRJYr",
+        "dropdown_m6Bgrp",
+        "dropdown_ybWNAH",
+        "dropdown_keHFDe",
+        "dropdown_LQRUQw",
+        "dropdown_WfUBR8",
+        "dropdown_zkKE87",
+        "dropdown_yN3NJi",
+        "dropdown_LEWRH7",
+        "dropdown_CPpRce",
+        "dropdown_RAmpQz",
+        "dropdown_MaPNb9"
+      ],
+      "custom_css": [
+        "h2 {padding-top: 70px; background-color: #e0f4ff;}",
+        ".index-section {background-color: #e0f4ff;}"
+      ],
+      "name": "t:sections.columns-1.presets.name",
+      "settings": {
+        "narrow_column": false,
+        "title": "Itinerary",
+        "heading_size": "h0",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "center",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "blocks_in_banner_6Re3zQ": {
+      "type": "blocks-in--banner",
+      "name": "Blocks Below Banner",
+      "settings": {
+        "title": "",
+        "check-in-middle": false,
+        "btn-text": "",
+        "btn-link": "",
+        "btn-text-c": "",
+        "btn-link-c": ""
+      }
+    },
+    "text_and_image_pQtyM7": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Anne_Gordon_Headshot_with_ocean_beach.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "Retreat Leader",
+        "title": "Anne Gordon",
+        "heading_size": "h2",
+        "text": "<h5>Dolphin & Whale Wisdom Teacher</h5><p>For over 18 years, Anne has guided transformational dolphin and whale retreats in some of the most magical waters on earth. Known for her gentle presence, deep cetacean connection, and ability to translate dolphin/whale wisdom into practical and spiritual guidance, she creates a safe and sacred field where participants consistently experience joy, heart-opening healing, and emotional freedom.</p><p>Anne has spent her entire life observing dolphins and whales starting with orca whales as a child on her family's boat in the Pacific NW. She has a degree in biology and animal behavior so understands the physical, behavioral and spiritual meanings of the dolphins and loves to share it with you.</p><p>With her background as a dolphin energy healer and her lifelong relationship with the sea, Anne weaves together intuitive guidance, ocean wisdom, energy alignment practices, and soulful teaching to help you receive the full blessing of your dolphin encounters.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_EjxEcp": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image": "shopify://shop_images/Jillian_Rutledge_Beach.png",
+        "image_mask": "rounded",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Jillian Rutledge",
+        "heading_size": "h2",
+        "text": "<h5>Professional Freediving Instructor · Breathwork Specialist · Dolphin-Initiated Guide</h5><p>Jillian’s relationship with the dolphins runs deep — spanning more than 20 years, thousands of hours in the ocean, and an awakening that began when she first worked as a dolphin trainer. It was the dolphins who taught her that freedom is a state of mind and a vibration of spirit, far more than a physical circumstance.</p><p>They showed her how to consciously breathe.</p><p>They initiated her into the codes of transmutation.</p><p>And they awakened in her a profound remembrance of power, joy, and her inner dolphin-ness.</p><p>Since then, Jillian has communed with dolphins and whales across the world’s oceans, deepening her connection through breath-hold diving, intuitive communication, and underwater dancing. The Bimini dolphins—her earliest open-ocean teachers—have been guiding her since 2002.</p><p>Today she lives in the Pacific Northwest, spending time with orcas, humpbacks, harbor porpoises, and Pacific white-sided dolphins. As a professional freediving instructor, breathing specialist, performance coach, and intuitive ocean guide, Jillian helps people return to their power, joy, and natural vitality — remembering how to breathe the way dolphins breathe, and how to move through life with fluidity and freedom.</p><p>Her presence on this retreat adds a transformational dimension: the art of breath as a bridge into connection, embodiment, and dolphin consciousness.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_with_icons_KeYyrE": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_EgR84Y": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "HTB, Connecticut",
+            "text": "<p>⭐⭐⭐⭐⭐</p><p>“William, it is with the fondest of memories and deepest gratitude that I send this note of appreciation. The tour was a phenomenal experience!! This was primarily due to the care and devotion with which you crafted this experience for us all. You allowed us to have the opportunity to discover for ourselves the treasures you have spent decades digging and searching for. Treasures not hoarded for your personal gain, but treasures joyously and freely shared for all who aspire to greater heights! A true master of their craft makes the labor seem effortless as they perform their art. Evidencing the labor is born of love. It was truly an expanding experience for me! I thank you!! Bravo!!” </p>"
+          }
+        },
+        "text_block_ijGBrL": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "HTB, Connecticut",
+            "text": "<p>⭐⭐⭐⭐⭐</p><p>“William, it is with the fondest of memories and deepest gratitude that I send this note of appreciation. The tour was a phenomenal experience!! This was primarily due to the care and devotion with which you crafted this experience for us all. You allowed us to have the opportunity to discover for ourselves the treasures you have spent decades digging and searching for. Treasures not hoarded for your personal gain, but treasures joyously and freely shared for all who aspire to greater heights! A true master of their craft makes the labor seem effortless as they perform their art. Evidencing the labor is born of love. It was truly an expanding experience for me! I thank you!! Bravo!!” </p>"
+          }
+        },
+        "text_block_i88rjM": {
+          "type": "text_block",
+          "settings": {
+            "icon": "",
+            "title": "MB, Florida",
+            "text": "<p>⭐⭐⭐⭐⭐</p><p>\"My soul and I thank you from the deepest chambers of my being. My gratitude is immeasurable for the guidance, the wisdom and the adventure. This pilgrimage through Egypt has been one of the great blessing and highlights of my life. Each day unfolded like scroll of divine wisdom -- a living classroom of heart, history and spirit -- where past, present and future collide.\" </p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_EgR84Y",
+        "text_block_ijGBrL",
+        "text_block_i88rjM"
+      ],
+      "disabled": true,
+      "name": "Text columns with icons",
+      "settings": {
+        "title": "From Our Past Attendees",
+        "heading_size": "h1",
+        "heading_position": "center",
+        "desktop_columns_per_row": 2,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "3",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": false
+      }
+    },
+    "testimonials_bJRN8t": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_6zBKJ3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Swimming with dolphins has been a lifelong dream, and finding Anne while searching for whale wisdom felt divinely aligned. I spent months daydreaming about being in the water with them — but this retreat was beyond anything I could have imagined. Every day was pure magic.</p><p>Anne has a gift for expanding the wonder of every moment and helping you absorb the deeper meaning of the experience. I’m going home as a whole new me. This retreat was truly life-changing.</p>",
+            "author": "Lindsay Keane",
+            "author_info": ""
+          }
+        },
+        "testimonial_kW8aWV": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>This Bimini retreat has been absolutely amazing — there are no words for how transformative swimming with dolphins can be. They take you deep into yourself.</p><p>Anne leads with compassion, joy, and a genuine love for the dolphins, creating a space of unity and harmony. I joined her Gray whale retreat in Mexico, which changed my life, and Bimini took me to an even deeper level.</p><p>If you get the chance, come. You’ll be welcomed with love from day one.</p>",
+            "author": "Linda Johns",
+            "author_info": ""
+          }
+        },
+        "testimonial_efMU68": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>This retreat was magical — deeply empowering in ways I never expected. I released fear, rediscovered my strength, and broke through old self-doubt.</p><p>Anne is calm, grounded, and wonderfully open. She guides when needed yet gives you space to explore your own experience. I’m leaving with more than I ever imagined.</p>",
+            "author": "Sue Barrett",
+            "author_info": ""
+          }
+        },
+        "testimonial_cnwUg7": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Coming to Bimini was a big leap — I hadn’t taken a personal vacation in 14 years as a caregiver. But when Anne introduced us to our dolphin spirit guides in a workshop, I knew I had to meet mine in person.</p><p>I’m so glad I came. It has been heartfelt, healing, and deeply moving. I’ve made lifelong friends — both human and dolphin — and I know I’ll find my way back.</p>",
+            "author": "Arlene Ashera",
+            "author_info": ""
+          }
+        },
+        "testimonial_7YBVKX": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I’ve been traveling with Anne for nearly 15 years — Panama, Mexico, and now three years in a row with the dolphins of Bimini. Every trip is special.</p><p>There’s no guarantee of sightings, but what I’ve learned is that once the human pod comes together, the dolphins come too — often and joyfully.</p><p>As a single female traveler, I always feel completely safe and welcomed. Anne attracts kind, compassionate people, and the experience is always exceptional.</p>",
+            "author": "Jean Guthrie",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_6zBKJ3",
+        "testimonial_kW8aWV",
+        "testimonial_efMU68",
+        "testimonial_cnwUg7",
+        "testimonial_7YBVKX"
+      ],
+      "custom_css": [],
+      "name": "t:sections.testimonials.presets.testimonials.name",
+      "settings": {
+        "title": "From Past Attendees",
+        "align_text": "center",
+        "round_images": true,
+        "color_scheme": "3"
+      }
+    },
+    "blocks_in_banner_mje9Tn": {
+      "type": "blocks-in--banner",
+      "name": "Blocks Below Banner",
+      "settings": {
+        "title": "",
+        "check-in-middle": false,
+        "btn-text": "click here",
+        "btn-link": "",
+        "btn-text-c": "",
+        "btn-link-c": ""
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "custom_AE8fJt": {
+          "type": "custom",
+          "settings": {
+            "code": "<a id=\"offer\" name=\"offer\" style=\"position: absolute;\"></a>"
+          }
+        },
+        "custom_haxfEm": {
+          "type": "custom",
+          "settings": {
+            "code": "<div style=\"display: flex; justify-content: center; padding: 10px 0;\">\n  <div style=\"background-color: #b6f7fa; border-radius: 50px; padding: 15px 40px; text-align: center;\">\n    <p style=\"margin: 0;\">\n      <strong>Need guidance?</strong><br>\n      Speak with our travel manager.<br>\n      <a href=\"https://www.gaia.com/travelmanager\" target=\"_blank\" style=\"color: #6a0dad; text-decoration: underline;\">\n        Book a time.\n      </a>\n    </p>\n  </div>\n</div>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show-def-q": true,
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "50297793-9b3d-4867-9832-cd6689a53dfe": {
+          "type": "quantity_selector",
+          "settings": {
+            "hide-def-q": false
+          }
+        },
+        "sales_point4": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "lock",
+            "icon_color": "",
+            "text": "Secure payments"
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "text_hVmV38": {
+          "type": "text",
+          "settings": {
+            "text": "📌 Take a moment to review the things to know below."
+          }
+        },
+        "downpay_downpay_form_GgFMiq": {
+          "type": "shopify://apps/downpay/blocks/downpay-form/da700d84-7ed1-410a-a8b5-5cb99a33758a",
+          "settings": {
+            "default_to_pay_in_full": false,
+            "show_payment_methods": false,
+            "show_deposit_amount": true,
+            "show_border": true,
+            "show_help_text2": "deposit",
+            "show_release_date2": "never",
+            "select_style": "radio",
+            "custom_css": "",
+            "section_header": "",
+            "deposit_option_label": "(non-refundable)",
+            "full_pay_option_label": "",
+            "deposit_help_text": "",
+            "release_date_text": "Release Date Text",
+            "add_to_cart_button_label": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "forms_inline_JGTUTM": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "disabled": true,
+          "settings": {
+            "form_id": "723787",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#ffffff",
+            "links_color": "#1878b9",
+            "errors_color": "#e02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 0,
+            "padding_bottom": 24,
+            "padding_right": 0,
+            "padding_left": 0
+          }
+        }
+      },
+      "block_order": [
+        "custom_AE8fJt",
+        "custom_haxfEm",
+        "price",
+        "variant_picker",
+        "50297793-9b3d-4867-9832-cd6689a53dfe",
+        "sales_point4",
+        "inventory_status",
+        "text_hVmV38",
+        "downpay_downpay_form_GgFMiq",
+        "buy_buttons",
+        "forms_inline_JGTUTM"
+      ],
+      "custom_css": [],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": false,
+        "h1_title": true,
+        "hide_media": false,
+        "align_text": "left",
+        "image_position": "left",
+        "image_container_size": "medium",
+        "product_image_size": "natural",
+        "product_zoom_enable": true,
+        "thumbnail_position": "below",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "members_block_events_page_h668Gc": {
+      "type": "members-block-events-page",
+      "custom_css": [],
+      "name": "Members Block Events",
+      "settings": {
+        "add-top-padding": false,
+        "add-bottom-padding": true,
+        "title": "Gaia members enjoy 10% off all Marketplace items.",
+        "btn-text": "Learn More",
+        "btn-link": "https://marketplace.gaia.com/"
+      }
+    },
+    "columns_1_N4QetX": {
+      "type": "columns-1",
+      "blocks": {
+        "dropdown_MpQ7eL": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Retail Price Inclusions",
+            "text": "",
+            "dropdown_text": "<p>Pre-retreat:<br/>● 2 group Pod Unity/Community Calls led by Anne.<br/>● 2 group Conscious Breath group Calls led by Jillian.<br/><br/>Post-Retreat:<br/>​● 2 Group Pod Unity/Community Calls.<br/>● 1 Private Living the Dolphin Way Coaching call with Anne.<br/><br/>On-island program & activities<br/>● Morning grounding, intention setting, and heart-opening session.<br/>● Dolphin-guided meditations, energy transmissions, and intuitive teachings.<br/>● Breathwork sessions with Jillian to expand presence, relaxation, and flow.<br/>● Guided snorkeling & breath-hold diving practices (all levels welcome).<br/>● Daily boat trips to meet the dolphins (5 days out, weather permitting) in warm, clear Caribbean waters.<br/>● Evening community circles for reflection, sharing, and deepening.<br/>● Time to integrate, rest, and explore the beauty of Bimini.<br/><br/>Accommodations & logistics<br/>● All accommodations: 5 nights on Bimini + 1 night in Ft. Lauderdale.<br/>● Meals: All meals on the island except 1 dinner.<br/>● Airport transfers on Bimini upon Monday arrival and Saturday departure (with group travel).<br/>● Snorkel equipment provided.<br/>● Complimentary use of kayaks and bicycles.<br/>● Taxis to/from the one dinner at a local Bimini restaurant<br/>● Wi-Fi connection, where and when available<br/>● Drinking water & hot beverages<br/><br/>Dining Summary (what meals are included): <br/>● All meals are lovingly prepared for you on the island, except for one dinner out at a local restaurant. All dietary restrictions and requests can be accommodated.<br/><br/>Other options on your own:<br/>● Dolphin House - a unique home hand built by a local man dedicated to his love for the dolphins.<br/>● The Healing Hole - a local 'fountain of youth' in the mangroves.<br/>● Hemingway House - where Hemingway spent much time</p>",
+            "dropdown_image_fill": true,
+            "background_color": "#513589",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_ajAxaD": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Retail Price Exclusions",
+            "text": "",
+            "dropdown_text": "<p>● Travel costs to and from Fort Lauderdale, Florida</p><p>● Flight costs to/from Bimini (approximately $632 - subject to change without prior notice)</p><p>● Two dinners, Sunday and Wednesday night & Breakfast on Monday</p><p>● Hotel and boat crew Gratuities 5-10% of the retreat cost (Customary)</p><p>● Ocean view room upgrade (Optional)</p><p>● All individual body work sessions. The cost is $120 for an hour (Optional)</p><p>● Retreat photos: $95 (optional and subject to change without prior notice)</p><p>● Travel Insurance (Highly recommended. Check out <a href=\"https://www.worldnomads.com/?affiliate=whlnddlphn&subId=weblink&utm_source=whlnddlphn&utm_medium=affiliate&utm_campaign=Affiliate&utm_content=weblink\"><span style=\"text-decoration:underline\">World Nomads</span></a>.)</p>",
+            "dropdown_image_fill": true,
+            "background_color": "#513589",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_zxUc4t": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Reservation and Payment",
+            "text": "",
+            "dropdown_text": "<p>● Down payment: $1,000 (Non-refundable)</p><p>● Balance due by: March 1, 2026</p>",
+            "dropdown_image_fill": true,
+            "background_color": "#513589",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_F3F9mP": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Cancellation and Rescheduling of Booking",
+            "text": "",
+            "dropdown_text": "<p>● Full refunds are available within 7 days of purchase.</p><p>● After 7 days, payments are non-refundable. If the retreat is full, and we can fill your spot, you may transfer your payment to another retreat within one year.</p><p><strong>If you need to cancel, please email us. Your cancellation is only valid once you receive a confirmation email from us.</strong></p>",
+            "dropdown_image_fill": true,
+            "background_color": "#513589",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_aMTFHh": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Waiver of Responsibility",
+            "text": "",
+            "dropdown_text": "<p>By signing up for this Retreat, you agree to all Terms, Deposit Conditions, and this Waiver. In making this booking, you acknowledge and understand the extent of this agreement, and hereby release, absolve, and hold harmless the retreat organizers, their directors, leaders, guides, facilitators, captains, crew, volunteers, and any other parties connected with the retreat, individually or collectively, from any liability for injury, misadventure, harm, loss, inconvenience, or damage sustained while participating in any aspect of this retreat experience.</p>",
+            "dropdown_image_fill": true,
+            "background_color": "#513589",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_Ypd9Wp": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Changes To the Program",
+            "text": "",
+            "dropdown_text": "<p>Mother Nature – the weather and the Dolphins – are not under our control, and sometimes it may be necessary to make changes to the program, accommodations or boat. We are not responsible for any consequences arising from such changes, cancellations or delays of programs. In particular, failure to see particular species of wildlife will not be a breach of contract on our part. </p>",
+            "dropdown_image_fill": true,
+            "background_color": "#513589",
+            "text_color": "#ffffff"
+          }
+        },
+        "dropdown_rzQq4A": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Insurance",
+            "text": "",
+            "dropdown_text": "<p>We highly recommend that all participants obtain travel insurance. Travel Insured International offers insurance for trip cost, trip cancellation & interruption, and pays for loss due to unforeseen circumstance, death, injury, or illness to you or a member of your family. It also includes coverage for missed connections due to weather, pays for lost deposits due to the financial default of the airline, the tour operator, or cruise line. It pays for baggage delays, travel delays, medical expenses and emergency assistance.</p>",
+            "dropdown_image_fill": true,
+            "background_color": "#513589",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "dropdown_MpQ7eL",
+        "dropdown_ajAxaD",
+        "dropdown_zxUc4t",
+        "dropdown_F3F9mP",
+        "dropdown_aMTFHh",
+        "dropdown_Ypd9Wp",
+        "dropdown_rzQq4A"
+      ],
+      "name": "t:sections.columns-1.presets.name",
+      "settings": {
+        "narrow_column": false,
+        "title": "Things to Know",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "2",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        }
+      },
+      "block_order": [
+        "description",
+        "tab",
+        "contact"
+      ],
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "you_may_also_like_standard_pdp_yidgV7": {
+      "type": "you-may-also-like-standard-pdp",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like"
+      }
+    },
+    "same_collection_standard_dQAEBk": {
+      "type": "same-collection-standard",
+      "disabled": true,
+      "settings": {
+        "title": "More From"
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "product_recommendations_heading": "You may also like",
+        "related_count": 3,
+        "products_per_row": 3
+      }
+    },
+    "more-products-vendor": {
+      "type": "more-products-vendor",
+      "disabled": true,
+      "settings": {
+        "products_per_row": 3,
+        "max_products": 3
+      }
+    },
+    "more-products-collection": {
+      "type": "more-products-collection",
+      "settings": {
+        "products_per_row": 3,
+        "max_products": 3
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {}
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "2"
+      }
+    }
+  },
+  "order": [
+    "slideshow_i38Qbz",
+    "blocks_in_banner_fze6BE",
+    "rich_text_jngJQR",
+    "featured_video_8qUtkt",
+    "rich_text_t4H4rL",
+    "columns_1_xUtgUC",
+    "blocks_in_banner_6Re3zQ",
+    "text_and_image_pQtyM7",
+    "text_and_image_EjxEcp",
+    "text_with_icons_KeYyrE",
+    "testimonials_bJRN8t",
+    "blocks_in_banner_mje9Tn",
+    "main",
+    "members_block_events_page_h668Gc",
+    "columns_1_N4QetX",
+    "sub",
+    "you_may_also_like_standard_pdp_yidgV7",
+    "same_collection_standard_dQAEBk",
+    "recommendations",
+    "more-products-vendor",
+    "more-products-collection",
+    "recently-viewed",
+    "collection-return"
+  ]
+}

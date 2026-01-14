@@ -1,0 +1,1176 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-1": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "<strong>Yoga International \nYoga and Longevity: 8 Secrets for a Long, Healthy, and Happy Life </strong>",
+            "h1_title": true,
+            "title_size": 80,
+            "subheading": "Learn How to Nurture Your Mind, Body, and Soul in This Course",
+            "enlarge_subheading": false,
+            "link": "#offer",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#01b4b4",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/yoga-international-longevity-header.jpg",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-1"
+      ],
+      "custom_css": [
+        ".hero-natural--template--20086275309889__slideshow {min-height: 400px;}",
+        "@media (min-width: 769px) {h1 {font-size: 40px; line-height: 1em; margin-top: 0; } .hero__subtitle {font-size: 1.1em; }}",
+        ".hero__subtitle {font-weight: bold;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": -30,
+        "mobile_size": 0,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "3124092b-a473-448b-b237-7c9b098cd472": {
+      "type": "columns-2",
+      "blocks": {
+        "template--20086275309889__3124092b-a473-448b-b237-7c9b098cd472-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "right",
+            "enlarge_text": false,
+            "text": "<p>Living a healthy and happy life into your 70s, 80s, 90s, and beyond isn't an impossible dream. It happens all around the world and can happen for you too, regardless of your age. Naturally, you don't want to simply live to be 100! You want to be healthy, happy, riding your bike, gardening, cooking, playing with your grandkids, and actively enjoying every moment of this precious human life.</p><p>Most of us don't start thinking about longevity until we get into our 50s or so, or until we deal with injury or illness. Yoga and Longevity: 8 Secrets for a Long, Healthy, and Happy Life with Beryl Bender is designed for all people of all ages because we all want to live a long healthy life, and it's never too early to start moving in that direction. In fact, the earlier we start, the easier and more effective these practices are. The well-researched and documented commonalities of the world's longest lived and happiest people include spending time outdoors in nature, moving naturally, meditating, practicing yoga, connecting with your community, downshifting, finding your dharma, eating well, and much more.</p>"
+          }
+        },
+        "8f93800a-ce06-404f-8dc7-1fa4b80e79a3": {
+          "type": "video_mp4",
+          "settings": {
+            "parent_column": "left",
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/86cc4f9a7d3043648c07e2c1b5647bf6.mp4",
+            "controls": true,
+            "loop": false,
+            "autoplay": true,
+            "video_width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__3124092b-a473-448b-b237-7c9b098cd472-text-1",
+        "8f93800a-ce06-404f-8dc7-1fa4b80e79a3"
+      ],
+      "custom_css": [
+        ".video_mp4-block {margin-bottom: 11px;}",
+        "@media (min-width: 767px) {.grid {/*display: flex; align-items: center;*/ }}"
+      ],
+      "settings": {
+        "title": "For Those Who Want to Live a Long, Healthy Life",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "#offer",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "#offer",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "2cf59009-8b04-4f41-ba20-7aab7e4fe761": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20086275309889__2cf59009-8b04-4f41-ba20-7aab7e4fe761-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "This Program is for You If:",
+            "heading_size": "h1"
+          }
+        },
+        "023d8f51-cf4f-4212-ac76-7f6b92b56be8": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "You want the secrets to extending your longevity"
+          }
+        },
+        "b591ead6-6fc0-47fe-ab9b-d828621c8f4a": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "You want your older years to be your healthiest ones yet"
+          }
+        },
+        "9e308ddc-343c-46b0-a8f1-d97289120114": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "You want practical, everyday tools to add years to your life"
+          }
+        },
+        "abd9e4af-efcb-41a6-a8c0-55aa610184a5": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "You already have a yoga practice that you would like to expand"
+          }
+        },
+        "9db1bbaf-d802-40ea-a687-133fb0999f73": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "You have an interest in studying yoga longevity but don’t have time to commit to extensive study hours"
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__2cf59009-8b04-4f41-ba20-7aab7e4fe761-heading-1",
+        "023d8f51-cf4f-4212-ac76-7f6b92b56be8",
+        "b591ead6-6fc0-47fe-ab9b-d828621c8f4a",
+        "9e308ddc-343c-46b0-a8f1-d97289120114",
+        "abd9e4af-efcb-41a6-a8c0-55aa610184a5",
+        "9db1bbaf-d802-40ea-a687-133fb0999f73"
+      ],
+      "custom_css": [
+        "p,.sales-points {max-width: 750px; margin-left: auto; margin-right: auto;}",
+        ".sales-points {text-align: left; margin-bottom: 1rem;}"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false
+      }
+    },
+    "b1e017d0-0cb2-4059-b854-c122e1dd779e": {
+      "type": "text-columns",
+      "blocks": {
+        "template--20086275309889__b1e017d0-0cb2-4059-b854-c122e1dd779e-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "rounded",
+            "image_width": 320,
+            "title": "",
+            "heading_size": "h3",
+            "text": "<p>Beryl Bender, author and activist, graduated from Syracuse University with a degree in English and philosophy and has been an avid student of classical yoga since 1971. She traveled to India in 1974 with her Jain teacher, Munishree Chitrabhanu, to further her studies of Eastern wisdom traditions.</p><p>She is the founder and director of The Hard & The Soft Yoga Institute, a prestigious Yoga Alliance nationally recognized school that has been training yoga and meditation teachers since 1980, and is now a \"virtual\" school with ongoing training and global participation.</p><p>Beryl is also the co-founder and board chair of the Give Back Yoga Foundation and the best-selling author of many books on yoga, including Beyond Power Yoga and Yoga for Warriors. Her current online yoga studio, Just This, is a refuge for yogis seeking community and connection.</p>",
+            "align_text": "left",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "9c459782-e688-4c91-b2f9-22e7ba873d45": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/yoga-international-longevity-beryl.jpg",
+            "image_mask": "rounded",
+            "image_width": 320,
+            "title": "Beryl Bender",
+            "heading_size": "h3",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__b1e017d0-0cb2-4059-b854-c122e1dd779e-text_block-1",
+        "9c459782-e688-4c91-b2f9-22e7ba873d45"
+      ],
+      "custom_css": [
+        ".grid {display: flex; align-items: center;}"
+      ],
+      "settings": {
+        "title": "Meet Your Teacher",
+        "heading_size": "h1",
+        "subtitle": "",
+        "align_text": "center",
+        "grid": 2,
+        "divider": false,
+        "color_scheme": "2"
+      }
+    },
+    "f2f16573-2553-4b00-98b9-ad9c6717eedc": {
+      "type": "icon-list-and-image",
+      "blocks": {
+        "template--20315243544897__f2f16573-2553-4b00-98b9-ad9c6717eedc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "This training focuses on introducing you to the eight “secrets” of longevity",
+            "heading_size": "h1"
+          }
+        },
+        "template--20315243544897__f2f16573-2553-4b00-98b9-ad9c6717eedc-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong>You’ll learn: </strong></p>"
+          }
+        },
+        "template--20315243544897__f2f16573-2553-4b00-98b9-ad9c6717eedc-sales_point-1": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "The importance of yoga for longevity"
+          }
+        },
+        "8f257190-9135-4e9c-a4b2-16778ea7e59a": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "How to incorporate the practice of journaling into your life"
+          }
+        },
+        "45620b84-4a9a-49d0-b129-024c6cbe5742": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "A variety of conscious breathing practices that you can incorporate into your own life"
+          }
+        },
+        "7e23352f-dd8a-4d71-9209-75f9e603533c": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "The principles for awakening self-compassion"
+          }
+        },
+        "4ac9ef87-e9fa-4612-9ae8-8fccb9b9713a": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Meditation techniques that promote a longer life"
+          }
+        },
+        "fd687a3d-ee95-4668-9d8d-bf19b562b19e": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Yoga postures that you can do no matter what your age is "
+          }
+        }
+      },
+      "block_order": [
+        "template--20315243544897__f2f16573-2553-4b00-98b9-ad9c6717eedc-heading-1",
+        "template--20315243544897__f2f16573-2553-4b00-98b9-ad9c6717eedc-text-1",
+        "template--20315243544897__f2f16573-2553-4b00-98b9-ad9c6717eedc-sales_point-1",
+        "8f257190-9135-4e9c-a4b2-16778ea7e59a",
+        "45620b84-4a9a-49d0-b129-024c6cbe5742",
+        "7e23352f-dd8a-4d71-9209-75f9e603533c",
+        "4ac9ef87-e9fa-4612-9ae8-8fccb9b9713a",
+        "fd687a3d-ee95-4668-9d8d-bf19b562b19e"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/yoga-international-longevity-learn-hero.jpg",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "image_width": "50",
+        "align_text": "left",
+        "layout": "left",
+        "color_scheme": "none",
+        "hide_image": false,
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "3a932ba1-36cb-44c6-abcf-49cc382b9b3e": {
+      "type": "icon-list-and-image",
+      "blocks": {
+        "74639dea-c061-4239-9dcd-c23cbe256242": {
+          "type": "heading",
+          "settings": {
+            "title": "This training introduces you to the principals,practices, and historical background that underlie iRest Yoga Nidra as a comprehensivepath of mediation.",
+            "heading_size": "h1"
+          }
+        },
+        "43f60cfc-5d20-42d4-9008-f863931b04d4": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong>You’ll learn: </strong></p>"
+          }
+        },
+        "8d2cb095-136c-4a83-8f19-f388b6643486": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Eastern and Western psycho-spiritual perspectives that form the foundation of iRest Yoga Nidra."
+          }
+        },
+        "89ba8538-8598-4a52-9e15-e336d32dcd6a": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Background information on how iRest is drawn from a 38 stage map of meditation that integrates the philosophies of Samkhya, Patanjali, Advaita, and Unqualified Nondual Realization."
+          }
+        },
+        "ecde982d-b265-4d9a-9d45-9930a23b5531": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "About the evidence-based research showing the efficacy of iRest and its use with various psycho-physical issues and populations."
+          }
+        },
+        "c0441649-f49d-4518-bd5a-91a8be8ac72d": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "How to understand iRest as a comprehensive approach to meditation."
+          }
+        },
+        "126b4575-ab8b-4651-a00b-2606b6bb53ac": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Guidelines regarding the teacher-student relationship and ethical considerations."
+          }
+        },
+        "a1bf180e-6d2e-47e5-b691-c948d3bcfcd8": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "How to work one-on-one with people in what we call “iRest Co-Meditation Dyads.”"
+          }
+        },
+        "2ad230b4-5581-46d8-9996-59367300a74e": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "An introduction to the common language that is used in iRest meditation."
+          }
+        }
+      },
+      "block_order": [
+        "74639dea-c061-4239-9dcd-c23cbe256242",
+        "43f60cfc-5d20-42d4-9008-f863931b04d4",
+        "8d2cb095-136c-4a83-8f19-f388b6643486",
+        "89ba8538-8598-4a52-9e15-e336d32dcd6a",
+        "ecde982d-b265-4d9a-9d45-9930a23b5531",
+        "c0441649-f49d-4518-bd5a-91a8be8ac72d",
+        "126b4575-ab8b-4651-a00b-2606b6bb53ac",
+        "a1bf180e-6d2e-47e5-b691-c948d3bcfcd8",
+        "2ad230b4-5581-46d8-9996-59367300a74e"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {margin-bottom: 2rem;}",
+        ".feature-row__images {align-self: start;}",
+        ".sales-points {margin-bottom: 1rem;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/cert-happy-woman-on-a-scooter-with-fresh-groceries.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "image_width": "50",
+        "align_text": "left",
+        "layout": "left",
+        "color_scheme": "none",
+        "hide_image": false,
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "ec7c692c-47c2-4c74-8d83-8ef799190f9e": {
+      "type": "columns-1",
+      "blocks": {
+        "template--20086275309889__ec7c692c-47c2-4c74-8d83-8ef799190f9e-sales_point-1": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "8 Hours to Complete"
+          }
+        },
+        "template--20086275309889__ec7c692c-47c2-4c74-8d83-8ef799190f9e-sales_point-2": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Unlimited Course Access. Revisit the course even once you complete it."
+          }
+        },
+        "5565ba33-b9d4-4661-aafa-19c9b191546c": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "<strong>3x live online Q & A sessions</strong> with the Food Matters Institute Founder & In House Nutritionist to answer your biggest nutrition questions."
+          }
+        },
+        "18b3d4cb-f32d-426b-9bd9-5cf9c7fc14f9": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Take it at your own pace"
+          }
+        },
+        "6ce5b15b-172c-4988-86da-3cbe3bb7d95e": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Fun and lighthearted lectures"
+          }
+        },
+        "f8acc85b-636c-41bf-8fa5-511f55cbd104": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark-no-circle",
+            "icon_color": "#01b4b4",
+            "text": "Teachers eligibility to get continuing education credits"
+          }
+        },
+        "110d4b0c-9eb0-45d7-8ec6-606dc38d35c0": {
+          "type": "button",
+          "settings": {
+            "link": "#offer",
+            "link_text": "Buy Now",
+            "link_entitled": "#offer",
+            "link_text_entitled": "Buy Now",
+            "align_button": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--20086275309889__ec7c692c-47c2-4c74-8d83-8ef799190f9e-sales_point-1",
+        "template--20086275309889__ec7c692c-47c2-4c74-8d83-8ef799190f9e-sales_point-2",
+        "5565ba33-b9d4-4661-aafa-19c9b191546c",
+        "18b3d4cb-f32d-426b-9bd9-5cf9c7fc14f9",
+        "6ce5b15b-172c-4988-86da-3cbe3bb7d95e",
+        "f8acc85b-636c-41bf-8fa5-511f55cbd104",
+        "110d4b0c-9eb0-45d7-8ec6-606dc38d35c0"
+      ],
+      "custom_css": [
+        "h2,h3,.sales-points {max-width: 750px; margin-left: auto; margin-right: auto; margin-bottom: 1rem;}",
+        "h3,.sales-points {text-align: left;}",
+        "@media (min-width: 768px) {.image-wrap {max-width: 80%; margin-left: auto; margin-right: auto; padding-bottom: calc(56.25% * 0.8) !important; }}"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "Enroll Now, and Dive into Studying Today",
+        "heading_size": "h1",
+        "subheading": "With unlimited course access, you can take it at your own pace",
+        "align_heading": "center",
+        "column_align_text": "center",
+        "color_scheme": "1",
+        "show_wave": true,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "1c97dcc5-84af-4b74-9bf7-fc68e0f6db49": {
+      "type": "background-image-text",
+      "disabled": true,
+      "custom_css": [
+        ".background-media-text__image {object-position: top center;}",
+        "@media (min-width: 768px) {.background-media-text--left {position: relative; left: calc((100% - 500px) / 2); }}"
+      ],
+      "settings": {
+        "subtitle": "",
+        "title": "“You can't put a price on health, and there is nothing more empowering than having the knowledge to be able to help yourself and your loved ones if the need arises.”",
+        "heading_size": "h3",
+        "heading_position": "left",
+        "text": "<p><em>Michelle Pedula, Founder of Harvest & Wellness - Ontario, Canada.</em></p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify://shop_images/cert-testimonial-michelle-p.jpg",
+        "layout": "left",
+        "height": 550,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "e348726c-dfa1-4b3a-a236-dff330f40c17": {
+      "type": "columns-2",
+      "blocks": {
+        "template--21473222754625__e348726c-dfa1-4b3a-a236-dff330f40c17-text-1": {
+          "type": "text",
+          "settings": {
+            "parent_column": "left",
+            "enlarge_text": true,
+            "text": "<p>The goal of this training is to <strong>show you how a yoga lifestyle and the commonalities of longevity combine</strong> into a tried-and-true package to add years to your life<br/></p>"
+          }
+        },
+        "template--21473222754625__e348726c-dfa1-4b3a-a236-dff330f40c17-image-1": {
+          "type": "image",
+          "settings": {
+            "parent_column": "right",
+            "image": "shopify://shop_images/yoga-international-longevity-online-course-hero.webp",
+            "link": "",
+            "image_mask": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--21473222754625__e348726c-dfa1-4b3a-a236-dff330f40c17-text-1",
+        "template--21473222754625__e348726c-dfa1-4b3a-a236-dff330f40c17-image-1"
+      ],
+      "custom_css": [
+        "@media (min-width: 768px) {.grid {display: flex; align-items: center; }}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subheading": "",
+        "align_heading": "center",
+        "cta_button": "",
+        "cta_button_url": "",
+        "cta_button_entitled": "",
+        "cta_button_url_entitled": "",
+        "align_cta_button": "center",
+        "column_left_align_text": "left",
+        "column_right_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "d2f3e665-9bf4-4aee-8b67-425b66d670c6": {
+      "type": "columns-1",
+      "blocks": {
+        "75f8a537-55ac-4222-9783-a4fd0477d5b9": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Section 1: Introduction",
+            "text": "",
+            "dropdown_text": "<ul><li>Welcome to Yoga and Longevity</li><li>A Word About Journaling</li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "4c239ee9-479d-4f81-b5b6-a7c9750699a5": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Section 2: Natural Movement",
+            "text": "",
+            "dropdown_text": "<ul><li>Lecture: Move Naturally</li><li>Practice: Ujjayi Breath and Movement</li><li>Practice: Being Outside</li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "0a6fb51b-ba50-461a-992b-45e0e72261a5": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": true,
+            "title": "Section 3: Yoga as a Lifestyle",
+            "text": "",
+            "dropdown_text": "<ul><li>Lecture: Yoga as a Lifestyle</li><li>Practice: Dirga and Ujjayi Breath</li><li>Practice: Ujjayi, Sun Salutations & Standing Postures</li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "d5af11b3-e1d0-4ae7-aef9-b21af820cfff": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Section 4: Stress Reduction and Longevity",
+            "text": "",
+            "dropdown_text": "<ul><li>Lecture: Down Shift with Down Regulation</li><li>Practice: Full Awareness of Breathing</li><li>Practice: Asana</li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "d2c67790-d1b5-4bce-8784-42372bc6dc67": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Section 5: Mindful Eating",
+            "text": "",
+            "dropdown_text": "<ul><li>Lecture: Plant-Based Diet</li><li>Lecture: Mindful Eating</li><li>Practice: Mindful Eating</li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "ef8142f1-11fe-4a33-8cb8-a2b7d594f364": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Section 6: Meditation",
+            "text": "",
+            "dropdown_text": "<ul><li>Lecture: Introduction to Meditation</li><li>Sitting Meditation: Full Awareness of Breathing I</li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "46f581b5-473f-4fc6-855d-f6c5dfcf4d05": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Section 7: Healthy Relationships",
+            "text": "",
+            "dropdown_text": "<ul><li>Lecture: Healthy Relationships</li><li>Walking Meditation</li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "2399d1db-ffac-4251-b8a0-e45ee73a103a": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Section 8: Find Refuge in Sangha",
+            "text": "",
+            "dropdown_text": "<ul><li>Lecture: Find Refuge in Sangha</li><li>Sitting Meditation: Full Awareness of Breathing II</li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "57cc7ab3-649a-4b55-8756-4247b7e85a6c": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Section 9: Find Your Dharma",
+            "text": "",
+            "dropdown_text": "<ul><li>Lecture: Find Your Dharma</li><li>Practice: Yoga Nidra</li><li>Sitting Meditation: Full Awareness of Breathing III</li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "5be43cef-602d-4ee5-9290-d7a1f81cd707": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Section 10: Closing Thoughts",
+            "text": "",
+            "dropdown_text": "<ul><li>Closing Thoughts</li></ul>",
+            "background_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "75f8a537-55ac-4222-9783-a4fd0477d5b9",
+        "4c239ee9-479d-4f81-b5b6-a7c9750699a5",
+        "0a6fb51b-ba50-461a-992b-45e0e72261a5",
+        "d5af11b3-e1d0-4ae7-aef9-b21af820cfff",
+        "d2c67790-d1b5-4bce-8784-42372bc6dc67",
+        "ef8142f1-11fe-4a33-8cb8-a2b7d594f364",
+        "46f581b5-473f-4fc6-855d-f6c5dfcf4d05",
+        "2399d1db-ffac-4251-b8a0-e45ee73a103a",
+        "57cc7ab3-649a-4b55-8756-4247b7e85a6c",
+        "5be43cef-602d-4ee5-9290-d7a1f81cd707"
+      ],
+      "custom_css": [],
+      "settings": {
+        "narrow_column": false,
+        "title": "Course Outline",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "left",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "d47c4f90-b1c6-4c61-b423-ca2d0ff09475": {
+      "type": "columns-1",
+      "blocks": {
+        "46ac2460-c747-4067-823b-d062702f351e": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Get 8 Continuing Education Hours",
+            "text": "<p>Yoga Alliance requires all yoga teachers to accumulate at least 30 hours of continuing education every three years. Currently, you can fulfill your 20 non-contact hours and your 10 contact hours online.</p><p>Fulfilling these 8 hours is as easy as logging into the Yoga Alliance website and entering your hours after you’ve completed Yoga and Longevity: 8 Secrets for a Long, Healthy, and Happy Life. Continue your yoga education with this course and more from the Yoga International library!</p>",
+            "image": "shopify://shop_images/yoga-nidra-yoga-alliance.png",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        },
+        "c44c4c41-f434-44a2-94de-5c5db501bf27": {
+          "type": "dropdown",
+          "disabled": true,
+          "settings": {
+            "reveal": false,
+            "title": "BONUS #4 LIVE ONLINE Q&As",
+            "text": "<h3><strong>3x Live Q&As with Institute Founder & In-House Nutritionist</strong></h3><p>As you begin the program, it’s normal to have lots of questions and be seeking extra guidance. We’re providing that support in real-time with 3 intimate Q&A sessions with Food Matters Institute Co-Founder, Laurentine and our in-house nutritionist and student advisor, Kayla. (Recordings available if you’re unable to attend the sessions live.)</p><p><strong>Valued at: $498</strong> - Yours Free</p>",
+            "image": "shopify://shop_images/cert-bonus-online-live-qa-lk.jpg",
+            "dropdown_text": "",
+            "background_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "46ac2460-c747-4067-823b-d062702f351e",
+        "c44c4c41-f434-44a2-94de-5c5db501bf27"
+      ],
+      "custom_css": [
+        "@media (min-width: 768px) {.grid {flex-direction: row-reverse; padding: var(--gridGutter) var(--gridGutter) var(--gridGutter) 0; } .dropdown-content-trigger {padding-left: 2.5rem; }}",
+        "img {object-fit: contain; background: #fff !important;}"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "Eligibility for Continuing Education Credit",
+        "heading_size": "h1",
+        "subheading": "For Yoga Teachers",
+        "align_heading": "center",
+        "column_align_text": "center",
+        "color_scheme": "1",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "86318638-9bad-4d65-96fe-3b801dd2b185": {
+          "type": "custom",
+          "settings": {
+            "code": "<span id=\"offer\" style=\"position:absolute; top:-40px;\"></span>\n<h3>Yoga International - Yoga and Longevity: 8 Secrets for a Long, Healthy and Happy Life Course</h3>\n<h3 style=\"margin-bottom: 0; font-weight: normal;\">Your Price:\n</h3>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "86318638-9bad-4d65-96fe-3b801dd2b185",
+        "price",
+        "separator",
+        "variant_picker",
+        "inventory_status",
+        "buy_buttons",
+        "description",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "custom_css": [
+        ".image-wrap {background: transparent;}",
+        ".product-grid__container {padding-bottom: 40px;}",
+        ".variant__label {display: none;}",
+        ".product-block,.product-block h2 {margin-bottom: 15px;}"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "hide_title": true,
+        "h1_title": false,
+        "hide_media": false,
+        "align_text": "left",
+        "image_position": "left",
+        "image_container_size": "medium",
+        "product_image_size": "natural",
+        "product_zoom_enable": false,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": false,
+        "product_video_style": "muted"
+      }
+    },
+    "97c60256-5344-47c3-8219-8f86b7826d60": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20315243544897__97c60256-5344-47c3-8219-8f86b7826d60-hero-1": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "h1_title": false,
+            "title_size": 70,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/yoga-nidra-level-1.jpg",
+            "overlay_opacity": 0
+          }
+        },
+        "template--20315243544897__97c60256-5344-47c3-8219-8f86b7826d60-hero-2": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "h1_title": false,
+            "title_size": 70,
+            "subheading": "",
+            "enlarge_subheading": false,
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/yoga-nidra-training.jpg",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--20315243544897__97c60256-5344-47c3-8219-8f86b7826d60-hero-1",
+        "template--20315243544897__97c60256-5344-47c3-8219-8f86b7826d60-hero-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "desktop_size": -70,
+        "mobile_size": 0,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "99d54df7-cc44-4ce9-9ad6-3869e40a74ab": {
+      "type": "text-columns",
+      "blocks": {
+        "template--20315243544897__99d54df7-cc44-4ce9-9ad6-3869e40a74ab-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/yoga-international-longevity-hero-1.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20315243544897__99d54df7-cc44-4ce9-9ad6-3869e40a74ab-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/yoga-international-longevity-hero-2.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--20315243544897__99d54df7-cc44-4ce9-9ad6-3869e40a74ab-text_block-3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/yoga-international-longevity-hero-3.jpg",
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "",
+            "heading_size": "h2",
+            "text": "",
+            "align_text": "center",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20315243544897__99d54df7-cc44-4ce9-9ad6-3869e40a74ab-text_block-1",
+        "template--20315243544897__99d54df7-cc44-4ce9-9ad6-3869e40a74ab-text_block-2",
+        "template--20315243544897__99d54df7-cc44-4ce9-9ad6-3869e40a74ab-text_block-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "subtitle": "",
+        "align_text": "left",
+        "grid": 3,
+        "divider": false,
+        "color_scheme": "3"
+      }
+    },
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0": {
+      "type": "columns-1",
+      "blocks": {
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Who is this course for?",
+            "text": "",
+            "dropdown_text": "<p>This course is for anyone who is interested in exploring practices for longevity. All ages are encouraged to join in!</p>",
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Are there any prerequisites for this course?",
+            "text": "",
+            "dropdown_text": "<p>No. All that’s required is curiosity and a desire to learn.</p>",
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Is this course suitable for all physical activity?",
+            "text": "",
+            "dropdown_text": "<p>Yes. As in any learning environment, you are encouraged to identify your unique learning goals and work in a way that honors and respects your ability and intention.</p>",
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "36d254e6-c118-4eb9-868e-c7838412525e": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "What props will I need?",
+            "text": "",
+            "dropdown_text": "<p>If possible, it will be helpful to have yoga blocks, a blanket, and a bolster or pillow available. You may also want access to an outdoor space for walking meditation.</p>",
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "64c54989-1338-47b7-bd63-ddfa422511b7": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Can I get continuing education hours if I’m a registered teacher with Yoga Alliance?",
+            "text": "",
+            "dropdown_text": "<p>Yes, this course is eligible for eight Continuing Education hours with Yoga Alliance, but in order to receive them you will need to complete all sessions.</p>",
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "19434ac0-1bc8-4fa7-9407-033dd509cb20": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Do I need to be a Yoga International member to take this course?",
+            "text": "",
+            "dropdown_text": "<p>No. You must create an account to access the course materials but you do not need to pay for a membership.</p>",
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "195adf6e-7d69-4458-9adb-eaa295bb77f4": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Is the course all lecture based?",
+            "text": "",
+            "dropdown_text": "<p>No. Each section also includes practices that will consist of breathwork, meditation, journaling, or asana.</p>",
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "933b0ea5-c150-4405-ab9b-c75d4ef3384a": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Are there any live sessions?",
+            "text": "",
+            "dropdown_text": "<p>No, all content is prerecorded and self-paced!</p>",
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "e44c6cb7-2bbb-4f0e-a4da-3083f0a9007b": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "Will I have lifelong access to the course?",
+            "text": "",
+            "dropdown_text": "<p>Yes. The entire course will be available in perpetuity.</p>",
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        },
+        "df0040ab-a4ee-46ae-90ec-abfe3c590ce8": {
+          "type": "dropdown",
+          "settings": {
+            "reveal": false,
+            "title": "How long does it take to complete this course? Is there a deadline to finish it?",
+            "text": "",
+            "dropdown_text": "<p>The course is eight hours, but the total time to complete it may be longer due to its self-paced nature. There is no deadline for completion.</p>",
+            "background_color": "#7e4592",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "12d522a9-b741-4d4c-9b79-bb469c9fa36d",
+        "8b288a22-fe25-4939-a8bc-2bd82abe3281",
+        "fada70bb-9ebc-48cd-87d2-ba2bb418ab07",
+        "36d254e6-c118-4eb9-868e-c7838412525e",
+        "64c54989-1338-47b7-bd63-ddfa422511b7",
+        "19434ac0-1bc8-4fa7-9407-033dd509cb20",
+        "195adf6e-7d69-4458-9adb-eaa295bb77f4",
+        "933b0ea5-c150-4405-ab9b-c75d4ef3384a",
+        "e44c6cb7-2bbb-4f0e-a4da-3083f0a9007b",
+        "df0040ab-a4ee-46ae-90ec-abfe3c590ce8"
+      ],
+      "custom_css": [
+        "h2 {margin-bottom: 4rem;}",
+        "p {text-align: left;}",
+        ".dropdown-with-image-block {box-shadow: none; max-width: 1200px; margin: 0 auto 0.5rem auto;}",
+        ".button-block {margin-top: 2rem;}"
+      ],
+      "settings": {
+        "narrow_column": false,
+        "title": "FAQ’s",
+        "heading_size": "h1",
+        "subheading": "",
+        "align_heading": "center",
+        "column_align_text": "center",
+        "color_scheme": "none",
+        "show_wave": false,
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "3124092b-a473-448b-b237-7c9b098cd472",
+    "2cf59009-8b04-4f41-ba20-7aab7e4fe761",
+    "b1e017d0-0cb2-4059-b854-c122e1dd779e",
+    "f2f16573-2553-4b00-98b9-ad9c6717eedc",
+    "3a932ba1-36cb-44c6-abcf-49cc382b9b3e",
+    "ec7c692c-47c2-4c74-8d83-8ef799190f9e",
+    "1c97dcc5-84af-4b74-9bf7-fc68e0f6db49",
+    "e348726c-dfa1-4b3a-a236-dff330f40c17",
+    "d2f3e665-9bf4-4aee-8b67-425b66d670c6",
+    "d47c4f90-b1c6-4c61-b423-ca2d0ff09475",
+    "main",
+    "97c60256-5344-47c3-8219-8f86b7826d60",
+    "99d54df7-cc44-4ce9-9ad6-3869e40a74ab",
+    "6a2fb62f-79e7-42de-acea-4e5fab243fb0"
+  ]
+}

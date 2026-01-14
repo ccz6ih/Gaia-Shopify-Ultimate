@@ -1,0 +1,54 @@
+<div class="video-metafields-block-parent">
+    <div class="video-metafields-block-holder">
+      {%if product.metafields.video-title-above-non.customisable != blank %}
+<h2 class="title-above-video-m">{{product.metafields.video-title-above-non.customisable}}</h2>
+      {%endif %}
+          
+
+      {% if product.metafields.video-block-file.key != blank %}
+        <div class="video-metafields-block-el">
+            <video class="videoCoverInMetafieldsPDP"  autoplay muted playsinline loop>
+            <source src="{{product.metafields.video-block-file.key}}" type="video/mp4">
+            <source src="{{product.metafields.video-block-file.key}}" type="video/ogg">
+            Your browser does not support the video tag.
+            </video>
+        </div>
+      {% endif %}
+        {% if product.metafields.video-title-below-non.customisable %}
+         <h4 class="title-below-video">{{ product.metafields.video-title-below-non.customisable }}</h4>
+        {% endif %}
+
+           {% comment %} DESKTOP {% endcomment %}
+           {%if product.metafields.full-capacity.body-text-full != blank %}
+            <div class="fullCapacity-modules fulCap-Desktop">
+              {{product.metafields.full-capacity.body-text-full}}
+            </div>
+            {% endif %}
+    
+              {% comment %} Mobile {% endcomment %}
+          {%if product.metafields.full-capacity-m.body-text-full != blank %}
+            <div class="fullCapacity-modules fulCap-Mobile">
+              {{product.metafields.full-capacity-m.body-text-full}}
+            </div>
+            {% endif %}
+    </div>
+</div>
+
+
+{% schema %}
+    {
+      "name": "Video Metafields Block",
+      "class": "book-with-confidence",
+      "settings": [
+
+  
+       
+      ],
+      "presets": [
+        {
+            "name": "Video Metafields Block"
+          
+        }
+      ]
+    } 
+  {% endschema %}  
