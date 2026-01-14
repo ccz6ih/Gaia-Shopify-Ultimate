@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "header",
   "name": "t:labels.header_group",
@@ -20,9 +29,12 @@
           }
         }
       },
-      "block_order": ["announcement-1", "announcement-2"],
+      "block_order": [
+        "announcement-1",
+        "announcement-2"
+      ],
       "settings": {
-        "color_scheme": "2",
+        "color_scheme": "",
         "announcement_center": false,
         "toolbar_social": true,
         "show_locale_selector": true,
@@ -41,11 +53,16 @@
           }
         }
       },
-      "block_order": ["logo"],
+      "block_order": [
+        "logo"
+      ],
       "settings": {
-        "color_scheme": "1",
-        "cart_button_color_scheme": "6",
-        "main_menu_link_list": "main-menu",
+        "main_menu_link_list": "new-nav-menu",
+        "color_scheme": "",
+        "cart_button_color_scheme": "",
+        "type_navigation_style": "body",
+        "type_navigation_font_size": "sm",
+        "type_navigation_capitalize": true,
         "hover_menu": true,
         "main_menu_alignment": "left",
         "mega_products": true,
@@ -56,5 +73,8 @@
       }
     }
   },
-  "order": ["toolbar", "header"]
+  "order": [
+    "toolbar",
+    "header"
+  ]
 }
