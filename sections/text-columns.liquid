@@ -1,178 +1,73 @@
-{%- if section.settings.divider -%}<div class="section--divider">{%- endif -%}
-
-<div class="index-section color-scheme-{{ section.settings.color_scheme }}">
-  {%- if section.settings.color_scheme != 'none' -%}
-    {%- render 'color-scheme-texture', color_scheme: section.settings.color_scheme -%}
-  {%- endif -%}
- 
-  <div class="page-width">
-    {%- if section.settings.title != blank or section.settings.subtitle != blank -%}
-      <div class="section-header text-{{ section.settings.align_text }}">
-        <h2 class="{{ section.settings.heading_size }}">{{ section.settings.title }}</h2>
-        {%- if section.settings.subtitle != blank -%}
-          <p class="accent-subtitle">{{ section.settings.subtitle }}</p>
-        {%- endif -%}
-      </div>
-    {%- endif -%}
-
-    <div class="grid{% comment %}{% unless section.blocks.size == 5 %} grid--uniform{% endunless %}{% endcomment %} grid--flush-bottom">
-      {%- liquid
-        assign grid_item_width = 'medium-up--one-third'
-        comment
-        case section.blocks.size
-          when 1
-            assign grid_item_width = 'medium-up--one-half'
-          when 2
-            assign grid_item_width = 'medium-up--one-half'
-          when 4
-            assign grid_item_width = 'medium-up--one-half'
-        endcase
-        endcomment
-        case section.settings.grid
-          when 1
-            assign grid_item_width = 'medium-up--one-half'
-          when 2
-            assign grid_item_width = 'medium-up--one-half'
-          when 3
-            assign grid_item_width = 'medium-up--one-third'
-          when 4
-            assign grid_item_width = 'medium-up--one-quarter'
-          when 5
-            assign grid_item_width = 'medium-up--one-fifth'
-          when 6
-            assign grid_item_width = 'medium-up--one-sixth'
-        endcase
-      -%}
-      {%- for block in section.blocks -%}
-        {% comment %}{%- if section.blocks.size == 5 and forloop.index < 3 -%}
-          {%- assign column_width = 'medium-up--one-half' -%}
-        {%- else -%}
-          {%- assign column_width = grid_item_width -%}
-        {%- endif -%}{% endcomment %}
-        {%- assign column_width = grid_item_width -%}
-        <div class="grid__item {{ column_width }} text-{{ block.settings.align_text }}" {{ block.shopify_attributes }}>
-          {%- if block.settings.enable_image -%}
-            <div style="{% if block.settings.align_text == 'center' %}margin: 0 auto;{% endif %} max-width: {{ block.settings.image_width }}px;">
-              {%- if block.settings.button_link != blank -%}
-                <a href="{{ block.settings.button_link }}">
-              {%- endif -%}
-              {%- if block.settings.image != blank -%}
-                <div class="image-wrap text-spacing {% if block.settings.image_mask != 'none' %}svg-mask svg-mask--{{ block.settings.image_mask }}{% endif %}" style="height: 0; padding-bottom: {{ 100 | divided_by: block.settings.image.aspect_ratio }}%;">
-                  {%- render 'image-element',
-                    img: block.settings.image,
-                    sizeVariable: column_width,
-                    widths: '180, 360, 540, 720, 900, 1080',
-                    style: 'height: 100%;',
-                  -%}
-                </div>
-              {%- else -%}
-                <div class="image-wrap text-spacing">{{ 'image' | placeholder_svg_tag: 'placeholder-svg placeholder-svg--no-padding' }}</div>
-              {%- endif -%}
-              {%- if block.settings.button_link != blank -%}
-                </a>
-              {%- endif -%}
-            </div>
-          {%- endif -%}
-          {%- if block.settings.title != blank -%}
-            <h2 class="{{ block.settings.heading_size }} rte--block">{{ block.settings.title }}</h2>
-          {%- endif -%}
-          {%- if block.settings.text != blank -%}
-            <div class="rte-setting rte--block text-spacing">{{ block.settings.text }}</div>
-          {%- endif -%}
-          {%- if block.settings.button_label != blank -%}
-            <a href="{{ block.settings.button_link }}" class="btn btn--secondary btn--small">
-              {{ block.settings.button_label }}
-            </a>
-          {%- endif -%}
-        </div>
-      {%- endfor -%}
-    </div>
-  </div>
-</div>
-{%- if section.settings.divider -%}</div>{%- endif -%}
+{%- render 'section.text-columns' -%}
 
 {% schema %}
 {
-  "name": "t:sections.text-columns.name",
+  "name": "t:labels.text_columns_with",
   "settings": [
     {
       "type": "text",
       "id": "title",
-      "label": "t:sections.text-columns.settings.title.label"
+      "label": "t:labels.heading"
     },
     {
       "type": "select",
       "id": "heading_size",
-      "label": "t:sections.text-columns.settings.heading_size.label",
+      "label": "t:labels.heading_size",
       "default": "h2",
       "options": [
         {
           "value": "h0",
-          "label": "t:sections.text-columns.settings.heading_size.options.extra_large.label"
+          "label": "t:labels.sizes.extra_large"
         },
         {
           "value": "h1",
-          "label": "t:sections.text-columns.settings.heading_size.options.large.label"
+          "label": "t:labels.sizes.large"
         },
         {
           "value": "h2",
-          "label": "t:sections.text-columns.settings.heading_size.options.medium.label"
+          "label": "t:labels.sizes.medium"
         },
         {
           "value": "h3",
-          "label": "t:sections.text-columns.settings.heading_size.options.small.label"
+          "label": "t:labels.sizes.small"
         }
       ]
-    },
-    {
-      "type": "text",
-      "id": "subtitle",
-      "label": "t:sections.text-columns.settings.subtitle.label"
     },
     {
       "type": "select",
       "id": "align_text",
-      "label": "t:sections.text-columns.settings.align_text.label",
+      "label": "t:labels.alignment",
       "default": "left",
       "options": [
         {
           "value": "left",
-          "label": "t:sections.text-columns.settings.align_text.options.left.label"
+          "label": "t:labels.alignments.left"
         },
         {
           "value": "center",
-          "label": "t:sections.text-columns.settings.align_text.options.center.label"
+          "label": "t:labels.alignments.centered"
         },
         {
           "value": "right",
-          "label": "t:sections.text-columns.settings.align_text.options.right.label"
+          "label": "t:labels.alignments.right"
         }
       ]
     },
     {
-      "type": "range",
-      "id": "grid",
-      "label": "t:sections.text-columns.settings.grid.label",
-      "default": 3,
-      "min": 1,
-      "max": 6,
-      "step": 1
-    },
-    {
       "type": "checkbox",
       "id": "divider",
-      "label": "t:sections.text-columns.settings.divider.label",
+      "label": "t:actions.show_section_divider",
       "default": false
     },
     {
       "type": "select",
       "id": "color_scheme",
-      "label": "t:sections.text-columns.settings.color_scheme.label",
+      "label": "t:labels.color_scheme",
       "default": "none",
       "options": [
         {
           "value": "none",
-          "label": "t:sections.text-columns.settings.color_scheme.options.none.label"
+          "label": "t:labels.none"
         },
         {
           "value": "1",
@@ -192,79 +87,79 @@
   "blocks": [
     {
       "type": "text_block",
-      "name": "t:sections.text-columns.blocks.column.name",
+      "name": "t:labels.column",
       "settings": [
         {
           "type": "checkbox",
           "id": "enable_image",
-          "label": "t:sections.text-columns.blocks.column.settings.enable_image.label",
+          "label": "t:actions.show_image",
           "default": true
         },
         {
           "type": "image_picker",
           "id": "image",
-          "label": "t:sections.text-columns.blocks.column.settings.image.label"
+          "label": "t:labels.image"
         },
         {
           "type": "select",
           "id": "image_mask",
-          "label": "t:common.image_mask.label",
+          "label": "t:labels.image_shape",
           "default": "none",
           "options": [
             {
               "value": "none",
-              "label": "t:common.image_mask.options.none.label"
+              "label": "t:labels.none"
             },
             {
               "value": "portrait",
-              "label": "t:common.image_mask.options.portrait.label"
+              "label": "t:labels.portrait"
             },
             {
               "value": "landscape",
-              "label": "t:common.image_mask.options.landscape.label"
+              "label": "t:labels.landscape"
             },
             {
               "value": "square",
-              "label": "t:common.image_mask.options.square.label"
+              "label": "t:labels.square"
             },
             {
               "value": "rounded",
-              "label": "t:common.image_mask.options.rounded.label"
+              "label": "t:labels.rounded"
             },
             {
               "value": "rounded-wave",
-              "label": "t:common.image_mask.options.rounded-wave.label"
+              "label": "t:labels.rounded_wave"
             },
             {
               "value": "rounded-top",
-              "label": "t:common.image_mask.options.rounded-top.label"
+              "label": "t:labels.arch"
             },
             {
               "value": "star",
-              "label": "t:common.image_mask.options.star.label"
+              "label": "t:labels.star"
             },
             {
               "value": "splat-1",
-              "label": "t:common.image_mask.options.splat-1.label"
+              "label": "t:labels.splat_1"
             },
             {
               "value": "splat-2",
-              "label": "t:common.image_mask.options.splat-2.label"
+              "label": "t:labels.splat_2"
             },
             {
               "value": "splat-3",
-              "label": "t:common.image_mask.options.splat-3.label"
+              "label": "t:labels.splat_3"
             },
             {
               "value": "splat-4",
-              "label": "t:common.image_mask.options.splat-4.label"
+              "label": "t:labels.splat_4"
             }
           ]
         },
         {
           "type": "range",
           "id": "image_width",
-          "label": "t:sections.text-columns.blocks.column.settings.image_width.label",
+          "label": "t:labels.image_width",
           "default": 650,
           "min": 60,
           "max": 650,
@@ -274,76 +169,52 @@
         {
           "type": "text",
           "id": "title",
-          "label": "t:sections.text-columns.blocks.column.settings.title.label",
+          "label": "t:labels.heading",
           "default": "Example title"
-        },
-        {
-          "type": "select",
-          "id": "heading_size",
-          "label": "t:sections.text-columns.settings.heading_size.label",
-          "default": "h2",
-          "options": [
-            {
-              "value": "h3",
-              "label": "t:sections.text-columns.settings.heading_size.options.small.label"
-            },
-            {
-              "value": "h2",
-              "label": "t:sections.text-columns.settings.heading_size.options.medium.label"
-            },
-            {
-              "value": "h1",
-              "label": "t:sections.text-columns.settings.heading_size.options.large.label"
-            },
-            {
-              "value": "h0",
-              "label": "t:sections.text-columns.settings.heading_size.options.extra_large.label"
-            }
-          ]
         },
         {
           "type": "richtext",
           "id": "text",
-          "label": "t:sections.text-columns.blocks.column.settings.text.label",
+          "label": "t:labels.text",
           "default": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions.</p>"
         },
         {
           "type": "select",
           "id": "align_text",
-          "label": "t:sections.text-columns.settings.align_text.label",
+          "label": "t:labels.alignment",
           "default": "center",
           "options": [
             {
               "value": "left",
-              "label": "t:sections.text-columns.settings.align_text.options.left.label"
+              "label": "t:labels.alignments.left"
             },
             {
               "value": "center",
-              "label": "t:sections.text-columns.settings.align_text.options.center.label"
+              "label": "t:labels.alignments.centered"
             },
             {
               "value": "right",
-              "label": "t:sections.text-columns.settings.align_text.options.right.label"
+              "label": "t:labels.alignments.right"
             }
           ]
         },
         {
           "type": "text",
           "id": "button_label",
-          "label": "t:sections.text-columns.blocks.column.settings.button_label.label",
+          "label": "t:labels.button_label",
           "default": "Optional button"
         },
         {
           "type": "url",
           "id": "button_link",
-          "label": "t:sections.text-columns.blocks.column.settings.button_link.label"
+          "label": "t:labels.link"
         }
       ]
     }
   ],
   "presets": [
     {
-      "name": "t:sections.text-columns.presets.text_columns_with_images.name",
+      "name": "t:labels.text_columns_with",
       "blocks": [
         {
           "type": "text_block"

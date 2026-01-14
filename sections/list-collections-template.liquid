@@ -1,119 +1,65 @@
-{%- paginate collections by 20 -%}
-
-<div class="page-width page-content">
-
-  {%- if section.settings.title_enable -%}
-    <header class="section-header">
-      <h1 class="section-header__title">{{ 'collections.general.catalog_title' | t }}</h1>
-    </header>
-  {%- endif -%}
- 
-  {%- liquid
-    capture gridView
-      if section.settings.display_type == 'all'
-        render 'products_per_row', products_per_row: collections.size
-        assign sizeVariable = collections.size | at_most: 5
-      else
-        render 'products_per_row', products_per_row: section.blocks.size
-        assign sizeVariable = section.blocks.size | at_most: 5
-      endif
-    endcapture
-  -%}
-
-  <div class="new-grid" data-view="{{ gridView }}">
-    {%- if section.settings.display_type == 'all' -%}
-      {%- liquid
-        case section.settings.sort
-          when 'products_high' or 'products_low'
-            assign collections = collections | sort: 'all_products_count'
-          when 'date' or 'date_reversed'
-            assign collections = collections | sort: 'published_at'
-        endcase
-      -%}
-      {%- if section.settings.sort == 'products_low' or section.settings.sort == 'date' or section.settings.sort == 'alphabetical' -%}
-        {%- for collection in collections -%}
-          {%- render 'collection-grid-item', collection: collection, sizeVariable: sizeVariable, fallback: 'variable' -%}
-        {%- endfor -%}
-      {%- else -%}
-        {%- for collection in collections reversed -%}
-          {%- render 'collection-grid-item', collection: collection, sizeVariable: sizeVariable, fallback: 'variable' -%}
-        {%- endfor -%}
-      {%- endif -%}
-    {%- else -%}
-      {%- for block in section.blocks -%}
-        {%- assign collection = collections[block.settings.collection] -%}
-        {%- render 'collection-grid-item', collection: collection, block: block, sizeVariable: sizeVariable, fallback: 'variable' -%}
-      {%- endfor -%}
-    {%- endif -%}
-  </div>
-
-  {%- if paginate.pages > 1 and section.settings.display_type == 'all' -%}
-    {%- render 'pagination', paginate: paginate -%}
-  {%- endif -%}
-</div>
-
-{%- endpaginate -%}
+{%- render 'section.list-collections-template' -%}
 
 {% schema %}
 {
-  "name": "t:sections.list-collections-template.name",
+  "name": "t:labels.collections_list_page",
   "settings": [
     {
       "type": "checkbox",
       "id": "title_enable",
-      "label": "t:sections.list-collections-template.settings.title_enable.label",
+      "label": "t:actions.show_title",
       "default": true
     },
     {
       "type": "paragraph",
-      "content": "t:sections.list-collections-template.settings.content"
+      "content": "t:info.collections_listed_by_default"
     },
     {
       "type": "radio",
       "id": "display_type",
-      "label": "t:sections.list-collections-template.settings.display_type.label",
+      "label": "t:actions.select_collections_to_show",
       "default": "all",
       "options": [
         {
           "value": "all",
-          "label": "t:sections.list-collections-template.settings.display_type.options.all.label"
+          "label": "t:labels.all"
         },
         {
           "value": "selected",
-          "label": "t:sections.list-collections-template.settings.display_type.options.selected.label"
+          "label": "t:labels.selected"
         }
       ]
     },
     {
       "type": "select",
       "id": "sort",
-      "label": "t:sections.list-collections-template.settings.sort.label",
-      "info": "t:sections.list-collections-template.settings.sort.info",
-      "default": "products_high",
+      "label": "t:actions.sort_collections_by",
+      "info": "t:info.sorting_applies_when_all_selected",
+      "default": "alphabetical",
       "options": [
         {
           "value": "products_high",
-          "label": "t:sections.list-collections-template.settings.sort.options.products_high.label"
+          "label": "t:labels.sortings.product_count_high"
         },
         {
           "value": "products_low",
-          "label": "t:sections.list-collections-template.settings.sort.options.products_low.label"
+          "label": "t:labels.sortings.product_count_low"
         },
         {
           "value": "alphabetical",
-          "label": "t:sections.list-collections-template.settings.sort.options.alphabetical.label"
+          "label": "t:labels.sortings.alphabetically_az"
         },
         {
           "value": "alphabetical_reversed",
-          "label": "t:sections.list-collections-template.settings.sort.options.alphabetical_reversed.label"
+          "label": "t:labels.sortings.alphabetically_za"
         },
         {
           "value": "date",
-          "label": "t:sections.list-collections-template.settings.sort.options.date.label"
+          "label": "t:labels.sortings.date_old_to"
         },
         {
           "value": "date_reversed",
-          "label": "t:sections.list-collections-template.settings.sort.options.date_reversed.label"
+          "label": "t:labels.sortings.date_new_to"
         }
       ]
     }
@@ -121,10 +67,10 @@
   "blocks": [
     {
       "type": "collection",
-      "name": "t:sections.list-collections-template.blocks.collection.name",
+      "name": "t:labels.collection",
       "settings": [
         {
-          "label": "t:sections.list-collections-template.blocks.collection.settings.collection.label",
+          "label": "t:labels.collection",
           "id": "collection",
           "type": "collection"
         }

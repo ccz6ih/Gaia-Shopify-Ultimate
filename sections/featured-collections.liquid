@@ -1,133 +1,91 @@
-{%- if section.settings.divider -%}<div class="section--divider">{%- endif -%}
-
-{%- liquid
-  capture gridView
-    render 'products_per_row', products_per_row: section.blocks.size
-  endcapture
- -%}
-
-<div class="page-width">
-  {%- if section.settings.title != blank -%}
-    <div class="section-header text-{{ section.settings.heading_position }}">
-      <h2 class="section-header__title {{ section.settings.heading_size }}">{{ section.settings.title }}</h2>
-    </div>
-  {%- endif -%} 
-
-  <div class="new-grid" data-view="{% if section.blocks.size < 6 %}{{ gridView }}{% else %}6-3{% endif %}">
-    {%- liquid
-      assign isEmpty = true
-      if section.blocks.size > 0
-        assign isEmpty = false
-      endif
-    -%}
-
-    {%- for block in section.blocks -%}
-      {%- liquid
-        assign collection = collections[block.settings.collection]
-        assign sizeVariable = section.blocks.size | at_most: 6
-        render 'collection-grid-item', collection: collection, block: block, sizeVariable: sizeVariable, fallback: 'variable'
-      -%}
-    {%- endfor -%}
-
-    {%- if isEmpty -%}
-      <div class="page-width">
-        <div class="rte">
-          {{ 'home_page.onboarding.no_content' | t }}
-        </div>
-      </div>
-    {%- endif -%}
-
-  </div>
-</div>
-
-{%- if section.settings.divider -%}</div>{%- endif -%}
+{%- render 'section.featured-collections' -%}
 
 {% schema %}
 {
-  "name": "t:sections.featured-collections.name",
+  "name": "t:labels.collection_list",
   "class": "index-section",
   "max_blocks": 18,
   "settings": [
     {
       "type": "text",
       "id": "title",
-      "label": "t:sections.featured-collections.settings.title.label",
+      "label": "t:labels.heading",
       "default": "Popular categories"
     },
     {
       "type": "select",
       "id": "heading_size",
-      "label": "t:sections.featured-collections.settings.heading_size.label",
+      "label": "t:labels.heading_size",
       "default": "h2",
       "options": [
         {
           "value": "h3",
-          "label": "t:sections.featured-collections.settings.heading_size.options.small.label"
+          "label": "t:labels.sizes.small"
         },
         {
           "value": "h2",
-          "label": "t:sections.featured-collections.settings.heading_size.options.medium.label"
+          "label": "t:labels.sizes.medium"
         },
         {
           "value": "h1",
-          "label": "t:sections.featured-collections.settings.heading_size.options.large.label"
+          "label": "t:labels.sizes.large"
         },
         {
           "value": "h0",
-          "label": "t:sections.featured-collections.settings.heading_size.options.extra_large.label"
+          "label": "t:labels.sizes.extra_large"
         }
       ]
     },
     {
       "type": "select",
       "id": "heading_position",
-      "label": "t:sections.featured-collections.settings.heading_position.label",
+      "label": "t:labels.heading_position",
       "default": "left",
       "options": [
         {
           "value": "left",
-          "label": "t:sections.featured-collections.settings.heading_position.options.left.label"
+          "label": "t:labels.alignments.left"
         },
         {
           "value": "center",
-          "label": "t:sections.featured-collections.settings.heading_position.options.center.label"
+          "label": "t:labels.alignments.center"
         },
         {
           "value": "right",
-          "label": "t:sections.featured-collections.settings.heading_position.options.right.label"
+          "label": "t:labels.alignments.right"
         }
       ]
     },
     {
       "type": "checkbox",
       "id": "divider",
-      "label": "t:sections.featured-collections.settings.divider.label",
+      "label": "t:actions.show_section_divider",
       "default": false
     }
   ],
   "blocks": [
     {
       "type": "collection",
-      "name": "t:sections.featured-collections.blocks.collection.name",
+      "name": "t:labels.collection",
       "settings": [
         {
           "id": "collection",
           "type": "collection",
-          "label": "t:sections.featured-collections.blocks.collection.settings.collection.label",
-          "info": "t:sections.featured-collections.blocks.collection.settings.collection.info"
+          "label": "t:labels.collection",
+          "info": "t:info.image_source_adjusted_theme_settings"
         },
         {
           "type": "text",
           "id": "title",
-          "label": "t:sections.featured-collections.blocks.collection.settings.title.label",
-          "info": "t:sections.featured-collections.blocks.collection.settings.title.info"
+          "label": "t:labels.title",
+          "info": "t:info.defaults_to_collection_title"
         }
       ]
     }
   ],
   "presets": [
     {
-      "name": "t:sections.featured-collections.presets.collection_list.name",
+      "name": "t:labels.collection_list",
       "blocks": [
         {
           "type": "collection"

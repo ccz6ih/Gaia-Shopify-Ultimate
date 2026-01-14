@@ -16,7 +16,8 @@
       "Bash(git commit -m \"$\\(cat <<''EOF''\nInitial commit: Gaia-Ultimate Shopify Theme\n\nMerged Dawn + Fetch themes into a single ultimate theme with:\n- 156 sections \\(Dawn base + Fetch features\\)\n- 107 snippets\n- 147 templates\n- 223 assets\n- 51 locale files\n\nKey features:\n- Modern OS 2.0 architecture from Dawn\n- Flexible column layouts \\(columns-1/2/3\\)\n- Texture overlays for color schemes\n- Quick Shop/Quick Add modals\n- Color swatches on product cards\n- Breadcrumbs navigation\n- Recently viewed products\n- Enhanced typography controls\n- Newsletter popup\n- Age verification popup\n- 110+ product template variants\n- 13 collection template variants\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
       "Bash(git branch:*)",
       "Bash(git push:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(git clone:*)"
     ]
   }
 }

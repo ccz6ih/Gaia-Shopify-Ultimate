@@ -1,0 +1,13 @@
+{%- comment -%}
+  Renders the follow shop login button.
+  https://shopify.dev/docs/api/liquid/filters/login_button
+
+  Usage:
+  {% render 'follow-shop-cta' %}
+{%- endcomment -%}
+
+{%- if shop.features.follow_on_shop? -%}
+  <div class="footer__follow-on-shop">
+    {{ shop | login_button: action: 'follow' }}
+  </div>
+{%- endif -%}

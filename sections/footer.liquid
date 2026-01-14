@@ -1,220 +1,155 @@
-{%- if section.settings.show_newsletter -%}
-  <div class="footer__section footer__section--border">
-    <div class="page-width">
-      <div class="footer__newsletter">
-        {%- if section.settings.newsletter_richtext != blank -%}
-          <div class="footer__subscribe rte rte--nomargin">
-            {{ section.settings.newsletter_richtext }}
-          </div>
-        {%- endif -%}
-
-        {%- render 'newsletter-form', section_id: section.id, snippet_context: 'footer' -%}
-      </div>
-    </div>
-  </div>
-{%- endif -%} 
-
-{% comment %}
-  Main navigation is copied here with JS for mobile users
-{% endcomment %}
-{%- if section.settings.footer_main_menu -%}
-  <div id="FooterMobileNavWrap" class="footer__section footer__section--border medium-up--hide hide">
-    <div id="FooterMobileNav" class="page-width"></div>
-  </div>
-{%- endif -%}
-
-<footer class="site-footer" data-section-id="{{ section.id }}" data-section-type="footer-section">
-  <div id="FooterMenus" class="footer__section footer__section--menus {% if section.settings.show_wave %}background-svg--wave-reverse{% endif %}">
-    <div class="page-width">
-      <div class="footer__blocks">
-        {%- for block in section.blocks -%}
-          <div {{ block.shopify_attributes }} class="footer__block footer__block--{{ block.type }}" data-type="{{ block.type }}">
-            {%- liquid
-              case block.type
-                when 'menu'
-                  render 'footer-menu', block: block
-                when 'payment'
-                  assign show_currency_flags = block.settings.show_currency_flags
-                  render 'footer-payments', block: block, show_currency_flags: show_currency_flags
-                when 'contact'
-                  render 'footer-contact', block: block
-                when 'image'
-                  render 'footer-image', block: block
-              endcase
-            -%}
-          </div>
-        {%- endfor -%}
-      </div>
-    </div>
-  </div>
-
-  <div class="footer__section">
-    <div class="page-width text-center small--text-left">
-      <div class="footer__base-links">
-        {%- if section.settings.show_copyright -%}
-          <span>
-            &copy; {{ 'now' | date: '%Y' }} {{ shop.name }}
-            {%- if section.settings.copyright_text != blank -%}
-              {{ section.settings.copyright_text }}
-            {%- endif -%}
-          </span>
-        {%- endif -%}
-        {%- if linklists[section.settings.policies_menu].links.size > 0 -%}
-          {%- for link in linklists[section.settings.policies_menu].links -%}
-            <a href="{{ link.url }}">{{ link.title }}</a>
-          {%- endfor -%}
-        {%- endif -%}
-        {{ powered_by_link }}
-        <button onclick="javascript:OneTrust.ToggleInfoDisplay();" style="text-decoration: underline; text-underline-offset: 2px; font-size: 13px;">Cookie Settings</button>
-      </div>
-    </div>
-  </div>
-</footer>
+{%- render 'section.footer' -%}
 
 {% schema %}
 {
-  "name": "t:sections.footer.name",
+  "name": "t:labels.footer",
   "max_blocks": 5,
   "settings": [
     {
       "type": "header",
-      "content": "t:sections.footer.settings.header_newsletter"
+      "content": "t:labels.newsletter"
+    },
+    {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "Color Scheme",
+      "default": "4"
     },
     {
       "type": "checkbox",
       "id": "show_newsletter",
-      "label": "t:sections.footer.settings.show_newsletter.label",
-      "info": "t:sections.footer.settings.show_newsletter.info",
+      "label": "t:actions.show_newsletter_signup",
+      "info": "t:info.customers_who_subscribe_accept_marketing",
       "default": true
     },
     {
       "type": "richtext",
       "id": "newsletter_richtext",
-      "label": "t:sections.footer.settings.newsletter_richtext.label",
+      "label": "t:labels.text",
       "default": "<p>Subscribe today to hear first about our sales</p>"
     },
     {
       "type": "header",
-      "content": "t:sections.footer.settings.header_additional_footer_content"
+      "content": "t:labels.additional_footer_content"
     },
     {
       "type": "checkbox",
       "id": "footer_main_menu",
-      "label": "t:sections.footer.settings.footer_main_menu.label",
+      "label": "t:actions.repeat_main_menu",
       "default": true
     },
     {
       "type": "checkbox",
       "id": "show_copyright",
-      "label": "t:sections.footer.settings.show_copyright.label"
+      "label": "t:actions.show_copyright"
     },
     {
       "type": "text",
       "id": "copyright_text",
-      "label": "t:sections.footer.settings.copyright_text.label"
+      "label": "t:labels.additional_copyright_text"
     },
     {
       "type": "link_list",
       "id": "policies_menu",
-      "label": "t:sections.footer.settings.policies_menu.label",
-      "info": "t:sections.footer.settings.policies_menu.info"
+      "label": "t:labels.policies_menu",
+      "info": "t:info.menu_shows_top_level"
     },
     {
       "type": "checkbox",
       "id": "show_wave",
-      "label": "t:sections.footer.settings.show_wave.label",
+      "label": "t:actions.show_wave_transition",
       "default": false
     }
   ],
   "blocks": [
     {
       "type": "payment",
-      "name": "t:sections.footer.blocks.payments_and_localization.name",
+      "name": "t:labels.payments_and_localization",
       "limit": 1,
       "settings": [
         {
           "type": "checkbox",
           "id": "show_payment_icons",
-          "label": "t:sections.footer.blocks.payments_and_localization.settings.show_payment_icons.label",
+          "label": "t:actions.show_payment_icons",
           "default": true
         },
         {
           "type": "checkbox",
           "id": "show_locale_selector",
-          "label": "t:sections.footer.blocks.payments_and_localization.settings.show_locale_selector.label",
-          "info": "t:sections.footer.blocks.payments_and_localization.settings.show_locale_selector.info",
+          "label": "t:actions.show_language_selector",
+          "info": "t:info.to_add_language_settings",
           "default": true
         },
         {
           "type": "checkbox",
           "id": "show_currency_selector",
-          "label": "t:sections.footer.blocks.payments_and_localization.settings.show_currency_selector.label",
-          "info": "t:sections.footer.blocks.payments_and_localization.settings.show_currency_selector.info",
+          "label": "t:actions.show_currency_selector",
+          "info": "t:info.to_add_currency_settings",
           "default": true
         },
         {
           "type": "checkbox",
           "id": "show_currency_flags",
-          "label": "t:sections.footer.blocks.payments_and_localization.settings.show_currency_flags.label",
+          "label": "t:actions.show_currency_flags",
           "default": true
         }
       ]
     },
     {
       "type": "menu",
-      "name": "t:sections.footer.blocks.navigation.name",
+      "name": "t:labels.navigation",
       "settings": [
         {
           "type": "text",
           "id": "title",
-          "label": "t:sections.footer.blocks.navigation.settings.title.label",
-          "info": "t:sections.footer.blocks.navigation.settings.title.info"
+          "label": "t:labels.title",
+          "info": "t:info.defaults_to_menu_title"
         },
         {
           "type": "link_list",
           "id": "menu",
-          "label": "t:sections.footer.blocks.navigation.settings.menu.label",
+          "label": "t:actions.choose_a_menu",
           "default": "footer",
-          "info": "t:sections.footer.blocks.navigation.settings.menu.info"
+          "info": "t:info.menu_shows_top_level"
         },
         {
           "type": "checkbox",
           "id": "enable_account_link",
-          "label": "t:sections.footer.blocks.navigation.settings.enable_account_link.label"
+          "label": "t:actions.add_my_account_link"
         }
       ]
     },
     {
       "type": "contact",
-      "name": "t:sections.footer.blocks.contact_and_social.name",
+      "name": "t:labels.contact_and_social",
       "settings": [
         {
           "type": "header",
-          "content": "t:sections.footer.blocks.contact_and_social.settings.header_contact"
+          "content": "t:labels.contact"
         },
         {
           "type": "text",
           "id": "phone",
-          "label": "t:sections.footer.blocks.contact_and_social.settings.phone.label"
+          "label": "t:labels.phone_number"
         },
         {
           "type": "page",
           "id": "contact",
-          "label": "t:sections.footer.blocks.contact_and_social.settings.contact.label"
+          "label": "t:labels.contact_page"
         },
         {
           "type": "page",
           "id": "chat",
-          "label": "t:sections.footer.blocks.contact_and_social.settings.chat.label"
+          "label": "t:labels.chat_link"
         },
         {
           "type": "header",
-          "content": "t:sections.footer.blocks.contact_and_social.settings.header_social"
+          "content": "t:labels.social"
         },
         {
           "type": "checkbox",
           "id": "enable_social",
-          "label": "t:sections.footer.blocks.contact_and_social.settings.enable_social.label",
+          "label": "t:actions.show_social_accounts",
           "default": true
         }
       ]
@@ -226,70 +161,81 @@
         {
           "type": "image_picker",
           "id": "image",
-          "label": "t:sections.footer.blocks.logo.settings.image.label",
-          "info": "t:sections.footer.blocks.logo.settings.image.info"
+          "label": "t:labels.image",
+          "info": "t:actions.add_alt_text"
         },
         {
           "type": "select",
           "id": "image_mask",
-          "label": "t:common.image_mask.label",
+          "label": "t:labels.image_shape",
           "default": "none",
           "options": [
             {
               "value": "none",
-              "label": "t:common.image_mask.options.none.label"
+              "label": "t:labels.none"
             },
             {
               "value": "portrait",
-              "label": "t:common.image_mask.options.portrait.label"
+              "label": "t:labels.portrait"
             },
             {
               "value": "landscape",
-              "label": "t:common.image_mask.options.landscape.label"
+              "label": "t:labels.landscape"
             },
             {
               "value": "square",
-              "label": "t:common.image_mask.options.square.label"
+              "label": "t:labels.square"
             },
             {
               "value": "rounded",
-              "label": "t:common.image_mask.options.rounded.label"
+              "label": "t:labels.rounded"
             },
             {
               "value": "rounded-wave",
-              "label": "t:common.image_mask.options.rounded-wave.label"
+              "label": "t:labels.rounded_wave"
             },
             {
               "value": "rounded-top",
-              "label": "t:common.image_mask.options.rounded-top.label"
+              "label": "t:labels.arch"
             },
             {
               "value": "star",
-              "label": "t:common.image_mask.options.star.label"
+              "label": "t:labels.star"
             },
             {
               "value": "splat-1",
-              "label": "t:common.image_mask.options.splat-1.label"
+              "label": "t:labels.splat_1"
             },
             {
               "value": "splat-2",
-              "label": "t:common.image_mask.options.splat-2.label"
+              "label": "t:labels.splat_2"
             },
             {
               "value": "splat-3",
-              "label": "t:common.image_mask.options.splat-3.label"
+              "label": "t:labels.splat_3"
             },
             {
               "value": "splat-4",
-              "label": "t:common.image_mask.options.splat-4.label"
+              "label": "t:labels.splat_4"
             }
           ]
         },
         {
           "type": "url",
           "id": "link",
-          "label": "t:sections.footer.blocks.logo.settings.link.label",
-          "info": "t:sections.footer.blocks.logo.settings.link.info"
+          "label": "t:labels.link",
+          "info": "t:labels.optional"
+        }
+      ]
+    },
+    {
+      "type": "follow_shop_cta",
+      "name": "t:labels.follow_on_shop",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "paragraph",
+          "content": "t:info.enable_shop_pay_for_shop_app_follow"
         }
       ]
     }

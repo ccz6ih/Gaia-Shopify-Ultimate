@@ -1,112 +1,61 @@
-<div class="search-content" data-section-id="{{ section.id }}" data-section-type="collection-template" data-collection-template="true">
-  <div class="page-width page-content">
-    {%- render 'breadcrumbs' -%}
- 
-    <header class="section-header">
-      <h1 class="section-header__title">
-        {{ 'general.search.title' | t }}
-      </h1>
-      <p class="medium-up--hide" data-collection-count>
-        {{ 'general.search.result_count' | t: count: search.results_count }}
-      </p>
-    </header>
-
-    {% render 'predictive-search', context: 'search-page' %}
-
-    {%- if search.performed -%}
-      {%- if search.results_count == 0 -%}
-        <div class="section-header">
-            <p>{{ 'general.search.no_results_html' | t: terms: search.terms | replace: '*', '' }}</p>
-        </div>
-      {%- else -%}
-        <div id="CollectionAjaxContent" class="grid collection-content">
-          <div class="grid__item medium-up--one-fifth grid__item--sidebar">
-            {%- render 'collection-grid-filters',
-              collection: search,
-              enable_sidebar: section.settings.enable_sidebar,
-              enable_color_swatches: section.settings.enable_color_swatches,
-              tags_combine: section.settings.tags_combine,
-              enable_sort: section.settings.enable_sort,
-              collapse_filters: section.settings.collapse_filters
-            -%}
-          </div>
-          <div class="grid__item medium-up--four-fifths grid__item--content">
-            {%- paginate search.results by paginate_by -%}
-
-            <div {{ block.shopify_attributes }}>
-              {%- render 'collection-grid'
-                collection: search,
-                items: search.results,
-                grid_style: section.settings.grid_style,
-                quick_shop_enable: settings.quick_shop_enable
-              -%}
-            </div>
-
-            {%- liquid
-              if paginate.pages > 1
-                render 'pagination', paginate: paginate
-              endif
-            -%}
-
-            {%- endpaginate -%}
-          </div>
-        </div>
-      {%- endif -%}
-
-    {%- endif -%}
-  </div>
-</div>
+{%- render 'section.main-search' -%}
 
 {% schema %}
 {
-  "name": "t:sections.main-search.name",
+  "name": "t:labels.search_page",
   "settings": [
     {
       "type": "header",
-      "content": "t:sections.main-search.settings.header_filtering_and_sorting"
+      "content": "t:labels.filtering_and_sorting"
     },
     {
       "type": "checkbox",
       "id": "enable_sidebar",
-      "label": "t:sections.main-search.settings.enable_sidebar.label",
+      "label": "t:actions.enable_filter",
       "default": true,
-      "info": "t:sections.main-search.settings.enable_sidebar.info"
+      "info": "t:info.allow_your_customers_to_filter"
     },
     {
       "type": "checkbox",
       "id": "collapse_filters",
-      "label": "t:sections.main-search.settings.collapse_filters.label",
+      "label": "t:actions.collapse_filters",
       "default": true
     },
     {
       "type": "checkbox",
       "id": "enable_color_swatches",
-      "label": "t:sections.main-search.settings.enable_color_swatches.label",
-      "info": "t:sections.main-search.settings.enable_color_swatches.info"
+      "label": "t:actions.enable_color_swatches",
+      "info": "t:actions.view_setup_instructions"
+    },
+    {
+      "type": "checkbox",
+      "id": "enable_swatch_labels",
+      "label": "t:actions.show_swatch_labels",
+      "default": true
     },
     {
       "type": "checkbox",
       "id": "enable_sort",
-      "label": "t:sections.main-search.settings.enable_sort.label",
+      "label": "t:actions.show_sort_options",
       "default": true
     },
     {
       "type": "select",
       "id": "grid_style",
-      "label": "t:sections.main-search.settings.grid_style.label",
+      "label": "t:labels.default_product_layout",
       "default": "medium",
       "options": [
         {
           "value": "large",
-          "label": "t:sections.main-search.settings.grid_style.options.large.label"
+          "label": "t:labels.large_grid"
         },
         {
           "value": "medium",
-          "label": "t:sections.main-search.settings.grid_style.options.small.label"
+          "label": "t:labels.small_grid"
         },
         {
           "value": "list",
-          "label": "t:sections.main-search.settings.grid_style.options.list.label"
+          "label": "t:labels.list"
         }
       ]
     }

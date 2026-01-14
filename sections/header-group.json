@@ -1,73 +1,60 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "type": "header",
-  "name": "t:sections.header-group.name",
+  "name": "t:labels.header_group",
   "sections": {
     "toolbar": {
       "type": "toolbar",
       "blocks": {
-        "announcement_JL9Fmd": {
+        "announcement-1": {
           "type": "announcement",
           "settings": {
-            "richtext": "<p><a href=\"https://www.gaia.com/travelmanager\" target=\"_blank\" title=\"https://www.gaia.com/travelmanager\">Meet your travel manager - save $100!</a></p>",
-            "login-no": "",
-            "login-link": "",
-            "signup-no": "",
-            "signup-link": "",
-            "login-yes": "",
-            "login-link-yes": "",
-            "richtext_mobile": "<p><a href=\"https://www.gaia.com/travelmanager\" target=\"_blank\" title=\"https://www.gaia.com/travelmanager\">Meet your travel manager - save $100!</a></p>"
+            "richtext": "<p>Hassle-free returns. 30-day postage paid returns</p>",
+            "richtext_mobile": ""
+          }
+        },
+        "announcement-2": {
+          "type": "announcement",
+          "settings": {
+            "richtext": "<p>Hassle-free returns. 30-day postage paid returns</p>",
+            "richtext_mobile": ""
           }
         }
       },
-      "block_order": [
-        "announcement_JL9Fmd"
-      ],
+      "block_order": ["announcement-1", "announcement-2"],
       "settings": {
-        "announcement_center": true,
-        "one-text": false,
-        "toolbar_social": false,
+        "color_scheme": "2",
+        "announcement_center": false,
+        "toolbar_social": true,
         "show_locale_selector": true,
-        "show_currency_selector": false,
+        "show_currency_selector": true,
         "show_currency_flags": true
       }
     },
     "header": {
       "type": "header",
       "blocks": {
-        "96fbd5fb-0788-4efe-bf96-c6a8a7f64168": {
+        "logo": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Gaia_Marketplace_Logo_500x300_teal_v2_1_12655a78-a075-41f0-9f30-26de01cc6c66.png",
-            "desktop_logo_width": 230,
-            "mobile_logo_width": 140
+            "desktop_logo_width": 110,
+            "mobile_logo_width": 90
           }
         }
       },
-      "block_order": [
-        "96fbd5fb-0788-4efe-bf96-c6a8a7f64168"
-      ],
+      "block_order": ["logo"],
       "settings": {
-        "main_menu_link_list": "new-nav-menu",
+        "color_scheme": "1",
+        "cart_button_color_scheme": "6",
+        "main_menu_link_list": "main-menu",
+        "hover_menu": true,
         "main_menu_alignment": "left",
         "mega_products": true,
         "header_sticky": true,
         "header_footer_menu": true,
         "sticky_index": false,
-        "sticky_collection": true
+        "sticky_collection": false
       }
     }
   },
-  "order": [
-    "toolbar",
-    "header"
-  ]
+  "order": ["toolbar", "header"]
 }

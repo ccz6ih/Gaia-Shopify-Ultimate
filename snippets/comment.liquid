@@ -1,14 +1,24 @@
-<div class="grid">
+{%- comment -%}
+  Renders an article comment.
+
+  Accepts:
+  - component {comment} - The comment of the article
+
+  Usage:
+  {% render 'component', component: component %}
+{%- endcomment -%}
+
+<div class="float-grid clearfix">
   <div class="grid__item medium-up--one-quarter">
-    <span class="h5 comment-author">{{ comment.author }}</span>
+    <span class="heading-xs comment-author">{{ comment.author }}</span>
     <span class="comment-date">
-      {{ comment.created_at | time_tag: format: 'month_day_year' }}
+      {{ comment.created_at | date: format: 'date_at_time' }}
     </span>
   </div>
+
   <div class="grid__item medium-up--three-quarters">
-    <div class="rte">
+    <div class="rte clearfix">
       {{ comment.content }}
     </div>
   </div>
 </div>
- 

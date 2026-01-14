@@ -1,112 +1,69 @@
-{%- paginate blog.articles by 9 -%}
-
-<div data-section-id="{{ section.id }}" data-section-type="blog">
-  <header class="section-header{% if section.settings.blog_show_tag_filter and blog.tags.size > 0 %} section-header--with-link{% endif %}">
-    <h1 class="section-header__title">
-      {{ blog.title }}
- 
-      {%- if section.settings.blog_show_rss -%}
-        <a href="{{ shop.url }}{{ blog.url }}.atom" class="rss-link">
-          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-rss" viewBox="0 0 20 20"><path fill="#444" d="M5.903 16.586a2.489 2.489 0 1 1-4.977 0 2.489 2.489 0 0 1 4.977 0zM12.956 19.075H9.43c0-4.688-3.817-8.505-8.505-8.505V7.044c6.638 0 12.031 5.393 12.031 12.031z"/><path fill="#444" d="M15.445 19.075c0-8.028-6.493-14.52-14.52-14.52V.925c10.019 0 18.15 8.131 18.15 18.15h-3.63z"/></svg>
-          <span class="icon__fallback-text">RSS</span>
-        </a>
-      {%- endif -%}
-    </h1>
-  </header>
-
-  <div class="new-grid">
-    {%- for article in blog.articles -%}
-      {%- liquid
-        assign style = 'medium'
-        if forloop.first
-          assign style = 'large'
-        endif
-      -%}
-      {%- render 'article-grid-item',
-        blog: blog,
-        article: article,
-        style: style,
-        show_tags: section.settings.blog_show_tags,
-        show_date: section.settings.blog_show_date,
-        show_comments: section.settings.blog_show_comments,
-        show_author: section.settings.blog_show_author,
-        image_size: section.settings.blog_image_size -%}
-    {%- endfor -%}
-  </div>
-
-  {%- liquid
-    if paginate.pages > 1
-      render 'pagination', paginate: paginate
-    endif
-  -%}
-</div>
-
-{%- endpaginate -%}
+{%- render 'section.blog-template' -%}
 
 {% schema %}
 {
-  "name": "t:sections.blog-template.name",
+  "name": "t:labels.blog_pages",
   "class": "blog-layout__main",
   "settings": [
     {
       "type": "checkbox",
       "id": "blog_show_rss",
-      "label": "t:sections.blog-template.settings.blog_show_rss.label"
+      "label": "t:actions.show_rss_link"
     },
     {
       "type": "checkbox",
       "id": "blog_show_tags",
-      "label": "t:sections.blog-template.settings.blog_show_tags.label",
+      "label": "t:actions.show_tags",
       "default": true
     },
     {
       "type": "checkbox",
       "id": "blog_show_date",
-      "label": "t:sections.blog-template.settings.blog_show_date.label",
+      "label": "t:actions.show_date",
       "default": true
     },
     {
       "type": "checkbox",
       "id": "blog_show_comments",
-      "label": "t:sections.blog-template.settings.blog_show_comments.label",
+      "label": "t:actions.show_comment_count",
       "default": true
     },
     {
       "type": "checkbox",
       "id": "blog_show_author",
-      "label": "t:sections.blog-template.settings.blog_show_author.label"
+      "label": "t:actions.show_author"
     },
     {
       "type": "checkbox",
       "id": "blog_show_excerpt",
-      "label": "t:sections.blog-template.settings.blog_show_excerpt.label",
+      "label": "t:actions.show_excerpt",
       "default": false
     },
     {
       "type": "select",
       "id": "blog_image_size",
-      "label": "t:sections.blog-template.settings.blog_image_size.label",
+      "label": "t:actions.force_image_size",
       "default": "wide",
       "options": [
         {
           "value": "natural",
-          "label": "t:sections.blog-template.settings.blog_image_size.options.natural.label"
+          "label": "t:labels.natural"
         },
         {
           "value": "square",
-          "label": "t:sections.blog-template.settings.blog_image_size.options.square.label"
+          "label": "t:labels.square_11"
         },
         {
           "value": "landscape",
-          "label": "t:sections.blog-template.settings.blog_image_size.options.landscape.label"
+          "label": "t:labels.landscape_43"
         },
         {
           "value": "portrait",
-          "label": "t:sections.blog-template.settings.blog_image_size.options.portrait.label"
+          "label": "t:labels.portrait_23"
         },
         {
           "value": "wide",
-          "label": "t:sections.blog-template.settings.blog_image_size.options.wide.label"
+          "label": "t:labels.wide_16_9"
         }
       ]
     }

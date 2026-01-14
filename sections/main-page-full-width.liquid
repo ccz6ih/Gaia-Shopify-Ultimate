@@ -1,18 +1,8 @@
-<div class="page-full page-content">
-  <header class="section-header">
-    <h1 class="section-header__title">
-      {{ page.title | escape }}
-    </h1>
-  </header>
- 
-  <div class="rte rte--nomargin">
-    {{ page.content }}
-  </div>
-</div>
+{%- render 'section.main-page-full-width' -%}
 
 {% schema %}
 {
-  "name": "t:sections.main-page-full-width.name",
+  "name": "t:labels.page_full_width",
   "tag": "section"
 }
 {% endschema %}

@@ -1,65 +1,37 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "type": "custom.popups",
-  "name": "t:sections.popup-group.name",
+  "name": "t:labels.popups",
   "sections": {
     "newsletter-popup": {
       "type": "newsletter-popup",
+      "disabled": true,
       "blocks": {
         "reminder-block": {
           "type": "header",
-          "settings": {
-            "reminder_label": "Join Our Community!"
-          }
+          "disabled": true,
+          "settings": {}
         }
       },
       "block_order": [
         "reminder-block"
       ],
       "settings": {
-        "show_custom_cta": false,
-        "custom_title": "Take the survey!",
-        "custom_description": "Share your thoughts and you could win 2 tickets to any Gaiasphere event of your choice!",
-        "custom_button_link": "https://docs.google.com/forms/d/e/1FAIpQLSev5NToqBITJ0-Xxj4eNCtaR1S6WkbQvv1Zcl-EF0de0QR07A/viewform?usp=header",
-        "custom_button_text": "Take the Survey!",
-        "custom_button_aria_label": "Take the Survey",
-        "disable_for_account_holders": false,
-        "popup_seconds": 10,
+        "disable_for_account_holders": true,
+        "popup_seconds": 5,
         "popup_days": 30,
-        "popup_title": "Join Our Community!",
-        "popup_text": "Get subscriber-only discounts and be the first to know about upcoming events, tours & offers.",
-        "popup_image": "shopify://shop_images/peeps.jpg",
+        "popup_title": "Save 10% off your first purchase",
+        "popup_text": "<p>Sign up today and we&#x27;ll send you a 10% discount code towards your first purchase.<\/p>",
         "image_position": "left",
-        "color_scheme": "none",
+        "color_scheme": "3",
         "show_social_icons": false,
         "enable_newsletter": true,
-        "button_label": "",
         "button_link": ""
       }
     },
     "age-verification-popup": {
       "type": "age-verification-popup",
-      "disabled": true,
-      "settings": {
-        "enable_test_mode": false,
-        "color_scheme": "none",
-        "blur_image": false,
-        "heading": "Confirm your age",
-        "text": "<p>Are you 18 years old or older?</p>",
-        "decline_button_label": "No I'm not",
-        "approve_button_label": "Yes I am",
-        "decline_heading": "Come back when you're older",
-        "decline_text": "<p>Sorry, the content of this store can't be seen by a younger audience. Come back when you're older.</p>",
-        "return_button_label": "Oops, I entered incorrectly"
-      }
+      "settings": {},
+      "disabled": true
     }
   },
   "order": [

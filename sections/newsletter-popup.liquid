@@ -1,329 +1,164 @@
-{%- liquid
-  assign show_popup = true
-%}
-
-{% comment %}
-  Add any logic to determine whether to show the newsletter popup
-{% endcomment %}
-
-{% if show_popup %}
-
-{% for block in section.blocks %}
-  {% if block.type == 'header' %}
-    {% assign has_reminder = true %}
-  {% endif %}
-{% endfor %}
-
-<div
-  id="NewsletterPopup-{{ section.id }}"
-  class="modal modal--square modal--mobile-friendly"
-  data-section-id="{{ section.id }}"
-  data-section-type="newsletter-popup"
-  data-has-reminder="{{ has_reminder }}"
-  data-delay-days="{{ section.settings.popup_days }}"
-  data-test-mode="{{ request.design_mode }}"
-  data-delay-seconds="{{ section.settings.popup_seconds }}"
-  role="dialog"
-  aria-modal="true"
-  aria-live="assertive"
-  tabindex="-1"
-  aria-label="{{ section.settings.popup_title }} {{ section.settings.popup_text }}"
->
-  <div class="modal__inner{% if section.settings.popup_image %} modal__inner--bg-image{% endif %}">
-    <div class="modal__centered">
-      <div
-        class="modal__centered-content modal__centered-content--padded color-scheme-{{ section.settings.color_scheme }} {% if section.settings.popup_image != blank %}newsletter--has-image{% endif %}"
-      >
-        {%- if section.settings.color_scheme != 'none' -%}
-          {%- render 'color-scheme-texture', color_scheme: section.settings.color_scheme -%}
-        {%- endif -%}
-
-        <div
-          role="document"
-          class="newsletter-popup {% if section.settings.image_position == 'right' %}newsletter-popup--image-reversed{% endif %}"
-        >
-
-          {% if section.settings.popup_image != blank %}
-            <div class="newsletter-popup__image-wrapper">
-              {%- render 'image-element',
-                img: section.settings.popup_image,
-                img_width: 1000,
-                sizeVariable: '400px',
-                classes: 'newsletter-popup__image',
-              -%}
-            </div>
-          {% endif %}
-
-          <div class="newsletter-popup__content">
-            {% if section.settings.show_custom_cta %}
-              <h2 class="h2" id="modal-title">{{ section.settings.custom_title }}</h2>
-              <div class="rte" id="modal-description" tabindex="-1">
-                {{ section.settings.custom_description }}
-              </div>
-              <div>
-                <a href="{{ section.settings.custom_button_link }}"
-                  style="width:100%"
-                  class="btn newsletter-button"
-                  name="commit"
-                  aria-label="{{ section.settings.custom_button_aria_label }}">
-                  {{ section.settings.custom_button_text }}
-                </a>
-              </div>
-            {% else %}
-              {%- if section.settings.popup_title != blank -%}
-                <h2 class="h2" id="modal-title">{{ section.settings.popup_title }}</h2>
-              {%- endif -%}
-              {%- if section.settings.popup_text != blank -%}
-                <div class="rte" id="modal-description" tabindex="-1">
-                    {{ section.settings.popup_text }}
-                </div>
-              {%- endif -%}
-
-              {%- if section.settings.enable_newsletter -%}
-                {%- render 'newsletter-form', section_id: section.id, snippet_context: 'popup' -%}
-              {%- endif -%}
-
-              {% if section.settings.button_label != blank %}
-                <a href="{{ section.settings.button_link }}" class="btn newsletter-button">
-                  <div class="button--text">
-                    {{ section.settings.button_label }}
-                  </div>
-                </a>
-              {% endif %}
-            {% endif %}
-
-            {% if section.settings.show_social_icons %}
-              {% render 'social-icons' %}
-            {% endif %}
-
-          </div>
-
-        </div>
-      </div>
-
-      <button type="button" class="btn btn--circle btn--icon modal__close js-modal-close">
-        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 64 64"><defs><style>.cls-1{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:2px}</style></defs><path class="cls-1" d="M19 17.61l27.12 27.13m0-27.13L19 44.74"/></svg>
-        <span class="icon__fallback-text">{{ 'general.accessibility.close_modal' | t | json }}</span>
-      </button>
-    </div>
-  </div>
-</div>
-
-{% for block in section.blocks %}
-  {% if block.type == 'header' %}
-    {% render 'newsletter-reminder',
-      section: section,
-      block: block
-    %}
-  {% endif %}
-{% endfor %}
-
-{% endif %}
+{%- render 'section.newsletter-popup' -%}
 
 {% schema %}
-  {
-    "name": "t:sections.newsletter-popup.name",
-    "max_blocks": 1,
-    "class": "index-section--hidden",
-    "settings": [
-      {
-        "type": "checkbox",
-        "id": "show_custom_cta",
-        "label": "Show custom CTA instead of newsletter",
-        "default": false
-      },
-      {
-        "type": "header",
-        "content": "Custom CTA Settings"
-      },
-      {
-        "type": "text",
-        "id": "custom_title",
-        "label": "Custom Title",
-        "default": "Help shape the future of Gaia"
-      },
-      {
-        "type": "text",
-        "id": "custom_description",
-        "label": "Custom Description",
-        "default": "Share your thoughts and you could win 2 tickets to any Gaiasphere event of your choice!"
-      },
-      {
-        "type": "text",
-        "id": "custom_button_link",
-        "label": "Custom Button Link",
-        "default": "https://docs.google.com/forms/d/e/1FAIpQLSev5NToqBITJ0-Xxj4eNCtaR1S6WkbQvv1Zcl-EF0de0QR07A/viewform?usp=header"
-      },
-      {
-        "type": "text",
-        "id": "custom_button_text",
-        "label": "Custom Button Text",
-        "default": "Take the Survey!"
-      },
-      {
-        "type": "text",
-        "id": "custom_button_aria_label",
-        "label": "Custom Button Aria Label",
-        "default": "Take the Survey"
-      },
-      {
-        "type": "header",
-        "content": "Newsletter Settings"
-      },
-      {
-        "type": "checkbox",
-        "id": "disable_for_account_holders",
-        "label": "t:sections.newsletter-popup.settings.disable_for_account_holders.label",
-        "default": true,
-        "info": "t:sections.newsletter-popup.settings.disable_for_account_holders.info"
-      },
-      {
-        "type": "range",
-        "id": "popup_seconds",
-        "label": "t:sections.newsletter-popup.settings.popup_seconds.label",
-        "default": 30,
-        "min": 5,
-        "max": 60,
-        "step": 1,
-        "unit": "sec",
-        "info": "t:sections.newsletter-popup.settings.popup_seconds.info"
-      },
-      {
-        "type": "range",
-        "id": "popup_days",
-        "label": "t:sections.newsletter-popup.settings.popup_days.label",
-        "default": 30,
-        "info": "t:sections.newsletter-popup.settings.popup_days.info",
-        "min": 2,
-        "max": 30,
-        "step": 1,
-        "unit": "day"
-      },
-      {
-        "type": "header",
-        "content": "t:sections.newsletter-popup.settings.header_content"
-      },
-      {
-        "type": "text",
-        "id": "popup_title",
-        "label": "t:sections.newsletter-popup.settings.popup_title.label",
-        "default": "Sign up and save"
-      },
-      {
-        "type": "text",
-        "id": "popup_text",
-        "label": "t:sections.newsletter-popup.settings.popup_text.label",
-        "default": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers. Include an image for extra impact.</p>"
-      },
-      {
-        "type": "image_picker",
-        "id": "popup_image",
-        "label": "t:sections.newsletter-popup.settings.popup_image.label",
-        "info": "t:sections.newsletter-popup.settings.popup_image.info"
-      },
-      {
-        "type": "select",
-        "id": "image_position",
-        "label": "t:sections.newsletter-popup.settings.image_position.label",
-        "default": "left",
-        "options": [
-          {
-            "value": "left",
-            "label": "t:sections.newsletter-popup.settings.image_position.options.left.label"
-          },
-          {
-            "value": "right",
-            "label": "t:sections.newsletter-popup.settings.image_position.options.right.label"
-          }
-        ]
-      },
-      {
-        "type": "select",
-        "id": "color_scheme",
-        "label": "t:sections.newsletter-popup.settings.color_scheme.label",
-        "default": "none",
-        "options": [
-          {
-            "value": "none",
-            "label": "t:sections.newsletter-popup.settings.color_scheme.options.none.label"
-          },
-          {
-            "value": "1",
-            "label": "1"
-          },
-          {
-            "value": "2",
-            "label": "2"
-          },
-          {
-            "value": "3",
-            "label": "3"
-          }
-        ]
-      },
-      {
-        "type": "checkbox",
-        "id": "show_social_icons",
-        "label": "Show social icons",
-        "default": false
-      },
-      {
-        "type": "header",
-        "content": "t:sections.newsletter-popup.settings.header_newsletter"
-      },
-      {
-        "type": "paragraph",
-        "content": "t:sections.newsletter-popup.settings.content"
-      },
-      {
-        "type": "checkbox",
-        "id": "enable_newsletter",
-        "label": "t:sections.newsletter-popup.settings.enable_newsletter.label",
-        "default": true
-      },
-      {
-        "type": "header",
-        "content": "t:sections.newsletter-popup.settings.header_button"
-      },
-      {
-        "type": "text",
-        "id": "button_label",
-        "label": "t:sections.newsletter-popup.settings.button_label.label",
-        "default": "Optional button"
-      },
-      {
-        "type": "url",
-        "id": "button_link",
-        "label": "t:sections.newsletter-popup.settings.button_link.label"
-      }
-    ],
-    "blocks": [
-      {
-        "type": "header",
-        "name": "t:sections.newsletter-popup.blocks.header.name",
-        "limit": 1,
-        "settings": [
-          {
-            "type": "text",
-            "id": "reminder_label",
-            "label": "t:sections.newsletter-popup.blocks.header.settings.text.label",
-            "default": "Get 10% off",
-            "info": "t:sections.newsletter-popup.blocks.header.settings.text.info"
-          }
-        ]
-      }
-    ],
-    "default": {
-      "settings": {},
-      "blocks": [
+{
+  "name": "t:labels.popup",
+  "max_blocks": 1,
+  "class": "index-section--hidden",
+  "settings": [
+    {
+      "type": "checkbox",
+      "id": "disable_for_account_holders",
+      "label": "t:actions.disable_for_accounts",
+      "default": true,
+      "info": "t:info.not_shown_to_customers_with_accounts"
+    },
+    {
+      "type": "range",
+      "id": "popup_seconds",
+      "label": "t:labels.delay",
+      "default": 30,
+      "min": 5,
+      "max": 60,
+      "step": 1,
+      "unit": "sec",
+      "info": "t:info.values_below_10_not_recommended"
+    },
+    {
+      "type": "range",
+      "id": "popup_days",
+      "label": "t:labels.frequency",
+      "default": 30,
+      "info": "t:info.number_of_days_popup_reappears",
+      "min": 2,
+      "max": 30,
+      "step": 1,
+      "unit": "day"
+    },
+    {
+      "type": "header",
+      "content": "t:labels.content"
+    },
+    {
+      "type": "text",
+      "id": "popup_title",
+      "label": "t:labels.heading",
+      "default": "Sign up and save"
+    },
+    {
+      "type": "richtext",
+      "id": "popup_text",
+      "label": "t:labels.text",
+      "default": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers. Include an image for extra impact.</p>"
+    },
+    {
+      "type": "image_picker",
+      "id": "popup_image",
+      "label": "t:labels.image",
+      "info": "t:info.does_not_appear_on_mobile"
+    },
+    {
+      "type": "select",
+      "id": "image_position",
+      "label": "t:labels.image_position",
+      "default": "left",
+      "options": [
         {
-          "type": "header",
-          "settings": {}
+          "value": "left",
+          "label": "t:labels.alignments.left"
+        },
+        {
+          "value": "right",
+          "label": "t:labels.alignments.right"
         }
       ]
     },
-    "disabled_on": {
-      "groups": ["footer", "header"]
+    {
+      "type": "select",
+      "id": "color_scheme",
+      "label": "t:labels.color_scheme",
+      "default": "none",
+      "options": [
+        {
+          "value": "none",
+          "label": "t:labels.none"
+        },
+        {
+          "value": "1",
+          "label": "1"
+        },
+        {
+          "value": "2",
+          "label": "2"
+        },
+        {
+          "value": "3",
+          "label": "3"
+        }
+      ]
+    },
+    {
+      "type": "checkbox",
+      "id": "show_social_icons",
+      "label": "Show social icons",
+      "default": false
+    },
+    {
+      "type": "header",
+      "content": "t:labels.newsletter"
+    },
+    {
+      "type": "paragraph",
+      "content": "t:info.sign_up_creates_customer"
+    },
+    {
+      "type": "checkbox",
+      "id": "enable_newsletter",
+      "label": "t:actions.enable_newsletter",
+      "default": true
+    },
+    {
+      "type": "header",
+      "content": "t:labels.button"
+    },
+    {
+      "type": "text",
+      "id": "button_label",
+      "label": "t:labels.button_label"
+    },
+    {
+      "type": "url",
+      "id": "button_link",
+      "label": "t:labels.button_link"
     }
+  ],
+  "blocks": [
+    {
+      "type": "header",
+      "name": "t:labels.sticky_reminder",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "text",
+          "id": "reminder_label",
+          "label": "t:labels.reminder_label",
+          "default": "Get 10% off",
+          "info": "t:info.appears_when_newsletter_popup_closed"
+        }
+      ]
+    }
+  ],
+  "default": {
+    "settings": {},
+    "blocks": [
+      {
+        "type": "header",
+        "settings": {}
+      }
+    ]
+  },
+  "disabled_on": {
+    "groups": ["footer", "header"]
   }
+}
 {% endschema %}

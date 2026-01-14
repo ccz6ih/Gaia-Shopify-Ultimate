@@ -1,239 +1,145 @@
-{%- liquid
-  assign show_section = true
-  if template == 'index' and section.settings.hide_homepage
-    assign show_section = false
-  endif -%
--%}
-
-{%- if show_section -%}
-  {%- if section.blocks.size > 0 -%}
-    {%- liquid
-      assign grid_item_width = 'medium-up--one-half'
-      if section.blocks.size == 3
-        assign grid_item_width = 'medium-up--one-third'
-      endif 
-    -%}
-
-    <div class="index-section">
-      <div class="section--divider">
-        <div class="page-width footer-promotions">
-          <div class="new-grid new-grid--center" data-view="3-1">
-            {%- for block in section.blocks -%}
-              <div class="grid-item {{ grid_item_width }}" {{ block.shopify_attributes }}>
-                <div class="footer-promotion color-scheme-{{ block.settings.color_scheme }}">
-                  {%- if block.settings.color_scheme != 'none' -%}
-                    {%- render 'color-scheme-texture', color_scheme: block.settings.color_scheme -%}
-                  {%- endif -%}
-                  {%- if block.settings.enable_image -%}
-                    <a href="{{ block.settings.button_link }}" class="footer__grid-image footer__grid-image--{{ block.settings.image_width }}" aria-label="{{ block.settings.title }}">
-                      {%- if block.settings.image != blank -%}
-                        <div class="image-wrap {% if block.settings.image_mask != 'none' %}svg-mask svg-mask--{{ block.settings.image_mask }}{% endif %}">
-                          {%- liquid
-                            case block.settings.image_width
-                              when '33'
-                                assign sizeVariable = 'calc(0.33 * 33vw)'
-                              when '50'
-                                assign sizeVariable = 'calc(0.50 * 33vw)'
-                              else
-                              assign sizeVariable = '33vw'
-                            endcase
-                            assign fallback = sizeVariable
-                          -%}
-                          {%- render 'image-element',
-                            img: block.settings.image,
-                            sizeVariable: sizeVariable,
-                            fallback: fallback,
-                            widths: '180, 360, 540, 720, 900, 1080',
-                          -%}
-                        </div>
-                      {%- else -%}
-                        <div class="image-wrap {% if block.settings.image_mask != 'none' %}svg-mask svg-mask--{{ block.settings.image_mask }}{% endif %}">
-                          {{ 'lifestyle-1' | placeholder_svg_tag: 'placeholder-svg placeholder-svg--no-padding' }}
-                        </div>
-                      {%- endif -%}
-                    </a>
-                  {%- endif -%}
-                  {%- if block.settings.title != blank -%}
-                    <h2 class="{{ block.settings.heading_size }} rte--block">{{ block.settings.title }}</h2>
-                  {%- endif -%}
-                  {%- if block.settings.text != blank -%}
-                    <div class="rte-setting rte--block text-spacing">{{ block.settings.text }}</div>
-                  {%- endif -%}
-                  {%- if block.settings.button_label != blank and block.settings.button_link != blank -%}
-                    <a href="{{ block.settings.button_link }}" class="btn btn--secondary btn--small">
-                      {{ block.settings.button_label }}
-                    </a>
-                  {%- endif -%}
-                </div>
-              </div>
-            {%- endfor -%}
-          </div>
-        </div>
-      </div>
-    </div>
-  {%- endif -%}
-{%- endif -%}
+{%- render 'section.footer-promotions' -%}
 
 {% schema %}
 {
-  "name": "t:sections.footer-promotions.name",
+  "name": "t:labels.footer_promotions",
   "max_blocks": 3,
   "class": "index-section--footer",
   "settings": [
     {
       "type": "checkbox",
       "id": "hide_homepage",
-      "label": "t:sections.footer-promotions.settings.hide_homepage.label"
+      "label": "t:actions.do_not_show_on_home"
     }
   ],
   "blocks": [
     {
       "type": "promotion",
-      "name": "t:sections.footer-promotions.blocks.column.name",
+      "name": "t:labels.column",
       "settings": [
         {
           "type": "checkbox",
           "id": "enable_image",
-          "label": "t:sections.footer-promotions.blocks.column.settings.enable_image.label",
+          "label": "t:actions.show_image",
           "default": true
         },
         {
           "type": "image_picker",
           "id": "image",
-          "label": "t:sections.footer-promotions.blocks.column.settings.image.label"
+          "label": "t:labels.image"
         },
         {
           "type": "select",
           "id": "image_mask",
-          "label": "t:common.image_mask.label",
+          "label": "t:labels.image_shape",
           "default": "none",
           "options": [
             {
               "value": "none",
-              "label": "t:common.image_mask.options.none.label"
+              "label": "t:labels.none"
             },
             {
               "value": "portrait",
-              "label": "t:common.image_mask.options.portrait.label"
+              "label": "t:labels.portrait"
             },
             {
               "value": "landscape",
-              "label": "t:common.image_mask.options.landscape.label"
+              "label": "t:labels.landscape"
             },
             {
               "value": "square",
-              "label": "t:common.image_mask.options.square.label"
+              "label": "t:labels.square"
             },
             {
               "value": "rounded",
-              "label": "t:common.image_mask.options.rounded.label"
+              "label": "t:labels.rounded"
             },
             {
               "value": "rounded-wave",
-              "label": "t:common.image_mask.options.rounded-wave.label"
+              "label": "t:labels.rounded_wave"
             },
             {
               "value": "rounded-top",
-              "label": "t:common.image_mask.options.rounded-top.label"
+              "label": "t:labels.arch"
             },
             {
               "value": "star",
-              "label": "t:common.image_mask.options.star.label"
+              "label": "t:labels.star"
             },
             {
               "value": "splat-1",
-              "label": "t:common.image_mask.options.splat-1.label"
+              "label": "t:labels.splat_1"
             },
             {
               "value": "splat-2",
-              "label": "t:common.image_mask.options.splat-2.label"
+              "label": "t:labels.splat_2"
             },
             {
               "value": "splat-3",
-              "label": "t:common.image_mask.options.splat-3.label"
+              "label": "t:labels.splat_3"
             },
             {
               "value": "splat-4",
-              "label": "t:common.image_mask.options.splat-4.label"
-            }
-          ]
-        },
-        {
-          "type": "select",
-          "id": "image_width",
-          "label": "t:sections.footer-promotions.blocks.column.settings.image_width.label",
-          "default": "100",
-          "options": [
-            {
-              "value": "33",
-              "label": "t:sections.footer-promotions.blocks.column.settings.image_width.options.small.label"
-            },
-            {
-              "value": "50",
-              "label": "t:sections.footer-promotions.blocks.column.settings.image_width.options.medium.label"
-            },
-            {
-              "value": "100",
-              "label": "t:sections.footer-promotions.blocks.column.settings.image_width.options.large.label"
+              "label": "t:labels.splat_4"
             }
           ]
         },
         {
           "type": "text",
           "id": "title",
-          "label": "t:sections.footer-promotions.blocks.column.settings.title.label",
+          "label": "t:labels.heading",
           "default": "Site-wide promotion"
         },
         {
           "type": "select",
           "id": "heading_size",
-          "label": "t:sections.footer-promotions.blocks.column.settings.heading_size.label",
+          "label": "t:labels.heading_size",
           "default": "h3",
           "options": [
             {
               "value": "h3",
-              "label": "t:sections.footer-promotions.blocks.column.settings.heading_size.options.small.label"
+              "label": "t:labels.sizes.small"
             },
             {
               "value": "h2",
-              "label": "t:sections.footer-promotions.blocks.column.settings.heading_size.options.medium.label"
+              "label": "t:labels.sizes.medium"
             },
             {
               "value": "h1",
-              "label": "t:sections.footer-promotions.blocks.column.settings.heading_size.options.large.label"
+              "label": "t:labels.sizes.large"
             },
             {
               "value": "h0",
-              "label": "t:sections.footer-promotions.blocks.column.settings.heading_size.options.extra_large.label"
+              "label": "t:labels.sizes.extra_large"
             }
           ]
         },
         {
           "type": "richtext",
           "id": "text",
-          "label": "t:sections.footer-promotions.blocks.column.settings.text.label",
+          "label": "t:labels.text",
           "default": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>"
         },
         {
           "type": "text",
           "id": "button_label",
-          "label": "t:sections.footer-promotions.blocks.column.settings.button_label.label",
+          "label": "t:labels.button_label",
           "default": "Optional button"
         },
         {
           "type": "url",
           "id": "button_link",
-          "label": "t:sections.footer-promotions.blocks.column.settings.button_link.label"
+          "label": "t:labels.link"
         },
         {
           "type": "select",
           "id": "color_scheme",
-          "label": "t:sections.footer-promotions.blocks.column.settings.color_scheme.label",
+          "label": "t:labels.color_scheme",
           "default": "none",
           "options": [
             {
               "value": "none",
-              "label": "t:sections.footer-promotions.blocks.column.settings.color_scheme.options.none.label"
+              "label": "t:labels.none"
             },
             {
               "value": "1",
